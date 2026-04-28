@@ -27,39 +27,36 @@
 \contentsline {subsubsection}{Flight Modes and Orientation Logic}{18}{section*.33}%
 \contentsline {subsection}{Design of the CO-Trainer}{19}{section*.34}%
 \contentsline {subsubsection}{Design of a PD based CO-Trainer}{19}{section*.35}%
-\contentsline {subsubsection}{Design of a RL based CO-Trainer}{20}{section*.36}%
-\contentsline {subsection}{The Hovering Task}{21}{section*.38}%
-\contentsline {subsection}{Proximal Policy Optimization (PPO)}{22}{section*.39}%
-\contentsline {subsubsection}{Tutoring UI}{24}{section*.42}%
-\contentsline {subsection}{System Design Overview}{25}{section*.44}%
-\contentsline {subsubsection}{Archetecture}{25}{section*.45}%
-\contentsline {subsubsection}{Models}{25}{section*.46}%
-\contentsline {subsection}{Environment Construction}{25}{section*.47}%
-\contentsline {subsection}{Interaction and Control Design}{25}{section*.48}%
-\contentsline {section}{Comparison of Current XR Development Platforms}{25}{section*.49}%
-\contentsline {subsubsection}{Hardware Architectures: PC VR vs. Standalone}{25}{section*.50}%
-\contentsline {subsubsection}{Passthrough (video see-through)}{26}{section*.51}%
-\contentsline {subsubsection}{Software Standards}{26}{section*.52}%
-\contentsline {subsubsection}{OpenXR}{27}{section*.53}%
-\contentsline {subsubsection}{WebXR}{27}{section*.54}%
-\contentsline {subsubsection}{Software Engine Comparison}{28}{section*.55}%
-\contentsline {subsection}{Learning System Design}{29}{section*.57}%
-\contentsline {subsection}{Data Collection Methods}{29}{section*.58}%
-\contentsline {section}{Results}{30}{section*.59}%
-\contentsline {subsection}{Prototype Development Process}{30}{section*.60}%
-\contentsline {subsection}{Drone Control Implementation}{30}{section*.61}%
-\contentsline {subsection}{Physics and Simulation System}{30}{section*.62}%
-\contentsline {subsection}{XR Interaction and UI Results}{30}{section*.63}%
-\contentsline {section}{Discussion}{31}{section*.64}%
-\contentsline {subsection}{Research Questions Revisited}{31}{section*.65}%
-\contentsline {subsection}{Interpretation}{31}{section*.66}%
-\contentsline {subsection}{Connection to Theory}{31}{section*.67}%
-\contentsline {subsection}{Contribution}{31}{section*.68}%
-\contentsline {subsection}{Limitations}{31}{section*.69}%
-\contentsline {subsection}{Future Work}{31}{section*.70}%
-\contentsline {section}{Summary}{32}{section*.71}%
-\contentsline {subsection}{Goals}{32}{section*.72}%
-\contentsline {subsection}{Results}{32}{section*.73}%
-\contentsline {subsection}{Generalization}{32}{section*.74}%
-\contentsline {subsection}{Practical Use}{32}{section*.75}%
-\contentsline {subsection}{Future Study}{32}{section*.76}%
+\contentsline {subsubsection}{Design of a RL based CO-Trainer}{21}{section*.37}%
+\contentsline {subsection}{System Design Overview}{23}{section*.39}%
+\contentsline {subsubsection}{Archetecture}{23}{section*.40}%
+\contentsline {subsubsection}{Models}{23}{section*.41}%
+\contentsline {subsection}{Environment Construction}{23}{section*.42}%
+\contentsline {subsection}{Interaction and Control Design}{23}{section*.43}%
+\contentsline {section}{Comparison of Current XR Development Platforms}{23}{section*.44}%
+\contentsline {subsubsection}{Hardware Architectures: PC VR vs. Standalone}{23}{section*.45}%
+\contentsline {subsubsection}{Passthrough (video see-through)}{24}{section*.46}%
+\contentsline {subsubsection}{Software Standards}{24}{section*.47}%
+\contentsline {subsubsection}{OpenXR}{25}{section*.48}%
+\contentsline {subsubsection}{WebXR}{25}{section*.49}%
+\contentsline {subsubsection}{Software Engine Comparison}{26}{section*.50}%
+\contentsline {subsection}{Learning System Design}{27}{section*.52}%
+\contentsline {subsection}{Data Collection Methods}{27}{section*.53}%
+\contentsline {section}{Results}{28}{section*.54}%
+\contentsline {subsection}{Prototype Development Process}{28}{section*.55}%
+\contentsline {subsection}{Drone Control Implementation}{28}{section*.56}%
+\contentsline {subsection}{Physics and Simulation System}{28}{section*.57}%
+\contentsline {subsection}{XR Interaction and UI Results}{28}{section*.58}%
+\contentsline {section}{Discussion}{29}{section*.59}%
+\contentsline {subsection}{Research Questions Revisited}{29}{section*.60}%
+\contentsline {subsection}{Interpretation}{29}{section*.61}%
+\contentsline {subsection}{Connection to Theory}{29}{section*.62}%
+\contentsline {subsection}{Contribution}{29}{section*.63}%
+\contentsline {subsection}{Limitations}{29}{section*.64}%
+\contentsline {subsection}{Future Work}{29}{section*.65}%
+\contentsline {section}{Summary}{30}{section*.66}%
+\contentsline {subsection}{Goals}{30}{section*.67}%
+\contentsline {subsection}{Results}{30}{section*.68}%
+\contentsline {subsection}{Generalization}{30}{section*.69}%
+\contentsline {subsection}{Practical Use}{30}{section*.70}%
+\contentsline {subsection}{Future Study}{30}{section*.71}%

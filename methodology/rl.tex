@@ -5,49 +5,20 @@ Unity's ML-Agents \cref{fig:agent} enable games and simulations to serve as envi
 Every Learning Environment will always have one Agent for every character in the scene. While each Agent must be linked to a Behavior, it is possible for Agents that have similar observations and actions to have the same Behavior.
 
 \begin{figure}
-    \caption{Simplified ML-Agents Scene Block Diagram}
-    \label{fig:agent}
+    \caption{Simplified ML-Agents Scene Block Diagram}\label{fig:agent}
     \centering
     \includegraphics[width=0.8\linewidth]{img/agent.png}
 \end{figure}
 
-For this research, each Drone Agent includes:
+For this research, each Drone Agent includes, (1) Agent Script, Handles OnActionReceived (processing joystick inputs), CollectObservations (monitoring states), and Heuristic (manual control for debugging); (2) Behavior Parameters: Defines the vector space for actions and observations. (3) Decision Requester: Controls the frequency of actions. By limiting the request rate, we can simulate more human-like reaction times, making the agent a better tutor for human pilots.
 
-\begin{itemize}
-    \item Agent Script: Handles `OnActionReceived` (processing "joystick" inputs), `CollectObservations` (monitoring states), and `Heuristic` (manual control for debugging).
-    \item Behavior Parameters: Defines the vector space for actions and observations.
-    \item Decision Requester: Controls the frequency of actions. By limiting the request rate, we can simulate more "human-like" reaction times, making the agent a better tutor for human pilots.
-\end{itemize}
+Proximal Policy Optimization (PPO) is an on-policy actor-critic algorithm that updates policies in small, clipped steps to ensure stability \parencite{openai2017ppo}. PPO is particularly effective for drones learning to navigate complex environments \parencite{yu2025depth}.
 
-\subsection{The Hovering Task}
+The optimization objective is defined as \cref{eq:ppo} shows.
 
-We implemented a 1D control mission: regulating the drone's vertical position ($y$) within a target band $[H - R, H + R]$, where $H$ is the `targetHeight` and $R$ is the `acceptableRadius`.
-
-The following two values are being observed.
-
-\begin{itemize}
-    \item Normalized Height Error: $\text{clip}(\frac{y - H}{R}, -k, k) / k$ (where $k$ is `errorClampK`). This maps the error to a $[-1, 1]$ range, preventing extreme spikes from destabilizing the gradient.
-    \item Vertical Velocity: $v_y / v_{\text{ref}}$, clipped to $[-1, 1]$.
-\end{itemize}
-
-The agent uses one continuous action in the range $[0, 1]$, representing the throttle input.
-
-Rewards are calculated at each decision step ($\Delta t$):
-
-\begin{itemize}
-    \item Event-based: A `firstArrivalReward` is granted upon entering the target band for the first time per episode.
-    \item Dense/Steady-state: A `livingRewardPerSecond` is granted while maintaining position within the band.
-    \item Shaping: A penalty proportional to the normalized excess $(|e|-R)/R$ is applied when outside the band to discourage drifting.
-\end{itemize}
-
-\subsection{Proximal Policy Optimization (PPO)}
-
-
-We utilized Proximal Policy Optimization (PPO), an on-policy actor-critic algorithm that updates policies in small, clipped steps to ensure stability (OpenAI, 2017). PPO is particularly effective for drones learning to navigate complex environments (Yu et al., 2025).
-
-The optimization objective is defined as:
-$$L^{CLIP}(\theta) = \hat{\mathbb{E}}_t [ \min(r_t(\theta)\hat{A}_t, \text{text{clip}}(r_t(\theta), 1-\epsilon, 1+\epsilon)\hat{A}_t) ]$$
-
+\begin{equation}\label{eq:ppo}
+    L^{CLIP}(\theta) = \hat{\mathbb{E}}_t [ \min(r_t(\theta)\hat{A}_t, \text{text{clip}}(r_t(\theta), 1-\epsilon, 1+\epsilon)\hat{A}_t) ]
+\end{equation}
 
 \begin{itemize}
     \item $\theta$ is the policy parameter
@@ -57,50 +28,4 @@ $$L^{CLIP}(\theta) = \hat{\mathbb{E}}_t [ \min(r_t(\theta)\hat{A}_t, \text{text{
     \item $\epsilon$ is a hyperparameter, usually $0.1$ or $0.2$
 \end{itemize}
 
-The agent was trained for $5 \times 10^5$ steps using the following hyperparameters:
-
-\begin{itemize}
-    \item Clipping parameter $\epsilon = 0.2$
-    \item GAE parameters $(\lambda, \gamma) = 0.99$
-    \item Neural network: a 2-layer MLP with $128$ hidden units
-    \item Learning rate: $3 \times 10^{-4}$ with linear decay
-\end{itemize}
-
-To monitor progress, we implemented a color-coded feedback system, \cref{fig:train}:
-
-\begin{itemize}
-    \item Yellow: Below target.
-    \item Orange: Above target.
-    \item Blue: Stable hovering.
-\end{itemize}
-
-\begin{figure}
-    \caption{trainig process}
-    \label{fig:train}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/train.png}
-\end{figure}
-
-Cumulative Reward: Showed steady growth after 100k steps, plateauing at 400k, \cref{fig:result}.
-
-Episode Length: Positively correlated with rewards; as the agent improved, it survived longer without crashing (falling too low).
-
-Environment/Cumulative Reward Histograms: also shows when training time raises, reward start to raise.
-
-\begin{figure}
-    \caption{Result}
-    \label{fig:result}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/result.png}
-\end{figure}
-
-\subsubsection{Tutoring UI}
-
-The RL agent successfully learned to hover with high precision. By adjusting the `DecisionRequester`, we created a smoother control hint for the UI, matching the pace of human perception \cref{fig:hover}.
-
-\begin{figure}
-    \caption{Result}
-    \label{fig:hover}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/hover.png}
-\end{figure}
+Compared with a PD AI agent, a reinforcement learning-based AI agent does not require repeated testing to fine-tune parameters. Decisions are executed through a Decision Requester, which makes it easier to adjust the request frequency and pacing. However, as a black-box approach, it can be more difficult to achieve optimal performance or interpret and refine its behavior.

@@ -1,6 +1,12 @@
 \subsubsection{Design of a PD based CO-Trainer}
 
-Proportional integral derivative (PID) shown in \cref{eq:pid} can be applied for making a simple aviation helper in piloting the quadcopter. For basic flight stabilization, a simple PD action can provide satisfactory performance
+Proportional integral derivative (PID) shown in \cref{eq:pid} can be applied for making a simple aviation helper in piloting the quadcopter. For basic flight stabilization, a simple PD action can provide satisfactory performance shown in \cref{fig:pd}.
+
+\begin{figure}
+    \caption{Comparison of PID and PD}\label{fig:pd}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/pid.png}
+\end{figure}
 
 For attitude control, The error between the target orientation $q_{\text{target}}$ and the current body orientation $q_{\text{body}}$ is defined as \cref{eq:attitude}.
 
