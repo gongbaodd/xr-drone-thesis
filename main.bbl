@@ -1,0 +1,1451 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{barnett_when_2002}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=928d1c6bc184df10215e4edb274187bf}{%
+           family={Barnett},
+           familyi={B\bibinitperiod},
+           given={Susan\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=503711a54766e6fb1f875cb8752e6504}{%
+           family={Ceci},
+           familyi={C\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{fullhash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{fullhashraw}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{bibnamehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authorbibnamehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authornamehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authorfullhash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authorfullhashraw}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-1455, 0033-2909}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{shortjournal}{Psychological Bulletin}
+      \field{shorttitle}{When and where do we apply what we learn?}
+      \field{title}{When and where do we apply what we learn?: A taxonomy for far transfer.}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{128}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{612\bibrangedash 637}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1037/0033-2909.128.4.612
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/FKBTSZCE/Barnett and Ceci - 2002 - When and where do we apply what we learn A taxonomy for far transfer..pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/0033-2909.128.4.612
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/0033-2909.128.4.612
+      \endverb
+    \endentry
+    \entry{dutescu_virtual_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
+           family={Dutescu},
+           familyi={D\bibinitperiod},
+           given={Razvan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8daee2d0754fb71836f063a87cddec49}{%
+           family={Apostol},
+           familyi={A\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=396bf5615593ef752e0a4a4748e09321}{%
+           family={Mocanu},
+           familyi={M\bibinitperiod},
+           given={Ionut},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc691611320efdb82aedb89555f54f67}{%
+           family={Barbu},
+           familyi={B\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The National Institute for Research \& Development in Informatics - {ICI} Bucharest ({ICI} Publishing House)}%
+      }
+      \strng{namehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{fullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{fullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{bibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorbibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authornamehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{authorfullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorfullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper explores the adoption of Virtual Reality ({VR}) and Extended Reality ({XR}) in professional training, demonstrating their potential to revolutionize learning by providing immersive, interactive environments that mimic real-world scenarios. Our review spans several sectors, including healthcare, engineering, and defense, and assesses how {VR} and {XR} enhance engagement, knowledge retention, and training efficiency. Results indicate that these technologies not only personalize learning experiences but also reduce costs and increase training accessibility. Finally, we present a framework for a multipurpose {VR} training application. The conclusion highlights the need for continued research to fully harness the capabilities of {VR} and {XR} in training programs.}
+      \field{day}{7}
+      \field{eventtitle}{International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{journaltitle}{Proceedings of the International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Virtual Reality in training}
+      \field{title}{Virtual Reality in training: A multidimensional analysis of technologies, challenges and paradigms}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 142}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.58503/icvl-v20y202511
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/3UGU8N28/Dutescu et al. - 2025 - Virtual Reality in training A multidimensional analysis of technologies, challenges and paradigms.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+      \verb{url}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+    \endentry
+    \entry{ebeid_survey_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6f1b836c679348cad750e04c7d77acfd}{%
+           family={Ebeid},
+           familyi={E\bibinitperiod},
+           given={Emad},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3a1fb702654fe014b295a15b351f88e}{%
+           family={Skriver},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ab9c9cd62b7778018b27a3295a54e58}{%
+           family={Terkildsen},
+           familyi={T\bibinitperiod},
+           given={Kristian\bibnamedelima Husum},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f445c456a6d72da33240d56aa9f06c3}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Kjeld},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d77bfd182d74efd4744ae4139f2beaba}{%
+           family={Schultz},
+           familyi={S\bibinitperiod},
+           given={Ulrik\bibnamedelima Pagh},
+           giveni={U\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{66c617a130e7202a8d080c849a0a0f78}
+      \strng{fullhash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{fullhashraw}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{bibnamehash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{authorbibnamehash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{authornamehash}{66c617a130e7202a8d080c849a0a0f78}
+      \strng{authorfullhash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{authorfullhashraw}{8b52c51c2d206ce4373a98d261d87e65}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01419331}
+      \field{journaltitle}{Microprocessors and Microsystems}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shortjournal}{Microprocessors and Microsystems}
+      \field{title}{A survey of Open-Source {UAV} flight controllers and flight simulators}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11\bibrangedash 20}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.micpro.2018.05.002
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/gongbaodd/Zotero/storage/FWTE5WZJ/Ebeid et al. - 2018 - A survey of Open-Source UAV flight controllers and flight simulators.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
+      \endverb
+    \endentry
+    \entry{ghazbi_quadrotors_2016}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5951f100eaf232b6c8f3550d0980ca0c}{%
+           family={Ghazbi},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi Norouzi},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f11b97e0aa2849723d877d000dae7ec8}{%
+           family={Aghli},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=791cc24b60728747ac6142aecc9bece5}{%
+           family={Alimohammadi},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=455b14a251bfce0a6db535d49a429c7e}{%
+           family={Akbari},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f1c0dd8b24ecd12abb2cb33f01c2224}
+      \strng{fullhash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{fullhashraw}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{bibnamehash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{authorbibnamehash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{authornamehash}{0f1c0dd8b24ecd12abb2cb33f01c2224}
+      \strng{authorfullhash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{authorfullhashraw}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Quadrotors are Vertical Take-Off and Landing aerial vehicles with many potential applications ranging from mapping to supporting rescue operations. This paper aims to provide an overview on various works carried out on the quadrotor, from the perspective of control and dynamic modelling. Also in this paper, based on the information summarized from 160 researches available, different control targets and flight missions are analysed and classified, and according to it, a general flight mission map is introduced. In addition, history of advances in development of quadrotors and set-ups proposed when performing experimental researches on quadrotors is presented.}
+      \field{day}{1}
+      \field{issn}{1178-5608}
+      \field{journaltitle}{International Journal on Smart Sensing and Intelligent Systems}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Quadrotors Unmanned Aerial Vehicles}
+      \field{title}{Quadrotors Unmanned Aerial Vehicles: A Review}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{309\bibrangedash 333}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.21307/ijssis-2017-872
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/QZ5ZKLMQ/Ghazbi et al. - 2016 - Quadrotors Unmanned Aerial Vehicles A Review.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciendo.com/article/10.21307/ijssis-2017-872
+      \endverb
+      \verb{url}
+      \verb https://www.sciendo.com/article/10.21307/ijssis-2017-872
+      \endverb
+    \endentry
+    \entry{idrissi_review_2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=66bd8554378db599a80665dbcb40d599}{%
+           family={Idrissi},
+           familyi={I\bibinitperiod},
+           given={Moad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfcb427dbaf5d3dec69ade0273dbb5c7}{%
+           family={Salami},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f74ea9773e4b119761121c25856d318}{%
+           family={Annaz},
+           familyi={A\bibinitperiod},
+           given={Fawaz},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ee38ace0250a88644592baae930be49}
+      \strng{fullhash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{fullhashraw}{4541d776e6789480b19be23e6a7f729f}
+      \strng{bibnamehash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{authorbibnamehash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{authornamehash}{6ee38ace0250a88644592baae930be49}
+      \strng{authorfullhash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{authorfullhashraw}{4541d776e6789480b19be23e6a7f729f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Over the past decade, unmanned aerial vehicles ({UAVs}) have received a significant attention due to their diverse capabilities for non-combatant and military applications. The primary aim of this study is to unveil a clear categorization overview for more than a decade worth of substantial progress in {UAVs}. The paper will begin with a general overview of the advancements, followed by an up-to-date explanation of the different mechanical structures and technical elements that have been included. The paper will then explore and examine various vertical take-off and landing ({VTOL}) configurations, followed by expressing the dynamics, applicable simulation tools and control strategies for a Quadrotor. In conclusion to this review, the dynamic system presented will always face limitations such as internal and/or external disturbances. Hence, this can be minimised by the choice of introducing appropriate control techniques or mechanical enhancements.}
+      \field{issn}{0921-0296, 1573-0409}
+      \field{journaltitle}{Journal of Intelligent \& Robotic Systems}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{J Intell Robot Syst}
+      \field{shorttitle}{A Review of Quadrotor Unmanned Aerial Vehicles}
+      \field{title}{A Review of Quadrotor Unmanned Aerial Vehicles: Applications, Architectural Design and Control Algorithms}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{104}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{22}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10846-021-01527-7
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/JXJCC5VY/Idrissi et al. - 2022 - A Review of Quadrotor Unmanned Aerial Vehicles Applications, Architectural Design and Control Algor.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s10846-021-01527-7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s10846-021-01527-7
+      \endverb
+    \endentry
+    \entry{karahan2025development}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb17d5ed5ee59ea2098aaa3b85b572ea}{%
+           family={Karahan},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{fullhash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{fullhashraw}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{bibnamehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authorbibnamehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authornamehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authorfullhash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authorfullhashraw}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Drones}
+      \field{title}{Development Stages of Quadrotors from Past to Present: A Review}
+      \field{volume}{9}
+      \field{year}{2025}
+      \field{pages}{840}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/drones9120840
+      \endverb
+    \endentry
+    \entry{luukkonen_modelling_2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=810a8c9303e23de496764e359030e52e}{%
+           family={Luukkonen},
+           familyi={L\bibinitperiod},
+           given={Teppo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{810a8c9303e23de496764e359030e52e}
+      \strng{fullhash}{810a8c9303e23de496764e359030e52e}
+      \strng{fullhashraw}{810a8c9303e23de496764e359030e52e}
+      \strng{bibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorbibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authornamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorfullhash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorfullhashraw}{810a8c9303e23de496764e359030e52e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Modelling and control of quadcopter}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/34P8B97S/Luukkonen - Modelling and control of quadcopter.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{machado_autonomous_2021}{article}{}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=a5738340cca9c27dcac280f9238341a6}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Tyrone},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23bae25e337cfa45563dc4e7c8838910}{%
+           family={Fassbender},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0720e2aad6cf93ba896eb2f270b06293}{%
+           family={Taheri},
+           familyi={T\bibinitperiod},
+           given={Abdolreza},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4e76e5904cce8762dab63c90d73356d}{%
+           family={Eriksson},
+           familyi={E\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e33f6bd9b6246a0889cfa91b72bcfbb8}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Himanshu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e102bbb369e2fe38ca9cf0aba262d9c}{%
+           family={Molaei},
+           familyi={M\bibinitperiod},
+           given={Amirmasoud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df56205ec00ac00fd4150bbe87cafe74}{%
+           family={Forte},
+           familyi={F\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47ea313b8cdc633fbfe2d74b16577cc6}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={Prashant\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=490143609bdf9d2699bdc967cefe4bfa}{%
+           family={Ghabcheloo},
+           familyi={G\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=092166a7cc7691bea6249c1ac3c07d2b}{%
+           family={Makinen},
+           familyi={M\bibinitperiod},
+           given={Saku},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07fbf6d793583366549426f06a764544}{%
+           family={Lilienthal},
+           familyi={L\bibinitperiod},
+           given={Achim\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c6277a1ef5d5497d692eff5d1efeeda}{%
+           family={Andreasson},
+           familyi={A\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc4b74dedf3646fb70d0930d391c45cb}{%
+           family={Geimer},
+           familyi={G\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kaunas, Lithuania}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9d2f606013b2340a7657f33f297b790a}
+      \strng{fullhash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{fullhashraw}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{bibnamehash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{authorbibnamehash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{authornamehash}{9d2f606013b2340a7657f33f297b790a}
+      \strng{authorfullhash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{authorfullhashraw}{7463499bf57a0a70f1252d1695ae908c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{24}
+      \field{eventtitle}{2021 {IEEE} International Conference on Technology and Entrepreneurship ({ICTE})}
+      \field{isbn}{978-1-6654-3895-7}
+      \field{journaltitle}{2021 {IEEE} International Conference on Technology and Entrepreneurship ({ICTE})}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{shorttitle}{Autonomous Heavy-Duty Mobile Machinery}
+      \field{title}{Autonomous Heavy-Duty Mobile Machinery: A Multidisciplinary Collaborative Challenge}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ICTE51655.2021.9584498
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/KDHBVX84/Machado et al. - 2021 - Autonomous Heavy-Duty Mobile Machinery A Multidisciplinary Collaborative Challenge.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9584498/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9584498/
+      \endverb
+    \endentry
+    \entry{otto_optimization_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6190a1c24a0e65d82cdba35028cccecc}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Alena},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9496570845455e860b129b87bfd0c4ad}{%
+           family={Agatz},
+           familyi={A\bibinitperiod},
+           given={Niels},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba76c1d885433b291165ab7155880518}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57fd186cef49a011ac5af72e3361a15c}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d75b4a3e9e56a5351c677d297112340}{%
+           family={Pesch},
+           familyi={P\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1598f51c7fc1b1e7587f53c002a2e2fd}
+      \strng{fullhash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{fullhashraw}{d42433df0502138a8081c7a16212b1ce}
+      \strng{bibnamehash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{authorbibnamehash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{authornamehash}{1598f51c7fc1b1e7587f53c002a2e2fd}
+      \strng{authorfullhash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{authorfullhashraw}{d42433df0502138a8081c7a16212b1ce}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Unmanned aerial vehicles ({UAVs}), or aerial drones, are an emerging technology with significant market potential. {UAVs} may lead to substantial cost savings in, for instance, monitoring of difficult‐to‐access infrastructure, spraying fields and performing surveillance in precision agriculture, as well as in deliveries of packages. In some applications, like disaster management, transport of medical supplies, or environmental monitoring, aerial drones may even help save lives. In this article, we provide a literature survey on optimization approaches to civil applications of {UAVs}. Our goal is to provide a fast point of entry into the topic for interested researchers and operations planning specialists. We describe the most promising aerial drone applications and outline characteristics of aerial drones relevant to operations planning. In this review of more than 200 articles, we provide insights into widespread and emerging modeling approaches. We conclude by suggesting promising directions for future research.}
+      \field{issn}{0028-3045, 1097-0037}
+      \field{journaltitle}{Networks}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Networks}
+      \field{shorttitle}{Optimization approaches for civil applications of unmanned aerial vehicles ({UAVs}) or aerial drones}
+      \field{title}{Optimization approaches for civil applications of unmanned aerial vehicles ({UAVs}) or aerial drones: A survey}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{72}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{411\bibrangedash 458}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.1002/net.21818
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/gongbaodd/Zotero/storage/AIMSQ6Z8/Otto et al. - 2018 - Optimization approaches for civil applications of unmanned aerial vehicles (UAVs) or aerial drones.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+    \endentry
+    \entry{wang_influence_2026}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=77b5291a8870f0f0fdeeb449a9176b20}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Huanlei},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cee72dd97987c51fc4dc49318f884f45}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25fe936fc075eb44d2ca0557c9ab7a0a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Shunsen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fb652f0d0542562bcdc860c1675302f}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Xinran},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4dada793b86420b10f4677036f91e208}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinmei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e448470980462cb6c82de10f864754c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae681c5d7d823091310a5800c12ce1f5}
+      \strng{fullhash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{fullhashraw}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{bibnamehash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{authorbibnamehash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{authornamehash}{ae681c5d7d823091310a5800c12ce1f5}
+      \strng{authorfullhash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{authorfullhashraw}{dccf7a4e1d34cf35ca379f104017515f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While extensive research has examined adult perceptions of Artificial Intelligence ({AI})’s impact on the workforce, studies focusing on adolescents—who are at a critical stage of career development—remain scarce. Drawing upon Social Cognitive Career Theory ({SCCT}) and the significance of fostering adolescents’ adaptability in the era of {AI}, we designed a questionnaire-based experiment to examine how adolescents’ prior perceptions, attitude and immediate knowledge of {AI} influence their career preferences. We conducted a questionnaire-based experiment with 836 adolescents (Mage = 13.98, {SD} = 1.35 years; 52.30\% male) to investigate the influence of three independent variable groups: prior perception of {AI} (familiarity with {AI}), prior attitudes towards {AI} (trust in {AI} and positive/negative attitude towards {AI}) and immediate knowledge of {AI} (experimental manipulation). The results showed that immediate knowledge of {AI} significantly and negatively predicted adolescents’ preference for both low- and high-replaceable jobs. In contrast, familiarity with {AI}, trust in {AI} and positive attitude towards {AI} significantly and positively predicted a preference for low-replaceable jobs. This study introduces an integrated empirical framework demonstrating that distinct {AI}-related factors differentially influence adolescent career preferences. Results emphasize the importance of familiarity with {AI}, trust in {AI} and positive attitude towards {AI} among teenagers in order to better adapt the future changes in the labor market. This finding provides an empirical reference for educators and policy makers to better guide teenagers to make career plans.}
+      \field{day}{5}
+      \field{issn}{2076-328X}
+      \field{journaltitle}{Behavioral Sciences}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Behavioral Sciences}
+      \field{title}{The Influence of Prior Perception, Attitude, and Immediate Knowledge of {AI} on Adolescents’ Preferences for High- and Low-Replaceable Jobs}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{16}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{72}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/bs16010072
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/ZWEQMZPT/Wang et al. - 2026 - The Influence of Prior Perception, Attitude, and Immediate Knowledge of AI on Adolescents’ Preferenc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-328X/16/1/72
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-328X/16/1/72
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{barnett_when_2002}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=928d1c6bc184df10215e4edb274187bf}{%
+           family={Barnett},
+           familyi={B\bibinitperiod},
+           given={Susan\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=503711a54766e6fb1f875cb8752e6504}{%
+           family={Ceci},
+           familyi={C\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{fullhash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{fullhashraw}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{bibnamehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authorbibnamehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authornamehash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authorfullhash}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \strng{authorfullhashraw}{f1c07e5c487f254a796f61d2cb3a46b6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1939-1455, 0033-2909}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{shortjournal}{Psychological Bulletin}
+      \field{shorttitle}{When and where do we apply what we learn?}
+      \field{title}{When and where do we apply what we learn?: A taxonomy for far transfer.}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{128}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{612\bibrangedash 637}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1037/0033-2909.128.4.612
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/FKBTSZCE/Barnett and Ceci - 2002 - When and where do we apply what we learn A taxonomy for far transfer..pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.apa.org/doi/10.1037/0033-2909.128.4.612
+      \endverb
+      \verb{url}
+      \verb https://doi.apa.org/doi/10.1037/0033-2909.128.4.612
+      \endverb
+    \endentry
+    \entry{dutescu_virtual_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
+           family={Dutescu},
+           familyi={D\bibinitperiod},
+           given={Razvan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8daee2d0754fb71836f063a87cddec49}{%
+           family={Apostol},
+           familyi={A\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=396bf5615593ef752e0a4a4748e09321}{%
+           family={Mocanu},
+           familyi={M\bibinitperiod},
+           given={Ionut},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc691611320efdb82aedb89555f54f67}{%
+           family={Barbu},
+           familyi={B\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The National Institute for Research \& Development in Informatics - {ICI} Bucharest ({ICI} Publishing House)}%
+      }
+      \strng{namehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{fullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{fullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{bibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorbibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authornamehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{authorfullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorfullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper explores the adoption of Virtual Reality ({VR}) and Extended Reality ({XR}) in professional training, demonstrating their potential to revolutionize learning by providing immersive, interactive environments that mimic real-world scenarios. Our review spans several sectors, including healthcare, engineering, and defense, and assesses how {VR} and {XR} enhance engagement, knowledge retention, and training efficiency. Results indicate that these technologies not only personalize learning experiences but also reduce costs and increase training accessibility. Finally, we present a framework for a multipurpose {VR} training application. The conclusion highlights the need for continued research to fully harness the capabilities of {VR} and {XR} in training programs.}
+      \field{day}{7}
+      \field{eventtitle}{International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{journaltitle}{Proceedings of the International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Virtual Reality in training}
+      \field{title}{Virtual Reality in training: A multidimensional analysis of technologies, challenges and paradigms}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 142}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.58503/icvl-v20y202511
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/3UGU8N28/Dutescu et al. - 2025 - Virtual Reality in training A multidimensional analysis of technologies, challenges and paradigms.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+      \verb{url}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+    \endentry
+    \entry{ebeid_survey_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6f1b836c679348cad750e04c7d77acfd}{%
+           family={Ebeid},
+           familyi={E\bibinitperiod},
+           given={Emad},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3a1fb702654fe014b295a15b351f88e}{%
+           family={Skriver},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ab9c9cd62b7778018b27a3295a54e58}{%
+           family={Terkildsen},
+           familyi={T\bibinitperiod},
+           given={Kristian\bibnamedelima Husum},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f445c456a6d72da33240d56aa9f06c3}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Kjeld},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d77bfd182d74efd4744ae4139f2beaba}{%
+           family={Schultz},
+           familyi={S\bibinitperiod},
+           given={Ulrik\bibnamedelima Pagh},
+           giveni={U\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{66c617a130e7202a8d080c849a0a0f78}
+      \strng{fullhash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{fullhashraw}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{bibnamehash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{authorbibnamehash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{authornamehash}{66c617a130e7202a8d080c849a0a0f78}
+      \strng{authorfullhash}{8b52c51c2d206ce4373a98d261d87e65}
+      \strng{authorfullhashraw}{8b52c51c2d206ce4373a98d261d87e65}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01419331}
+      \field{journaltitle}{Microprocessors and Microsystems}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shortjournal}{Microprocessors and Microsystems}
+      \field{title}{A survey of Open-Source {UAV} flight controllers and flight simulators}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{61}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11\bibrangedash 20}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.micpro.2018.05.002
+      \endverb
+      \verb{file}
+      \verb Submitted Version:/home/gongbaodd/Zotero/storage/FWTE5WZJ/Ebeid et al. - 2018 - A survey of Open-Source UAV flight controllers and flight simulators.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
+      \endverb
+    \endentry
+    \entry{ghazbi_quadrotors_2016}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5951f100eaf232b6c8f3550d0980ca0c}{%
+           family={Ghazbi},
+           familyi={G\bibinitperiod},
+           given={S.\bibnamedelimi Norouzi},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f11b97e0aa2849723d877d000dae7ec8}{%
+           family={Aghli},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=791cc24b60728747ac6142aecc9bece5}{%
+           family={Alimohammadi},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=455b14a251bfce0a6db535d49a429c7e}{%
+           family={Akbari},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f1c0dd8b24ecd12abb2cb33f01c2224}
+      \strng{fullhash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{fullhashraw}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{bibnamehash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{authorbibnamehash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{authornamehash}{0f1c0dd8b24ecd12abb2cb33f01c2224}
+      \strng{authorfullhash}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \strng{authorfullhashraw}{c2179ca03ad0494e0ba72dd724dd8ac9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Quadrotors are Vertical Take-Off and Landing aerial vehicles with many potential applications ranging from mapping to supporting rescue operations. This paper aims to provide an overview on various works carried out on the quadrotor, from the perspective of control and dynamic modelling. Also in this paper, based on the information summarized from 160 researches available, different control targets and flight missions are analysed and classified, and according to it, a general flight mission map is introduced. In addition, history of advances in development of quadrotors and set-ups proposed when performing experimental researches on quadrotors is presented.}
+      \field{day}{1}
+      \field{issn}{1178-5608}
+      \field{journaltitle}{International Journal on Smart Sensing and Intelligent Systems}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Quadrotors Unmanned Aerial Vehicles}
+      \field{title}{Quadrotors Unmanned Aerial Vehicles: A Review}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{309\bibrangedash 333}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.21307/ijssis-2017-872
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/QZ5ZKLMQ/Ghazbi et al. - 2016 - Quadrotors Unmanned Aerial Vehicles A Review.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciendo.com/article/10.21307/ijssis-2017-872
+      \endverb
+      \verb{url}
+      \verb https://www.sciendo.com/article/10.21307/ijssis-2017-872
+      \endverb
+    \endentry
+    \entry{idrissi_review_2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=66bd8554378db599a80665dbcb40d599}{%
+           family={Idrissi},
+           familyi={I\bibinitperiod},
+           given={Moad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfcb427dbaf5d3dec69ade0273dbb5c7}{%
+           family={Salami},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f74ea9773e4b119761121c25856d318}{%
+           family={Annaz},
+           familyi={A\bibinitperiod},
+           given={Fawaz},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ee38ace0250a88644592baae930be49}
+      \strng{fullhash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{fullhashraw}{4541d776e6789480b19be23e6a7f729f}
+      \strng{bibnamehash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{authorbibnamehash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{authornamehash}{6ee38ace0250a88644592baae930be49}
+      \strng{authorfullhash}{4541d776e6789480b19be23e6a7f729f}
+      \strng{authorfullhashraw}{4541d776e6789480b19be23e6a7f729f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Over the past decade, unmanned aerial vehicles ({UAVs}) have received a significant attention due to their diverse capabilities for non-combatant and military applications. The primary aim of this study is to unveil a clear categorization overview for more than a decade worth of substantial progress in {UAVs}. The paper will begin with a general overview of the advancements, followed by an up-to-date explanation of the different mechanical structures and technical elements that have been included. The paper will then explore and examine various vertical take-off and landing ({VTOL}) configurations, followed by expressing the dynamics, applicable simulation tools and control strategies for a Quadrotor. In conclusion to this review, the dynamic system presented will always face limitations such as internal and/or external disturbances. Hence, this can be minimised by the choice of introducing appropriate control techniques or mechanical enhancements.}
+      \field{issn}{0921-0296, 1573-0409}
+      \field{journaltitle}{Journal of Intelligent \& Robotic Systems}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{J Intell Robot Syst}
+      \field{shorttitle}{A Review of Quadrotor Unmanned Aerial Vehicles}
+      \field{title}{A Review of Quadrotor Unmanned Aerial Vehicles: Applications, Architectural Design and Control Algorithms}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{volume}{104}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{22}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10846-021-01527-7
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/JXJCC5VY/Idrissi et al. - 2022 - A Review of Quadrotor Unmanned Aerial Vehicles Applications, Architectural Design and Control Algor.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s10846-021-01527-7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s10846-021-01527-7
+      \endverb
+    \endentry
+    \entry{karahan2025development}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb17d5ed5ee59ea2098aaa3b85b572ea}{%
+           family={Karahan},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{fullhash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{fullhashraw}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{bibnamehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authorbibnamehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authornamehash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authorfullhash}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \strng{authorfullhashraw}{fb17d5ed5ee59ea2098aaa3b85b572ea}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Drones}
+      \field{title}{Development Stages of Quadrotors from Past to Present: A Review}
+      \field{volume}{9}
+      \field{year}{2025}
+      \field{pages}{840}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/drones9120840
+      \endverb
+    \endentry
+    \entry{luukkonen_modelling_2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=810a8c9303e23de496764e359030e52e}{%
+           family={Luukkonen},
+           familyi={L\bibinitperiod},
+           given={Teppo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{810a8c9303e23de496764e359030e52e}
+      \strng{fullhash}{810a8c9303e23de496764e359030e52e}
+      \strng{fullhashraw}{810a8c9303e23de496764e359030e52e}
+      \strng{bibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorbibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authornamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorfullhash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorfullhashraw}{810a8c9303e23de496764e359030e52e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Modelling and control of quadcopter}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/34P8B97S/Luukkonen - Modelling and control of quadcopter.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{machado_autonomous_2021}{article}{}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=a5738340cca9c27dcac280f9238341a6}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Tyrone},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23bae25e337cfa45563dc4e7c8838910}{%
+           family={Fassbender},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0720e2aad6cf93ba896eb2f270b06293}{%
+           family={Taheri},
+           familyi={T\bibinitperiod},
+           given={Abdolreza},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4e76e5904cce8762dab63c90d73356d}{%
+           family={Eriksson},
+           familyi={E\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e33f6bd9b6246a0889cfa91b72bcfbb8}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Himanshu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e102bbb369e2fe38ca9cf0aba262d9c}{%
+           family={Molaei},
+           familyi={M\bibinitperiod},
+           given={Amirmasoud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df56205ec00ac00fd4150bbe87cafe74}{%
+           family={Forte},
+           familyi={F\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47ea313b8cdc633fbfe2d74b16577cc6}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={Prashant\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=490143609bdf9d2699bdc967cefe4bfa}{%
+           family={Ghabcheloo},
+           familyi={G\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=092166a7cc7691bea6249c1ac3c07d2b}{%
+           family={Makinen},
+           familyi={M\bibinitperiod},
+           given={Saku},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07fbf6d793583366549426f06a764544}{%
+           family={Lilienthal},
+           familyi={L\bibinitperiod},
+           given={Achim\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c6277a1ef5d5497d692eff5d1efeeda}{%
+           family={Andreasson},
+           familyi={A\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc4b74dedf3646fb70d0930d391c45cb}{%
+           family={Geimer},
+           familyi={G\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kaunas, Lithuania}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9d2f606013b2340a7657f33f297b790a}
+      \strng{fullhash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{fullhashraw}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{bibnamehash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{authorbibnamehash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{authornamehash}{9d2f606013b2340a7657f33f297b790a}
+      \strng{authorfullhash}{7463499bf57a0a70f1252d1695ae908c}
+      \strng{authorfullhashraw}{7463499bf57a0a70f1252d1695ae908c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{24}
+      \field{eventtitle}{2021 {IEEE} International Conference on Technology and Entrepreneurship ({ICTE})}
+      \field{isbn}{978-1-6654-3895-7}
+      \field{journaltitle}{2021 {IEEE} International Conference on Technology and Entrepreneurship ({ICTE})}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{shorttitle}{Autonomous Heavy-Duty Mobile Machinery}
+      \field{title}{Autonomous Heavy-Duty Mobile Machinery: A Multidisciplinary Collaborative Challenge}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ICTE51655.2021.9584498
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/KDHBVX84/Machado et al. - 2021 - Autonomous Heavy-Duty Mobile Machinery A Multidisciplinary Collaborative Challenge.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9584498/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9584498/
+      \endverb
+    \endentry
+    \entry{otto_optimization_2018}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6190a1c24a0e65d82cdba35028cccecc}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Alena},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9496570845455e860b129b87bfd0c4ad}{%
+           family={Agatz},
+           familyi={A\bibinitperiod},
+           given={Niels},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba76c1d885433b291165ab7155880518}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57fd186cef49a011ac5af72e3361a15c}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d75b4a3e9e56a5351c677d297112340}{%
+           family={Pesch},
+           familyi={P\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1598f51c7fc1b1e7587f53c002a2e2fd}
+      \strng{fullhash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{fullhashraw}{d42433df0502138a8081c7a16212b1ce}
+      \strng{bibnamehash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{authorbibnamehash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{authornamehash}{1598f51c7fc1b1e7587f53c002a2e2fd}
+      \strng{authorfullhash}{d42433df0502138a8081c7a16212b1ce}
+      \strng{authorfullhashraw}{d42433df0502138a8081c7a16212b1ce}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Unmanned aerial vehicles ({UAVs}), or aerial drones, are an emerging technology with significant market potential. {UAVs} may lead to substantial cost savings in, for instance, monitoring of difficult‐to‐access infrastructure, spraying fields and performing surveillance in precision agriculture, as well as in deliveries of packages. In some applications, like disaster management, transport of medical supplies, or environmental monitoring, aerial drones may even help save lives. In this article, we provide a literature survey on optimization approaches to civil applications of {UAVs}. Our goal is to provide a fast point of entry into the topic for interested researchers and operations planning specialists. We describe the most promising aerial drone applications and outline characteristics of aerial drones relevant to operations planning. In this review of more than 200 articles, we provide insights into widespread and emerging modeling approaches. We conclude by suggesting promising directions for future research.}
+      \field{issn}{0028-3045, 1097-0037}
+      \field{journaltitle}{Networks}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Networks}
+      \field{shorttitle}{Optimization approaches for civil applications of unmanned aerial vehicles ({UAVs}) or aerial drones}
+      \field{title}{Optimization approaches for civil applications of unmanned aerial vehicles ({UAVs}) or aerial drones: A survey}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{72}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{411\bibrangedash 458}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.1002/net.21818
+      \endverb
+      \verb{file}
+      \verb Full Text:/home/gongbaodd/Zotero/storage/AIMSQ6Z8/Otto et al. - 2018 - Optimization approaches for civil applications of unmanned aerial vehicles (UAVs) or aerial drones.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+    \endentry
+    \entry{wang_influence_2026}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=77b5291a8870f0f0fdeeb449a9176b20}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Huanlei},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cee72dd97987c51fc4dc49318f884f45}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Xiaoxiong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25fe936fc075eb44d2ca0557c9ab7a0a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Shunsen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fb652f0d0542562bcdc860c1675302f}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Xinran},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4dada793b86420b10f4677036f91e208}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinmei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e448470980462cb6c82de10f864754c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae681c5d7d823091310a5800c12ce1f5}
+      \strng{fullhash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{fullhashraw}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{bibnamehash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{authorbibnamehash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{authornamehash}{ae681c5d7d823091310a5800c12ce1f5}
+      \strng{authorfullhash}{dccf7a4e1d34cf35ca379f104017515f}
+      \strng{authorfullhashraw}{dccf7a4e1d34cf35ca379f104017515f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While extensive research has examined adult perceptions of Artificial Intelligence ({AI})’s impact on the workforce, studies focusing on adolescents—who are at a critical stage of career development—remain scarce. Drawing upon Social Cognitive Career Theory ({SCCT}) and the significance of fostering adolescents’ adaptability in the era of {AI}, we designed a questionnaire-based experiment to examine how adolescents’ prior perceptions, attitude and immediate knowledge of {AI} influence their career preferences. We conducted a questionnaire-based experiment with 836 adolescents (Mage = 13.98, {SD} = 1.35 years; 52.30\% male) to investigate the influence of three independent variable groups: prior perception of {AI} (familiarity with {AI}), prior attitudes towards {AI} (trust in {AI} and positive/negative attitude towards {AI}) and immediate knowledge of {AI} (experimental manipulation). The results showed that immediate knowledge of {AI} significantly and negatively predicted adolescents’ preference for both low- and high-replaceable jobs. In contrast, familiarity with {AI}, trust in {AI} and positive attitude towards {AI} significantly and positively predicted a preference for low-replaceable jobs. This study introduces an integrated empirical framework demonstrating that distinct {AI}-related factors differentially influence adolescent career preferences. Results emphasize the importance of familiarity with {AI}, trust in {AI} and positive attitude towards {AI} among teenagers in order to better adapt the future changes in the labor market. This finding provides an empirical reference for educators and policy makers to better guide teenagers to make career plans.}
+      \field{day}{5}
+      \field{issn}{2076-328X}
+      \field{journaltitle}{Behavioral Sciences}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Behavioral Sciences}
+      \field{title}{The Influence of Prior Perception, Attitude, and Immediate Knowledge of {AI} on Adolescents’ Preferences for High- and Low-Replaceable Jobs}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{16}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{72}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/bs16010072
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/ZWEQMZPT/Wang et al. - 2026 - The Influence of Prior Perception, Attitude, and Immediate Knowledge of AI on Adolescents’ Preferenc.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-328X/16/1/72
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-328X/16/1/72
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

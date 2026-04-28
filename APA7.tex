@@ -1,0 +1,89 @@
+\documentclass[man,12pt,floatsintext]{apa7}
+\usepackage[american]{babel}
+\usepackage{csquotes} 
+\usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+
+\usepackage[T1]{fontenc} 
+\usepackage{mathptmx}
+
+% 定义信息
+\title{APA Format Starter Paper, Tailored to Lab Reports But Adaptable to Other Writing Assignments} 
+\shorttitle{APA Starter} 
+\author{Your Name Here}
+
+\begin{document}
+
+% --- 自定义标题页 ---
+\begin{titlepage}
+\makeatletter
+    \centering
+    \vspace*{2cm}
+    {\large Tallinn University}\\
+    \vspace{0.5cm}
+    {\large School of Digital Technologies} \\
+    \vspace{0.5cm}
+    {\large DTLGM.DT Digital Learning Games}
+
+    \vfill
+
+    {\huge \textbf{ \@title }}\\
+    \vspace{2cm}
+    {\large Master's Thesis}
+
+    \vfill
+    \vfill
+
+    \begin{flushright}
+        {\large Author: \@author} \\
+        \vspace{0.3cm}
+        {\large Supervisor: Martin Sillaots}
+    \end{flushright}
+
+    \vfill
+
+    {\large Tallinn 2026}
+\makeatother
+\end{titlepage}
+
+% --- APA 7 标准摘要页 ---
+\newpage
+\section*{\centering Abstract} % APA 7 要求摘要标题居中且加粗（section* 在 man 模式下默认加粗）
+\noindent % 摘要首行不缩进
+Insert abstract text here. This follows the APA 7th edition manual guidelines for formatting an abstract page when not using the default maketitle command. 
+
+\vspace{0.5in} 
+\noindent \textit{Keywords:} APA style, demonstration % Keywords 标签需斜体，首行不缩进
+
+% --- 正文 ---
+\newpage
+\section{Introduction}
+Introductory text goes here.
+
+\section{Method}
+\subsection{Participants}
+Participant information goes here.
+
+\begin{table}[h]
+    \caption{Sample words from this hypothetical experiment.}
+    \centering
+    \begin{tabular}{cc}
+        \hline 
+         First word & Second word \\
+         \hline
+         Yeet & Yoink \\
+         Hot & Lit \\
+         \hline
+    \end{tabular}
+    \label{tab:table_words}
+\end{table}
+
+\section{Results}
+Statistical words.
+
+\section{Discussion}
+Discussion words.
+
+% \printbibliography
+
+\end{document}
