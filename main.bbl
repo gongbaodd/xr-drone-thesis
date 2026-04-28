@@ -553,6 +553,80 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
     \endentry
+    \entry{dutescu_virtual_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
+           family={Dutescu},
+           familyi={D\bibinitperiod},
+           given={Razvan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8daee2d0754fb71836f063a87cddec49}{%
+           family={Apostol},
+           familyi={A\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=396bf5615593ef752e0a4a4748e09321}{%
+           family={Mocanu},
+           familyi={M\bibinitperiod},
+           given={Ionut},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc691611320efdb82aedb89555f54f67}{%
+           family={Barbu},
+           familyi={B\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The National Institute for Research \& Development in Informatics - {ICI} Bucharest ({ICI} Publishing House)}%
+      }
+      \strng{namehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{fullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{fullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{bibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorbibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authornamehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{authorfullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorfullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper explores the adoption of Virtual Reality ({VR}) and Extended Reality ({XR}) in professional training, demonstrating their potential to revolutionize learning by providing immersive, interactive environments that mimic real-world scenarios. Our review spans several sectors, including healthcare, engineering, and defense, and assesses how {VR} and {XR} enhance engagement, knowledge retention, and training efficiency. Results indicate that these technologies not only personalize learning experiences but also reduce costs and increase training accessibility. Finally, we present a framework for a multipurpose {VR} training application. The conclusion highlights the need for continued research to fully harness the capabilities of {VR} and {XR} in training programs.}
+      \field{day}{7}
+      \field{eventtitle}{International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{journaltitle}{Proceedings of the International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Virtual Reality in training}
+      \field{title}{Virtual Reality in training: A multidimensional analysis of technologies, challenges and paradigms}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 142}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.58503/icvl-v20y202511
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/3UGU8N28/Dutescu et al. - 2025 - Virtual Reality in training A multidimensional analysis of technologies, challenges and paradigms.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+      \verb{url}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+    \endentry
     \entry{ebeid_survey_2018}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=6f1b836c679348cad750e04c7d77acfd}{%
@@ -2636,6 +2710,80 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
     \endentry
+    \entry{dutescu_virtual_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
+           family={Dutescu},
+           familyi={D\bibinitperiod},
+           given={Razvan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8daee2d0754fb71836f063a87cddec49}{%
+           family={Apostol},
+           familyi={A\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=396bf5615593ef752e0a4a4748e09321}{%
+           family={Mocanu},
+           familyi={M\bibinitperiod},
+           given={Ionut},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc691611320efdb82aedb89555f54f67}{%
+           family={Barbu},
+           familyi={B\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The National Institute for Research \& Development in Informatics - {ICI} Bucharest ({ICI} Publishing House)}%
+      }
+      \strng{namehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{fullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{fullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{bibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorbibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authornamehash}{7149a3aff2c64d1caa3054ab29d8beb1}
+      \strng{authorfullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{authorfullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper explores the adoption of Virtual Reality ({VR}) and Extended Reality ({XR}) in professional training, demonstrating their potential to revolutionize learning by providing immersive, interactive environments that mimic real-world scenarios. Our review spans several sectors, including healthcare, engineering, and defense, and assesses how {VR} and {XR} enhance engagement, knowledge retention, and training efficiency. Results indicate that these technologies not only personalize learning experiences but also reduce costs and increase training accessibility. Finally, we present a framework for a multipurpose {VR} training application. The conclusion highlights the need for continued research to fully harness the capabilities of {VR} and {XR} in training programs.}
+      \field{day}{7}
+      \field{eventtitle}{International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{journaltitle}{Proceedings of the International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Virtual Reality in training}
+      \field{title}{Virtual Reality in training: A multidimensional analysis of technologies, challenges and paradigms}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{129\bibrangedash 142}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.58503/icvl-v20y202511
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/3UGU8N28/Dutescu et al. - 2025 - Virtual Reality in training A multidimensional analysis of technologies, challenges and paradigms.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+      \verb{url}
+      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \endverb
+    \endentry
     \entry{ebeid_survey_2018}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=6f1b836c679348cad750e04c7d77acfd}{%
@@ -4184,7 +4332,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{dutescu_virtual_2025}
 \endrefsection
 \endinput
 

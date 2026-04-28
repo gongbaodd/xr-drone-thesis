@@ -8,6 +8,7 @@
         "quadcopter",
         "Quadcopters",
         "quadrotor",
-        "quadrotors"
+        "quadrotors",
+        "setpoints"
     ]
 }
