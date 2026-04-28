@@ -1,51 +1,73 @@
 \babel@toc {american}{}\relax 
 \contentsline {section}{Abstract}{2}{Doc-Start}%
-\contentsline {section}{Introduction}{5}{section*.3}%
-\contentsline {section}{Theoretical Background}{7}{section*.4}%
-\contentsline {subsection}{Learning Theories in Simulation-Based XR}{7}{section*.5}%
-\contentsline {subsubsection}{Experiential Learning}{7}{section*.6}%
-\contentsline {subsubsection}{Active Learning}{7}{section*.7}%
-\contentsline {subsubsection}{Game-Based Learning}{7}{section*.8}%
-\contentsline {subsubsection}{Simulation Games}{7}{section*.9}%
-\contentsline {subsection}{Game Design and Learning Frameworks}{7}{section*.10}%
-\contentsline {subsubsection}{Game Design Framework}{7}{section*.11}%
-\contentsline {subsubsection}{Learning Mechanics–Game Mechanics}{7}{section*.12}%
-\contentsline {subsection}{Introduction to Quadrotor Systems}{7}{section*.13}%
-\contentsline {subsubsection}{Flight Dynamics and Principles of Operation}{8}{section*.16}%
-\contentsline {subsubsection}{PID Control}{11}{section*.18}%
-\contentsline {subsubsection}{Reinforcement Learning}{11}{section*.19}%
-\contentsline {subsubsection}{Cascaded Control}{11}{section*.20}%
-\contentsline {subsection}{Human–Computer Interaction in XR}{11}{section*.21}%
-\contentsline {subsubsection}{XR Inputs}{11}{section*.22}%
-\contentsline {subsubsection}{XR UI Frameworks}{11}{section*.23}%
-\contentsline {subsection}{Digital Twin and Spatial Computing Concepts}{11}{section*.24}%
-\contentsline {subsubsection}{Geographic Information Systems}{11}{section*.25}%
-\contentsline {subsubsection}{Digital Twin}{11}{section*.26}%
-\contentsline {subsubsection}{AI-assisted environment generation}{11}{section*.27}%
-\contentsline {section}{Methodology}{12}{section*.28}%
-\contentsline {subsection}{Design-Based Research}{12}{section*.29}%
-\contentsline {subsection}{System Design Overview}{12}{section*.30}%
-\contentsline {subsubsection}{Archetecture}{12}{section*.31}%
-\contentsline {subsubsection}{Models}{12}{section*.32}%
-\contentsline {subsection}{Environment Construction}{12}{section*.33}%
-\contentsline {subsection}{Interaction and Control Design}{12}{section*.34}%
-\contentsline {subsection}{Learning System Design}{12}{section*.35}%
-\contentsline {subsection}{Data Collection Methods}{12}{section*.36}%
-\contentsline {section}{Results}{13}{section*.37}%
-\contentsline {subsection}{Prototype Development Process}{13}{section*.38}%
-\contentsline {subsection}{Drone Control Implementation}{13}{section*.39}%
-\contentsline {subsection}{Physics and Simulation System}{13}{section*.40}%
-\contentsline {subsection}{XR Interaction and UI Results}{13}{section*.41}%
-\contentsline {section}{Discussion}{14}{section*.42}%
-\contentsline {subsection}{Research Questions Revisited}{14}{section*.43}%
-\contentsline {subsection}{Interpretation}{14}{section*.44}%
-\contentsline {subsection}{Connection to Theory}{14}{section*.45}%
-\contentsline {subsection}{Contribution}{14}{section*.46}%
-\contentsline {subsection}{Limitations}{14}{section*.47}%
-\contentsline {subsection}{Future Work}{14}{section*.48}%
-\contentsline {section}{Summary}{15}{section*.49}%
-\contentsline {subsection}{Goals}{15}{section*.50}%
-\contentsline {subsection}{Results}{15}{section*.51}%
-\contentsline {subsection}{Generalization}{15}{section*.52}%
-\contentsline {subsection}{Practical Use}{15}{section*.53}%
-\contentsline {subsection}{Future Study}{15}{section*.54}%
+\contentsline {section}{Introduction}{6}{section*.3}%
+\contentsline {section}{Theoretical Background}{8}{section*.4}%
+\contentsline {subsection}{Learning Theories in Simulation-Based XR}{8}{section*.5}%
+\contentsline {subsubsection}{Experiential Learning}{8}{section*.6}%
+\contentsline {subsubsection}{Active Learning}{8}{section*.7}%
+\contentsline {subsubsection}{Game-Based Learning}{8}{section*.8}%
+\contentsline {subsubsection}{Simulation Games}{8}{section*.9}%
+\contentsline {subsection}{Game Design and Learning Frameworks}{8}{section*.10}%
+\contentsline {subsubsection}{Game Design Framework}{8}{section*.11}%
+\contentsline {subsubsection}{Learning Mechanics–Game Mechanics}{8}{section*.12}%
+\contentsline {subsection}{Introduction to Quadrotor Systems}{8}{section*.13}%
+\contentsline {subsubsection}{Flight Dynamics and Principles of Operation}{9}{section*.16}%
+\contentsline {subsubsection}{Pilot Interface and Control Systems}{11}{section*.18}%
+\contentsline {subsubsection}{PID Control}{13}{section*.23}%
+\contentsline {subsubsection}{Reinforcement Learning}{14}{section*.24}%
+\contentsline {subsection}{Fundamentals of Reinforcement Learning}{14}{section*.25}%
+\contentsline {subsubsection}{Markov Decision Processes (MDPs)}{15}{section*.26}%
+\contentsline {subsection}{Human–Computer Interaction in XR}{16}{section*.28}%
+\contentsline {subsubsection}{XR Inputs}{16}{section*.29}%
+\contentsline {subsubsection}{XR UI Frameworks}{16}{section*.30}%
+\contentsline {subsection}{Digital Twin and Spatial Computing Concepts}{16}{section*.31}%
+\contentsline {subsubsection}{Geographic Information Systems}{16}{section*.32}%
+\contentsline {subsubsection}{Digital Twin}{16}{section*.33}%
+\contentsline {subsubsection}{AI-assisted environment generation}{16}{section*.34}%
+\contentsline {section}{Methodology}{17}{section*.35}%
+\contentsline {subsection}{Design-Based Research}{17}{section*.36}%
+\contentsline {subsection}{System Design Overview}{17}{section*.37}%
+\contentsline {subsubsection}{Archetecture}{17}{section*.38}%
+\contentsline {subsubsection}{Models}{17}{section*.39}%
+\contentsline {subsection}{Environment Construction}{17}{section*.40}%
+\contentsline {subsection}{Interaction and Control Design}{17}{section*.41}%
+\contentsline {subsection}{Implementation of Drone Physics: A Case Study of Yue’s Ultimate Drone}{17}{section*.42}%
+\contentsline {subsubsection}{Control Input and Joystick Shaping}{18}{section*.44}%
+\contentsline {subsection}{Flight Modes and Orientation Logic}{18}{section*.45}%
+\contentsline {subsection}{Physics Calculation and PD Torque}{19}{section*.46}%
+\contentsline {subsection}{PD Control}{19}{section*.47}%
+\contentsline {subsection}{Attitude Control}{20}{section*.49}%
+\contentsline {subsection}{Path Generation}{21}{section*.50}%
+\contentsline {subsubsection}{ Cascaded Control Loops}{22}{section*.52}%
+\contentsline {subsection}{Implementation Logic}{23}{section*.53}%
+\contentsline {subsection}{Implementation with Unity ML-Agents}{24}{section*.55}%
+\contentsline {subsection}{The Hovering Task}{26}{section*.57}%
+\contentsline {subsection}{Proximal Policy Optimization (PPO)}{26}{section*.58}%
+\contentsline {subsubsection}{Tutoring UI}{28}{section*.61}%
+\contentsline {section}{Comparison of Current XR Development Platforms}{28}{section*.63}%
+\contentsline {subsubsection}{Hardware Architectures: PC VR vs. Standalone}{28}{section*.64}%
+\contentsline {subsubsection}{Passthrough (video see-through)}{30}{section*.65}%
+\contentsline {subsubsection}{Software Standards}{30}{section*.66}%
+\contentsline {subsubsection}{OpenXR}{30}{section*.67}%
+\contentsline {subsubsection}{WebXR}{31}{section*.68}%
+\contentsline {subsubsection}{Software Engine Comparison}{31}{section*.69}%
+\contentsline {subsection}{Learning System Design}{33}{section*.71}%
+\contentsline {subsection}{Data Collection Methods}{33}{section*.72}%
+\contentsline {section}{Results}{34}{section*.73}%
+\contentsline {subsection}{Prototype Development Process}{34}{section*.74}%
+\contentsline {subsection}{Drone Control Implementation}{34}{section*.75}%
+\contentsline {subsection}{Physics and Simulation System}{34}{section*.76}%
+\contentsline {subsection}{XR Interaction and UI Results}{34}{section*.77}%
+\contentsline {section}{Discussion}{35}{section*.78}%
+\contentsline {subsection}{Research Questions Revisited}{35}{section*.79}%
+\contentsline {subsection}{Interpretation}{35}{section*.80}%
+\contentsline {subsection}{Connection to Theory}{35}{section*.81}%
+\contentsline {subsection}{Contribution}{35}{section*.82}%
+\contentsline {subsection}{Limitations}{35}{section*.83}%
+\contentsline {subsection}{Future Work}{35}{section*.84}%
+\contentsline {section}{Summary}{36}{section*.85}%
+\contentsline {subsection}{Goals}{36}{section*.86}%
+\contentsline {subsection}{Results}{36}{section*.87}%
+\contentsline {subsection}{Generalization}{36}{section*.88}%
+\contentsline {subsection}{Practical Use}{36}{section*.89}%
+\contentsline {subsection}{Future Study}{36}{section*.90}%

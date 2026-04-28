@@ -78,6 +78,41 @@
       \verb https://doi.apa.org/doi/10.1037/0033-2909.128.4.612
       \endverb
     \endentry
+    \entry{bennett1993pid}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e24a600e54f176f06e2312b1af097884}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{fullhash}{e24a600e54f176f06e2312b1af097884}
+      \strng{fullhashraw}{e24a600e54f176f06e2312b1af097884}
+      \strng{bibnamehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authorbibnamehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authornamehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authorfullhash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authorfullhashraw}{e24a600e54f176f06e2312b1af097884}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Control Systems}
+      \field{number}{6}
+      \field{title}{Development of the PID Controller}
+      \field{volume}{13}
+      \field{year}{1993}
+      \field{pages}{58\bibrangedash 62}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/37.248006
+      \endverb
+    \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
@@ -644,6 +679,113 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+    \endentry
+    \entry{paredes2021quadcopter}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=43ec61bedff54105bb387f7c3b1d3895}{%
+           family={Paredes},
+           familyi={P\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=960dbfbc18a5f40e68985c70d5e8f2ab}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Prashin},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58f1c473fa60988de36f8a9ccf5bbdaf}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c36398f18c676201be7965d2be9c11f4}
+      \strng{fullhash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{fullhashraw}{8d92a69cadf56632304348f5efe1578a}
+      \strng{bibnamehash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{authorbibnamehash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{authornamehash}{c36398f18c676201be7965d2be9c11f4}
+      \strng{authorfullhash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{authorfullhashraw}{8d92a69cadf56632304348f5efe1578a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2105.14231}
+      \field{title}{Development, Implementation, and Experimental Outdoor Evaluation of Quadcopter Controllers for Computationally Limited Embedded Systems}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.48550/arXiv.2105.14231
+      \endverb
+    \endentry
+    \entry{usama2021fpv}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=53f0ce173d4c6c40b249a7c8666c62b3}{%
+           family={Usama},
+           familyi={U\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37bb74ed0f55cb119eabbe00b9cd4e1b}{%
+           family={Dora},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce6c95c0008b85425c2b2ec4036db674}{%
+           family={Elhadidy},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62f7584d3268392105c05927ea06b482}{%
+           family={Khater},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a492a65f51f882f2e61f055e1733de8}{%
+           family={Alkelany},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b52b7e05018c7affb6b448c216c3887}
+      \strng{fullhash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{fullhashraw}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{bibnamehash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{authorbibnamehash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{authornamehash}{6b52b7e05018c7affb6b448c216c3887}
+      \strng{authorfullhash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{authorfullhashraw}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The International Undergraduate Research Conference}
+      \field{number}{5}
+      \field{title}{First Person View Drone - FPV}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{437\bibrangedash 440}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://journals.ekb.eg/article_246400.html
+      \endverb
+      \verb{url}
+      \verb https://journals.ekb.eg/article_246400.html
       \endverb
     \endentry
     \entry{wang_influence_2026}{article}{}{}
@@ -792,6 +934,41 @@
       \verb https://doi.apa.org/doi/10.1037/0033-2909.128.4.612
       \endverb
     \endentry
+    \entry{bennett1993pid}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e24a600e54f176f06e2312b1af097884}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{fullhash}{e24a600e54f176f06e2312b1af097884}
+      \strng{fullhashraw}{e24a600e54f176f06e2312b1af097884}
+      \strng{bibnamehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authorbibnamehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authornamehash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authorfullhash}{e24a600e54f176f06e2312b1af097884}
+      \strng{authorfullhashraw}{e24a600e54f176f06e2312b1af097884}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Control Systems}
+      \field{number}{6}
+      \field{title}{Development of the PID Controller}
+      \field{volume}{13}
+      \field{year}{1993}
+      \field{pages}{58\bibrangedash 62}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/37.248006
+      \endverb
+    \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
@@ -1358,6 +1535,113 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+    \endentry
+    \entry{paredes2021quadcopter}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=43ec61bedff54105bb387f7c3b1d3895}{%
+           family={Paredes},
+           familyi={P\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=960dbfbc18a5f40e68985c70d5e8f2ab}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Prashin},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58f1c473fa60988de36f8a9ccf5bbdaf}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c36398f18c676201be7965d2be9c11f4}
+      \strng{fullhash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{fullhashraw}{8d92a69cadf56632304348f5efe1578a}
+      \strng{bibnamehash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{authorbibnamehash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{authornamehash}{c36398f18c676201be7965d2be9c11f4}
+      \strng{authorfullhash}{8d92a69cadf56632304348f5efe1578a}
+      \strng{authorfullhashraw}{8d92a69cadf56632304348f5efe1578a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2105.14231}
+      \field{title}{Development, Implementation, and Experimental Outdoor Evaluation of Quadcopter Controllers for Computationally Limited Embedded Systems}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.48550/arXiv.2105.14231
+      \endverb
+    \endentry
+    \entry{usama2021fpv}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=53f0ce173d4c6c40b249a7c8666c62b3}{%
+           family={Usama},
+           familyi={U\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37bb74ed0f55cb119eabbe00b9cd4e1b}{%
+           family={Dora},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce6c95c0008b85425c2b2ec4036db674}{%
+           family={Elhadidy},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62f7584d3268392105c05927ea06b482}{%
+           family={Khater},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a492a65f51f882f2e61f055e1733de8}{%
+           family={Alkelany},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b52b7e05018c7affb6b448c216c3887}
+      \strng{fullhash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{fullhashraw}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{bibnamehash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{authorbibnamehash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{authornamehash}{6b52b7e05018c7affb6b448c216c3887}
+      \strng{authorfullhash}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \strng{authorfullhashraw}{2abae21d49d8dd9e1d55d7a07eb2c45a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The International Undergraduate Research Conference}
+      \field{number}{5}
+      \field{title}{First Person View Drone - FPV}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{437\bibrangedash 440}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://journals.ekb.eg/article_246400.html
+      \endverb
+      \verb{url}
+      \verb https://journals.ekb.eg/article_246400.html
       \endverb
     \endentry
     \entry{wang_influence_2026}{article}{}{}
