@@ -91,6 +91,11 @@
       <file>ref/drone-usage.bib</file>
       <file>ref/history.bib</file>
       <file>ref/theory.bib</file>
+      <file>ref/cotrainer.bib</file>
+      <file>ref/experiential_learning.bib</file>
+      <file>ref/sim.bib</file>
+      <file>ref/learn-xr.bib</file>
+      <file>ref/learn-xr2.bib</file>
     </requires>
   </external>
 </requests>

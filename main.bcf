@@ -3076,6 +3076,11 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/drone-usage.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/history.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/theory.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/cotrainer.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/experiential_learning.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/sim.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/learn-xr.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/learn-xr2.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">machado_autonomous_2021</bcf:citekey>
@@ -3095,8 +3100,12 @@
     <bcf:citekey order="15" intorder="1">betafpv2022manual</bcf:citekey>
     <bcf:citekey order="16" intorder="1">bennett1993pid</bcf:citekey>
     <bcf:citekey order="17" intorder="1">idrissi_review_2022</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">idrissi_review_2022</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">paredes2021quadcopter</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">narayanasamy_distinguishing_2006</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">dai_educational_2022</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">caballero-hernandez_skill_2017</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">idrissi_review_2022</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">paredes2021quadcopter</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

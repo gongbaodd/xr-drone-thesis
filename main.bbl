@@ -143,44 +143,95 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
-    \entry{dutescu_virtual_2025}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
-           family={Dutescu},
+    \entry{caballero-hernandez_skill_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=300ea9c86985b7b9591e8d6d51467f8e}{%
+           family={Caballero-Hernández},
+           familyi={C\bibinithyphendelim H\bibinitperiod},
+           given={Juan\bibnamedelima Antonio},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89e0dfac2e2400c6586577cedf66e82f}{%
+           family={Palomo-Duarte},
+           familyi={P\bibinithyphendelim D\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bec92bb4f967640ab3bab78ceefb022b}{%
+           family={Dodero},
            familyi={D\bibinitperiod},
-           given={Razvan},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8daee2d0754fb71836f063a87cddec49}{%
-           family={Apostol},
-           familyi={A\bibinitperiod},
-           given={Mihai},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=396bf5615593ef752e0a4a4748e09321}{%
-           family={Mocanu},
-           familyi={M\bibinitperiod},
-           given={Ionut},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc691611320efdb82aedb89555f54f67}{%
-           family={Barbu},
-           familyi={B\bibinitperiod},
-           given={Monica},
-           giveni={M\bibinitperiod},
+           given={Juan\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {The National Institute for Research \& Development in Informatics - {ICI} Bucharest ({ICI} Publishing House)}%
+      \strng{namehash}{b38fa56e6a7819b0b505ebd5f086fffd}
+      \strng{fullhash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{fullhashraw}{1b60665a524c7259e7785c53740e1c25}
+      \strng{bibnamehash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{authorbibnamehash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{authornamehash}{b38fa56e6a7819b0b505ebd5f086fffd}
+      \strng{authorfullhash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{authorfullhashraw}{1b60665a524c7259e7785c53740e1c25}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Serious games are games with an educational purpose. In these games, players develop their skills by facing a number of challenges, and students are assessed according to their game playing behaviour. Assessment of serious game-based learning experiences has to take into account diverse features as game genre, pedagogical aim or game context. This paper analyses how skills are usually assessed in learning experiences based on serious games. To reach this objective, a systematic mapping study of more than 400 papers is undertaken. Papers were identiﬁed and classiﬁed according to a framework based on four categories: assessment aim, implementation, integration and primary assessment type. The reviewed literature mainly deals with contributions on methods and approaches for serious games. Results have revealed that most assessment methods are applied for a formative purpose more than for a certiﬁcation purpose. Most frequent implementations such as game scoring and integrations like monitoring states were also uncovered. The main primary type of assessment detected was in-process. In addition, several limitations were found in the assessment methods: regarding the aim of assessment, certiﬁcation of previous or attained skills was usually implemented out of the game; the scope of some implementations was limited because results were predeﬁned earlier; and most of methods analysed present scalability issues because they rely on manual assessments. Such ﬁndings are analysed and discussed to clarify the state of the art and provide recommendations for further work in the area of serious games-based learning.}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Skill assessment in learning experiences based on serious games}
+      \field{title}{Skill assessment in learning experiences based on serious games: A Systematic Mapping Study}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{113}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 60}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2017.05.008
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/YJ62RSEZ/Caballero-Hernández et al. - 2017 - Skill assessment in learning experiences based on serious games A Systematic Mapping Study.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
+      \endverb
+    \endentry
+    \entry{dai_educational_2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=962d9a9ca7f76a4a9ba7e9c7219b492b}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Chih-Pu},
+           giveni={C\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c195d8cb2d4ed06770ee1b90b03775b}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Fengfeng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{7149a3aff2c64d1caa3054ab29d8beb1}
-      \strng{fullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{fullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{bibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{authorbibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{authornamehash}{7149a3aff2c64d1caa3054ab29d8beb1}
-      \strng{authorfullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{authorfullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{namehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{fullhash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{fullhashraw}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{bibnamehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authorbibnamehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authornamehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authorfullhash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authorfullhashraw}{6d1af24f364eb5a753dd98774c01a999}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -188,33 +239,33 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This paper explores the adoption of Virtual Reality ({VR}) and Extended Reality ({XR}) in professional training, demonstrating their potential to revolutionize learning by providing immersive, interactive environments that mimic real-world scenarios. Our review spans several sectors, including healthcare, engineering, and defense, and assesses how {VR} and {XR} enhance engagement, knowledge retention, and training efficiency. Results indicate that these technologies not only personalize learning experiences but also reduce costs and increase training accessibility. Finally, we present a framework for a multipurpose {VR} training application. The conclusion highlights the need for continued research to fully harness the capabilities of {VR} and {XR} in training programs.}
-      \field{day}{7}
-      \field{eventtitle}{International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
-      \field{journaltitle}{Proceedings of the International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{abstract}{The field of education has experienced a transformation as artificial intelligence ({AI}) becomes increasingly applicable for learning purposes. {AI} has the potential to transform the social interactions in educational contexts among learners, teachers, and technologies. In this systematic mapping review, we focus on mapping and framing trends for educational applications of {AI} in simulation-based learning. Fifty-nine studies met the inclusion and exclusion criteria. We coded and analyzed six mapped categories in this literature review: (1) the year-of-study trend, (2) methods, (3) {AI} technologies, (4) simulation, (5) study trends, and (6) learning principles and theories. To provide nuanced details from the included literature, we also synthesized three thematic trends: (1) {AI} built in virtual agents for simulation-based learning, (2) {AI} infused in simulation-based learning with affective computing, and (3) {AI} leveraged in simulation-based learning for assessments. Trend One builds on a general acknowledgement of virtual agents as a guide for situated learning. Trend Two posits the role of affective states in learning trajectories and suggests the related machine learning approaches. Trend Three discusses machine learning techniques and multimodal computing used for assessment and feedback. The paper concludes with implications and suggestions for research and practice in {AI} in education using simulation-based learning.}
+      \field{issn}{2666920X}
+      \field{journaltitle}{Computers and Education: Artificial Intelligence}
       \field{langid}{english}
-      \field{month}{4}
-      \field{shorttitle}{Virtual Reality in training}
-      \field{title}{Virtual Reality in training: A multidimensional analysis of technologies, challenges and paradigms}
-      \field{urlday}{27}
+      \field{shortjournal}{Computers and Education: Artificial Intelligence}
+      \field{shorttitle}{Educational applications of artificial intelligence in simulation-based learning}
+      \field{title}{Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review}
+      \field{urlday}{28}
       \field{urlmonth}{4}
       \field{urlyear}{2026}
-      \field{year}{2025}
+      \field{volume}{3}
+      \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{129\bibrangedash 142}
-      \range{pages}{14}
+      \field{pages}{100087}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.58503/icvl-v20y202511
+      \verb 10.1016/j.caeai.2022.100087
       \endverb
       \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/3UGU8N28/Dutescu et al. - 2025 - Virtual Reality in training A multidimensional analysis of technologies, challenges and paradigms.pdf:application/pdf
+      \verb PDF:/home/gongbaodd/Zotero/storage/2D3NVBZE/Dai and Ke - 2022 - Educational applications of artificial intelligence in simulation-based learning A systematic mappi.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
       \verb{url}
-      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
     \endentry
     \entry{ebeid_survey_2018}{article}{}{}
@@ -467,6 +518,46 @@
       \verb 10.3390/drones9120840
       \endverb
     \endentry
+    \entry{kolb1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5089e249846f7339ecad82d42e130d74}{%
+           family={Kolb},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Englewood Cliffs, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{fullhash}{5089e249846f7339ecad82d42e130d74}
+      \strng{fullhashraw}{5089e249846f7339ecad82d42e130d74}
+      \strng{bibnamehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authorbibnamehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authornamehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authorfullhash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authorfullhashraw}{5089e249846f7339ecad82d42e130d74}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2006-05-31}
+      \field{title}{Experiential Learning: Experience as the Source of Learning and Development}
+      \field{year}{1984}
+      \verb{urlraw}
+      \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+    \endentry
     \entry{luukkonen_modelling_2011}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=810a8c9303e23de496764e359030e52e}{%
@@ -630,6 +721,78 @@
       \endverb
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/9584498/
+      \endverb
+    \endentry
+    \entry{narayanasamy_distinguishing_2006}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5171dde1c628c4e65f09e1cb9b9036d4}{%
+           family={Narayanasamy},
+           familyi={N\bibinitperiod},
+           given={Viknashvaran},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e200a397874518e4390e1b1cc0a9750f}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Kok\bibnamedelima Wai},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce8851cbb5ee598d424b4f8c495203d0}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Chun\bibnamedelima Che},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52c42ed770b024e2f7a8d91be805ed28}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={Shri},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d816b41fa51f07f5f386ba246c32b075}
+      \strng{fullhash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{fullhashraw}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{bibnamehash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{authorbibnamehash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{authornamehash}{d816b41fa51f07f5f386ba246c32b075}
+      \strng{authorfullhash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{authorfullhashraw}{79c91e57b148c6989a7fda5d86cc08ab}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The advanced computational capabilities in modern personal computers have made it possible for consumers to experience simulations with a high degree of verisimilitude through simulation games (a.k.a. Sims). In recent years, the cross-boundary technology exchange between game and simulation technology, along with other factors, has contributed to the confusion as to what makes a simulation game and what makes a simulator. This article provides a user's and designer's perspective on a definitive comparison of the similarities and differences between games in general, simulation games, and simulators. It also introduces a method that can be easily used to distinguish games and simulation games from simulators by using observable design characteristics. On the other hand, the convergence of functionality and technology in simulation games and simulators has created new applications of simulation. One such application is in serious games. Serious games and simulation games are confusingly similar in many ways. However, they greatly differ in functionality. This article also provides a method to distinguish serious games from simulation games, to clarify the strict categorization between these two applications of simulation.}
+      \field{issn}{1544-3574}
+      \field{journaltitle}{Computers in Entertainment}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shortjournal}{Comput. Entertain.}
+      \field{title}{Distinguishing games and simulation games from simulators}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{4}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/1129006.1129021
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/ZIN5G5UY/Narayanasamy et al. - 2006 - Distinguishing games and simulation games from simulators.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1129006.1129021
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1129006.1129021
       \endverb
     \endentry
     \entry{otto_optimization_2018}{article}{}{}
@@ -1029,44 +1192,95 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
-    \entry{dutescu_virtual_2025}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
-           family={Dutescu},
+    \entry{caballero-hernandez_skill_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=300ea9c86985b7b9591e8d6d51467f8e}{%
+           family={Caballero-Hernández},
+           familyi={C\bibinithyphendelim H\bibinitperiod},
+           given={Juan\bibnamedelima Antonio},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89e0dfac2e2400c6586577cedf66e82f}{%
+           family={Palomo-Duarte},
+           familyi={P\bibinithyphendelim D\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bec92bb4f967640ab3bab78ceefb022b}{%
+           family={Dodero},
            familyi={D\bibinitperiod},
-           given={Razvan},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8daee2d0754fb71836f063a87cddec49}{%
-           family={Apostol},
-           familyi={A\bibinitperiod},
-           given={Mihai},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=396bf5615593ef752e0a4a4748e09321}{%
-           family={Mocanu},
-           familyi={M\bibinitperiod},
-           given={Ionut},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc691611320efdb82aedb89555f54f67}{%
-           family={Barbu},
-           familyi={B\bibinitperiod},
-           given={Monica},
-           giveni={M\bibinitperiod},
+           given={Juan\bibnamedelima Manuel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {The National Institute for Research \& Development in Informatics - {ICI} Bucharest ({ICI} Publishing House)}%
+      \strng{namehash}{b38fa56e6a7819b0b505ebd5f086fffd}
+      \strng{fullhash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{fullhashraw}{1b60665a524c7259e7785c53740e1c25}
+      \strng{bibnamehash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{authorbibnamehash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{authornamehash}{b38fa56e6a7819b0b505ebd5f086fffd}
+      \strng{authorfullhash}{1b60665a524c7259e7785c53740e1c25}
+      \strng{authorfullhashraw}{1b60665a524c7259e7785c53740e1c25}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Serious games are games with an educational purpose. In these games, players develop their skills by facing a number of challenges, and students are assessed according to their game playing behaviour. Assessment of serious game-based learning experiences has to take into account diverse features as game genre, pedagogical aim or game context. This paper analyses how skills are usually assessed in learning experiences based on serious games. To reach this objective, a systematic mapping study of more than 400 papers is undertaken. Papers were identiﬁed and classiﬁed according to a framework based on four categories: assessment aim, implementation, integration and primary assessment type. The reviewed literature mainly deals with contributions on methods and approaches for serious games. Results have revealed that most assessment methods are applied for a formative purpose more than for a certiﬁcation purpose. Most frequent implementations such as game scoring and integrations like monitoring states were also uncovered. The main primary type of assessment detected was in-process. In addition, several limitations were found in the assessment methods: regarding the aim of assessment, certiﬁcation of previous or attained skills was usually implemented out of the game; the scope of some implementations was limited because results were predeﬁned earlier; and most of methods analysed present scalability issues because they rely on manual assessments. Such ﬁndings are analysed and discussed to clarify the state of the art and provide recommendations for further work in the area of serious games-based learning.}
+      \field{issn}{03601315}
+      \field{journaltitle}{Computers \& Education}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shortjournal}{Computers \& Education}
+      \field{shorttitle}{Skill assessment in learning experiences based on serious games}
+      \field{title}{Skill assessment in learning experiences based on serious games: A Systematic Mapping Study}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{113}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{42\bibrangedash 60}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.compedu.2017.05.008
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/YJ62RSEZ/Caballero-Hernández et al. - 2017 - Skill assessment in learning experiences based on serious games A Systematic Mapping Study.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
+      \endverb
+    \endentry
+    \entry{dai_educational_2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=962d9a9ca7f76a4a9ba7e9c7219b492b}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Chih-Pu},
+           giveni={C\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c195d8cb2d4ed06770ee1b90b03775b}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Fengfeng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{7149a3aff2c64d1caa3054ab29d8beb1}
-      \strng{fullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{fullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{bibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{authorbibnamehash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{authornamehash}{7149a3aff2c64d1caa3054ab29d8beb1}
-      \strng{authorfullhash}{d2e2f26496b62a6dde3ceff37ff820ae}
-      \strng{authorfullhashraw}{d2e2f26496b62a6dde3ceff37ff820ae}
+      \strng{namehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{fullhash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{fullhashraw}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{bibnamehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authorbibnamehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authornamehash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authorfullhash}{6d1af24f364eb5a753dd98774c01a999}
+      \strng{authorfullhashraw}{6d1af24f364eb5a753dd98774c01a999}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -1074,33 +1288,33 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This paper explores the adoption of Virtual Reality ({VR}) and Extended Reality ({XR}) in professional training, demonstrating their potential to revolutionize learning by providing immersive, interactive environments that mimic real-world scenarios. Our review spans several sectors, including healthcare, engineering, and defense, and assesses how {VR} and {XR} enhance engagement, knowledge retention, and training efficiency. Results indicate that these technologies not only personalize learning experiences but also reduce costs and increase training accessibility. Finally, we present a framework for a multipurpose {VR} training application. The conclusion highlights the need for continued research to fully harness the capabilities of {VR} and {XR} in training programs.}
-      \field{day}{7}
-      \field{eventtitle}{International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
-      \field{journaltitle}{Proceedings of the International Conference on Virtual Learning - {VIRTUAL} {LEARNING} - {VIRTUAL} {REALITY} (20th edition)}
+      \field{abstract}{The field of education has experienced a transformation as artificial intelligence ({AI}) becomes increasingly applicable for learning purposes. {AI} has the potential to transform the social interactions in educational contexts among learners, teachers, and technologies. In this systematic mapping review, we focus on mapping and framing trends for educational applications of {AI} in simulation-based learning. Fifty-nine studies met the inclusion and exclusion criteria. We coded and analyzed six mapped categories in this literature review: (1) the year-of-study trend, (2) methods, (3) {AI} technologies, (4) simulation, (5) study trends, and (6) learning principles and theories. To provide nuanced details from the included literature, we also synthesized three thematic trends: (1) {AI} built in virtual agents for simulation-based learning, (2) {AI} infused in simulation-based learning with affective computing, and (3) {AI} leveraged in simulation-based learning for assessments. Trend One builds on a general acknowledgement of virtual agents as a guide for situated learning. Trend Two posits the role of affective states in learning trajectories and suggests the related machine learning approaches. Trend Three discusses machine learning techniques and multimodal computing used for assessment and feedback. The paper concludes with implications and suggestions for research and practice in {AI} in education using simulation-based learning.}
+      \field{issn}{2666920X}
+      \field{journaltitle}{Computers and Education: Artificial Intelligence}
       \field{langid}{english}
-      \field{month}{4}
-      \field{shorttitle}{Virtual Reality in training}
-      \field{title}{Virtual Reality in training: A multidimensional analysis of technologies, challenges and paradigms}
-      \field{urlday}{27}
+      \field{shortjournal}{Computers and Education: Artificial Intelligence}
+      \field{shorttitle}{Educational applications of artificial intelligence in simulation-based learning}
+      \field{title}{Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review}
+      \field{urlday}{28}
       \field{urlmonth}{4}
       \field{urlyear}{2026}
-      \field{year}{2025}
+      \field{volume}{3}
+      \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{129\bibrangedash 142}
-      \range{pages}{14}
+      \field{pages}{100087}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.58503/icvl-v20y202511
+      \verb 10.1016/j.caeai.2022.100087
       \endverb
       \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/3UGU8N28/Dutescu et al. - 2025 - Virtual Reality in training A multidimensional analysis of technologies, challenges and paradigms.pdf:application/pdf
+      \verb PDF:/home/gongbaodd/Zotero/storage/2D3NVBZE/Dai and Ke - 2022 - Educational applications of artificial intelligence in simulation-based learning A systematic mappi.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
       \verb{url}
-      \verb https://icvl.eu/current-issue/virtual-reality-in-training-a-multidimensional-analysis-of-technologies-challenges-and-paradigms/
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
     \endentry
     \entry{ebeid_survey_2018}{article}{}{}
@@ -1353,6 +1567,46 @@
       \verb 10.3390/drones9120840
       \endverb
     \endentry
+    \entry{kolb1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5089e249846f7339ecad82d42e130d74}{%
+           family={Kolb},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Englewood Cliffs, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{fullhash}{5089e249846f7339ecad82d42e130d74}
+      \strng{fullhashraw}{5089e249846f7339ecad82d42e130d74}
+      \strng{bibnamehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authorbibnamehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authornamehash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authorfullhash}{5089e249846f7339ecad82d42e130d74}
+      \strng{authorfullhashraw}{5089e249846f7339ecad82d42e130d74}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2006-05-31}
+      \field{title}{Experiential Learning: Experience as the Source of Learning and Development}
+      \field{year}{1984}
+      \verb{urlraw}
+      \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+    \endentry
     \entry{luukkonen_modelling_2011}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=810a8c9303e23de496764e359030e52e}{%
@@ -1516,6 +1770,78 @@
       \endverb
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/9584498/
+      \endverb
+    \endentry
+    \entry{narayanasamy_distinguishing_2006}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5171dde1c628c4e65f09e1cb9b9036d4}{%
+           family={Narayanasamy},
+           familyi={N\bibinitperiod},
+           given={Viknashvaran},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e200a397874518e4390e1b1cc0a9750f}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Kok\bibnamedelima Wai},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce8851cbb5ee598d424b4f8c495203d0}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Chun\bibnamedelima Che},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52c42ed770b024e2f7a8d91be805ed28}{%
+           family={Rai},
+           familyi={R\bibinitperiod},
+           given={Shri},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d816b41fa51f07f5f386ba246c32b075}
+      \strng{fullhash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{fullhashraw}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{bibnamehash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{authorbibnamehash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{authornamehash}{d816b41fa51f07f5f386ba246c32b075}
+      \strng{authorfullhash}{79c91e57b148c6989a7fda5d86cc08ab}
+      \strng{authorfullhashraw}{79c91e57b148c6989a7fda5d86cc08ab}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The advanced computational capabilities in modern personal computers have made it possible for consumers to experience simulations with a high degree of verisimilitude through simulation games (a.k.a. Sims). In recent years, the cross-boundary technology exchange between game and simulation technology, along with other factors, has contributed to the confusion as to what makes a simulation game and what makes a simulator. This article provides a user's and designer's perspective on a definitive comparison of the similarities and differences between games in general, simulation games, and simulators. It also introduces a method that can be easily used to distinguish games and simulation games from simulators by using observable design characteristics. On the other hand, the convergence of functionality and technology in simulation games and simulators has created new applications of simulation. One such application is in serious games. Serious games and simulation games are confusingly similar in many ways. However, they greatly differ in functionality. This article also provides a method to distinguish serious games from simulation games, to clarify the strict categorization between these two applications of simulation.}
+      \field{issn}{1544-3574}
+      \field{journaltitle}{Computers in Entertainment}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shortjournal}{Comput. Entertain.}
+      \field{title}{Distinguishing games and simulation games from simulators}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{4}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/1129006.1129021
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/ZIN5G5UY/Narayanasamy et al. - 2006 - Distinguishing games and simulation games from simulators.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/1129006.1129021
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/1129006.1129021
       \endverb
     \endentry
     \entry{otto_optimization_2018}{article}{}{}
@@ -1790,6 +2116,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{dutescu_virtual_2025}
 \endrefsection
 \endinput
 
