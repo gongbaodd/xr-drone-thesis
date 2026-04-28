@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  28 APR 2026 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  28 APR 2026 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -995,9 +995,28 @@ File: tikzlibraryangles.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: tikzlibraryquotes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/opt/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex
 File: tikzlibrary3d.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-\c@NumberOfAuthors=\count507
-\c@NumberOfSuperscripts=\count508
+)) (/opt/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (/opt/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen313
+\ar@mcellbox=\box71
+\extrarowheight=\dimen314
+\NC@list=\toks49
+\extratabsurround=\skip115
+\backup@length=\skip116
+\ar@cellbox=\box72
+)
+\TX@col@width=\dimen315
+\TX@old@table=\dimen316
+\TX@old@col=\dimen317
+\TX@target=\dimen318
+\TX@delta=\dimen319
+\TX@cols=\count507
+\TX@ftn=\toks50
+)
+\c@NumberOfAuthors=\count508
+\c@NumberOfSuperscripts=\count509
  (./ref.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1064,17 +1083,17 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/opt/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count509
-\scratchdimen=\dimen313
-\scratchbox=\box71
-\nofMPsegments=\count510
-\nofMParguments=\count511
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count512
-\MPscratchDim=\dimen314
-\MPnumerator=\count513
-\makeMPintoPDFobject=\count514
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count510
+\scratchdimen=\dimen320
+\scratchbox=\box73
+\nofMPsegments=\count511
+\nofMParguments=\count512
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count513
+\MPscratchDim=\dimen321
+\MPnumerator=\count514
+\makeMPintoPDFobject=\count515
+\everyMPtoPDFconversion=\toks52
 ) (/opt/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1191,80 +1210,72 @@ File: img/6DOF.png Graphic file (type png)
 <use img/6DOF.png>
 Package pdftex.def Info: img/6DOF.png  used on input line 8.
 (pdftex.def)             Requested size: 375.80544pt x 151.77261pt.
- [8] [9 <./img/6DOF.png>]) (./_04_03_02_drone_HCI.tex
-<img/control.jpg, id=451, 1206.0542pt x 369.12097pt>
+ [8] [9 <./img/6DOF.png>]) (./theoretical_background/quadrotor/03_hci.tex
+<img/control.jpg, id=452, 1206.0542pt x 369.12097pt>
 File: img/control.jpg Graphic file (type jpg)
 <use img/control.jpg>
-Package pdftex.def Info: img/control.jpg  used on input line 12.
+Package pdftex.def Info: img/control.jpg  used on input line 9.
 (pdftex.def)             Requested size: 375.80544pt x 115.0177pt.
-
-
-LaTeX Warning: cref reference format for label type `' undefined on input line 15.
-
-[10]
-Overfull \hbox (52.51515pt too wide) in paragraph at lines 25--31
- [][] 
- []
-
-<img/drone.png, id=463, 903.375pt x 344.03531pt>
+ [10]
+<img/drone.png, id=466, 903.375pt x 344.03531pt>
 File: img/drone.png Graphic file (type png)
 <use img/drone.png>
-Package pdftex.def Info: img/drone.png  used on input line 44.
+Package pdftex.def Info: img/drone.png  used on input line 35.
 (pdftex.def)             Requested size: 375.80544pt x 143.1237pt.
-[11 <./img/control.jpg>]
-<img/goggles.png, id=471, 285.31593pt x 209.28188pt>
+ [11 <./img/control.jpg>]
+<img/goggles.png, id=477, 285.31593pt x 209.28188pt>
 File: img/goggles.png Graphic file (type png)
 <use img/goggles.png>
-Package pdftex.def Info: img/goggles.png  used on input line 62.
+Package pdftex.def Info: img/goggles.png  used on input line 49.
 (pdftex.def)             Requested size: 375.80544pt x 275.65892pt.
 ) (./_04_03_03_pid.tex) (./_04_03_04_rl.tex [12] [13 <./img/drone.png>]
-<img/decision.jpg, id=490, 451.6875pt x 173.89969pt>
+<img/decision.jpg, id=495, 451.6875pt x 173.89969pt>
 File: img/decision.jpg Graphic file (type jpg)
 <use img/decision.jpg>
 Package pdftex.def Info: img/decision.jpg  used on input line 26.
 (pdftex.def)             Requested size: 375.80544pt x 144.69225pt.
 )) (./_04_01_learning_theory.tex) (./_04_02_game.tex) (./_04_04_XR_HCI.tex) (./_04_05_Digital_Twin.tex)) (./_05_methodology.tex [14 <./img/goggles.png>] [15 <./img/decision.jpg>]
-<img/yue.png, id=502, 338.76563pt x 225.84375pt>
+<img/yue.png, id=508, 338.76563pt x 225.84375pt>
 File: img/yue.png Graphic file (type png)
 <use img/yue.png>
 Package pdftex.def Info: img/yue.png  used on input line 28.
 (pdftex.def)             Requested size: 375.80544pt x 250.54477pt.
  [16 <./img/yue.png (PNG copy)>] [17] [18]
-<img/pid.png, id=519, 429.10312pt x 194.22563pt>
+<img/pid.png, id=525, 429.10312pt x 194.22563pt>
 File: img/pid.png Graphic file (type png)
 <use img/pid.png>
 Package pdftex.def Info: img/pid.png  used on input line 105.
 (pdftex.def)             Requested size: 375.80544pt x 170.10406pt.
  [19 <./img/pid.png>]
-<img/path.png, id=527, 341.77687pt x 270.25969pt>
+<img/path.png, id=533, 341.77687pt x 270.25969pt>
 File: img/path.png Graphic file (type png)
 <use img/path.png>
 Package pdftex.def Info: img/path.png  used on input line 145.
 (pdftex.def)             Requested size: 375.80544pt x 297.18759pt.
  [20] [21 <./img/path.png>] [22]
-<img/ui.png, id=545, 585.68813pt x 303.38344pt>
+<img/ui.png, id=551, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
 Package pdftex.def Info: img/ui.png  used on input line 219.
 (pdftex.def)             Requested size: 375.80544pt x 194.67395pt.
  [23 <./img/ui.png>]
-<img/agent.png, id=554, 1130.2225pt x 970.62625pt>
+<img/agent.png, id=560, 1130.2225pt x 970.62625pt>
 File: img/agent.png Graphic file (type png)
 <use img/agent.png>
 Package pdftex.def Info: img/agent.png  used on input line 233.
 (pdftex.def)             Requested size: 375.80544pt x 322.73659pt.
  [24 <./img/agent.png>] [25]
-<img/train.png, id=566, 642.90187pt x 345.54094pt>
+<img/train.png, id=572, 642.90187pt x 345.54094pt>
 File: img/train.png Graphic file (type png)
 <use img/train.png>
 Package pdftex.def Info: img/train.png  used on input line 303.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
-<img/result.png, id=568, 782.17218pt x 665.48625pt>
+<img/result.png, id=574, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 316.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
-<img/hover.png, id=570, 598.48593pt x 693.34032pt>
+<img/hover.png, id=576, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 327.
@@ -1275,7 +1286,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 337.
 
 [27 <./img/train.png>] [28 <./img/result.png>] [29]
-Overfull \hbox (393.5658pt too wide) in paragraph at lines 390--402
+Overfull \hbox (395.16577pt too wide) in paragraph at lines 390--402
  [][] 
  []
 
@@ -1286,10 +1297,6 @@ Overfull \hbox (393.5658pt too wide) in paragraph at lines 390--402
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A7D4D7AE4D9B3FBFC08A843ED72A4C57;12502.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1297,18 +1304,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36991 strings out of 467349
- 710287 string characters out of 5389291
- 1629848 words of memory out of 5000000
- 65296 multiletter control sequences out of 15000+600000
- 679642 words of font info for 108 fonts, out of 8000000 for 9000
+ 37124 strings out of 467349
+ 712582 string characters out of 5389291
+ 1632518 words of memory out of 5000000
+ 65422 multiletter control sequences out of 15000+600000
+ 682364 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,118p,1891b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (38 pages, 1994760 bytes).
+Output written on main.pdf (38 pages, 1994846 bytes).
 PDF statistics:
- 731 PDF objects out of 1000 (max. 8388607)
- 639 compressed objects within 7 object streams
- 146 named destinations out of 1000 (max. 500000)
+ 738 PDF objects out of 1000 (max. 8388607)
+ 646 compressed objects within 7 object streams
+ 147 named destinations out of 1000 (max. 500000)
  654 words of extra memory for PDF output out of 10000 (max. 10000000)
 

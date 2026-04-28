@@ -1,0 +1,40 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[97] biber:342> INFO - === T apr   28, 2026, 14:41:07
+[122] Biber.pm:421> INFO - Reading 'main.bcf'
+[236] Biber.pm:1002> INFO - Found 14 citekeys in bib section 0
+[259] Biber.pm:4487> INFO - Processing section 0
+[272] Biber.pm:4678> INFO - Looking for bibtex file 'ref/heavyworkers.bib' for section 0
+[273] bibtex.pm:1713> INFO - LaTeX decoding ...
+[295] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/heavyworkers.bib'
+[381] Biber.pm:4678> INFO - Looking for bibtex file 'ref/xr-training.bib' for section 0
+[382] bibtex.pm:1713> INFO - LaTeX decoding ...
+[386] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/xr-training.bib'
+[396] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-controllers.bib' for section 0
+[396] bibtex.pm:1713> INFO - LaTeX decoding ...
+[398] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-controllers.bib'
+[410] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-sim.bib' for section 0
+[412] bibtex.pm:1713> INFO - LaTeX decoding ...
+[462] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-sim.bib'
+[477] Biber.pm:4678> INFO - Looking for bibtex file 'ref/MR-drone-sim.bib' for section 0
+[478] bibtex.pm:1713> INFO - LaTeX decoding ...
+[504] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/MR-drone-sim.bib'
+[506] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-usage.bib' for section 0
+[507] bibtex.pm:1713> INFO - LaTeX decoding ...
+[510] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-usage.bib'
+[522] Biber.pm:4678> INFO - Looking for bibtex file 'ref/history.bib' for section 0
+[522] bibtex.pm:1713> INFO - LaTeX decoding ...
+[525] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/history.bib'
+[535] Biber.pm:4678> INFO - Looking for bibtex file 'ref/theory.bib' for section 0
+[535] bibtex.pm:1713> INFO - LaTeX decoding ...
+[554] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/theory.bib'
+[637] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[637] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[637] Biber.pm:4307> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[637] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[688] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[688] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[688] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[688] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[715] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[738] bbl.pm:779> INFO - Output to main.bbl
