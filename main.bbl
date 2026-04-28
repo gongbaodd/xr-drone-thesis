@@ -113,6 +113,48 @@
       \verb 10.1609/aimag.v40i1.2844
       \endverb
     \endentry
+    \entry{Beck2004XP}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Kent},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db962664752cf07563d309bf97320bc5}{%
+           family={Andres},
+           familyi={A\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{fullhash}{05a972d2322d7190412c8633c5806a97}
+      \strng{fullhashraw}{05a972d2322d7190412c8633c5806a97}
+      \strng{bibnamehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authorbibnamehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authornamehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authorfullhash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authorfullhashraw}{05a972d2322d7190412c8633c5806a97}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{978-0321278654}
+      \field{series}{The XP Series}
+      \field{title}{Extreme Programming Explained: Embrace Change}
+      \field{year}{2004}
+    \endentry
     \entry{bennett1993pid}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e24a600e54f176f06e2312b1af097884}{%
@@ -843,6 +885,72 @@
       \verb https://link.springer.com/10.1007/s10846-021-01527-7
       \endverb
     \endentry
+    \entry{jong_design-based_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=14497bde9dc99d9bf1835fb50d8eab71}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Morris\bibnamedelimb Siu\bibnamedelima Yung},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f484f2d812852b722a71b931010ac44}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Anmei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f707b9a9ce13a4648f71d26db182a25c}{%
+           family={Luk},
+           familyi={L\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c16ef13dcb0dbf75623c9a761bcdf5f9}
+      \strng{fullhash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{fullhashraw}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{bibnamehash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{authorbibnamehash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{authornamehash}{c16ef13dcb0dbf75623c9a761bcdf5f9}
+      \strng{authorfullhash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{authorfullhashraw}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Serious gaming has been regarded as one of the important student-centric learning approaches in the coming decade. However, there has been a lack of in-depth discussion of the teacher role in the course of serious gaming when it is adopted in formal schooling. The study discussed in this paper is a piece of two-cycle design-based research, involving three teachers respectively from top, middle and bottom academic banding schools in Hong Kong and their Grade 11 classes in two consecutive school years (197 students in total). In the context of formal curriculum learning and teaching, we (researchers) collaborated with the teachers (practitioners) to investigate (design, enact, analyse and redesign) what and how they should do in order to optimise their students’ serious gaming process and advance the pedagogic effectiveness of serious gaming in different classroom settings.}
+      \field{issn}{1793-7078}
+      \field{journaltitle}{Research and Practice in Technology Enhanced Learning}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{{RPTEL}}
+      \field{title}{Design-based research on teacher facilitation practices for serious gaming in formal schooling}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{19}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s41039-017-0056-6
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/BQMC2N3R/Jong et al. - 2017 - Design-based research on teacher facilitation practices for serious gaming in formal schooling.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://telrp.springeropen.com/articles/10.1186/s41039-017-0056-6
+      \endverb
+      \verb{url}
+      \verb http://telrp.springeropen.com/articles/10.1186/s41039-017-0056-6
+      \endverb
+    \endentry
     \entry{kaelbling1996rl}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=0bf25a24f49af5c83d08966e17941417}{%
@@ -965,6 +1073,36 @@
       \verb{url}
       \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
       \endverb
+    \endentry
+    \entry{lovesay2003ergonomics}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5a24ed76e5c71574c63e4241276e579}{%
+           family={Lovesay},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{fullhash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{fullhashraw}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{bibnamehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editorbibnamehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editornamehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editorfullhash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editorfullhashraw}{f5a24ed76e5c71574c63e4241276e579}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Contemporary Ergonomics 1993}
+      \field{year}{2003}
     \endentry
     \entry{lowell_extended_2024}{article}{}{}
       \name{author}{1}{}{%
@@ -1377,6 +1515,183 @@
       \verb 10.48550/arXiv.2105.14231
       \endverb
     \endentry
+    \entry{richardson_process_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5b1cbe6ae6a44f332e7106208b6c6609}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Jennifer\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59dfbc072b8ec395fdcd19f1e6319f3c}{%
+           family={Castellanos\bibnamedelima Reyes},
+           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1017adc8cbb9b9718762decdfb36cdce}{%
+           family={Janakiraman},
+           familyi={J\bibinitperiod},
+           given={Shamila},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8ab642d89ed2422e5b06b4504099e79}{%
+           family={Duha},
+           familyi={D\bibinitperiod},
+           given={Mohammad\bibnamedelimb Shams\bibnamedelima Ud},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{248d305cf6ba8a78e15a80ded9a7c92c}
+      \strng{fullhash}{70ec539098a8a11815eb2039d062363f}
+      \strng{fullhashraw}{70ec539098a8a11815eb2039d062363f}
+      \strng{bibnamehash}{70ec539098a8a11815eb2039d062363f}
+      \strng{authorbibnamehash}{70ec539098a8a11815eb2039d062363f}
+      \strng{authornamehash}{248d305cf6ba8a78e15a80ded9a7c92c}
+      \strng{authorfullhash}{70ec539098a8a11815eb2039d062363f}
+      \strng{authorfullhashraw}{70ec539098a8a11815eb2039d062363f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Purdue Repository for Online Teaching and Learning ({PoRTAL}) was developed as an Open Educational Resource ({OER}) for graduate students and faculty in higher education settings to enhance their online teaching skills and strategies. The {PoRTAL} team used a design-based research approach ({DBR}; Wang \& Hannafin, Educational Technology Research and Development, 53(4), 5–23, 2005). In this study context, we used Van Tiem et al.’s (2012) model to identify problems faced by instructors who struggled with or were new to online teaching from a Human Performance Technology ({HPT}) standpoint. To address the identified needs, we created resources for online teaching and embedded our research within practical activities to further study our design process. Our efforts resulted in an {HPT}-{OER} Model for Designing Digital Repositories. The purpose of this paper is to share the {DBR} process that we used to develop an {OER} repository within an {HPT} model.}
+      \field{issn}{8756-3894, 1559-7075}
+      \field{journaltitle}{{TechTrends}}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{{TechTrends}}
+      \field{title}{The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{67}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{217\bibrangedash 230}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s11528-022-00795-w
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/SGUAUMQD/Richardson et al. - 2023 - The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s11528-022-00795-w
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s11528-022-00795-w
+      \endverb
+    \endentry
+    \entry{Schwaber2001Agile}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
+           family={Schwaber},
+           familyi={S\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b081a82bcbc247aeb2a2ca9ae72f9566}{%
+           family={Beedle},
+           familyi={B\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{fullhash}{04151b742304f715657f4e7c479dd4da}
+      \strng{fullhashraw}{04151b742304f715657f4e7c479dd4da}
+      \strng{bibnamehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authorbibnamehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authornamehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authorfullhash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authorfullhashraw}{04151b742304f715657f4e7c479dd4da}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0130676344}
+      \field{series}{Addison-Wesley Signature Series}
+      \field{title}{Agile Software Development with Scrum}
+      \field{year}{2001}
+    \endentry
+    \entry{turk_assumptions_2005}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6131e20273369a25dbf1be8c8bf82736}{%
+           family={Turk},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd9a678ef0b3bbf984c7b14f37bcd23b}{%
+           family={{France. Robert}},
+           familyi={F\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c2b5a72fd30b6844022c3e1189390301}{%
+           family={Rumpe},
+           familyi={R\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{419196a05f7c3d7283227fd39a1c1b2a}
+      \strng{fullhash}{0415174476765d7341c6ef88c239de76}
+      \strng{fullhashraw}{0415174476765d7341c6ef88c239de76}
+      \strng{bibnamehash}{0415174476765d7341c6ef88c239de76}
+      \strng{authorbibnamehash}{0415174476765d7341c6ef88c239de76}
+      \strng{authornamehash}{419196a05f7c3d7283227fd39a1c1b2a}
+      \strng{authorfullhash}{0415174476765d7341c6ef88c239de76}
+      \strng{authorfullhashraw}{0415174476765d7341c6ef88c239de76}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Agile processes focus on facilitating early and fast production of working code, and are based on software development process models that support iterative, incremental development of software. Although agile methods have existed for a number of years now, answers to questions concerning the suitability of agile processes to particular software development environments are still often based on anecdotal accounts of experiences. An appreciation of the (often unstated) assumptions underlying agile processes can lead to a better understanding of the applicability of agile processes to particular situations. Agile processes are less likely to be applicable in situations in which core assumptions do not hold. This paper examines the principles and advocated practices of agile processes to identify underlying assumptions. The paper also identifies limitations that may arise from these assumptions and outlines how the limitations can be addresses by incorporating other software development techniques and practices into agile development environments.}
+      \field{day}{1}
+      \field{issn}{1063-8016, 1533-8010}
+      \field{journaltitle}{Journal of Database Management}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Assumptions Underlying Agile Software-Development Processes}
+      \field{title}{Assumptions Underlying Agile Software-Development Processes:}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{62\bibrangedash 87}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.4018/jdm.2005100104
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/9CFN4IGD/Turk et al. - 2005 - Assumptions Underlying Agile Software-Development Processes.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
+      \endverb
+      \verb{url}
+      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
+      \endverb
+    \endentry
     \entry{usama2021fpv}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=53f0ce173d4c6c40b249a7c8666c62b3}{%
@@ -1672,6 +1987,37 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/LRA.2025.3617729
+      \endverb
+    \endentry
+    \entry{yuetility2022fpvphysics}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe3e55d9c47c64baf24a242d60e1adce}{%
+           family={{Yuetility-Studios}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{fullhash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{fullhashraw}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{bibnamehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authorbibnamehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authornamehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authorfullhash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authorfullhashraw}{fe3e55d9c47c64baf24a242d60e1adce}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Unity Asset Store}
+      \field{title}{Yue Ultimate FPV Drone Physics (Version 1.0) [Computer software]}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
       \endverb
     \endentry
     \entry{zwolinski2022xr}{article}{}{}
@@ -1850,6 +2196,48 @@
       \verb 10.1609/aimag.v40i1.2844
       \endverb
     \endentry
+    \entry{Beck2004XP}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Kent},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db962664752cf07563d309bf97320bc5}{%
+           family={Andres},
+           familyi={A\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{fullhash}{05a972d2322d7190412c8633c5806a97}
+      \strng{fullhashraw}{05a972d2322d7190412c8633c5806a97}
+      \strng{bibnamehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authorbibnamehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authornamehash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authorfullhash}{05a972d2322d7190412c8633c5806a97}
+      \strng{authorfullhashraw}{05a972d2322d7190412c8633c5806a97}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{978-0321278654}
+      \field{series}{The XP Series}
+      \field{title}{Extreme Programming Explained: Embrace Change}
+      \field{year}{2004}
+    \endentry
     \entry{bennett1993pid}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e24a600e54f176f06e2312b1af097884}{%
@@ -2580,6 +2968,72 @@
       \verb https://link.springer.com/10.1007/s10846-021-01527-7
       \endverb
     \endentry
+    \entry{jong_design-based_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=14497bde9dc99d9bf1835fb50d8eab71}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Morris\bibnamedelimb Siu\bibnamedelima Yung},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f484f2d812852b722a71b931010ac44}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Anmei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f707b9a9ce13a4648f71d26db182a25c}{%
+           family={Luk},
+           familyi={L\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c16ef13dcb0dbf75623c9a761bcdf5f9}
+      \strng{fullhash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{fullhashraw}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{bibnamehash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{authorbibnamehash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{authornamehash}{c16ef13dcb0dbf75623c9a761bcdf5f9}
+      \strng{authorfullhash}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \strng{authorfullhashraw}{fb1179ba824edb77ceb8d1f8f3b33ead}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Serious gaming has been regarded as one of the important student-centric learning approaches in the coming decade. However, there has been a lack of in-depth discussion of the teacher role in the course of serious gaming when it is adopted in formal schooling. The study discussed in this paper is a piece of two-cycle design-based research, involving three teachers respectively from top, middle and bottom academic banding schools in Hong Kong and their Grade 11 classes in two consecutive school years (197 students in total). In the context of formal curriculum learning and teaching, we (researchers) collaborated with the teachers (practitioners) to investigate (design, enact, analyse and redesign) what and how they should do in order to optimise their students’ serious gaming process and advance the pedagogic effectiveness of serious gaming in different classroom settings.}
+      \field{issn}{1793-7078}
+      \field{journaltitle}{Research and Practice in Technology Enhanced Learning}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{{RPTEL}}
+      \field{title}{Design-based research on teacher facilitation practices for serious gaming in formal schooling}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{19}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s41039-017-0056-6
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/BQMC2N3R/Jong et al. - 2017 - Design-based research on teacher facilitation practices for serious gaming in formal schooling.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://telrp.springeropen.com/articles/10.1186/s41039-017-0056-6
+      \endverb
+      \verb{url}
+      \verb http://telrp.springeropen.com/articles/10.1186/s41039-017-0056-6
+      \endverb
+    \endentry
     \entry{kaelbling1996rl}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=0bf25a24f49af5c83d08966e17941417}{%
@@ -2702,6 +3156,36 @@
       \verb{url}
       \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
       \endverb
+    \endentry
+    \entry{lovesay2003ergonomics}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5a24ed76e5c71574c63e4241276e579}{%
+           family={Lovesay},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{fullhash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{fullhashraw}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{bibnamehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editorbibnamehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editornamehash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editorfullhash}{f5a24ed76e5c71574c63e4241276e579}
+      \strng{editorfullhashraw}{f5a24ed76e5c71574c63e4241276e579}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Contemporary Ergonomics 1993}
+      \field{year}{2003}
     \endentry
     \entry{lowell_extended_2024}{article}{}{}
       \name{author}{1}{}{%
@@ -3114,6 +3598,183 @@
       \verb 10.48550/arXiv.2105.14231
       \endverb
     \endentry
+    \entry{richardson_process_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5b1cbe6ae6a44f332e7106208b6c6609}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Jennifer\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59dfbc072b8ec395fdcd19f1e6319f3c}{%
+           family={Castellanos\bibnamedelima Reyes},
+           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1017adc8cbb9b9718762decdfb36cdce}{%
+           family={Janakiraman},
+           familyi={J\bibinitperiod},
+           given={Shamila},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8ab642d89ed2422e5b06b4504099e79}{%
+           family={Duha},
+           familyi={D\bibinitperiod},
+           given={Mohammad\bibnamedelimb Shams\bibnamedelima Ud},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{248d305cf6ba8a78e15a80ded9a7c92c}
+      \strng{fullhash}{70ec539098a8a11815eb2039d062363f}
+      \strng{fullhashraw}{70ec539098a8a11815eb2039d062363f}
+      \strng{bibnamehash}{70ec539098a8a11815eb2039d062363f}
+      \strng{authorbibnamehash}{70ec539098a8a11815eb2039d062363f}
+      \strng{authornamehash}{248d305cf6ba8a78e15a80ded9a7c92c}
+      \strng{authorfullhash}{70ec539098a8a11815eb2039d062363f}
+      \strng{authorfullhashraw}{70ec539098a8a11815eb2039d062363f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Purdue Repository for Online Teaching and Learning ({PoRTAL}) was developed as an Open Educational Resource ({OER}) for graduate students and faculty in higher education settings to enhance their online teaching skills and strategies. The {PoRTAL} team used a design-based research approach ({DBR}; Wang \& Hannafin, Educational Technology Research and Development, 53(4), 5–23, 2005). In this study context, we used Van Tiem et al.’s (2012) model to identify problems faced by instructors who struggled with or were new to online teaching from a Human Performance Technology ({HPT}) standpoint. To address the identified needs, we created resources for online teaching and embedded our research within practical activities to further study our design process. Our efforts resulted in an {HPT}-{OER} Model for Designing Digital Repositories. The purpose of this paper is to share the {DBR} process that we used to develop an {OER} repository within an {HPT} model.}
+      \field{issn}{8756-3894, 1559-7075}
+      \field{journaltitle}{{TechTrends}}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{shortjournal}{{TechTrends}}
+      \field{title}{The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{67}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{217\bibrangedash 230}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s11528-022-00795-w
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/SGUAUMQD/Richardson et al. - 2023 - The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s11528-022-00795-w
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s11528-022-00795-w
+      \endverb
+    \endentry
+    \entry{Schwaber2001Agile}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
+           family={Schwaber},
+           familyi={S\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b081a82bcbc247aeb2a2ca9ae72f9566}{%
+           family={Beedle},
+           familyi={B\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Upper Saddle River, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{fullhash}{04151b742304f715657f4e7c479dd4da}
+      \strng{fullhashraw}{04151b742304f715657f4e7c479dd4da}
+      \strng{bibnamehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authorbibnamehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authornamehash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authorfullhash}{04151b742304f715657f4e7c479dd4da}
+      \strng{authorfullhashraw}{04151b742304f715657f4e7c479dd4da}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0130676344}
+      \field{series}{Addison-Wesley Signature Series}
+      \field{title}{Agile Software Development with Scrum}
+      \field{year}{2001}
+    \endentry
+    \entry{turk_assumptions_2005}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6131e20273369a25dbf1be8c8bf82736}{%
+           family={Turk},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd9a678ef0b3bbf984c7b14f37bcd23b}{%
+           family={{France. Robert}},
+           familyi={F\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c2b5a72fd30b6844022c3e1189390301}{%
+           family={Rumpe},
+           familyi={R\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{419196a05f7c3d7283227fd39a1c1b2a}
+      \strng{fullhash}{0415174476765d7341c6ef88c239de76}
+      \strng{fullhashraw}{0415174476765d7341c6ef88c239de76}
+      \strng{bibnamehash}{0415174476765d7341c6ef88c239de76}
+      \strng{authorbibnamehash}{0415174476765d7341c6ef88c239de76}
+      \strng{authornamehash}{419196a05f7c3d7283227fd39a1c1b2a}
+      \strng{authorfullhash}{0415174476765d7341c6ef88c239de76}
+      \strng{authorfullhashraw}{0415174476765d7341c6ef88c239de76}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Agile processes focus on facilitating early and fast production of working code, and are based on software development process models that support iterative, incremental development of software. Although agile methods have existed for a number of years now, answers to questions concerning the suitability of agile processes to particular software development environments are still often based on anecdotal accounts of experiences. An appreciation of the (often unstated) assumptions underlying agile processes can lead to a better understanding of the applicability of agile processes to particular situations. Agile processes are less likely to be applicable in situations in which core assumptions do not hold. This paper examines the principles and advocated practices of agile processes to identify underlying assumptions. The paper also identifies limitations that may arise from these assumptions and outlines how the limitations can be addresses by incorporating other software development techniques and practices into agile development environments.}
+      \field{day}{1}
+      \field{issn}{1063-8016, 1533-8010}
+      \field{journaltitle}{Journal of Database Management}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{Assumptions Underlying Agile Software-Development Processes}
+      \field{title}{Assumptions Underlying Agile Software-Development Processes:}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{62\bibrangedash 87}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.4018/jdm.2005100104
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/9CFN4IGD/Turk et al. - 2005 - Assumptions Underlying Agile Software-Development Processes.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
+      \endverb
+      \verb{url}
+      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
+      \endverb
+    \endentry
     \entry{usama2021fpv}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=53f0ce173d4c6c40b249a7c8666c62b3}{%
@@ -3409,6 +4070,37 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.1109/LRA.2025.3617729
+      \endverb
+    \endentry
+    \entry{yuetility2022fpvphysics}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fe3e55d9c47c64baf24a242d60e1adce}{%
+           family={{Yuetility-Studios}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{fullhash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{fullhashraw}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{bibnamehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authorbibnamehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authornamehash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authorfullhash}{fe3e55d9c47c64baf24a242d60e1adce}
+      \strng{authorfullhashraw}{fe3e55d9c47c64baf24a242d60e1adce}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Unity Asset Store}
+      \field{title}{Yue Ultimate FPV Drone Physics (Version 1.0) [Computer software]}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
       \endverb
     \endentry
     \entry{zwolinski2022xr}{article}{}{}

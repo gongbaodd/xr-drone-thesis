@@ -98,6 +98,10 @@
       <file>ref/learn-xr-2.bib</file>
       <file>ref/hac.bib</file>
       <file>ref/hchac.bib</file>
+      <file>ref/dbr.bib</file>
+      <file>ref/agile.bib</file>
+      <file>ref/xp.bib</file>
+      <file>ref/scrum.bib</file>
     </requires>
   </external>
 </requests>

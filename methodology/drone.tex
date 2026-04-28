@@ -1,0 +1,49 @@
+\subsection{Simulate the Quadcopter}
+
+This section examines the flight dynamics and control implementation
+found in the Yue's Ultimate Drone physics model \parencite{yuetility2022fpvphysics}. 
+
+\subsubsection{Controller Mapping}
+
+The flight controller distinguishes between unipolar throttle inputs and bipolar command sticks (Roll, Pitch, and Yaw): Throttle ($T$): Mapped to a normalized range of $[0, 1]$. Attitude Commands ($\theta, \phi, \psi$): Mapped to a range of $[-1, 1]$.
+
+To refine the pilot's control over the aircraft, the system utilizes a non-linear control curve for joystick calculation. As \parencite{lovesay2003ergonomics} observes, a good quality force tracking controller has a linear output, with joystick force directly proportional to sight velocity, but many systems shape the joystick voltage output, to achieve fine control and greater tracking accuracy as the joystick output approaches zero, whilst retaining the same maximum output capability.
+
+In this implementation, shaping is achieved by combining proportional ($p$) and exponential ($e$) components to calculate the target angular rate ($\tau$) from the raw angular rate ($u$) as shown in \cref{eq:mapping}.
+
+\begin{equation}\label{eq:mapping}
+    \tau = p \cdot u + e \cdot \text{sgn}(u) \cdot u^{2}
+\end{equation}
+
+The raw gamepad throttle $u_T \in [-1, 1]$ is normalized to a linear thrust scalar as shown in \cref{eq:mappingt}
+
+\begin{equation}\label{eq:mappingt}
+    T = \frac{u_T + 1}{2}
+\end{equation}
+
+\subsubsection{Flight Modes and Orientation Logic}
+
+Since the Unity engine utilizes the FixedUpdate method for physics calculations, the drone's target orientation is updated discretely at every physics timestep ($\Delta t$).
+
+In Acro mode, the joystick inputs command the angular rate of change. The drone's target orientation $q_{\text{target}}$ is an accumulation of these rates over time. The orientation is updated by integrating the processed angular rates ($\tau_\phi, \tau_\theta, \tau_\psi$) as shown in \cref{target_angular}, the Quaternion.Euler equation is \cref{eq:torque}.
+
+\begin{equation}\label{target_angular}
+\begin{gathered}
+    q_{\Delta} = \text{Quaternion.Euler}(\tau_\theta \Delta t, \tau_\phi \Delta t, \tau_\psi \Delta t) \\
+    q_{\text{target}, k} = q_{\text{target}, k-1} \cdot q_{\Delta}
+\end{gathered}
+\end{equation}
+
+In Self-Leveling mode, intended to prevent crashing and ease navigation, the pitch and roll sticks command a specific angle rather than a rate. Given a predefined maximum bank angle for pitch ($\theta_{\max}$) and roll ($\phi_{\max}$), the target values are calculated as \cref{eq:leveling}.
+
+\begin{equation}\label{eq:leveling}
+  \theta_{\text{target}} = u_\theta \cdot \theta_{\max}, \quad \phi_{\text{target}} = u_\phi \cdot \phi_{\max}  
+\end{equation}
+
+The simulation applies two primary vectors to the drone's Rigidbody: appliedForce (Thrust) and appliedTorque (Attitude Control).
+
+The total thrust force $\mathbf{F}_{\text{thrust}}$ is applied along the vehicle's local up vector ($\hat{\mathbf{u}}_{\text{up}}$). The magnitude is governed by the throttle $T$ and the maximum thrust constant $F_{\max}$, the thrust force is calculated as shown in \cref{eq:force}.
+
+\begin{equation}\label{eq:force}
+    \mathbf{F}_{\text{thrust}} = (T \cdot F_{\max}) \cdot \hat{\mathbf{u}}_{\text{up}}
+\end{equation}

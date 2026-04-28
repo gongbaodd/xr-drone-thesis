@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  28 APR 2026 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  28 APR 2026 18:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1220,117 +1220,117 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3.
  (/opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) (./theoretical_background/quadrotor/02_physics.tex
-<img/6DOF.png, id=393, 857.45343pt x 346.29375pt>
+<img/6DOF.png, id=413, 857.45343pt x 346.29375pt>
 File: img/6DOF.png Graphic file (type png)
 <use img/6DOF.png>
 Package pdftex.def Info: img/6DOF.png  used on input line 8.
 (pdftex.def)             Requested size: 375.80544pt x 151.77261pt.
  [8] [9 <./img/6DOF.png>]) (./theoretical_background/quadrotor/03_hci.tex
-<img/control.jpg, id=425, 1206.0542pt x 369.12097pt>
+<img/control.jpg, id=445, 1206.0542pt x 369.12097pt>
 File: img/control.jpg Graphic file (type jpg)
 <use img/control.jpg>
 Package pdftex.def Info: img/control.jpg  used on input line 9.
 (pdftex.def)             Requested size: 375.80544pt x 115.0177pt.
  [10]
-<img/drone.png, id=439, 903.375pt x 344.03531pt>
+<img/drone.png, id=459, 903.375pt x 344.03531pt>
 File: img/drone.png Graphic file (type png)
 <use img/drone.png>
 Package pdftex.def Info: img/drone.png  used on input line 35.
 (pdftex.def)             Requested size: 375.80544pt x 143.1237pt.
  [11 <./img/control.jpg>]
-<img/goggles.png, id=450, 285.31593pt x 209.28188pt>
+<img/goggles.png, id=470, 285.31593pt x 209.28188pt>
 File: img/goggles.png Graphic file (type png)
 <use img/goggles.png>
 Package pdftex.def Info: img/goggles.png  used on input line 49.
 (pdftex.def)             Requested size: 375.80544pt x 275.65892pt.
 ) (./theoretical_background/quadrotor/04_pid.tex)) (./theoretical_background/co-trainer/01_exp_learn.tex [12] [13 <./img/drone.png>] [14 <./img/goggles.png>]
-<img/decision.jpg, id=493, 451.6875pt x 173.89969pt>
+<img/decision.jpg, id=514, 451.6875pt x 173.89969pt>
 File: img/decision.jpg Graphic file (type jpg)
 <use img/decision.jpg>
 Package pdftex.def Info: img/decision.jpg  used on input line 62.
 (pdftex.def)             Requested size: 375.80544pt x 144.69225pt.
-) (./theoretical_background/xr/01-hci.tex)) (./_05_methodology.tex [15] [16 <./img/decision.jpg>]
-<img/yue.png, id=517, 338.76563pt x 225.84375pt>
+) (./theoretical_background/xr/01-hci.tex)) (./_05_methodology.tex [15] [16 <./img/decision.jpg>] (./methodology/dbr.tex) (./methodology/agile.tex) (./methodology/drone.tex [17]) [18]
+<img/yue.png, id=571, 338.76563pt x 225.84375pt>
 File: img/yue.png Graphic file (type png)
 <use img/yue.png>
-Package pdftex.def Info: img/yue.png  used on input line 28.
+Package pdftex.def Info: img/yue.png  used on input line 39.
 (pdftex.def)             Requested size: 375.80544pt x 250.54477pt.
- [17 <./img/yue.png (PNG copy)>] [18] [19]
-<img/pid.png, id=535, 429.10312pt x 194.22563pt>
+ [19 <./img/yue.png (PNG copy)>] [20] [21]
+<img/pid.png, id=589, 429.10312pt x 194.22563pt>
 File: img/pid.png Graphic file (type png)
 <use img/pid.png>
-Package pdftex.def Info: img/pid.png  used on input line 105.
+Package pdftex.def Info: img/pid.png  used on input line 116.
 (pdftex.def)             Requested size: 375.80544pt x 170.10406pt.
- [20 <./img/pid.png>]
-<img/path.png, id=542, 341.77687pt x 270.25969pt>
+ [22 <./img/pid.png>]
+<img/path.png, id=596, 341.77687pt x 270.25969pt>
 File: img/path.png Graphic file (type png)
 <use img/path.png>
-Package pdftex.def Info: img/path.png  used on input line 145.
+Package pdftex.def Info: img/path.png  used on input line 156.
 (pdftex.def)             Requested size: 375.80544pt x 297.18759pt.
- [21] [22 <./img/path.png>] [23]
-<img/ui.png, id=560, 585.68813pt x 303.38344pt>
+ [23] [24 <./img/path.png>] [25]
+<img/ui.png, id=616, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
-Package pdftex.def Info: img/ui.png  used on input line 219.
+Package pdftex.def Info: img/ui.png  used on input line 230.
 (pdftex.def)             Requested size: 375.80544pt x 194.67395pt.
- [24 <./img/ui.png>]
-<img/agent.png, id=569, 1130.2225pt x 970.62625pt>
+ [26 <./img/ui.png>]
+<img/agent.png, id=625, 1130.2225pt x 970.62625pt>
 File: img/agent.png Graphic file (type png)
 <use img/agent.png>
-Package pdftex.def Info: img/agent.png  used on input line 233.
+Package pdftex.def Info: img/agent.png  used on input line 244.
 (pdftex.def)             Requested size: 375.80544pt x 322.73659pt.
- [25 <./img/agent.png>] [26]
-<img/train.png, id=581, 642.90187pt x 345.54094pt>
+ [27 <./img/agent.png>] [28]
+<img/train.png, id=636, 642.90187pt x 345.54094pt>
 File: img/train.png Graphic file (type png)
 <use img/train.png>
-Package pdftex.def Info: img/train.png  used on input line 303.
+Package pdftex.def Info: img/train.png  used on input line 314.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
-<img/result.png, id=583, 782.17218pt x 665.48625pt>
+<img/result.png, id=638, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
-Package pdftex.def Info: img/result.png  used on input line 316.
+Package pdftex.def Info: img/result.png  used on input line 327.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
-<img/hover.png, id=585, 598.48593pt x 693.34032pt>
+<img/hover.png, id=640, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
-Package pdftex.def Info: img/hover.png  used on input line 327.
+Package pdftex.def Info: img/hover.png  used on input line 338.
 (pdftex.def)             Requested size: 375.80544pt x 435.37848pt.
- [27]
+ [29]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 337.
+(hyperref)                than one, level fixed on input line 348.
 
-[28 <./img/train.png>] [29 <./img/result.png>] [30]
-Overfull \hbox (395.16577pt too wide) in paragraph at lines 390--402
+[30 <./img/train.png>] [31 <./img/result.png>] [32]
+Overfull \hbox (395.16577pt too wide) in paragraph at lines 401--413
  [][] 
  []
 
-[31]) (./_06_result.tex [32] [33]) (./_07_discussion.tex [34]) (./_08_summary.tex [35]) [36] [37 <./img/hover.png>] [38
+[33]) (./_06_result.tex [34]) (./_07_discussion.tex [35]) (./_08_summary.tex [36]) [37] [38 <./img/hover.png>] [39
 
-] [39] [40] AED endfloat: Processing end Figures and Tables [41] (./main.aux)
+] [40] [41] AED endfloat: Processing end Figures and Tables [42] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E07DC588B04F08BC184124E5082A36F7;11723.
+(rerunfilecheck)             Checksum: DBAE5E1133C5E6D4CE37446E564658F4;12483.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37243 strings out of 467349
- 717529 string characters out of 5389291
- 1636472 words of memory out of 5000000
- 65535 multiletter control sequences out of 15000+600000
+ 37361 strings out of 467349
+ 720858 string characters out of 5389291
+ 1638877 words of memory out of 5000000
+ 65626 multiletter control sequences out of 15000+600000
  682364 words of font info for 110 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,118p,2055b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (41 pages, 2000217 bytes).
+Output written on main.pdf (42 pages, 2006843 bytes).
 PDF statistics:
- 772 PDF objects out of 1000 (max. 8388607)
- 677 compressed objects within 7 object streams
- 160 named destinations out of 1000 (max. 500000)
- 614 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 831 PDF objects out of 1000 (max. 8388607)
+ 734 compressed objects within 8 object streams
+ 177 named destinations out of 1000 (max. 500000)
+ 646 words of extra memory for PDF output out of 10000 (max. 10000000)
 
