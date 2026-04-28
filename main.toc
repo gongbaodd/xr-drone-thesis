@@ -39,21 +39,25 @@
 \contentsline {subsection}{Learning System Design}{27}{section*.48}%
 \contentsline {subsection}{Data Collection Methods}{27}{section*.49}%
 \contentsline {section}{Results}{28}{section*.50}%
-\contentsline {subsection}{Prototype Development Process}{28}{section*.51}%
-\contentsline {subsection}{Drone Control Implementation}{28}{section*.52}%
-\contentsline {subsection}{Physics and Simulation System}{28}{section*.53}%
-\contentsline {subsection}{XR Interaction and UI Results}{28}{section*.54}%
-\contentsline {section}{Discussion}{29}{section*.55}%
-\contentsline {subsection}{Research Questions Revisited}{29}{section*.56}%
-\contentsline {subsection}{Interpretation}{29}{section*.57}%
-\contentsline {subsection}{Connection to Theory}{29}{section*.58}%
-\contentsline {subsection}{Contribution}{29}{section*.59}%
-\contentsline {subsection}{Limitations}{29}{section*.60}%
-\contentsline {subsection}{Future Work}{29}{section*.61}%
-\contentsline {section}{Summary}{30}{section*.62}%
-\contentsline {subsection}{Goals}{30}{section*.63}%
-\contentsline {subsection}{Results}{30}{section*.64}%
-\contentsline {subsection}{Generalization}{30}{section*.65}%
-\contentsline {subsection}{Practical Use}{30}{section*.66}%
-\contentsline {subsection}{Future Study}{30}{section*.67}%
-\contentsline {section}{Appendix}{35}{section*.69}%
+\contentsline {subsection}{Control the Quadcopter in XR environment}{28}{section*.51}%
+\contentsline {subsection}{Path Following with PD Controller}{28}{section*.52}%
+\contentsline {subsection}{Hovering with RL Agent}{28}{section*.53}%
+\contentsline {subsection}{Tutorial on Game Interaction}{28}{section*.54}%
+\contentsline {subsection}{Control the Quadcopter in VR environment}{28}{section*.55}%
+\contentsline {subsection}{Drone Control Implementation}{28}{section*.56}%
+\contentsline {subsection}{Physics and Simulation System}{28}{section*.57}%
+\contentsline {subsection}{XR Interaction and UI Results}{28}{section*.58}%
+\contentsline {section}{Discussion}{29}{section*.59}%
+\contentsline {subsection}{Research Questions Revisited}{29}{section*.60}%
+\contentsline {subsection}{Interpretation}{29}{section*.61}%
+\contentsline {subsection}{Connection to Theory}{29}{section*.62}%
+\contentsline {subsection}{Contribution}{29}{section*.63}%
+\contentsline {subsection}{Limitations}{29}{section*.64}%
+\contentsline {subsection}{Future Work}{29}{section*.65}%
+\contentsline {section}{Summary}{30}{section*.66}%
+\contentsline {subsection}{Goals}{30}{section*.67}%
+\contentsline {subsection}{Results}{30}{section*.68}%
+\contentsline {subsection}{Generalization}{30}{section*.69}%
+\contentsline {subsection}{Practical Use}{30}{section*.70}%
+\contentsline {subsection}{Future Study}{30}{section*.71}%
+\contentsline {section}{Appendix}{35}{section*.73}%
