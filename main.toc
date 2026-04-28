@@ -27,9 +27,9 @@
 \contentsline {subsection}{Simulate the Quadcopter}{19}{section*.33}%
 \contentsline {subsubsection}{Controller Mapping}{19}{section*.34}%
 \contentsline {subsubsection}{Flight Modes and Orientation Logic}{20}{section*.35}%
-\contentsline {subsection}{Design of the CO-Trainer}{21}{section*.36}%
-\contentsline {subsubsection}{Design of a PD based CO-Trainer}{21}{section*.37}%
-\contentsline {subsubsection}{Design of a RL based CO-Trainer}{23}{section*.39}%
+\contentsline {subsection}{Design of the Human-AI Collaboration}{21}{section*.36}%
+\contentsline {subsubsection}{Design of a PD based HAC}{21}{section*.37}%
+\contentsline {subsubsection}{Design of a RL based HAC}{23}{section*.39}%
 \contentsline {subsection}{Comparison of Current XR Development Platforms}{24}{section*.41}%
 \contentsline {subsection}{System Design Overview}{27}{section*.43}%
 \contentsline {subsubsection}{Archetecture}{27}{section*.44}%
@@ -48,16 +48,25 @@
 \contentsline {subsection}{Physics and Simulation System}{28}{section*.57}%
 \contentsline {subsection}{XR Interaction and UI Results}{28}{section*.58}%
 \contentsline {section}{Discussion}{29}{section*.59}%
-\contentsline {subsection}{Research Questions Revisited}{29}{section*.60}%
-\contentsline {subsection}{Interpretation}{29}{section*.61}%
-\contentsline {subsection}{Connection to Theory}{29}{section*.62}%
-\contentsline {subsection}{Contribution}{29}{section*.63}%
-\contentsline {subsection}{Limitations}{29}{section*.64}%
-\contentsline {subsection}{Future Work}{29}{section*.65}%
-\contentsline {section}{Summary}{30}{section*.66}%
-\contentsline {subsection}{Goals}{30}{section*.67}%
-\contentsline {subsection}{Results}{30}{section*.68}%
-\contentsline {subsection}{Generalization}{30}{section*.69}%
-\contentsline {subsection}{Practical Use}{30}{section*.70}%
-\contentsline {subsection}{Future Study}{30}{section*.71}%
-\contentsline {section}{Appendix}{35}{section*.73}%
+\contentsline {subsection}{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{29}{section*.60}%
+\contentsline {subsubsection}{Support for Acrobatic Mode}{29}{section*.61}%
+\contentsline {subsubsection}{Alternative Control Algorithms for Quadcopters}{29}{section*.62}%
+\contentsline {subsection}{RQ2: How can a human-AI collaboration agent be designed to assist users?}{30}{section*.63}%
+\contentsline {subsubsection}{Player Testing}{30}{section*.64}%
+\contentsline {subsubsection}{Potential Use of Large Language Models}{30}{section*.65}%
+\contentsline {subsubsection}{Multimodal Feedback}{31}{section*.66}%
+\contentsline {subsubsection}{Imitation Learning}{31}{section*.67}%
+\contentsline {subsubsection}{Path-Following in Reinforcement Learning}{31}{section*.68}%
+\contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{31}{section*.69}%
+\contentsline {subsection}{Interpretation}{31}{section*.70}%
+\contentsline {subsection}{Connection to Theory}{32}{section*.71}%
+\contentsline {subsection}{Contribution}{32}{section*.72}%
+\contentsline {subsection}{Limitations}{32}{section*.73}%
+\contentsline {subsection}{Future Work}{32}{section*.74}%
+\contentsline {section}{Summary}{33}{section*.75}%
+\contentsline {subsection}{Goals}{33}{section*.76}%
+\contentsline {subsection}{Results}{33}{section*.77}%
+\contentsline {subsection}{Generalization}{33}{section*.78}%
+\contentsline {subsection}{Practical Use}{33}{section*.79}%
+\contentsline {subsection}{Future Study}{33}{section*.80}%
+\contentsline {section}{Appendix}{38}{section*.82}%

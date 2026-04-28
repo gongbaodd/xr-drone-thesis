@@ -621,6 +621,15 @@ INPUT result/drone_in_xr.tex
 INPUT ./_07_discussion.tex
 INPUT ./_07_discussion.tex
 INPUT _07_discussion.tex
+INPUT ./discussion/physics.tex
+INPUT ./discussion/physics.tex
+INPUT discussion/physics.tex
+INPUT ./discussion/cotrainer.tex
+INPUT ./discussion/cotrainer.tex
+INPUT discussion/cotrainer.tex
+INPUT ./discussion/xr.tex
+INPUT ./discussion/xr.tex
+INPUT discussion/xr.tex
 INPUT ./_08_summary.tex
 INPUT ./_08_summary.tex
 INPUT _08_summary.tex
