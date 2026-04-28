@@ -1,0 +1,43 @@
+\subsection{Comparison of Current XR Development Platforms}
+
+XR development is heavily dictated by the choice of game engine. Before initiating a project, it is critical to determine the target hardware and environmental requirements, as these factors define the development constraints.
+
+
+% <!-- TODO: move to theory or other places
+Mixed reality (MR) headsets create immersive experiences designed to spatially integrate virtual content into the physical world. The newest headsets rely on passthrough video. While using passthrough, a person does not see light from the real world but instead relies on stereoscopic, color, high resolution, low latency, real-time video of the world, which is displayed on small screens inside a headset \parencite{bailenson2024passthrough}.
+
+\parencite{waldow_investigating_2025} investigates Pass-Through Embodiment (PTE), The study found that PTE significantly enhances the user's sense of presence and embodiment compared to using a customizable digital avatar. The ability to see one's own body strengthens the feeling of being physically present in the VR environment without negatively affecting performance or causing sickness.
+
+Leveraging passthrough on modern XR devices can help developers build highly engaging mixed-reality environments, which is particularly beneficial for applications like prototyping drone simulations.
+
+% -->
+Here, we present a comparison of current game engines that support extended reality, based on programming language, physics engine, rendering methods, Meta support, machine learning support, and editor size (see Table~\ref{table:xr_engine}).
+
+\begin{table}[h]
+\centering
+\caption{Software Engine Comparison}\label{table:xr_engine}
+\setlength{\tabcolsep}{6pt} 
+\begin{tabularx}{1\textwidth}{l|X|X|X|X}
+\hline
+Feature & Unreal Engine (5.7) & Unity (6.0) & Godot (4.6) & Wonderland Engine \\
+\hline
+Language & C++, Blueprints    & C\#        & GDScript, C\# & JavaScript, TypeScript \\
+Physics & Chaos Physics      & NVIDIA PhysX, DOTS & Jolt Physics   & NVIDIA PhysX \\
+Rendering  & Lumen, Nanite & URP, HDRP    & Forward+, Mobile & WebGL2 \\
+Meta Support & Fork build  & First-class & Community-driven & No support \\
+ML Support & Learning Agent & ML Agents & Godot RL Agents & No support \\
+Editor Size & $\sim$50GB+ & $\sim$20GB & $<1$GB & 200MB \\
+\hline
+\end{tabularx}
+
+\end{table}
+
+Unreal Engine: UE is known for photorealistic rendering, UE provides unparalleled visual fidelity. Its Chaos Physics engine is highly regarded for complex simulations, making it the foundation for projects like Microsoft's AirSim. However, UE has a high barrier to entry: the editor is massive, and utilizing Meta's private APIs often requires compiling a custom engine branch from source.
+
+Unity: Unity remains the most popular choice for Meta Quest development due to its mature SDK support and C\# scripting. While it uses PhysX by default, its DOTS (Data-Oriented Technology Stack) provides high-performance physics for complex drone swarms. It offers the most streamlined out-of-the-box experience for Standalone VR.
+
+Godot: Godot has emerged as a powerful, lightweight alternative. It is highly compatible with modern AI coding assistants due to its Python-like GDScript. The integration of Jolt Physics as the default 3D engine has resolved previous performance hurdles for VR. However, its XR ecosystem is largely community-maintained. While excellent for prototyping, the lack of official Meta API support and the potential instability of third-party GDExtensions require careful dependency management for production-grade projects.
+
+Wonderland Engine: Wonderland Engine is a specialized WebXR engine built in C++ and compiled to WebAssembly.  By leveraging WebGL2, it achieves the performance necessary to render thousands of objects at native frame rates directly within a browser. The development workflow relies on JavaScript and TypeScript, providing a highly familiar and accessible environment for traditional web developers. A unique advantage is the ability to edit scenes directly on the headset, enabling instant feedback without removing the device.
+
+
