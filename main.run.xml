@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>main.bcf</file>
@@ -95,7 +95,9 @@
       <file>ref/experiential_learning.bib</file>
       <file>ref/sim.bib</file>
       <file>ref/learn-xr.bib</file>
-      <file>ref/learn-xr2.bib</file>
+      <file>ref/learn-xr-2.bib</file>
+      <file>ref/hac.bib</file>
+      <file>ref/hchac.bib</file>
     </requires>
   </external>
 </requests>

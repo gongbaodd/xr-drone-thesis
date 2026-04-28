@@ -556,16 +556,6 @@ INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
-INPUT ./_04_03_04_rl.tex
-INPUT ./_04_03_04_rl.tex
-INPUT _04_03_04_rl.tex
-INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf
-INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT ./img/decision.jpg
-INPUT ./img/decision.jpg
-INPUT ./img/decision.jpg
-INPUT ./img/decision.jpg
 INPUT ./_04_04_XR_HCI.tex
 INPUT ./_04_04_XR_HCI.tex
 INPUT _04_04_XR_HCI.tex
@@ -575,6 +565,9 @@ INPUT _04_05_Digital_Twin.tex
 INPUT ./_05_methodology.tex
 INPUT ./_05_methodology.tex
 INPUT _05_methodology.tex
+INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT ./img/yue.png
 INPUT ./img/yue.png
 INPUT ./img/yue.png
