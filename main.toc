@@ -15,7 +15,7 @@
 \contentsline {subsection}{Human–Computer Interaction in XR}{16}{section*.21}%
 \contentsline {subsubsection}{XR Inputs}{16}{section*.22}%
 \contentsline {subsubsection}{XR UI Frameworks}{16}{section*.23}%
-\contentsline {subsection}{Digital Twin and Spatial Computing Concepts}{16}{section*.24}%
+\contentsline {subsubsection}{Digital Twin and Spatial Computing Concepts}{16}{section*.24}%
 \contentsline {subsubsection}{Geographic Information Systems}{16}{section*.25}%
 \contentsline {subsubsection}{Digital Twin}{16}{section*.26}%
 \contentsline {subsubsection}{AI-assisted environment generation}{16}{section*.27}%

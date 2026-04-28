@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777386778.75783 "main.bcf" "main.bbl" "main" 1777386793.76173 0
-  "main.bcf" 1777386793.55162 137273 0133c38f4718181cab527802ebd33939 "pdflatex"
+["biber main"] 1777386778.75783 "main.bcf" "main.bbl" "main" 1777387019.16834 0
+  "main.bcf" 1777387018.98368 137273 0133c38f4718181cab527802ebd33939 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/cotrainer.bib" 1777378330.67337 5097 821fff52c3cb5d0224072c6862d19baa ""
   "ref/drone-controllers.bib" 1777294270 748 f43205e69fccaf708f2903cd94270a7c ""
@@ -20,7 +20,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777386787.77064 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777386793.76281 0
+["pdflatex"] 1777387013.24243 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777387019.16917 0
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777371781.47914 610 c5ba0acff609f7ec5bec4d46596dc317 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1777313236 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -263,9 +263,7 @@
   "_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "_02_abstract_page.tex" 1777385762.18441 1667 d5b27e84bbc54d89e661f503a45468c2 ""
   "_03_introduction.tex" 1777371156.18065 3755 80347ddcc39bed6ee64f34b0454e0c57 ""
-  "_04_04_XR_HCI.tex" 1777364687.94067 109 1580bf4395f0eb340892d83f31234af8 ""
-  "_04_05_Digital_Twin.tex" 1777364753.1583 186 ae5615bc71070dfe19ef1e1058c680d7 ""
-  "_04_theoretical_background.tex" 1777385054.75445 295 f8ca139cf6dc496b849e63071e567d65 ""
+  "_04_theoretical_background.tex" 1777386994.52834 280 e0e39d3b745b5811acd5ae37519521dc ""
   "_05_methodology.tex" 1777366918.70591 24020 1f9c1c87342446f033bafebcd777e970 ""
   "_06_result.tex" 1777364121.68315 203 8277e2f27621e7aa324937367f84bd88 ""
   "_07_discussion.tex" 1777364189.30697 673 e5fe00c395e1c2de2b340f076a3aa4b5 ""
@@ -283,19 +281,20 @@
   "img/train.png" 1777329563.68804 441463 1760e312228154aef704ee618f24517f ""
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
   "img/yue.png" 1777326831.77792 131973 32892bff3da0d5a470f73126d8ce99fa ""
-  "main.aux" 1777386793.53662 21386 6bb7f4dd1d0ec300be67c1b1ee1083db "pdflatex"
+  "main.aux" 1777387018.97168 21389 764770429b54945d5563f6df34374081 "pdflatex"
   "main.bbl" 1777386781.57545 175181 99850a43665fc3d2424a23f304dfc8aa "biber main"
-  "main.out" 1777386793.54662 11722 9aa063ea7bdf9e3eaf375478b7814855 "pdflatex"
-  "main.run.xml" 1777386793.55529 2957 2ae354e82df79638e54b6bfd9bb6c875 "pdflatex"
+  "main.out" 1777387018.97968 11723 e07dc588b04f08bc184124e5082a36f7 "pdflatex"
+  "main.run.xml" 1777387018.98706 2957 2ae354e82df79638e54b6bfd9bb6c875 "pdflatex"
   "main.tex" 1777371781.47914 610 c5ba0acff609f7ec5bec4d46596dc317 ""
-  "main.toc" 1777386793.55529 4740 b2f437c77deec772bb28a23120efb1c8 "pdflatex"
+  "main.toc" 1777387018.98706 4743 9061ae5e02951f4d0c44e61dd5eb8086 "pdflatex"
   "ref.tex" 1777386756.67212 534 0f30bd110c10cd9d1dcdf4bd81e26fba ""
   "settings.tex" 1777385663.81821 896 5c4fd50473cb0c35eac52b1907c9b93c ""
-  "theoretical_background/co-trainer/01_exp_learn.tex" 1777386771.758 4673 702fcda901a499f995abe19a80869bfc ""
+  "theoretical_background/co-trainer/01_exp_learn.tex" 1777386895.35825 4673 702fcda901a499f995abe19a80869bfc ""
   "theoretical_background/quadrotor/01_intro.tex" 1777377233.30895 1768 561846795f7de833b486efb64e697013 ""
   "theoretical_background/quadrotor/02_physics.tex" 1777374223.22521 3915 e891018eb1df78f09c8d1f779a53859e ""
   "theoretical_background/quadrotor/03_hci.tex" 1777376669.73985 3530 cdd7448210d6c697e813ee64d1df7b17 ""
   "theoretical_background/quadrotor/04_pid.tex" 1777385363.69381 1410 4e13e3b0286df2dbf81c0b5aad90c86e ""
+  "theoretical_background/xr/01-hci.tex" 1777387006.37951 299 4e3f23f642058a5c060fec625e446026 ""
   (generated)
   "main.aux"
   "main.bcf"

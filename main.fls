@@ -556,12 +556,9 @@ INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
-INPUT ./_04_04_XR_HCI.tex
-INPUT ./_04_04_XR_HCI.tex
-INPUT _04_04_XR_HCI.tex
-INPUT ./_04_05_Digital_Twin.tex
-INPUT ./_04_05_Digital_Twin.tex
-INPUT _04_05_Digital_Twin.tex
+INPUT ./theoretical_background/xr/01-hci.tex
+INPUT ./theoretical_background/xr/01-hci.tex
+INPUT theoretical_background/xr/01-hci.tex
 INPUT ./_05_methodology.tex
 INPUT ./_05_methodology.tex
 INPUT _05_methodology.tex
