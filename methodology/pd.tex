@@ -16,7 +16,7 @@ For attitude control, The error between the target orientation $q_{\text{target}
 
 Using Unity's ToAngleAxis method, this relative rotation is converted into an angle $\phi$ and an axis $\mathbf{n}$. The error vector $\mathbf{e}$ is then $\mathbf{e} = \phi \cdot \mathbf{n}$.
 
-The controller applies a PD loop (Proportional-Derivative) to generate corrective torque shown in \cref{eq:pd}.
+The controller applies a PD loop (Proportional-Derivative) to generate corrective torque shown in \cref{eq:pdt}.
 
 \begin{equation}\label{eq:pdt}
     \boldsymbol{\tau}_{\text{world}} = K_p \cdot \mathbf{e} + K_d \cdot \frac{\mathbf{e} - \mathbf{e}_{k-1}}{\Delta t}

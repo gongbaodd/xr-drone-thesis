@@ -615,6 +615,9 @@ INPUT methodology/xr.tex
 INPUT ./_06_result.tex
 INPUT ./_06_result.tex
 INPUT _06_result.tex
+INPUT ./result/drone_in_xr.tex
+INPUT ./result/drone_in_xr.tex
+INPUT result/drone_in_xr.tex
 INPUT ./_07_discussion.tex
 INPUT ./_07_discussion.tex
 INPUT _07_discussion.tex
