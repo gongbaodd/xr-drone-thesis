@@ -654,6 +654,14 @@ INPUT ./img/hover.png
 INPUT ./img/hover.png
 INPUT ./img/hover.png
 INPUT ./img/hover.png
+INPUT ./result/tutorial.tex
+INPUT ./result/tutorial.tex
+INPUT result/tutorial.tex
+INPUT ./img/stages/structure.png
+INPUT ./img/stages/structure.png
+INPUT ./img/stages/structure.png
+INPUT ./img/stages/structure.png
+INPUT ./img/stages/structure.png
 INPUT ./_07_discussion.tex
 INPUT ./_07_discussion.tex
 INPUT _07_discussion.tex
