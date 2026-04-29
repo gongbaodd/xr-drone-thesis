@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777460612.22194 "main.bcf" "main.bbl" "main" 1777492219.52582 0
-  "main.bcf" 1777492219.43973 139082 663bc80aa45a58e9162b1cd2183b3d39 "pdflatex"
+["biber main"] 1777460612.22194 "main.bcf" "main.bbl" "main" 1777495329.07103 0
+  "main.bcf" 1777495328.88639 139082 663bc80aa45a58e9162b1cd2183b3d39 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile.bib" 1777388751.66686 1810 253ade4b4b057214e1ad0ae108e9d4c9 ""
@@ -26,7 +26,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777492215.98661 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777492219.52631 0
+["pdflatex"] 1777495321.19796 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777495329.07196 0
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777483809.00919 634 aaa0335199ae2620b422e27fb59f781c ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1777313236 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -273,7 +273,7 @@
   "_02_abstract_page.tex" 1777491750.89757 1679 3bc1065b09dd456e051080e37e66a013 ""
   "_03_introduction.tex" 1777410426.20641 3753 8cd3b06e5a6368f5183e4633c26ea9e4 ""
   "_04_theoretical_background.tex" 1777386994.52834 280 e0e39d3b745b5811acd5ae37519521dc ""
-  "_05_methodology.tex" 1777395195.4482 784 707128754e5ade2c6b060c04ae46dddf ""
+  "_05_methodology.tex" 1777495104.3745 958 a7ebc5ca3ee5fb72218e9e020d718476 ""
   "_06_result.tex" 1777463477.8399 400 9c9ff8275bfdc9c16bac90837e921448 ""
   "_07_discussion.tex" 1777485078.98383 501 b7ce9a992ae359f88ba2168567525f92 ""
   "_08_summary.tex" 1777364254.26118 345 f28189dac524980266d4793fa9b3d746 ""
@@ -297,12 +297,12 @@
   "img/stages/structure.png" 1777464112.30142 869548 5831339d95e243e29b0fcc654ae225b1 ""
   "img/train.png" 1777329563.68804 441463 1760e312228154aef704ee618f24517f ""
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
-  "main.aux" 1777492219.42973 29216 309d9c58e8ddee2ae3dbcb4ab0f238e0 "pdflatex"
+  "main.aux" 1777495328.87039 29413 b864f4449878b4606f6035f6f42f90e2 "pdflatex"
   "main.bbl" 1777460616.67673 244186 69eb89ed7aac07ed21f4175f4085fdf7 "biber main"
-  "main.out" 1777492219.43773 14235 4b30fd86f7b9cc4344577d35e9d9cb64 "pdflatex"
-  "main.run.xml" 1777492219.44227 3153 4760e721c3870e79508658b2414ac6dc "pdflatex"
+  "main.out" 1777495328.88239 13966 79610bcd79201cc6e3bdd6bd1efa0689 "pdflatex"
+  "main.run.xml" 1777495328.88816 3153 4760e721c3870e79508658b2414ac6dc "pdflatex"
   "main.tex" 1777483809.00919 634 aaa0335199ae2620b422e27fb59f781c ""
-  "main.toc" 1777492219.44227 5451 f8334bd21908da28bd85e91e2f6d768d "pdflatex"
+  "main.toc" 1777495328.88816 5566 8367facf6f4b0ef53307b95b095dc60b "pdflatex"
   "methodology/agile.tex" 1777389135.08028 127 7a66d67257fef746381626dac11a2c3d ""
   "methodology/dbr.tex" 1777388496.24896 346 662ffecac008b23a0772530ba1c18ba0 ""
   "methodology/drone.tex" 1777390860.87631 3350 609e8afdc136a430da1a0c9d5369e143 ""
@@ -316,14 +316,14 @@
   "result/rl.tex" 1777464185.91689 2557 2eeff059bb117536ae48d9c3b6464cbf ""
   "result/tutorial.tex" 1777465219.3027 1358 f8a7ef44520b9989aad179f32c7fd479 ""
   "settings.tex" 1777395809.15629 918 3f7890537faebf7a3f5105474213b761 ""
-  "theoretical_background/co-trainer/01_exp_learn.tex" 1777393948.6997 4678 0b8743bbd713aa11eee1f19eaa8bfccb ""
+  "theoretical_background/co-trainer/01_exp_learn.tex" 1777493509.36063 4716 ece5755758642b95fb2d98671a4790e3 ""
   "theoretical_background/quadrotor/01_intro.tex" 1777377233.30895 1768 561846795f7de833b486efb64e697013 ""
   "theoretical_background/quadrotor/02_physics.tex" 1777374223.22521 3915 e891018eb1df78f09c8d1f779a53859e ""
   "theoretical_background/quadrotor/03_hci.tex" 1777465084.26907 3533 079ba60508cc137d8de666a72a57f307 ""
   "theoretical_background/quadrotor/04_pid.tex" 1777492215.79344 1434 0e6780609bd691e528cd8c53104de715 ""
-  "theoretical_background/xr/01-hci.tex" 1777398115.17899 394 4cd2d39f2fb10c766222760fe5b9ea06 ""
+  "theoretical_background/xr/01-hci.tex" 1777495314.13508 141 2f79c49e8f6fb65cc004e27c24d20622 ""
   "theoretical_background/xr/hardware.tex" 1777398246.04122 2036 d053baa3c37c9ba7aecac57b0b8cd88c ""
-  "theoretical_background/xr/software.tex" 1777398761.54139 2435 de6ba61127e8d2ffed4d3b7946051d1a ""
+  "theoretical_background/xr/software.tex" 1777494414.20286 2604 dec95689192d0e22ae0d56fa23e94ffb ""
   (generated)
   "main.aux"
   "main.bcf"
