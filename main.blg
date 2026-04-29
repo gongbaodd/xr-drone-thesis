@@ -1,82 +1,82 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'main.blg'
-[86] biber:342> INFO - === K apr   29, 2026, 09:41:46
-[107] Biber.pm:421> INFO - Reading 'main.bcf'
-[233] Biber.pm:1002> INFO - Found 43 citekeys in bib section 0
-[262] Biber.pm:4487> INFO - Processing section 0
-[275] Biber.pm:4678> INFO - Looking for bibtex file 'ref/heavyworkers.bib' for section 0
-[276] bibtex.pm:1713> INFO - LaTeX decoding ...
-[300] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/heavyworkers.bib'
-[408] Biber.pm:4678> INFO - Looking for bibtex file 'ref/xr-training.bib' for section 0
-[409] bibtex.pm:1713> INFO - LaTeX decoding ...
-[426] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/xr-training.bib'
-[427] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-controllers.bib' for section 0
-[428] bibtex.pm:1713> INFO - LaTeX decoding ...
-[430] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-controllers.bib'
-[442] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-sim.bib' for section 0
-[445] bibtex.pm:1713> INFO - LaTeX decoding ...
-[503] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-sim.bib'
-[520] Biber.pm:4678> INFO - Looking for bibtex file 'ref/MR-drone-sim.bib' for section 0
-[521] bibtex.pm:1713> INFO - LaTeX decoding ...
-[539] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/MR-drone-sim.bib'
-[541] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-usage.bib' for section 0
-[541] bibtex.pm:1713> INFO - LaTeX decoding ...
-[545] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-usage.bib'
-[557] Biber.pm:4678> INFO - Looking for bibtex file 'ref/history.bib' for section 0
-[558] bibtex.pm:1713> INFO - LaTeX decoding ...
-[561] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/history.bib'
-[573] Biber.pm:4678> INFO - Looking for bibtex file 'ref/theory.bib' for section 0
-[574] bibtex.pm:1713> INFO - LaTeX decoding ...
-[593] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/theory.bib'
-[708] Biber.pm:4678> INFO - Looking for bibtex file 'ref/cotrainer.bib' for section 0
-[709] bibtex.pm:1713> INFO - LaTeX decoding ...
-[721] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/cotrainer.bib'
-[722] Biber.pm:4678> INFO - Looking for bibtex file 'ref/experiential_learning.bib' for section 0
-[723] bibtex.pm:1713> INFO - LaTeX decoding ...
-[725] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/experiential_learning.bib'
-[730] Biber.pm:4678> INFO - Looking for bibtex file 'ref/sim.bib' for section 0
-[731] bibtex.pm:1713> INFO - LaTeX decoding ...
-[741] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/sim.bib'
-[772] Biber.pm:4678> INFO - Looking for bibtex file 'ref/learn-xr.bib' for section 0
-[774] bibtex.pm:1713> INFO - LaTeX decoding ...
-[798] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/learn-xr.bib'
-[838] Biber.pm:4678> INFO - Looking for bibtex file 'ref/learn-xr-2.bib' for section 0
-[838] bibtex.pm:1713> INFO - LaTeX decoding ...
-[840] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/learn-xr-2.bib'
-[857] Biber.pm:4678> INFO - Looking for bibtex file 'ref/hac.bib' for section 0
-[858] bibtex.pm:1713> INFO - LaTeX decoding ...
-[869] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/hac.bib'
-[890] Biber.pm:4678> INFO - Looking for bibtex file 'ref/hchac.bib' for section 0
-[890] bibtex.pm:1713> INFO - LaTeX decoding ...
-[892] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/hchac.bib'
-[905] Biber.pm:4678> INFO - Looking for bibtex file 'ref/dbr.bib' for section 0
-[906] bibtex.pm:1713> INFO - LaTeX decoding ...
-[918] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/dbr.bib'
-[939] Biber.pm:4678> INFO - Looking for bibtex file 'ref/agile.bib' for section 0
-[940] bibtex.pm:1713> INFO - LaTeX decoding ...
-[943] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/agile.bib'
-[952] Biber.pm:4678> INFO - Looking for bibtex file 'ref/xp.bib' for section 0
-[952] bibtex.pm:1713> INFO - LaTeX decoding ...
-[954] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/xp.bib'
-[961] Biber.pm:4678> INFO - Looking for bibtex file 'ref/scrum.bib' for section 0
-[962] bibtex.pm:1713> INFO - LaTeX decoding ...
-[964] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/scrum.bib'
-[973] Biber.pm:4678> INFO - Looking for bibtex file 'ref/dutescu.bib' for section 0
-[974] bibtex.pm:1713> INFO - LaTeX decoding ...
-[980] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/dutescu.bib'
-[991] Biber.pm:4678> INFO - Looking for bibtex file 'ref/Waldow.bib' for section 0
-[992] bibtex.pm:1713> INFO - LaTeX decoding ...
-[998] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/Waldow.bib'
-[1118] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1118] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1119] Biber.pm:4307> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[1119] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[1262] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1262] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1262] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[1262] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[1337] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1415] bbl.pm:779> INFO - Output to main.bbl
-[1417] Biber.pm:132> WARN - Duplicate entry key: 'rothenberger_meta_2025' in file 'ref/cotrainer.bib', skipping ...
-[1417] Biber.pm:132> WARN - Duplicate entry key: 'knobovitch_virtual_2025' in file 'ref/cotrainer.bib', skipping ...
-[1417] Biber.pm:134> INFO - WARNINGS: 2
+[3] Config.pm:328> INFO - This is Biber 2.21
+[5] Config.pm:331> INFO - Logfile is 'main.blg'
+[793] biber:342> INFO - === K apr   29, 2026, 14:03:34
+[952] Biber.pm:421> INFO - Reading 'main.bcf'
+[1144] Biber.pm:1002> INFO - Found 43 citekeys in bib section 0
+[1176] Biber.pm:4487> INFO - Processing section 0
+[1194] Biber.pm:4678> INFO - Looking for bibtex file 'ref/heavyworkers.bib' for section 0
+[1196] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1228] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/heavyworkers.bib'
+[1348] Biber.pm:4678> INFO - Looking for bibtex file 'ref/xr-training.bib' for section 0
+[1350] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1367] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/xr-training.bib'
+[1368] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-controllers.bib' for section 0
+[1369] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1372] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-controllers.bib'
+[1388] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-sim.bib' for section 0
+[1390] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1454] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-sim.bib'
+[1475] Biber.pm:4678> INFO - Looking for bibtex file 'ref/MR-drone-sim.bib' for section 0
+[1476] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1499] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/MR-drone-sim.bib'
+[1501] Biber.pm:4678> INFO - Looking for bibtex file 'ref/drone-usage.bib' for section 0
+[1502] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1506] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/drone-usage.bib'
+[1522] Biber.pm:4678> INFO - Looking for bibtex file 'ref/history.bib' for section 0
+[1523] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1526] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/history.bib'
+[1540] Biber.pm:4678> INFO - Looking for bibtex file 'ref/theory.bib' for section 0
+[1541] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1566] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/theory.bib'
+[1690] Biber.pm:4678> INFO - Looking for bibtex file 'ref/cotrainer.bib' for section 0
+[1691] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1707] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/cotrainer.bib'
+[1708] Biber.pm:4678> INFO - Looking for bibtex file 'ref/experiential_learning.bib' for section 0
+[1709] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1711] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/experiential_learning.bib'
+[1717] Biber.pm:4678> INFO - Looking for bibtex file 'ref/sim.bib' for section 0
+[1719] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1731] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/sim.bib'
+[1778] Biber.pm:4678> INFO - Looking for bibtex file 'ref/learn-xr.bib' for section 0
+[1781] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1840] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/learn-xr.bib'
+[1931] Biber.pm:4678> INFO - Looking for bibtex file 'ref/learn-xr-2.bib' for section 0
+[1933] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1938] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/learn-xr-2.bib'
+[1981] Biber.pm:4678> INFO - Looking for bibtex file 'ref/hac.bib' for section 0
+[1983] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2003] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/hac.bib'
+[2048] Biber.pm:4678> INFO - Looking for bibtex file 'ref/hchac.bib' for section 0
+[2049] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2052] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/hchac.bib'
+[2078] Biber.pm:4678> INFO - Looking for bibtex file 'ref/dbr.bib' for section 0
+[2080] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2101] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/dbr.bib'
+[2145] Biber.pm:4678> INFO - Looking for bibtex file 'ref/agile.bib' for section 0
+[2146] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2153] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/agile.bib'
+[2174] Biber.pm:4678> INFO - Looking for bibtex file 'ref/xp.bib' for section 0
+[2175] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2180] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/xp.bib'
+[2194] Biber.pm:4678> INFO - Looking for bibtex file 'ref/scrum.bib' for section 0
+[2195] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2199] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/scrum.bib'
+[2212] Biber.pm:4678> INFO - Looking for bibtex file 'ref/dutescu.bib' for section 0
+[2214] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2222] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/dutescu.bib'
+[2245] Biber.pm:4678> INFO - Looking for bibtex file 'ref/Waldow.bib' for section 0
+[2246] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2258] bibtex.pm:1519> INFO - Found BibTeX data source 'ref/Waldow.bib'
+[2510] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2510] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2510] Biber.pm:4307> INFO - Sorting list 'nyt/apasortcite//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2510] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[2754] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2754] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2754] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2754] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[2859] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2960] bbl.pm:779> INFO - Output to main.bbl
+[2963] Biber.pm:132> WARN - Duplicate entry key: 'rothenberger_meta_2025' in file 'ref/cotrainer.bib', skipping ...
+[2963] Biber.pm:132> WARN - Duplicate entry key: 'knobovitch_virtual_2025' in file 'ref/cotrainer.bib', skipping ...
+[2963] Biber.pm:134> INFO - WARNINGS: 2
