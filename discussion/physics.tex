@@ -1,19 +1,19 @@
 \subsection{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}
 
-This study adopts Yue's Ultimate Drone physics model \parencite{yuetility2022fpvphysics} as a reference implementation for simulating first-person view (FPV) quadcopter flight dynamics. The model employs a proportional-derivative (PD) control approach for flight stabilization, which is widely used in modern quadcopter systems. 
+This study adopts Yue's Ultimate Drone physics model \parencite{yuetility2022fpvphysics} as a reference implementation for simulating first-person view (FPV) quadcopter flight dynamics. The model employs a proportional-derivative (PD) control approach for flight stabilization, which is widely used in modern quadcopter systems.
 
-In addition, a mapping strategy was developed to translate the controller profile of the Meta Quest into a simulated drone transmitter, enabling intuitive user interaction within the virtual environment.
+In addition, a mapping strategy was developed to translate the controller profile of the Meta Quest into a simulated drone transmitter, thereby enabling intuitive user interaction within the virtual environment.
 
-To ensure safe operation during simulation, the environment incorporates a collider-based boundary that constrains the quadcopter within a predefined area.
+To ensure safe operation during simulation, the environment incorporates collider-based boundaries that constrain the quadcopter within a predefined area.
 
-\subsubsection{Support for Acrobatic Mode}
+\subsubsection{Comparison With Existing Simulators}
 
-For the purposes of simplified implementation, the current study restricts the drone physics to a self-leveling mode. Although Yue's Ultimate Drone physics model also supports an acrobatic mode, this functionality was not included, as the human AI collaboration agents were specifically configured for self-leveling flight dynamics. Consequently, the system does not provide access to acrobatic mode.
+FPV simulators (e.g., Liftoff, Uncrashed) primarily adopt cascaded proportional-integral-derivative (PID) control models to replicate real-world flight controllers. These systems typically support multiple controller configurations and provide interfaces for PID parameter tuning. However, such configurations can be difficult for beginners to set up with their own controllers.
 
-Future research should consider incorporating acrobatic mode, despite its increased difficulty and higher likelihood of crashes. This introduces several design considerations, including mechanisms for crash recovery, feedback systems for crash detection, and strategies for enabling AI agents to avoid collisions. From a game design perspective, it is also necessary to evaluate whether and how penalties should be applied following crashes.
+Although most simulators provide a variety of selectable environments, they are primarily designed for flat-panel displays and do not offer the immersive learning enabled by extended reality (XR) environments.
 
-\subsubsection{Alternative Control Algorithms for Quadcopters}
+Commercial FPV simulators commonly employ Acro (acrobat) mode to achieve realistic flight behavior. In contrast, this study focuses on a self-leveling flight mode, which constrains the drone's body angle and reduces the likelihood of crashes, thereby minimizing user frustration during early-stage learning.
 
-In addition to PD control, various alternative control algorithms have been proposed for quadcopter systems, such as the linear quadratic regulator (LQR). These methods exhibit different performance characteristics and are suited to different operational contexts.
+Unlike existing simulators, the proposed system incorporates a human-AI collaboration mechanism that provides calculated control suggestions to support user decision-making.
 
-Implementing and evaluating these control algorithms within a simulated environment is a viable approach, allowing for systematic comparison through playtesting under diverse environmental conditions can be a good option for future study.
+Although Acro mode remains important for future investigation due to its higher realism, it also introduces a greater likelihood of crashes. This raises several design considerations, including mechanisms for crash recovery, feedback systems for crash detection, and strategies for enabling AI agents to avoid collisions. From a game design perspective, it is also necessary to evaluate whether and how penalties should be applied following crashes.

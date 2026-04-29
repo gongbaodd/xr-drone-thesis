@@ -1,0 +1,19 @@
+\subsection{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}
+
+This study adopts Yue's Ultimate Drone physics model \parencite{yuetility2022fpvphysics} as a reference implementation for simulating first-person view (FPV) quadcopter flight dynamics. The model employs a proportional-derivative (PD) control approach for flight stabilization, which is widely used in modern quadcopter systems. 
+
+In addition, a mapping strategy was developed to translate the controller profile of the Meta Quest into a simulated drone transmitter, enabling intuitive user interaction within the virtual environment.
+
+To ensure safe operation during simulation, the environment incorporates a collider-based boundary that constrains the quadcopter within a predefined area.
+
+\subsubsection{Support for Acrobatic Mode}
+
+For the purposes of simplified implementation, the current study restricts the drone physics to a self-leveling mode. Although Yue's Ultimate Drone physics model also supports an acrobatic mode, this functionality was not included, as the human AI collaboration agents were specifically configured for self-leveling flight dynamics. Consequently, the system does not provide access to acrobatic mode.
+
+Future research should consider incorporating acrobatic mode, despite its increased difficulty and higher likelihood of crashes. This introduces several design considerations, including mechanisms for crash recovery, feedback systems for crash detection, and strategies for enabling AI agents to avoid collisions. From a game design perspective, it is also necessary to evaluate whether and how penalties should be applied following crashes.
+
+\subsubsection{Alternative Control Algorithms for Quadcopters}
+
+In addition to PD control, various alternative control algorithms have been proposed for quadcopter systems, such as the linear quadratic regulator (LQR). These methods exhibit different performance characteristics and are suited to different operational contexts.
+
+Implementing and evaluating these control algorithms within a simulated environment is a viable approach, allowing for systematic comparison through playtesting under diverse environmental conditions can be a good option for future study.
