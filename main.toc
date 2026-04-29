@@ -28,7 +28,7 @@
 \contentsline {subsubsection}{Controller Mapping}{19}{section*.34}%
 \contentsline {subsubsection}{Flight Modes and Orientation Logic}{20}{section*.35}%
 \contentsline {subsection}{Design of the Human-AI Collaboration}{21}{section*.36}%
-\contentsline {subsubsection}{Design of a PD based HAC}{21}{section*.37}%
+\contentsline {subsubsection}{Design of a PID based HAC}{21}{section*.37}%
 \contentsline {subsubsection}{Design of a RL based HAC}{23}{section*.39}%
 \contentsline {subsection}{Comparison of Current XR Development Platforms}{24}{section*.41}%
 \contentsline {subsection}{System Design Overview}{27}{section*.43}%
