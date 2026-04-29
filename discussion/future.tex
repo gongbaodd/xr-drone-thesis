@@ -1,0 +1,35 @@
+\subsection{Future Work}
+
+\subsubsection{Evaluation Methodology for XR-Based Drone Prototyping}
+
+Future work should develop more reliable evaluation methods for XR-based drone prototyping systems. In current user studies, participants may have very different levels of experience with XR devices, which can strongly affect their performance and learning speed.
+
+To address this issue, future studies should consider designing evaluation protocols that reduce the influence of prior XR familiarity.
+
+% drone physics
+\subsubsection{Extending to Acrobatic Flight Mode}
+
+Future work should extend the current self-leveling flight system to include acrobatic (acro) mode. While acro mode enables more expressive and realistic quadcopter control, it also introduces significantly higher control complexity and instability. This extension raises several research challenges, including crash detection, recovery mechanisms, and AI-assisted strategies. 
+
+From a game design perspective, it is also important to investigate circumstances, such as penalties or reset mechanisms.
+
+% xr
+\subsubsection{Designing Multimodal Feedback Mechanisms}
+
+Future research should explore the integration of multimodal feedback, including audio, and haptic channels, to enhance user awareness during flight control. Rather than simply adding additional feedback modalities, it is important to investigate their placement, timing, and intensity, as these parameters may significantly affect cognitive load and learning performance. A systematic study of feedback design space could provide guidelines for more effective XR interaction design.
+
+% HAC
+\subsubsection{Reinforcement Learning for Path-Following Control}
+
+While hovering control can be effectively modeled using distance-based feedback signals, path-following tasks require reasoning over multiple spatial and temporal variables. Manually designing these features can become inefficient and non-scalable.
+
+Future work should explore reinforcement learning approaches to automatically learn control policies from richer state representations. This may enable a transition from target-based navigation to more general vision-based flight control systems.
+
+% HAC
+\subsubsection{Imitation Learning for Human-Guided Control}
+
+Although imitation learning provides a promising direction for human-aligned control policies, it requires large-scale and high-quality human demonstration data. In the context of XR drone interaction, collecting such data introduces challenges in consistency, labeling, and user variability.
+
+Future research should investigate efficient data collection strategies, including semi-automated annotation or human-in-the-loop learning, to reduce the overhead of dataset construction and improve training efficiency.
+
+

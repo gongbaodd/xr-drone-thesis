@@ -1,0 +1,33 @@
+\subsection{RQ2: How can a human-AI collaboration agent be designed to assist users?}
+
+This study presents two approaches for designing a human-AI collaboration agent. The first approach is a transparent, white-box method based on proportional-integral-derivative (PID) control. The second approach is a black-box method using reinforcement learning (RL).
+
+To facilitate user interaction and feedback, a heads-up display (HUD) was implemented to visualize the AI's real-time predictions on joystick inputs. The results indicate that the RL-based solution provides greater flexibility during prototyping, as the frequency of agent decision-making can be adjusted dynamically. However, due to its black-box nature, effective fine-tuning remains challenging and represents an important direction for future research.
+
+\subsubsection{Player Testing}
+
+This study primarily focuses on system implementation. Although preliminary peer testing of both approaches yielded promising observations, a large number of variables must be controlled to ensure reliable evaluation.
+
+With a sufficiently large playtesting scale, user data could support systematic fine-tuning of the agent. Therefore, the development of a structured playtesting framework is necessary for future work.
+
+\subsubsection{Potential Use of Large Language Models}
+
+Large language models (LLMs) have recently attracted significant attention. However, within the game industry, their applications remain largely limited to dialogue generation. Extending LLMs to decision-making processes represents a potential research direction. Nonetheless, questions regarding the logical reasoning capabilities of LLMs fall beyond the scope of this study.
+
+\subsubsection{Multimodal Feedback}
+
+Extended reality (XR) environments provide more than visual feedback. Accordingly, additional modalities, such as haptic feedback and spatial audio, were considered in the design phase of the human-AI collaboration system.
+
+However, incorporating these modalities introduces additional complexity, including determining appropriate feedback types, intensity levels, and integration strategies. These challenges represent substantial research questions that need further investigation.
+
+\subsubsection{Imitation Learning}
+
+The study initially considered incorporating imitation learning, for which Unity ML-Agents provides relevant tools. However, this approach requires a substantial amount of real human interaction data.
+
+Consequently, methods for efficient data collection and annotation must be explored before imitation learning can be effectively implemented.
+
+\subsubsection{Path-Following in Reinforcement Learning}
+
+While implementing hovering behavior is relatively straightforward—primarily influenced by the distance to the target altitude—path-following tasks require the observation of multiple parameters. Manually defining these parameters can result in redundant and inefficient design processes.
+
+A more scalable approach would involve leveraging large datasets and applying statistical methods to identify the most relevant features. In future work, this could enable a transition from target-based navigation to vision-based navigation systems.
