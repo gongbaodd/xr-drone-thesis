@@ -58,15 +58,11 @@
 \contentsline {subsubsection}{Imitation Learning}{31}{section*.67}%
 \contentsline {subsubsection}{Path-Following in Reinforcement Learning}{31}{section*.68}%
 \contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{31}{section*.69}%
-\contentsline {subsection}{Interpretation}{31}{section*.70}%
-\contentsline {subsection}{Connection to Theory}{32}{section*.71}%
-\contentsline {subsection}{Contribution}{32}{section*.72}%
-\contentsline {subsection}{Limitations}{32}{section*.73}%
-\contentsline {subsection}{Future Work}{32}{section*.74}%
-\contentsline {section}{Summary}{33}{section*.75}%
-\contentsline {subsection}{Goals}{33}{section*.76}%
-\contentsline {subsection}{Results}{33}{section*.77}%
-\contentsline {subsection}{Generalization}{33}{section*.78}%
-\contentsline {subsection}{Practical Use}{33}{section*.79}%
-\contentsline {subsection}{Future Study}{33}{section*.80}%
-\contentsline {section}{Appendix}{38}{section*.82}%
+\contentsline {subsubsection}{Is XR More Effective Than a Flat Panel Display?}{32}{section*.70}%
+\contentsline {section}{Summary}{33}{section*.71}%
+\contentsline {subsection}{Goals}{33}{section*.72}%
+\contentsline {subsection}{Results}{33}{section*.73}%
+\contentsline {subsection}{Generalization}{33}{section*.74}%
+\contentsline {subsection}{Practical Use}{33}{section*.75}%
+\contentsline {subsection}{Future Study}{33}{section*.76}%
+\contentsline {section}{Appendix}{38}{section*.78}%

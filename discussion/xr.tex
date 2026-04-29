@@ -1,22 +1,13 @@
-
 \subsection{RQ3: What interaction methods enable high-fidelity XR prototyping?}
-XR supports training; AI provides guidance; system design partially validated.
 
-\subsection{Interpretation}
-XR enables immersion; AI provides feedback; combined supports learning.
+This study employs the Mixed Reality Toolkit (MRTK) with the Unity XR Toolkit to scaffold the user interface. Control inputs are implemented using the Meta Quest Touch Controller to emulate real-world quadcopter interaction. The user operates within a local-floor reference space, with a view-based heads-up display (HUD) providing real-time control status feedback.
 
-\subsection{Connection to Theory}
-Supports experiential and feedback-based learning.
+To simulate first-person-view (FPV) goggles, Unity's \texttt{RenderTexture} is utilized to project the quadcopter's camera feed onto a virtual display panel. This approach enables users to simultaneously perceive both the surrounding environment and the drone's perspective, thereby reducing the likelihood of simulator sickness.
 
-\subsection{Contribution}
-\begin{itemize}
-    \item XR-based training system
-    \item AI-assisted co-training approach
-    \item Integration of gamification and simulation
-\end{itemize}
+The system includes three distinct environments: (1) Additive Environment Blend, an augmented reality setting in which users engage with tutorial tasks within their familiar physical surroundings; (2) A white-boxed playground, which serves as a controlled training space for developing piloting skills; and (3) Real city piloting, a virtual geographic environment that allows users to navigate a simulated urban landscape. The design of these learning environments is grounded in experiential learning theory \parencite{kolb1984}, in which learners cycle through experiencing, reflecting, and experimenting to construct knowledge.
 
-\subsection{Limitations}
-No user study, limited RL, simplified tasks.
+\subsubsection{Is XR More Effective Than a Flat Panel Display?}
 
-\subsection{Future Work}
-User evaluation, more complex tasks, improved AI.
+This study adopts XR as the primary approach due to its alignment with the interaction paradigm of FPV drone piloting, which typically involves dual joystick input and a head-mounted display. In this implementation, feedback is primarily visual. In contrast, flat panel displays require additional consideration of interface layout and spatial organization for effective feedback delivery.
+
+While XR is hypothesized to provide a more immersive and natural interaction experience, the system can be adapted to a flat panel display. It is plausible that, with properly calibrated controls, flat panel systems may offer a comparable user experience. However, the extent to which immersion enhances learning and performance remains an open question and needs further investigation.

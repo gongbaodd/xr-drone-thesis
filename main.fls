@@ -630,9 +630,14 @@ INPUT discussion/cotrainer.tex
 INPUT ./discussion/xr.tex
 INPUT ./discussion/xr.tex
 INPUT discussion/xr.tex
+INPUT /opt/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /opt/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /opt/texlive/2026/texmf-dist/tex/latex/lm/t1lmtt.fd
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
 INPUT ./_08_summary.tex
 INPUT ./_08_summary.tex
 INPUT _08_summary.tex
+INPUT /opt/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT ./_09_appendix.tex
 INPUT ./_09_appendix.tex
 INPUT _09_appendix.tex
@@ -645,6 +650,7 @@ INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb
