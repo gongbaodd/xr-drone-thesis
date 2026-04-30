@@ -328,6 +328,53 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
+    \entry{dablander_future_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=026807838749dac1d3b2003f76c1025d}{%
+           family={Dablander},
+           familyi={D\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{fullhash}{026807838749dac1d3b2003f76c1025d}
+      \strng{fullhashraw}{026807838749dac1d3b2003f76c1025d}
+      \strng{bibnamehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authorbibnamehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authornamehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authorfullhash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authorfullhashraw}{026807838749dac1d3b2003f76c1025d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Video games are a natural and synergistic application domain for artificial intelligence ({AI}) systems, offering both the potential to enhance player experience and immersion, as well as providing valuable benchmarks and virtual environments to advance {AI} technologies in general. This report presents a high-level overview of five promising research pathways for applying state-of-the-art {AI} methods, particularly deep learning, to digital gaming within the context of the current research landscape. The objective of this work is to outline a curated, non-exhaustive list of encouraging research directions at the intersection of {AI} and video games that may serve to inspire more rigorous and comprehensive research efforts in the future. We discuss (i) investigating large language models as core engines for game agent modelling, (ii) using neural cellular automata for procedural game content generation, (iii) accelerating computationally expensive in-game simulations via deep surrogate modelling, (iv) leveraging self-supervised learning to obtain useful video game state embeddings, and (v) training generative models of interactive worlds using unlabelled video data. We also briefly address current technical challenges associated with the integration of advanced deep learning systems into video game development, and indicate key areas where further progress is likely to be beneficial.}
+      \field{day}{18}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Future Research Avenues for Artificial Intelligence in Digital Gaming}
+      \field{title}{Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report}
+      \field{titleaddon}{{arXiv}.org}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/VFJRDUS3/Dablander - 2024 - Future Research Avenues for Artificial Intelligence in Digital Gaming An Exploratory Report.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2412.14085v1
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2412.14085v1
+      \endverb
+    \endentry
     \entry{dai_educational_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=962d9a9ca7f76a4a9ba7e9c7219b492b}{%
@@ -627,6 +674,60 @@
       \endverb
       \verb{url}
       \verb https://arxiv.org/abs/2505.22477
+      \endverb
+    \endentry
+    \entry{garcia-sanchez_georgios_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a24e7aa29aad9fdc3808d439ac4110c}{%
+           family={García-Sánchez},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{fullhash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{fullhashraw}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{bibnamehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authorbibnamehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authornamehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authorfullhash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authorfullhashraw}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1389-2576, 1573-7632}
+      \field{journaltitle}{Genetic Programming and Evolvable Machines}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Genet Program Evolvable Mach}
+      \field{shorttitle}{Georgios N. Yannakakis and Julian Togelius}
+      \field{title}{Georgios N. Yannakakis and Julian Togelius: Artificial Intelligence and Games: Springer, 2018, Print {ISBN}: 978-3-319-63518-7, Online {ISBN}: 978-3-319-63519-4, https://doi.org/10.1007/978-3-319-63519-4}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 145}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1007/s10710-018-9337-0
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/YTK5I8A6/García-Sánchez - 2019 - Georgios N. Yannakakis and Julian Togelius Artificial Intelligence and Games Springer, 2018, Print.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10710-018-9337-0
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10710-018-9337-0
       \endverb
     \endentry
     \entry{ghazbi_quadrotors_2016}{article}{}{}
@@ -1117,6 +1218,83 @@
       \endverb
       \verb{url}
       \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+    \endentry
+    \entry{lin_beyond_2023}{online}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=829e4d985e55ecb079dc80ca4c99eb33}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhiyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9dd9885b3bdbf2a7779fb5834c36bac5}{%
+           family={Ehsan},
+           familyi={E\bibinitperiod},
+           given={Upol},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=165dcf8500ec8abbcb82a14181a742b7}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Rohan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4455711685548621e1a9e68531fb949}{%
+           family={Dani},
+           familyi={D\bibinitperiod},
+           given={Samihan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b93d84144015379ebb2c26b21cddb089}{%
+           family={Vashishth},
+           familyi={V\bibinitperiod},
+           given={Vidushi},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3842910195409e3b59363fed6ba20fe}{%
+           family={Riedl},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80c8000ba609e22674b85fe17b52fdc7}
+      \strng{fullhash}{fca725f15636fe4289198d11d795a304}
+      \strng{fullhashraw}{fca725f15636fe4289198d11d795a304}
+      \strng{bibnamehash}{fca725f15636fe4289198d11d795a304}
+      \strng{authorbibnamehash}{fca725f15636fe4289198d11d795a304}
+      \strng{authornamehash}{80c8000ba609e22674b85fe17b52fdc7}
+      \strng{authorfullhash}{fca725f15636fe4289198d11d795a304}
+      \strng{authorfullhashraw}{fca725f15636fe4289198d11d795a304}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Generative Artificial Intelligence systems have been developed for image, code, story, and game generation with the goal of facilitating human creativity. Recent work on neural generative systems has emphasized one particular means of interacting with {AI} systems: the user provides a specification, usually in the form of prompts, and the {AI} system generates the content. However, there are other configurations of human and {AI} coordination, such as co-creativity ({CC}) in which both human and {AI} systems can contribute to content creation, and mixed-initiative ({MI}) in which both human and {AI} systems can initiate content changes. In this paper, we define a hypothetical human-{AI} configuration design space consisting of different means for humans and {AI} systems to communicate creative intent to each other. We conduct a human participant study with 185 participants to understand how users want to interact with differently configured {MI}-{CC} systems. We find out that {MI}-{CC} systems with more extensive coverage of the design space are rated higher or on par on a variety of creative and goal-completion metrics, demonstrating that wider coverage of the design space can improve user experience and achievement when using the system; Preference varies greatly between expertise groups, suggesting the development of adaptive, personalized {MI}-{CC} systems; Participants identified new design space dimensions including scrutability -- the ability to poke and prod at models -- and explainability.}
+      \field{day}{3}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shorttitle}{Beyond Prompts}
+      \field{title}{Beyond Prompts: Exploring the Design Space of Mixed-Initiative Co-Creativity Systems}
+      \field{titleaddon}{{arXiv}.org}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/IISBWFGQ/Lin et al. - 2023 - Beyond Prompts Exploring the Design Space of Mixed-Initiative Co-Creativity Systems.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2305.07465v1
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2305.07465v1
       \endverb
     \endentry
     \entry{liu_research_2025}{article}{}{}
@@ -2324,109 +2502,6 @@
       \verb https://www.w3.org/TR/webxr/
       \endverb
     \endentry
-    \entry{yin_ai_2023}{article}{}{}
-      \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=f9ce6951aab8852ab5f5f468b5c8ea3e}{%
-           family={Yin},
-           familyi={Y\bibinitperiod},
-           given={Qi-Yue},
-           giveni={Q\bibinithyphendelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8a030e61cb9e9b04c27f699afc0d19f7}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Jun},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c711503b1a9bbd6187ea7ca3be3f5022}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Kai-Qi},
-           giveni={K\bibinithyphendelim Q\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a23baa02fdc78e749c94ca5dec2398cd}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Mei-Jing},
-           giveni={M\bibinithyphendelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4413813d0726a2c23eed1b896b284183}{%
-           family={Ni},
-           familyi={N\bibinitperiod},
-           given={Wan-Cheng},
-           giveni={W\bibinithyphendelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b8c614392e8a78a44ca4763ed2f70c6a}{%
-           family={Liang},
-           familyi={L\bibinitperiod},
-           given={Bin},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c85126decc8fb002d0c215d2a31a306d}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Yan},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d5cac0e55ceb387c5e6cfb97fd6ddcd4}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={Shu},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cce05cab2c437e9c128f853684ee3137}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Liang},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{605cde99ecb2770088a4896be4b81f48}
-      \strng{fullhash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{fullhashraw}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{bibnamehash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{authorbibnamehash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{authornamehash}{605cde99ecb2770088a4896be4b81f48}
-      \strng{authorfullhash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{authorfullhashraw}{83f4c48b968f0a76b8a3831308c53c91}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{With the breakthrough of {AlphaGo}, human-computer gaming {AI} has ushered in a big explosion, attracting more and more researchers all over the world. As a recognized standard for testing artificial intelligence, various human-computer gaming {AI} systems ({AIs}) have been developed, such as Libratus, {OpenAI} Five, and {AlphaStar}, which beat professional human players. The rapid development of human-computer gaming {AIs} indicates a big step for decision-making intelligence, and it seems that current techniques can handle very complex human-computer games. So, one natural question arises: What are the possible challenges of current techniques in human-computer gaming and what are the future trends? To answer the above question, in this paper, we survey recent successful game {AIs}, covering board game {AIs}, card game {AIs}, first-person shooting game {AIs}, and real-time strategy game {AIs}. Through this survey, we 1) compare the main difficulties among different kinds of games and the corresponding techniques utilized for achieving professional human-level {AIs}; 2) summarize the mainstream frameworks and techniques that can be properly relied on for developing {AIs} for complex human-computer games; 3) raise the challenges or drawbacks of current techniques in the successful {AIs}; and 4) try to point out future trends in human-computer gaming {AIs}. Finally, we hope that this brief review can provide an introduction for beginners and inspire insight for researchers in the field of {AI} in human-computer gaming.}
-      \field{issn}{2731-538X, 2731-5398}
-      \field{journaltitle}{Machine Intelligence Research}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{3}
-      \field{shortjournal}{Mach. Intell. Res.}
-      \field{shorttitle}{{AI} in Human-computer Gaming}
-      \field{title}{{AI} in Human-computer Gaming: Techniques, Challenges and Opportunities}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{20}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{299\bibrangedash 317}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1007/s11633-022-1384-6
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/AT64FD49/Yin et al. - 2023 - AI in Human-computer Gaming Techniques, Challenges and Opportunities.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s11633-022-1384-6
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s11633-022-1384-6
-      \endverb
-    \endentry
     \entry{yu2025depth}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f46cff6a47143fdbd36ae8842919e073}{%
@@ -2503,6 +2578,64 @@
       \endverb
       \verb{url}
       \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
+      \endverb
+    \endentry
+    \entry{zhang_human-ai_2025}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1eb8785bd48d877ce6689bf2823d1964}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Boran},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56c2092ddaedef6b498c856727b88388}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Muhan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=165828bcfc96e196dd1d06952a4d2c1c}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Zhijun},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c4016627198240289197d80f6577194}
+      \strng{fullhash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{fullhashraw}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{bibnamehash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{authorbibnamehash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{authornamehash}{5c4016627198240289197d80f6577194}
+      \strng{authorfullhash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{authorfullhashraw}{3f9ceda2a9808c44d2432805554bf7b2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As modern video games become increasingly complex, traditional manual testing methods are proving costly and inefficient, limiting the ability to ensure high-quality game experiences. While advancements in Artificial Intelligence ({AI}) offer the potential to assist human testers, the effectiveness of {AI} in truly enhancing real-world human performance remains underexplored. This study investigates how {AI} can improve game testing by developing and experimenting with an {AI}-assisted workflow that leverages state-of-the-art machine learning models for defect detection. Through an experiment involving 800 test cases and 276 participants of varying backgrounds, we evaluate the effectiveness of {AI} assistance under four conditions: with or without {AI} support, and with or without detailed knowledge of defects and design documentation. The results indicate that {AI} assistance significantly improves defect identification performance, particularly when paired with detailed knowledge. However, challenges arise when {AI} errors occur, negatively impacting human decision-making. Our findings show the importance of optimizing human-{AI} collaboration and implementing strategies to mitigate the effects of {AI} inaccuracies. By this research, we demonstrate {AI}'s potential and problems in enhancing efficiency and accuracy in game testing workflows and offers practical insights for integrating {AI} into the testing process.}
+      \field{day}{20}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Human-{AI} Collaborative Game Testing with Vision Language Models}
+      \field{titleaddon}{{arXiv}.org}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/BSZYRFNA/Zhang et al. - 2025 - Human-AI Collaborative Game Testing with Vision Language Models.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2501.11782v2
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2501.11782v2
       \endverb
     \endentry
   \enddatalist
@@ -2816,6 +2949,53 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
+    \entry{dablander_future_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=026807838749dac1d3b2003f76c1025d}{%
+           family={Dablander},
+           familyi={D\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{fullhash}{026807838749dac1d3b2003f76c1025d}
+      \strng{fullhashraw}{026807838749dac1d3b2003f76c1025d}
+      \strng{bibnamehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authorbibnamehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authornamehash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authorfullhash}{026807838749dac1d3b2003f76c1025d}
+      \strng{authorfullhashraw}{026807838749dac1d3b2003f76c1025d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Video games are a natural and synergistic application domain for artificial intelligence ({AI}) systems, offering both the potential to enhance player experience and immersion, as well as providing valuable benchmarks and virtual environments to advance {AI} technologies in general. This report presents a high-level overview of five promising research pathways for applying state-of-the-art {AI} methods, particularly deep learning, to digital gaming within the context of the current research landscape. The objective of this work is to outline a curated, non-exhaustive list of encouraging research directions at the intersection of {AI} and video games that may serve to inspire more rigorous and comprehensive research efforts in the future. We discuss (i) investigating large language models as core engines for game agent modelling, (ii) using neural cellular automata for procedural game content generation, (iii) accelerating computationally expensive in-game simulations via deep surrogate modelling, (iv) leveraging self-supervised learning to obtain useful video game state embeddings, and (v) training generative models of interactive worlds using unlabelled video data. We also briefly address current technical challenges associated with the integration of advanced deep learning systems into video game development, and indicate key areas where further progress is likely to be beneficial.}
+      \field{day}{18}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Future Research Avenues for Artificial Intelligence in Digital Gaming}
+      \field{title}{Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report}
+      \field{titleaddon}{{arXiv}.org}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/VFJRDUS3/Dablander - 2024 - Future Research Avenues for Artificial Intelligence in Digital Gaming An Exploratory Report.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2412.14085v1
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2412.14085v1
+      \endverb
+    \endentry
     \entry{dai_educational_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=962d9a9ca7f76a4a9ba7e9c7219b492b}{%
@@ -3115,6 +3295,60 @@
       \endverb
       \verb{url}
       \verb https://arxiv.org/abs/2505.22477
+      \endverb
+    \endentry
+    \entry{garcia-sanchez_georgios_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a24e7aa29aad9fdc3808d439ac4110c}{%
+           family={García-Sánchez},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{fullhash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{fullhashraw}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{bibnamehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authorbibnamehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authornamehash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authorfullhash}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \strng{authorfullhashraw}{2a24e7aa29aad9fdc3808d439ac4110c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1389-2576, 1573-7632}
+      \field{journaltitle}{Genetic Programming and Evolvable Machines}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Genet Program Evolvable Mach}
+      \field{shorttitle}{Georgios N. Yannakakis and Julian Togelius}
+      \field{title}{Georgios N. Yannakakis and Julian Togelius: Artificial Intelligence and Games: Springer, 2018, Print {ISBN}: 978-3-319-63518-7, Online {ISBN}: 978-3-319-63519-4, https://doi.org/10.1007/978-3-319-63519-4}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 145}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1007/s10710-018-9337-0
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/YTK5I8A6/García-Sánchez - 2019 - Georgios N. Yannakakis and Julian Togelius Artificial Intelligence and Games Springer, 2018, Print.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10710-018-9337-0
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10710-018-9337-0
       \endverb
     \endentry
     \entry{ghazbi_quadrotors_2016}{article}{}{}
@@ -3605,6 +3839,83 @@
       \endverb
       \verb{url}
       \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+    \endentry
+    \entry{lin_beyond_2023}{online}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=829e4d985e55ecb079dc80ca4c99eb33}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zhiyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9dd9885b3bdbf2a7779fb5834c36bac5}{%
+           family={Ehsan},
+           familyi={E\bibinitperiod},
+           given={Upol},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=165dcf8500ec8abbcb82a14181a742b7}{%
+           family={Agarwal},
+           familyi={A\bibinitperiod},
+           given={Rohan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4455711685548621e1a9e68531fb949}{%
+           family={Dani},
+           familyi={D\bibinitperiod},
+           given={Samihan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b93d84144015379ebb2c26b21cddb089}{%
+           family={Vashishth},
+           familyi={V\bibinitperiod},
+           given={Vidushi},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3842910195409e3b59363fed6ba20fe}{%
+           family={Riedl},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80c8000ba609e22674b85fe17b52fdc7}
+      \strng{fullhash}{fca725f15636fe4289198d11d795a304}
+      \strng{fullhashraw}{fca725f15636fe4289198d11d795a304}
+      \strng{bibnamehash}{fca725f15636fe4289198d11d795a304}
+      \strng{authorbibnamehash}{fca725f15636fe4289198d11d795a304}
+      \strng{authornamehash}{80c8000ba609e22674b85fe17b52fdc7}
+      \strng{authorfullhash}{fca725f15636fe4289198d11d795a304}
+      \strng{authorfullhashraw}{fca725f15636fe4289198d11d795a304}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Generative Artificial Intelligence systems have been developed for image, code, story, and game generation with the goal of facilitating human creativity. Recent work on neural generative systems has emphasized one particular means of interacting with {AI} systems: the user provides a specification, usually in the form of prompts, and the {AI} system generates the content. However, there are other configurations of human and {AI} coordination, such as co-creativity ({CC}) in which both human and {AI} systems can contribute to content creation, and mixed-initiative ({MI}) in which both human and {AI} systems can initiate content changes. In this paper, we define a hypothetical human-{AI} configuration design space consisting of different means for humans and {AI} systems to communicate creative intent to each other. We conduct a human participant study with 185 participants to understand how users want to interact with differently configured {MI}-{CC} systems. We find out that {MI}-{CC} systems with more extensive coverage of the design space are rated higher or on par on a variety of creative and goal-completion metrics, demonstrating that wider coverage of the design space can improve user experience and achievement when using the system; Preference varies greatly between expertise groups, suggesting the development of adaptive, personalized {MI}-{CC} systems; Participants identified new design space dimensions including scrutability -- the ability to poke and prod at models -- and explainability.}
+      \field{day}{3}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shorttitle}{Beyond Prompts}
+      \field{title}{Beyond Prompts: Exploring the Design Space of Mixed-Initiative Co-Creativity Systems}
+      \field{titleaddon}{{arXiv}.org}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/IISBWFGQ/Lin et al. - 2023 - Beyond Prompts Exploring the Design Space of Mixed-Initiative Co-Creativity Systems.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2305.07465v1
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2305.07465v1
       \endverb
     \endentry
     \entry{liu_research_2025}{article}{}{}
@@ -4812,109 +5123,6 @@
       \verb https://www.w3.org/TR/webxr/
       \endverb
     \endentry
-    \entry{yin_ai_2023}{article}{}{}
-      \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=f9ce6951aab8852ab5f5f468b5c8ea3e}{%
-           family={Yin},
-           familyi={Y\bibinitperiod},
-           given={Qi-Yue},
-           giveni={Q\bibinithyphendelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8a030e61cb9e9b04c27f699afc0d19f7}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Jun},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c711503b1a9bbd6187ea7ca3be3f5022}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Kai-Qi},
-           giveni={K\bibinithyphendelim Q\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a23baa02fdc78e749c94ca5dec2398cd}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Mei-Jing},
-           giveni={M\bibinithyphendelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4413813d0726a2c23eed1b896b284183}{%
-           family={Ni},
-           familyi={N\bibinitperiod},
-           given={Wan-Cheng},
-           giveni={W\bibinithyphendelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b8c614392e8a78a44ca4763ed2f70c6a}{%
-           family={Liang},
-           familyi={L\bibinitperiod},
-           given={Bin},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c85126decc8fb002d0c215d2a31a306d}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Yan},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d5cac0e55ceb387c5e6cfb97fd6ddcd4}{%
-           family={Wu},
-           familyi={W\bibinitperiod},
-           given={Shu},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cce05cab2c437e9c128f853684ee3137}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Liang},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{605cde99ecb2770088a4896be4b81f48}
-      \strng{fullhash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{fullhashraw}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{bibnamehash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{authorbibnamehash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{authornamehash}{605cde99ecb2770088a4896be4b81f48}
-      \strng{authorfullhash}{83f4c48b968f0a76b8a3831308c53c91}
-      \strng{authorfullhashraw}{83f4c48b968f0a76b8a3831308c53c91}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{With the breakthrough of {AlphaGo}, human-computer gaming {AI} has ushered in a big explosion, attracting more and more researchers all over the world. As a recognized standard for testing artificial intelligence, various human-computer gaming {AI} systems ({AIs}) have been developed, such as Libratus, {OpenAI} Five, and {AlphaStar}, which beat professional human players. The rapid development of human-computer gaming {AIs} indicates a big step for decision-making intelligence, and it seems that current techniques can handle very complex human-computer games. So, one natural question arises: What are the possible challenges of current techniques in human-computer gaming and what are the future trends? To answer the above question, in this paper, we survey recent successful game {AIs}, covering board game {AIs}, card game {AIs}, first-person shooting game {AIs}, and real-time strategy game {AIs}. Through this survey, we 1) compare the main difficulties among different kinds of games and the corresponding techniques utilized for achieving professional human-level {AIs}; 2) summarize the mainstream frameworks and techniques that can be properly relied on for developing {AIs} for complex human-computer games; 3) raise the challenges or drawbacks of current techniques in the successful {AIs}; and 4) try to point out future trends in human-computer gaming {AIs}. Finally, we hope that this brief review can provide an introduction for beginners and inspire insight for researchers in the field of {AI} in human-computer gaming.}
-      \field{issn}{2731-538X, 2731-5398}
-      \field{journaltitle}{Machine Intelligence Research}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{3}
-      \field{shortjournal}{Mach. Intell. Res.}
-      \field{shorttitle}{{AI} in Human-computer Gaming}
-      \field{title}{{AI} in Human-computer Gaming: Techniques, Challenges and Opportunities}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{20}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{299\bibrangedash 317}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1007/s11633-022-1384-6
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/AT64FD49/Yin et al. - 2023 - AI in Human-computer Gaming Techniques, Challenges and Opportunities.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s11633-022-1384-6
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s11633-022-1384-6
-      \endverb
-    \endentry
     \entry{yu2025depth}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=f46cff6a47143fdbd36ae8842919e073}{%
@@ -4991,6 +5199,64 @@
       \endverb
       \verb{url}
       \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
+      \endverb
+    \endentry
+    \entry{zhang_human-ai_2025}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1eb8785bd48d877ce6689bf2823d1964}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Boran},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56c2092ddaedef6b498c856727b88388}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Muhan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=165828bcfc96e196dd1d06952a4d2c1c}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Zhijun},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c4016627198240289197d80f6577194}
+      \strng{fullhash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{fullhashraw}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{bibnamehash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{authorbibnamehash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{authornamehash}{5c4016627198240289197d80f6577194}
+      \strng{authorfullhash}{3f9ceda2a9808c44d2432805554bf7b2}
+      \strng{authorfullhashraw}{3f9ceda2a9808c44d2432805554bf7b2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As modern video games become increasingly complex, traditional manual testing methods are proving costly and inefficient, limiting the ability to ensure high-quality game experiences. While advancements in Artificial Intelligence ({AI}) offer the potential to assist human testers, the effectiveness of {AI} in truly enhancing real-world human performance remains underexplored. This study investigates how {AI} can improve game testing by developing and experimenting with an {AI}-assisted workflow that leverages state-of-the-art machine learning models for defect detection. Through an experiment involving 800 test cases and 276 participants of varying backgrounds, we evaluate the effectiveness of {AI} assistance under four conditions: with or without {AI} support, and with or without detailed knowledge of defects and design documentation. The results indicate that {AI} assistance significantly improves defect identification performance, particularly when paired with detailed knowledge. However, challenges arise when {AI} errors occur, negatively impacting human decision-making. Our findings show the importance of optimizing human-{AI} collaboration and implementing strategies to mitigate the effects of {AI} inaccuracies. By this research, we demonstrate {AI}'s potential and problems in enhancing efficiency and accuracy in game testing workflows and offers practical insights for integrating {AI} into the testing process.}
+      \field{day}{20}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Human-{AI} Collaborative Game Testing with Vision Language Models}
+      \field{titleaddon}{{arXiv}.org}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/BSZYRFNA/Zhang et al. - 2025 - Human-AI Collaborative Game Testing with Vision Language Models.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2501.11782v2
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2501.11782v2
       \endverb
     \endentry
   \enddatalist
