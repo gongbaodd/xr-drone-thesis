@@ -1245,6 +1245,39 @@
       \verb 10.3390/drones9120840
       \endverb
     \endentry
+    \entry{keith2010agile}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03961c058402313013bc94f83064562f}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={Clinton},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{03961c058402313013bc94f83064562f}
+      \strng{fullhash}{03961c058402313013bc94f83064562f}
+      \strng{fullhashraw}{03961c058402313013bc94f83064562f}
+      \strng{bibnamehash}{03961c058402313013bc94f83064562f}
+      \strng{authorbibnamehash}{03961c058402313013bc94f83064562f}
+      \strng{authornamehash}{03961c058402313013bc94f83064562f}
+      \strng{authorfullhash}{03961c058402313013bc94f83064562f}
+      \strng{authorfullhashraw}{03961c058402313013bc94f83064562f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{978-0321618528}
+      \field{series}{Addison-Wesley Signature Series (Cohn)}
+      \field{title}{Agile Game Development with SCRUM (Addison-Wesley Signature)}
+      \field{year}{2010}
+    \endentry
     \entry{openxr2024spec}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bbbfe1704ad60dfad25405a238f64142}{%
@@ -2212,78 +2245,6 @@
       \verb 10.1109/ICEST55168.2022.9828656
       \endverb
     \endentry
-    \entry{richardson_process_2023}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=5b1cbe6ae6a44f332e7106208b6c6609}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Jennifer\bibnamedelima C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=59dfbc072b8ec395fdcd19f1e6319f3c}{%
-           family={Castellanos\bibnamedelima Reyes},
-           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={Daniela},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1017adc8cbb9b9718762decdfb36cdce}{%
-           family={Janakiraman},
-           familyi={J\bibinitperiod},
-           given={Shamila},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f8ab642d89ed2422e5b06b4504099e79}{%
-           family={Duha},
-           familyi={D\bibinitperiod},
-           given={Mohammad\bibnamedelimb Shams\bibnamedelima Ud},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{248d305cf6ba8a78e15a80ded9a7c92c}
-      \strng{fullhash}{70ec539098a8a11815eb2039d062363f}
-      \strng{fullhashraw}{70ec539098a8a11815eb2039d062363f}
-      \strng{bibnamehash}{70ec539098a8a11815eb2039d062363f}
-      \strng{authorbibnamehash}{70ec539098a8a11815eb2039d062363f}
-      \strng{authornamehash}{248d305cf6ba8a78e15a80ded9a7c92c}
-      \strng{authorfullhash}{70ec539098a8a11815eb2039d062363f}
-      \strng{authorfullhashraw}{70ec539098a8a11815eb2039d062363f}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The Purdue Repository for Online Teaching and Learning ({PoRTAL}) was developed as an Open Educational Resource ({OER}) for graduate students and faculty in higher education settings to enhance their online teaching skills and strategies. The {PoRTAL} team used a design-based research approach ({DBR}; Wang \& Hannafin, Educational Technology Research and Development, 53(4), 5–23, 2005). In this study context, we used Van Tiem et al.’s (2012) model to identify problems faced by instructors who struggled with or were new to online teaching from a Human Performance Technology ({HPT}) standpoint. To address the identified needs, we created resources for online teaching and embedded our research within practical activities to further study our design process. Our efforts resulted in an {HPT}-{OER} Model for Designing Digital Repositories. The purpose of this paper is to share the {DBR} process that we used to develop an {OER} repository within an {HPT} model.}
-      \field{issn}{8756-3894, 1559-7075}
-      \field{journaltitle}{{TechTrends}}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{number}{2}
-      \field{shortjournal}{{TechTrends}}
-      \field{title}{The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{67}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{217\bibrangedash 230}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/s11528-022-00795-w
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/SGUAUMQD/Richardson et al. - 2023 - The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s11528-022-00795-w
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s11528-022-00795-w
-      \endverb
-    \endentry
     \entry{rolland_head-mounted_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a322db25d6ac4462d6435fea78d3e415}{%
@@ -2365,47 +2326,6 @@
       \verb PDF:/home/gongbaodd/Zotero/storage/NKXIWFBL/Schmalstieg and Höllerer - 2016 - Augmented Reality - Principles and Practice.pdf:application/pdf
       \endverb
     \endentry
-    \entry{Schwaber2001Agile}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
-           family={Schwaber},
-           familyi={S\bibinitperiod},
-           given={Ken},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b081a82bcbc247aeb2a2ca9ae72f9566}{%
-           family={Beedle},
-           familyi={B\bibinitperiod},
-           given={Mike},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Upper Saddle River, NJ}%
-      }
-      \list{publisher}{1}{%
-        {Prentice Hall}%
-      }
-      \strng{namehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{fullhash}{04151b742304f715657f4e7c479dd4da}
-      \strng{fullhashraw}{04151b742304f715657f4e7c479dd4da}
-      \strng{bibnamehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authorbibnamehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authornamehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authorfullhash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authorfullhashraw}{04151b742304f715657f4e7c479dd4da}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0130676344}
-      \field{series}{Addison-Wesley Signature Series}
-      \field{title}{Agile Software Development with Scrum}
-      \field{year}{2001}
-    \endentry
     \entry{shah_airsim_2017}{misc}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=2983594a6c7c1e934b9553c1032b4683}{%
@@ -2481,70 +2401,6 @@
       \verb http://arxiv.org/abs/1705.05065
       \endverb
       \keyw{Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
-    \endentry
-    \entry{turk_assumptions_2005}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=6131e20273369a25dbf1be8c8bf82736}{%
-           family={Turk},
-           familyi={T\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd9a678ef0b3bbf984c7b14f37bcd23b}{%
-           family={{France. Robert}},
-           familyi={F\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=c2b5a72fd30b6844022c3e1189390301}{%
-           family={Rumpe},
-           familyi={R\bibinitperiod},
-           given={Bernhard},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{419196a05f7c3d7283227fd39a1c1b2a}
-      \strng{fullhash}{0415174476765d7341c6ef88c239de76}
-      \strng{fullhashraw}{0415174476765d7341c6ef88c239de76}
-      \strng{bibnamehash}{0415174476765d7341c6ef88c239de76}
-      \strng{authorbibnamehash}{0415174476765d7341c6ef88c239de76}
-      \strng{authornamehash}{419196a05f7c3d7283227fd39a1c1b2a}
-      \strng{authorfullhash}{0415174476765d7341c6ef88c239de76}
-      \strng{authorfullhashraw}{0415174476765d7341c6ef88c239de76}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Agile processes focus on facilitating early and fast production of working code, and are based on software development process models that support iterative, incremental development of software. Although agile methods have existed for a number of years now, answers to questions concerning the suitability of agile processes to particular software development environments are still often based on anecdotal accounts of experiences. An appreciation of the (often unstated) assumptions underlying agile processes can lead to a better understanding of the applicability of agile processes to particular situations. Agile processes are less likely to be applicable in situations in which core assumptions do not hold. This paper examines the principles and advocated practices of agile processes to identify underlying assumptions. The paper also identifies limitations that may arise from these assumptions and outlines how the limitations can be addresses by incorporating other software development techniques and practices into agile development environments.}
-      \field{day}{1}
-      \field{issn}{1063-8016, 1533-8010}
-      \field{journaltitle}{Journal of Database Management}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{number}{4}
-      \field{shorttitle}{Assumptions Underlying Agile Software-Development Processes}
-      \field{title}{Assumptions Underlying Agile Software-Development Processes:}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{16}
-      \field{year}{2005}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{62\bibrangedash 87}
-      \range{pages}{26}
-      \verb{doi}
-      \verb 10.4018/jdm.2005100104
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/9CFN4IGD/Turk et al. - 2005 - Assumptions Underlying Agile Software-Development Processes.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
-      \endverb
-      \verb{url}
-      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
-      \endverb
     \endentry
     \entry{usama2021fpv}{article}{}{}
       \name{author}{5}{}{%
@@ -4159,6 +4015,39 @@
       \verb 10.3390/drones9120840
       \endverb
     \endentry
+    \entry{keith2010agile}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03961c058402313013bc94f83064562f}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={Clinton},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{03961c058402313013bc94f83064562f}
+      \strng{fullhash}{03961c058402313013bc94f83064562f}
+      \strng{fullhashraw}{03961c058402313013bc94f83064562f}
+      \strng{bibnamehash}{03961c058402313013bc94f83064562f}
+      \strng{authorbibnamehash}{03961c058402313013bc94f83064562f}
+      \strng{authornamehash}{03961c058402313013bc94f83064562f}
+      \strng{authorfullhash}{03961c058402313013bc94f83064562f}
+      \strng{authorfullhashraw}{03961c058402313013bc94f83064562f}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{978-0321618528}
+      \field{series}{Addison-Wesley Signature Series (Cohn)}
+      \field{title}{Agile Game Development with SCRUM (Addison-Wesley Signature)}
+      \field{year}{2010}
+    \endentry
     \entry{openxr2024spec}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bbbfe1704ad60dfad25405a238f64142}{%
@@ -5126,78 +5015,6 @@
       \verb 10.1109/ICEST55168.2022.9828656
       \endverb
     \endentry
-    \entry{richardson_process_2023}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=5b1cbe6ae6a44f332e7106208b6c6609}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Jennifer\bibnamedelima C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=59dfbc072b8ec395fdcd19f1e6319f3c}{%
-           family={Castellanos\bibnamedelima Reyes},
-           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={Daniela},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1017adc8cbb9b9718762decdfb36cdce}{%
-           family={Janakiraman},
-           familyi={J\bibinitperiod},
-           given={Shamila},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f8ab642d89ed2422e5b06b4504099e79}{%
-           family={Duha},
-           familyi={D\bibinitperiod},
-           given={Mohammad\bibnamedelimb Shams\bibnamedelima Ud},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim U\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{248d305cf6ba8a78e15a80ded9a7c92c}
-      \strng{fullhash}{70ec539098a8a11815eb2039d062363f}
-      \strng{fullhashraw}{70ec539098a8a11815eb2039d062363f}
-      \strng{bibnamehash}{70ec539098a8a11815eb2039d062363f}
-      \strng{authorbibnamehash}{70ec539098a8a11815eb2039d062363f}
-      \strng{authornamehash}{248d305cf6ba8a78e15a80ded9a7c92c}
-      \strng{authorfullhash}{70ec539098a8a11815eb2039d062363f}
-      \strng{authorfullhashraw}{70ec539098a8a11815eb2039d062363f}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The Purdue Repository for Online Teaching and Learning ({PoRTAL}) was developed as an Open Educational Resource ({OER}) for graduate students and faculty in higher education settings to enhance their online teaching skills and strategies. The {PoRTAL} team used a design-based research approach ({DBR}; Wang \& Hannafin, Educational Technology Research and Development, 53(4), 5–23, 2005). In this study context, we used Van Tiem et al.’s (2012) model to identify problems faced by instructors who struggled with or were new to online teaching from a Human Performance Technology ({HPT}) standpoint. To address the identified needs, we created resources for online teaching and embedded our research within practical activities to further study our design process. Our efforts resulted in an {HPT}-{OER} Model for Designing Digital Repositories. The purpose of this paper is to share the {DBR} process that we used to develop an {OER} repository within an {HPT} model.}
-      \field{issn}{8756-3894, 1559-7075}
-      \field{journaltitle}{{TechTrends}}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{number}{2}
-      \field{shortjournal}{{TechTrends}}
-      \field{title}{The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{67}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{217\bibrangedash 230}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/s11528-022-00795-w
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/SGUAUMQD/Richardson et al. - 2023 - The Process of Developing a Digital Repository for Online Teaching Using Design-Based Research.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s11528-022-00795-w
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s11528-022-00795-w
-      \endverb
-    \endentry
     \entry{rolland_head-mounted_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a322db25d6ac4462d6435fea78d3e415}{%
@@ -5279,47 +5096,6 @@
       \verb PDF:/home/gongbaodd/Zotero/storage/NKXIWFBL/Schmalstieg and Höllerer - 2016 - Augmented Reality - Principles and Practice.pdf:application/pdf
       \endverb
     \endentry
-    \entry{Schwaber2001Agile}{book}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ee6f08fcba839e09471a0bc69152b6a5}{%
-           family={Schwaber},
-           familyi={S\bibinitperiod},
-           given={Ken},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b081a82bcbc247aeb2a2ca9ae72f9566}{%
-           family={Beedle},
-           familyi={B\bibinitperiod},
-           given={Mike},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Upper Saddle River, NJ}%
-      }
-      \list{publisher}{1}{%
-        {Prentice Hall}%
-      }
-      \strng{namehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{fullhash}{04151b742304f715657f4e7c479dd4da}
-      \strng{fullhashraw}{04151b742304f715657f4e7c479dd4da}
-      \strng{bibnamehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authorbibnamehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authornamehash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authorfullhash}{04151b742304f715657f4e7c479dd4da}
-      \strng{authorfullhashraw}{04151b742304f715657f4e7c479dd4da}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0130676344}
-      \field{series}{Addison-Wesley Signature Series}
-      \field{title}{Agile Software Development with Scrum}
-      \field{year}{2001}
-    \endentry
     \entry{shah_airsim_2017}{misc}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=2983594a6c7c1e934b9553c1032b4683}{%
@@ -5395,70 +5171,6 @@
       \verb http://arxiv.org/abs/1705.05065
       \endverb
       \keyw{Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
-    \endentry
-    \entry{turk_assumptions_2005}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=6131e20273369a25dbf1be8c8bf82736}{%
-           family={Turk},
-           familyi={T\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd9a678ef0b3bbf984c7b14f37bcd23b}{%
-           family={{France. Robert}},
-           familyi={F\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=c2b5a72fd30b6844022c3e1189390301}{%
-           family={Rumpe},
-           familyi={R\bibinitperiod},
-           given={Bernhard},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{419196a05f7c3d7283227fd39a1c1b2a}
-      \strng{fullhash}{0415174476765d7341c6ef88c239de76}
-      \strng{fullhashraw}{0415174476765d7341c6ef88c239de76}
-      \strng{bibnamehash}{0415174476765d7341c6ef88c239de76}
-      \strng{authorbibnamehash}{0415174476765d7341c6ef88c239de76}
-      \strng{authornamehash}{419196a05f7c3d7283227fd39a1c1b2a}
-      \strng{authorfullhash}{0415174476765d7341c6ef88c239de76}
-      \strng{authorfullhashraw}{0415174476765d7341c6ef88c239de76}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Agile processes focus on facilitating early and fast production of working code, and are based on software development process models that support iterative, incremental development of software. Although agile methods have existed for a number of years now, answers to questions concerning the suitability of agile processes to particular software development environments are still often based on anecdotal accounts of experiences. An appreciation of the (often unstated) assumptions underlying agile processes can lead to a better understanding of the applicability of agile processes to particular situations. Agile processes are less likely to be applicable in situations in which core assumptions do not hold. This paper examines the principles and advocated practices of agile processes to identify underlying assumptions. The paper also identifies limitations that may arise from these assumptions and outlines how the limitations can be addresses by incorporating other software development techniques and practices into agile development environments.}
-      \field{day}{1}
-      \field{issn}{1063-8016, 1533-8010}
-      \field{journaltitle}{Journal of Database Management}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{number}{4}
-      \field{shorttitle}{Assumptions Underlying Agile Software-Development Processes}
-      \field{title}{Assumptions Underlying Agile Software-Development Processes:}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{16}
-      \field{year}{2005}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{62\bibrangedash 87}
-      \range{pages}{26}
-      \verb{doi}
-      \verb 10.4018/jdm.2005100104
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/9CFN4IGD/Turk et al. - 2005 - Assumptions Underlying Agile Software-Development Processes.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
-      \endverb
-      \verb{url}
-      \verb https://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/jdm.2005100104
-      \endverb
     \endentry
     \entry{usama2021fpv}{article}{}{}
       \name{author}{5}{}{%

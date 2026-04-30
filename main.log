@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  30 APR 2026 18:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  30 APR 2026 19:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1216,59 +1216,59 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3.
  (/opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) (./theoretical_background/quadrotor/02_physics.tex
-<img/6DOF.png, id=420, 857.45343pt x 346.29375pt>
+<img/6DOF.png, id=425, 857.45343pt x 346.29375pt>
 File: img/6DOF.png Graphic file (type png)
 <use img/6DOF.png>
 Package pdftex.def Info: img/6DOF.png  used on input line 8.
 (pdftex.def)             Requested size: 375.80544pt x 151.77261pt.
  [8] [9 <./img/6DOF.png>]) (./theoretical_background/quadrotor/03_hci.tex
-<img/control.jpg, id=452, 1206.0542pt x 369.12097pt>
+<img/control.jpg, id=457, 1206.0542pt x 369.12097pt>
 File: img/control.jpg Graphic file (type jpg)
 <use img/control.jpg>
 Package pdftex.def Info: img/control.jpg  used on input line 9.
 (pdftex.def)             Requested size: 375.80544pt x 115.0177pt.
  [10]
-<img/drone.png, id=466, 903.375pt x 344.03531pt>
+<img/drone.png, id=471, 903.375pt x 344.03531pt>
 File: img/drone.png Graphic file (type png)
 <use img/drone.png>
 Package pdftex.def Info: img/drone.png  used on input line 35.
 (pdftex.def)             Requested size: 375.80544pt x 143.1237pt.
  [11 <./img/control.jpg>]
-<img/goggles.png, id=477, 285.31593pt x 209.28188pt>
+<img/goggles.png, id=482, 285.31593pt x 209.28188pt>
 File: img/goggles.png Graphic file (type png)
 <use img/goggles.png>
 Package pdftex.def Info: img/goggles.png  used on input line 49.
 (pdftex.def)             Requested size: 375.80544pt x 275.65892pt.
 ) (./theoretical_background/quadrotor/04_pid.tex [12 <./img/drone.png>] [13 <./img/goggles.png>])) (./theoretical_background/co-trainer/01_exp_learn.tex (./theoretical_background/co-trainer/exp.tex
-<img/exp/exp.png, id=499, 1413.78188pt x 1006.51031pt>
+<img/exp/exp.png, id=504, 1413.78188pt x 1006.51031pt>
 File: img/exp/exp.png Graphic file (type png)
 <use img/exp/exp.png>
 Package pdftex.def Info: img/exp/exp.png  used on input line 14.
 (pdftex.def)             Requested size: 375.80544pt x 267.53793pt.
  [14]) (./theoretical_background/co-trainer/fpv_sim.tex [15 <./img/exp/exp.png>]) (./theoretical_background/co-trainer/hac.tex [16] [17]) (./theoretical_background/co-trainer/rl.tex [18]
-<img/decision.jpg, id=562, 451.6875pt x 173.89969pt>
+<img/decision.jpg, id=567, 451.6875pt x 173.89969pt>
 File: img/decision.jpg Graphic file (type jpg)
 <use img/decision.jpg>
 Package pdftex.def Info: img/decision.jpg  used on input line 14.
 (pdftex.def)             Requested size: 375.80544pt x 144.69225pt.
 )) (./theoretical_background/xr/01-hci.tex (./theoretical_background/xr/hardware.tex [19 <./img/decision.jpg>]) (./theoretical_background/xr/runtime.tex (./theoretical_background/xr/openxr.tex [20]) (./theoretical_background/xr/webxr.tex)) (./theoretical_background/xr/spatial_ref.tex [21]) (./theoretical_background/xr/render.tex [22]) (./theoretical_background/xr/input.tex [23]
-Overfull \hbox (38.66907pt too wide) in paragraph at lines 13--26
+Overfull \hbox (38.66907pt too wide) in paragraph at lines 15--28
  [][] 
  []
 
-[24]))) (./_05_methodology.tex [25] (./methodology/dbr.tex) (./methodology/agile.tex) (./methodology/drone.tex [26]) (./methodology/trainer.tex (./methodology/pd.tex [27]
-<img/pid.png, id=667, 429.10312pt x 194.22563pt>
+[24]))) (./_05_methodology.tex [25] (./methodology/methods.tex [26]) (./methodology/drone.tex [27]) (./methodology/trainer.tex (./methodology/pd.tex [28]
+<img/pid.png, id=675, 429.10312pt x 194.22563pt>
 File: img/pid.png Graphic file (type png)
 <use img/pid.png>
 Package pdftex.def Info: img/pid.png  used on input line 8.
 (pdftex.def)             Requested size: 375.80544pt x 170.10406pt.
- [28 <./img/pid.png>]) (./methodology/rl.tex [29]
-<img/agent.png, id=690, 1130.2225pt x 970.62625pt>
+ [29 <./img/pid.png>]) (./methodology/rl.tex [30]
+<img/agent.png, id=698, 1130.2225pt x 970.62625pt>
 File: img/agent.png Graphic file (type png)
 <use img/agent.png>
 Package pdftex.def Info: img/agent.png  used on input line 10.
 (pdftex.def)             Requested size: 375.80544pt x 322.73659pt.
- [30 <./img/agent.png>])) (./methodology/xr.tex [31]
+ [31 <./img/agent.png>])) (./methodology/xr.tex [32]
 Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\T1/ptm/m/n/12 Unreal En-gine
  []
@@ -1293,73 +1293,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\T1/ptm/m/n/12 Community-
  []
 
-[32])) (./_06_result.tex [33] [34] (./result/drone_in_xr.tex
-<img/stages/drone-control.png, id=725, 864.98157pt x 531.48563pt>
+[33])) (./_06_result.tex [34] [35] (./result/drone_in_xr.tex
+<img/stages/drone-control.png, id=733, 864.98157pt x 531.48563pt>
 File: img/stages/drone-control.png Graphic file (type png)
 <use img/stages/drone-control.png>
 Package pdftex.def Info: img/stages/drone-control.png  used on input line 30.
 (pdftex.def)             Requested size: 375.80544pt x 230.91054pt.
-) [35] (./result/pid.tex
-<img/path.png, id=735, 341.77687pt x 270.25969pt>
+) [36] (./result/pid.tex
+<img/path.png, id=744, 341.77687pt x 270.25969pt>
 File: img/path.png Graphic file (type png)
 <use img/path.png>
 Package pdftex.def Info: img/path.png  used on input line 18.
 (pdftex.def)             Requested size: 375.80544pt x 297.18759pt.
- [36 <./img/stages/drone-control.png>]
-<img/ui.png, id=745, 585.68813pt x 303.38344pt>
+ [37 <./img/stages/drone-control.png>]
+<img/ui.png, id=754, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
 Package pdftex.def Info: img/ui.png  used on input line 26.
 (pdftex.def)             Requested size: 375.80544pt x 194.67395pt.
- [37 <./img/path.png>]) (./result/rl.tex [38 <./img/ui.png>]
-<img/train.png, id=760, 642.90187pt x 345.54094pt>
+ [38 <./img/path.png>]) (./result/rl.tex [39 <./img/ui.png>]
+<img/train.png, id=768, 642.90187pt x 345.54094pt>
 File: img/train.png Graphic file (type png)
 <use img/train.png>
 Package pdftex.def Info: img/train.png  used on input line 23.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
-<img/result.png, id=762, 782.17218pt x 665.48625pt>
+<img/result.png, id=770, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 31.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
- [39 <./img/train.png>]
-<img/hover.png, id=771, 598.48593pt x 693.34032pt>
+ [40 <./img/train.png>]
+<img/hover.png, id=779, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 39.
 (pdftex.def)             Requested size: 375.80544pt x 435.37848pt.
-) [40 <./img/result.png>] (./result/tutorial.tex
-<img/stages/structure.png, id=778, 1296.34312pt x 453.94594pt>
+) [41 <./img/result.png>] (./result/tutorial.tex
+<img/stages/structure.png, id=786, 1296.34312pt x 453.94594pt>
 File: img/stages/structure.png Graphic file (type png)
 <use img/stages/structure.png>
 Package pdftex.def Info: img/stages/structure.png  used on input line 11.
 (pdftex.def)             Requested size: 375.80544pt x 131.59938pt.
- [41 <./img/hover.png>])) (./_07_discussion.tex [42 <./img/stages/structure.png>] (./discussion/physics.tex) [43] (./discussion/cotrainer.tex) (./discussion/xr.tex [44]) (./discussion/limitation.tex [45]) (./discussion/future.tex [46])) (./_08_summary.tex [47]) [48] [49
+ [42 <./img/hover.png>])) (./_07_discussion.tex [43 <./img/stages/structure.png>] (./discussion/physics.tex) [44] (./discussion/cotrainer.tex) (./discussion/xr.tex [45]) (./discussion/limitation.tex [46]) (./discussion/future.tex [47])) (./_08_summary.tex [48]) [49] [50
 
-] [50] [51] [52] [53] (./_09_appendix.tex) AED endfloat: Processing end Figures and Tables [54] (./main.aux)
+] [51] [52] [53] [54] (./_09_appendix.tex) AED endfloat: Processing end Figures and Tables [55] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 370C9C673C5D4A15A96CD6D0A7542475;14444.
+(rerunfilecheck)             Checksum: 6C964B8EF9EEA346549D826973C16207;14660.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37857 strings out of 467349
- 735784 string characters out of 5389291
- 1646564 words of memory out of 5000000
- 65995 multiletter control sequences out of 15000+600000
+ 37848 strings out of 467349
+ 735298 string characters out of 5389291
+ 1645761 words of memory out of 5000000
+ 65989 multiletter control sequences out of 15000+600000
  682697 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2000b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (54 pages, 3383568 bytes).
+Output written on main.pdf (55 pages, 3384893 bytes).
 PDF statistics:
- 993 PDF objects out of 1000 (max. 8388607)
- 878 compressed objects within 9 object streams
+ 1000 PDF objects out of 1000 (max. 8388607)
+ 884 compressed objects within 9 object streams
  221 named destinations out of 1000 (max. 500000)
- 664 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 672 words of extra memory for PDF output out of 10000 (max. 10000000)
 

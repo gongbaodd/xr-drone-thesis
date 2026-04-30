@@ -609,12 +609,9 @@ INPUT theoretical_background/xr/input.tex
 INPUT ./_05_methodology.tex
 INPUT ./_05_methodology.tex
 INPUT _05_methodology.tex
-INPUT ./methodology/dbr.tex
-INPUT ./methodology/dbr.tex
-INPUT methodology/dbr.tex
-INPUT ./methodology/agile.tex
-INPUT ./methodology/agile.tex
-INPUT methodology/agile.tex
+INPUT ./methodology/methods.tex
+INPUT ./methodology/methods.tex
+INPUT methodology/methods.tex
 INPUT ./methodology/drone.tex
 INPUT ./methodology/drone.tex
 INPUT methodology/drone.tex
