@@ -1,0 +1,6 @@
+
+\paragraph{OpenXR}
+
+This is the industry-standard API for XR applications. It is the interface between an application and an in-process or out-of-process XR runtime system. The runtime system handles functionality such as frame composition, peripheral management, and raw tracking information \parencite{openxr2024spec}. Major game engines and the Meta Spatial SDK are built upon OpenXR to ensure hardware-agnostic development. 
+
+A primary bottleneck in XR development is the deployment loop. Compiling a standalone APK and pushing it to a device can take 10~15 minutes per iteration. There are two solutions to avoid the compiling: (1) Link Mode: Developers often use the Oculus Link App to preview scenes in PC VR, though this requires constantly putting on and taking off the headset. (2) Simulators: The Meta XR Simulator is increasingly becoming the preferred method for rapid iteration, allowing developers to simulate head and controller movements directly on their PC without needing physical hardware.
