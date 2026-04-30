@@ -3098,6 +3098,7 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/openxr.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/xrref.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/xrblend.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/input.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">machado_autonomous_2021</bcf:citekey>
@@ -3156,21 +3157,24 @@
     <bcf:citekey order="53" intorder="1">bailenson2024passthrough</bcf:citekey>
     <bcf:citekey order="54" intorder="1">waldow_investigating_2025</bcf:citekey>
     <bcf:citekey order="55" intorder="1">waldow_investigating_2025</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">richardson_process_2023</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">jong_design-based_2017</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">wang_influence_2026</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">turk_assumptions_2005</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">Beck2004XP</bcf:citekey>
-    <bcf:citekey order="61" intorder="1">Schwaber2001Agile</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">yuetility2022fpvphysics</bcf:citekey>
-    <bcf:citekey order="63" intorder="1">lovesay2003ergonomics</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">paredes2021quadcopter</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">openai2017ppo</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">yu2025depth</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">bailenson2024passthrough</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">waldow_investigating_2025</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">yuetility2022fpvphysics</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">openxr2024spec</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">mine_virtual_1995</bcf:citekey>
+    <bcf:citekey order="57" intorder="2">bowman_evaluation_1997</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">richardson_process_2023</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">jong_design-based_2017</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">wang_influence_2026</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">turk_assumptions_2005</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">Beck2004XP</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">Schwaber2001Agile</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">lovesay2003ergonomics</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">paredes2021quadcopter</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">openai2017ppo</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">yu2025depth</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">bailenson2024passthrough</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">waldow_investigating_2025</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">kolb1984</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

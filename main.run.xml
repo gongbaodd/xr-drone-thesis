@@ -113,6 +113,7 @@
       <file>ref/openxr.bib</file>
       <file>ref/xrref.bib</file>
       <file>ref/xrblend.bib</file>
+      <file>ref/input.bib</file>
     </requires>
   </external>
 </requests>

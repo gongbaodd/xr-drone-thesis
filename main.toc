@@ -21,57 +21,57 @@
 \contentsline {subsubsection}{Spatial Coordinate System}{22}{section*.28}%
 \contentsline {subsubsection}{Environment blend modes}{22}{section*.29}%
 \contentsline {subsubsection}{Input Abstraction Layer}{24}{section*.30}%
-\contentsline {section}{Methodology}{25}{section*.31}%
-\contentsline {subsection}{Design-Based Research}{25}{section*.32}%
-\contentsline {subsection}{Agile Software Development}{25}{section*.33}%
-\contentsline {subsection}{Simulate the Quadcopter}{25}{section*.34}%
-\contentsline {subsubsection}{Controller Mapping}{25}{section*.35}%
-\contentsline {subsubsection}{Flight Modes and Orientation Logic}{26}{section*.36}%
-\contentsline {subsection}{Design of the Human-AI Collaboration}{27}{section*.37}%
-\contentsline {subsubsection}{Design of a PID based HAC}{27}{section*.38}%
-\contentsline {subsubsection}{Design of a RL based HAC}{29}{section*.40}%
-\contentsline {subsection}{Comparison of Current XR Development Platforms}{30}{section*.42}%
-\contentsline {subsection}{Comparison of UI Components in XR Interaction Frameworks}{33}{section*.44}%
-\contentsline {subsubsection}{Geographic Information Systems}{33}{section*.45}%
-\contentsline {subsubsection}{AI-assisted environment generation}{33}{section*.46}%
-\contentsline {subsection}{System Design Overview}{33}{section*.47}%
-\contentsline {subsubsection}{Archetecture}{33}{section*.48}%
-\contentsline {subsubsection}{Models}{33}{section*.49}%
-\contentsline {subsection}{Environment Construction}{33}{section*.50}%
-\contentsline {subsection}{Interaction and Control Design}{33}{section*.51}%
-\contentsline {subsection}{Learning System Design}{33}{section*.52}%
-\contentsline {subsection}{Data Collection Methods}{33}{section*.53}%
-\contentsline {section}{Results}{34}{section*.54}%
-\contentsline {subsection}{Control the Quadcopter in XR environment}{34}{section*.55}%
-\contentsline {subsection}{Path Following with PID Controller}{35}{section*.58}%
-\contentsline {subsection}{Hovering with RL Agent}{37}{section*.61}%
-\contentsline {subsection}{Tutorial on Game Interaction}{40}{section*.65}%
-\contentsline {subsection}{Control the Quadcopter in VR environment}{41}{section*.67}%
-\contentsline {subsection}{Drone Control Implementation}{41}{section*.68}%
-\contentsline {subsection}{Physics and Simulation System}{41}{section*.69}%
-\contentsline {subsection}{XR Interaction and UI Results}{41}{section*.70}%
-\contentsline {section}{Discussion}{42}{section*.71}%
-\contentsline {subsection}{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{42}{section*.72}%
-\contentsline {subsubsection}{Comparison With Existing Simulators}{42}{section*.73}%
-\contentsline {subsection}{RQ2: How can a human-AI collaboration agent be designed to assist users?}{43}{section*.74}%
-\contentsline {subsubsection}{Comparison of PID and RL}{43}{section*.75}%
-\contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{43}{section*.76}%
-\contentsline {subsubsection}{When XR helps}{44}{section*.77}%
-\contentsline {subsubsection}{When XR is not preferable}{44}{section*.78}%
-\contentsline {subsection}{Limitations}{44}{section*.79}%
-\contentsline {subsubsection}{Self-Leveling Flight Mode Only}{44}{section*.80}%
-\contentsline {subsubsection}{Visual Feedback Only}{45}{section*.81}%
-\contentsline {subsubsection}{No Participant Testing}{45}{section*.82}%
-\contentsline {subsection}{Future Work}{45}{section*.83}%
-\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{45}{section*.84}%
-\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{45}{section*.85}%
-\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{46}{section*.86}%
-\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{46}{section*.87}%
-\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{46}{section*.88}%
-\contentsline {section}{Summary}{47}{section*.89}%
-\contentsline {subsection}{Goals}{47}{section*.90}%
-\contentsline {subsection}{Results}{47}{section*.91}%
-\contentsline {subsection}{Generalization}{47}{section*.92}%
-\contentsline {subsection}{Practical Use}{47}{section*.93}%
-\contentsline {subsection}{Future Study}{47}{section*.94}%
-\contentsline {section}{Appendix}{53}{section*.96}%
+\contentsline {section}{Methodology}{26}{section*.32}%
+\contentsline {subsection}{Design-Based Research}{26}{section*.33}%
+\contentsline {subsection}{Agile Software Development}{26}{section*.34}%
+\contentsline {subsection}{Simulate the Quadcopter}{26}{section*.35}%
+\contentsline {subsubsection}{Controller Mapping}{26}{section*.36}%
+\contentsline {subsubsection}{Flight Modes and Orientation Logic}{27}{section*.37}%
+\contentsline {subsection}{Design of the Human-AI Collaboration}{28}{section*.38}%
+\contentsline {subsubsection}{Design of a PID based HAC}{28}{section*.39}%
+\contentsline {subsubsection}{Design of a RL based HAC}{30}{section*.41}%
+\contentsline {subsection}{Comparison of Current XR Development Platforms}{31}{section*.43}%
+\contentsline {subsection}{Comparison of UI Components in XR Interaction Frameworks}{34}{section*.45}%
+\contentsline {subsubsection}{Geographic Information Systems}{34}{section*.46}%
+\contentsline {subsubsection}{AI-assisted environment generation}{34}{section*.47}%
+\contentsline {subsection}{System Design Overview}{34}{section*.48}%
+\contentsline {subsubsection}{Archetecture}{34}{section*.49}%
+\contentsline {subsubsection}{Models}{34}{section*.50}%
+\contentsline {subsection}{Environment Construction}{34}{section*.51}%
+\contentsline {subsection}{Interaction and Control Design}{34}{section*.52}%
+\contentsline {subsection}{Learning System Design}{34}{section*.53}%
+\contentsline {subsection}{Data Collection Methods}{34}{section*.54}%
+\contentsline {section}{Results}{35}{section*.55}%
+\contentsline {subsection}{Control the Quadcopter in XR environment}{35}{section*.56}%
+\contentsline {subsection}{Path Following with PID Controller}{36}{section*.59}%
+\contentsline {subsection}{Hovering with RL Agent}{38}{section*.62}%
+\contentsline {subsection}{Tutorial on Game Interaction}{41}{section*.66}%
+\contentsline {subsection}{Control the Quadcopter in VR environment}{42}{section*.68}%
+\contentsline {subsection}{Drone Control Implementation}{42}{section*.69}%
+\contentsline {subsection}{Physics and Simulation System}{42}{section*.70}%
+\contentsline {subsection}{XR Interaction and UI Results}{42}{section*.71}%
+\contentsline {section}{Discussion}{43}{section*.72}%
+\contentsline {subsection}{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{43}{section*.73}%
+\contentsline {subsubsection}{Comparison With Existing Simulators}{43}{section*.74}%
+\contentsline {subsection}{RQ2: How can a human-AI collaboration agent be designed to assist users?}{44}{section*.75}%
+\contentsline {subsubsection}{Comparison of PID and RL}{44}{section*.76}%
+\contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{44}{section*.77}%
+\contentsline {subsubsection}{When XR helps}{45}{section*.78}%
+\contentsline {subsubsection}{When XR is not preferable}{45}{section*.79}%
+\contentsline {subsection}{Limitations}{45}{section*.80}%
+\contentsline {subsubsection}{Self-Leveling Flight Mode Only}{45}{section*.81}%
+\contentsline {subsubsection}{Visual Feedback Only}{46}{section*.82}%
+\contentsline {subsubsection}{No Participant Testing}{46}{section*.83}%
+\contentsline {subsection}{Future Work}{46}{section*.84}%
+\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{46}{section*.85}%
+\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{46}{section*.86}%
+\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{47}{section*.87}%
+\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{47}{section*.88}%
+\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{47}{section*.89}%
+\contentsline {section}{Summary}{48}{section*.90}%
+\contentsline {subsection}{Goals}{48}{section*.91}%
+\contentsline {subsection}{Results}{48}{section*.92}%
+\contentsline {subsection}{Generalization}{48}{section*.93}%
+\contentsline {subsection}{Practical Use}{48}{section*.94}%
+\contentsline {subsection}{Future Study}{48}{section*.95}%
+\contentsline {section}{Appendix}{54}{section*.97}%

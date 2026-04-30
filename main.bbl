@@ -382,6 +382,69 @@
       \verb Full Text PDF:/home/gongbaodd/Zotero/storage/4LJZ4AEY/Billinghurst et al. - 2015 - A Survey of Augmented Reality.pdf:application/pdf
       \endverb
     \endentry
+    \entry{bowman_evaluation_1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d6d01578713510a28160c14a89006a6b}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Doug\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51776143e43ebc78d1e25f8af48a6afb}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={Larry\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Providence, Rhode Island, United States}%
+      }
+      \list{publisher}{1}{%
+        {{ACM} Press}%
+      }
+      \strng{namehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{fullhash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{fullhashraw}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{bibnamehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authorbibnamehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authornamehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authorfullhash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authorfullhashraw}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Grabbing and manipulating virtual objects is an important user interaction for immersive virtual environments. We present implementations and discussion of six techniques which allow manipulation of remote objects. A user study of these techniques was performed which revealed their characteristics and deficiencies, and led to the development of a new class of techniques. These hybrid techniques provide distinct advantages in terms of ease of use and efficiency because they consider the tasks of grabbing and manipulation separately. {CR} Categories and Subject Descriptors: 1.3.7 [Computer Graphics] :Three-Dimensional Graphics and Realism - Virtual Reality; 1.3.6 [Computer Graphics]:Methodology and Techniques - Interaction Techniques.}
+      \field{eventtitle}{the 1997 symposium}
+      \field{isbn}{978-0-89791-884-8}
+      \field{journaltitle}{Proceedings of the 1997 symposium on Interactive 3D graphics - {SI}3D '97}
+      \field{langid}{english}
+      \field{title}{An evaluation of techniques for grabbing and manipulating remote objects in immersive virtual environments}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{35\bibrangedash ff.}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/253284.253301
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/ZWM2PW7N/Bowman and Hodges - 1997 - An evaluation of techniques for grabbing and manipulating remote objects in immersive virtual enviro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://portal.acm.org/citation.cfm?doid=253284.253301
+      \endverb
+      \verb{url}
+      \verb http://portal.acm.org/citation.cfm?doid=253284.253301
+      \endverb
+    \endentry
     \entry{dablander_future_2024}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=026807838749dac1d3b2003f76c1025d}{%
@@ -1754,6 +1817,38 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2079-9292/12/13/2832
+      \endverb
+    \endentry
+    \entry{mine_virtual_1995}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f00fdeb1a2c594e6a37d0510401cb8ae}{%
+           family={Mine},
+           familyi={M\bibinitperiod},
+           given={Mark\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{fullhash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{fullhashraw}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{bibnamehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authorbibnamehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authornamehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authorfullhash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authorfullhashraw}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Virtual Environment Interaction Techniques}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/SDK7N3LS/Mine - 1995 - Virtual Environment Interaction Techniques.pdf:application/pdf
       \endverb
     \endentry
     \entry{narayanasamy_distinguishing_2006}{article}{}{}
@@ -3201,6 +3296,69 @@
       \verb Full Text PDF:/home/gongbaodd/Zotero/storage/4LJZ4AEY/Billinghurst et al. - 2015 - A Survey of Augmented Reality.pdf:application/pdf
       \endverb
     \endentry
+    \entry{bowman_evaluation_1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d6d01578713510a28160c14a89006a6b}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Doug\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51776143e43ebc78d1e25f8af48a6afb}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={Larry\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Providence, Rhode Island, United States}%
+      }
+      \list{publisher}{1}{%
+        {{ACM} Press}%
+      }
+      \strng{namehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{fullhash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{fullhashraw}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{bibnamehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authorbibnamehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authornamehash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authorfullhash}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \strng{authorfullhashraw}{36b98e4701c4bfa1d723dfd5255a09f7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Grabbing and manipulating virtual objects is an important user interaction for immersive virtual environments. We present implementations and discussion of six techniques which allow manipulation of remote objects. A user study of these techniques was performed which revealed their characteristics and deficiencies, and led to the development of a new class of techniques. These hybrid techniques provide distinct advantages in terms of ease of use and efficiency because they consider the tasks of grabbing and manipulation separately. {CR} Categories and Subject Descriptors: 1.3.7 [Computer Graphics] :Three-Dimensional Graphics and Realism - Virtual Reality; 1.3.6 [Computer Graphics]:Methodology and Techniques - Interaction Techniques.}
+      \field{eventtitle}{the 1997 symposium}
+      \field{isbn}{978-0-89791-884-8}
+      \field{journaltitle}{Proceedings of the 1997 symposium on Interactive 3D graphics - {SI}3D '97}
+      \field{langid}{english}
+      \field{title}{An evaluation of techniques for grabbing and manipulating remote objects in immersive virtual environments}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{35\bibrangedash ff.}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/253284.253301
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/ZWM2PW7N/Bowman and Hodges - 1997 - An evaluation of techniques for grabbing and manipulating remote objects in immersive virtual enviro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://portal.acm.org/citation.cfm?doid=253284.253301
+      \endverb
+      \verb{url}
+      \verb http://portal.acm.org/citation.cfm?doid=253284.253301
+      \endverb
+    \endentry
     \entry{dablander_future_2024}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=026807838749dac1d3b2003f76c1025d}{%
@@ -4573,6 +4731,38 @@
       \endverb
       \verb{url}
       \verb https://www.mdpi.com/2079-9292/12/13/2832
+      \endverb
+    \endentry
+    \entry{mine_virtual_1995}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f00fdeb1a2c594e6a37d0510401cb8ae}{%
+           family={Mine},
+           familyi={M\bibinitperiod},
+           given={Mark\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{fullhash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{fullhashraw}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{bibnamehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authorbibnamehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authornamehash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authorfullhash}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \strng{authorfullhashraw}{f00fdeb1a2c594e6a37d0510401cb8ae}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Virtual Environment Interaction Techniques}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/SDK7N3LS/Mine - 1995 - Virtual Environment Interaction Techniques.pdf:application/pdf
       \endverb
     \endentry
     \entry{narayanasamy_distinguishing_2006}{article}{}{}
