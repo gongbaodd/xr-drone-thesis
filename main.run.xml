@@ -115,6 +115,8 @@
       <file>ref/xrblend.bib</file>
       <file>ref/input.bib</file>
       <file>ref/agile-game.bib</file>
+      <file>ref/engine.bib</file>
+      <file>ref/xrui.bib</file>
     </requires>
   </external>
 </requests>

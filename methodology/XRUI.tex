@@ -1,0 +1,16 @@
+\subsection{Comparison of the XR Interaction Frameworks}
+
+Three widely used XR interaction frameworks are considered in this study: Unity XR Interaction Toolkit (XRI), Microsoft Mixed Reality Toolkit (MRTK), and Meta XR Interaction SDK.
+
+Unity XR Interaction Toolkit (XRI) is a high-level, component-based interaction framework for developing virtual reality (VR) and augmented reality (AR) applications. It provides a unified system for handling 3D object manipulation and user interface interactions through Unity's input system.
+
+Microsoft Mixed Reality Toolkit (MRTK) is an open-source, cross-platform framework designed for spatial interaction, originally targeting HoloLens devices but later extended to support VR platforms through OpenXR. MRTK offers advanced interaction capabilities, such as hand tracking, eye gaze interaction, and mixed reality user interface components \parencite{dojcinovic_personalized_2026}. While MRTK can be integrated with XRI, it functions as a standalone framework with its own interaction paradigms.
+
+Meta XR Interaction SDK (formerly Oculus Integration / OVR XR) is a platform-specific framework optimized for Meta Quest devices. Unlike XRI and MRTK, it is tightly coupled with Meta's hardware and runtime, providing direct access to device-specific features such as head tracking, hand tracking, eye tracking, and facial expression tracking \parencite{wang_xr-dt_2026}.
+ 
+
+Having analyzed the existing development tools in the field of augmented reality, it is evident that not only the foundational game engine is important, but also the extensions that significantly speed up and simplify the development of such applications. Each solution has its own direction and is customized for certain hardware or operating systems. Therefore, many different extensions and the openness of some solutions allows them to be used not only for games and entertainment, but also in any areas of activity, including robotics, medicine, navigation, etc. \parencite{shatokhin_extended_2025}
+
+Previous research highlights that, beyond the choice of game engine, interaction frameworks play a critical role in simplifying development and accelerating prototyping in XR applications \parencite{shatokhin_extended_2025}. These frameworks differ in their level of abstraction, hardware dependency, and supported interaction modalities.
+
+In this study, the interaction design is based on a floor-based XR reference coordinate system, where a handheld controller is used to emulate a radio transmitter. Given the need for rapid prototyping and flexible interaction design, MRTK is selected due to its rich interaction features and cross-platform capabilities.
