@@ -328,214 +328,6 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
-    \entry{chen_effects_2022}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=de12352bb75d0f2f66d63ab85f0617f6}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Jingying},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc6df306cc3cb9193b211b401b774a7c}{%
-           family={Dai},
-           familyi={D\bibinitperiod},
-           given={Jian},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc7189eb3fdb4181f723157746155aa2}{%
-           family={Zhu},
-           familyi={Z\bibinitperiod},
-           given={Keke},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=99387f3bc80efe710bb34ac89ac2e92f}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Liujie},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{55b75bd3f6735edd5f8d458f078915c8}
-      \strng{fullhash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{fullhashraw}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{bibnamehash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{authorbibnamehash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{authornamehash}{55b75bd3f6735edd5f8d458f078915c8}
-      \strng{authorfullhash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{authorfullhashraw}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{In recent years, there has been increasing use of extended reality ({XR}) in language learning. Many scholars have conducted empirical research on the relationship between the two, but conclusions have been inconsistent, which calls for an organization and reanalysis of relevant literature. Articles published between 2000 and 2022 on the impact of {XR} on language learning were retrieved from the Web of Science and Scopus databases, and 17 of them (including 21 independent samples and 993 subjects) were included in this meta-analysis. The findings indicate that {XR} could promote language learning (effect size = 0.825). The moderating effects of education level, target language, and technology type were also tested, and the results indicate that the target language type significantly moderated the effect of {XR} technology on language learning ( Q  = 30.563, p  \&lt; 0.001). Moreover, based on the subgroup analysis, several research questions worthy of further exploration in this field are discussed. Some suggestions are provided, noting that these technologies should be personally designed for learners and learning objects when applied in order to improve the effects of language learning.}
-      \field{day}{20}
-      \field{issn}{1664-1078}
-      \field{journaltitle}{Frontiers in Psychology}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{shortjournal}{Front. Psychol.}
-      \field{shorttitle}{Effects of extended reality on language learning}
-      \field{title}{Effects of extended reality on language learning: A meta-analysis}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{13}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1016519}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3389/fpsyg.2022.1016519
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/WYCRVALY/Chen et al. - 2022 - Effects of extended reality on language learning A meta-analysis.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1016519/full
-      \endverb
-      \verb{url}
-      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1016519/full
-      \endverb
-    \endentry
-    \entry{curran_use_2024}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9c78f3683469569a4e174b7c3713223c}{%
-           family={Curran},
-           familyi={C\bibinitperiod},
-           given={Vernon\bibnamedelima R},
-           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d6c1189d38e542515c4dda0baa867831}{%
-           family={Hollett},
-           familyi={H\bibinitperiod},
-           given={Ann},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{fullhash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{fullhashraw}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{bibnamehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authorbibnamehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authornamehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authorfullhash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authorfullhashraw}{1beb6f659cd813b05d59cbcf032e1727}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Objective: Extended reality ({XR}) has emerged as an innovative educational modality that offers the potential for the creation of more interactive and engaging forms of patient education experiences and products. The purpose of this article is to describe the field of {XR} technologies and review its potential through a critical lens as well as its possible adoption as a mainstream technology for providing patient education in the future. Method: A review of the literature was undertaken to summarise the emerging evidence concerning the effectiveness of {XR} as a patient education modality. The findings of several reviews are summarised and a critical discussion of potential issues and challenges in the adoption and use of {XR} among particular marginalised populations are explored. Results: The emerging evidence suggests that different forms of {XR} technology applications have the potential to create immersive and engaging patient education experiences that can lead to enhanced patient satisfaction, positive educational outcomes and reduced patient anxiety. Nonetheless, there have been calls for greater consideration of how patient characteristics, including socioeconomic status, gender, cultural and generational differences, influence the learning effects of virtual reality educational applications, as well as its adoption and implementation for patient education purposes. Conclusion: The evidence surrounding the effectiveness of {XR} in patient education is growing; however, various factors could influence the successful adoption and implementation of {XR} in different patient populations who have traditionally experienced challenges with digital health literacy. The paper offers some recommendations for enhancing the evidence base and potential approaches to advance the design and evaluation of {XR} applications in patient education.}
-      \field{issn}{0017-8969, 1748-8176}
-      \field{journaltitle}{Health Education Journal}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{4}
-      \field{shortjournal}{Health Education Journal}
-      \field{shorttitle}{The use of extended reality ({XR}) in patient education}
-      \field{title}{The use of extended reality ({XR}) in patient education: A critical perspective}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{83}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{338\bibrangedash 351}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1177/00178969231198955
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/BXYAD994/Curran and Hollett - 2024 - The use of extended reality (XR) in patient education A critical perspective.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/10.1177/00178969231198955
-      \endverb
-      \verb{url}
-      \verb https://journals.sagepub.com/doi/10.1177/00178969231198955
-      \endverb
-    \endentry
-    \entry{curran_use_2022}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=9c78f3683469569a4e174b7c3713223c}{%
-           family={Curran},
-           familyi={C\bibinitperiod},
-           given={Vernon\bibnamedelima R.},
-           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=12df93d7ee4a71f68d8b5921791630d3}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Xiaolin},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0c2af0855473f073938b2bcd20895a05}{%
-           family={Aydin},
-           familyi={A\bibinitperiod},
-           given={Mustafa\bibnamedelima Yalin},
-           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb9e67b3cd81f70d6dc5b801ffabad1f}{%
-           family={Meruvia-Pastor},
-           familyi={M\bibinithyphendelim P\bibinitperiod},
-           given={Oscar},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{80ac7f0d4bb81bf89a4e58690d3d5821}
-      \strng{fullhash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{fullhashraw}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{bibnamehash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{authorbibnamehash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{authornamehash}{80ac7f0d4bb81bf89a4e58690d3d5821}
-      \strng{authorfullhash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{authorfullhashraw}{1932c0ab422bf09109a0d4f3c57000e0}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Extended reality ({XR}) has emerged as an innovative simulation-based learning modality. An integrative review was undertaken to explore the nature of evidence, usage, and effectiveness of {XR} modalities in medical education. One hundred and thirty-three (N = 133) studies and articles were reviewed. {XR} technologies are commonly reported in surgical and anatomical education, and the evidence suggests {XR} may be as effective as traditional medical education teaching methods and, potentially, a more cost-effective means of curriculum delivery. Further research to compare different variations of {XR} technologies and best applications in medical education and training are required to advance the field.}
-      \field{day}{19}
-      \field{issn}{2156-8650}
-      \field{journaltitle}{Medical Science Educator}
-      \field{langid}{english}
-      \field{month}{12}
-      \field{number}{1}
-      \field{shortjournal}{Med.Sci.Educ.}
-      \field{shorttitle}{Use of Extended Reality in Medical Education}
-      \field{title}{Use of Extended Reality in Medical Education: An Integrative Review}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{33}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{275\bibrangedash 286}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1007/s40670-022-01698-4
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/3MUKEELW/Curran et al. - 2022 - Use of Extended Reality in Medical Education An Integrative Review.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s40670-022-01698-4
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s40670-022-01698-4
-      \endverb
-    \endentry
     \entry{dai_educational_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=962d9a9ca7f76a4a9ba7e9c7219b492b}{%
@@ -743,60 +535,6 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
-      \endverb
-    \endentry
-    \entry{emma_extended_2026}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8bf81627318f3e01111163d09aae5d7b}{%
-           family={Emma},
-           familyi={E\bibinitperiod},
-           given={Ottaviano},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{fullhash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{fullhashraw}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{bibnamehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authorbibnamehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authornamehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authorfullhash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authorfullhashraw}{8bf81627318f3e01111163d09aae5d7b}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This literature review explores the transformative potential of Extended Reality ({XR}) - encompassing Virtual Reality ({VR}), Augmented Reality ({AR}), and Mixed Reality ({MR}) - when integrated with Artificial Intelligence ({AI}) and multimodal interfaces in learning environments for extended education. Through a systematic analysis of 72 peer-reviewed studies (2014–2024), the review identifies five main application areas: professional training, {STEM} education, soft skills development, general education, and assessment; as well as four pedagogical goals aimed at enhancing learning outcomes, increasing engagement and motivation, ensuring accessibility and safety, and fostering 21st-century skills.}
-      \field{issn}{29496780}
-      \field{journaltitle}{Computers \& Education: X Reality}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{shortjournal}{Computers \& Education: X Reality}
-      \field{shorttitle}{Extended reality in the digital age}
-      \field{title}{Extended reality in the digital age: A literature review on technology-driven learning environments}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{8}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{100127}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.cexr.2025.100127
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/XBEYDY3W/Emma - 2026 - Extended reality in the digital age A literature review on technology-driven learning environments.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2949678025000352
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2949678025000352
       \endverb
     \endentry
     \entry{gdc2026report}{misc}{}{}
@@ -1483,56 +1221,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Contemporary Ergonomics 1993}
       \field{year}{2003}
-    \endentry
-    \entry{lowell_extended_2024}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=90da6902537fd72c176c34fc86c46590}{%
-           family={Lowell},
-           familyi={L\bibinitperiod},
-           given={Victoria},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{fullhash}{90da6902537fd72c176c34fc86c46590}
-      \strng{fullhashraw}{90da6902537fd72c176c34fc86c46590}
-      \strng{bibnamehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authorbibnamehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authornamehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authorfullhash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authorfullhashraw}{90da6902537fd72c176c34fc86c46590}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Extended Reality ({XR}) technologies—encompassing Virtual Reality ({VR}), Augmented Reality ({AR}), and Mixed Reality ({MR})—are revolutionizing educational practices through their unique ability to create immersive, authentic learning experiences. This transformation aligns with core principles of situated cognition and legitimate peripheral participation. {XR} enables students to learn by doing in safe yet realistic environments where they can practice without real-world consequences. Through these technologies, learners can engage in experiences that would be impractical, impossible, or too costly to replicate in traditional educational settings. This special issue of the Journal of Applied Instructional Design ({JAID}) examines the critical intersection of {XR} technologies with authentic learning principles, addressing the widening gap between rapid technological advancement and established instructional design practices. The collection explores how {XR} can bridge theoretical knowledge and practical application across educational contexts by drawing together perspectives from educational technology researchers, learning scientists, and practitioners. The contributing authors investigate three interconnected themes: the design of {XR} environments to support authentic learning characteristics, the unique affordances of different {XR} modalities, and the practical implementation challenges in educational settings. Through empirical evidence, theoretical frameworks, and practical insights, they demonstrate how {XR} technologies facilitate progressive skill development, create unprecedented levels of immersion and presence, and enable previously impossible learning experiences while thoughtfully addressing critical challenges in accessibility, technical implementation, pedagogical frameworks, and ethical considerations.}
-      \field{journaltitle}{The Journal of Applied Instructional Design}
-      \field{langid}{english}
-      \field{number}{4}
-      \field{shorttitle}{Extended Reality ({XR}) for Authentic Learning}
-      \field{title}{Extended Reality ({XR}) for Authentic Learning: New Frontiers in Educational Technology}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{13}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.59668/2033.19042
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/YC4R5H92/Lowell - 2024 - Extended Reality (XR) for Authentic Learning New Frontiers in Educational Technology.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://jaid.edtechbooks.org/jaid_13_4/XR_New_Frontiers
-      \endverb
-      \verb{url}
-      \verb https://jaid.edtechbooks.org/jaid_13_4/XR_New_Frontiers
-      \endverb
     \endentry
     \entry{luukkonen_modelling_2011}{article}{}{}
       \name{author}{1}{}{%
@@ -2247,6 +1935,82 @@
       \field{title}{Agile Software Development with Scrum}
       \field{year}{2001}
     \endentry
+    \entry{shah_airsim_2017}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2983594a6c7c1e934b9553c1032b4683}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Shital},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14a631e77effc1b5f2774d9255ed6ebc}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Debadeepta},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c53bde0c4dd2fc8e5da6c77ef94b56b4}{%
+           family={Lovett},
+           familyi={L\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=976735c002ce6a93b243cfa6779822c4}{%
+           family={Kapoor},
+           familyi={K\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{850e69515a77f6fc9b28ada64dd280eb}
+      \strng{fullhash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{fullhashraw}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{bibnamehash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{authorbibnamehash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{authornamehash}{850e69515a77f6fc9b28ada64dd280eb}
+      \strng{authorfullhash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{authorfullhashraw}{315fc397365c6d59db1134e705e6aa7f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Developing and testing algorithms for autonomous vehicles in real world is an expensive and time consuming process. Also, in order to utilize recent advances in machine intelligence and deep learning we need to collect a large amount of annotated training data in a variety of conditions and environments. We present a new simulator built on Unreal Engine that offers physically and visually realistic simulations for both of these goals. Our simulator includes a physics engine that can operate at a high frequency for real-time hardware-in-the-loop ({HITL}) simulations with support for popular protocols (e.g. {MavLink}). The simulator is designed from the ground up to be extensible to accommodate new types of vehicles, hardware platforms and software protocols. In addition, the modular design enables various components to be easily usable independently in other projects. We demonstrate the simulator by ﬁrst implementing a quadrotor as an autonomous vehicle and then experimentally comparing the software components with real-world ﬂights.}
+      \field{day}{18}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{{arXiv}:1705.05065}
+      \field{shorttitle}{{AirSim}}
+      \field{title}{{AirSim}: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1705.05065
+      \endverb
+      \verb{eprint}
+      \verb 1705.05065 [cs]
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/MVQBU7DI/Shah et al. - 2017 - AirSim High-Fidelity Visual and Physical Simulation for Autonomous Vehicles.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1705.05065
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1705.05065
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
+    \endentry
     \entry{turk_assumptions_2005}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6131e20273369a25dbf1be8c8bf82736}{%
@@ -2739,86 +2503,6 @@
       \endverb
       \verb{url}
       \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
-      \endverb
-    \endentry
-    \entry{zwolinski2022xr}{article}{}{}
-      \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=e073e7c7dc0c2f144b249a218cb115aa}{%
-           family={Zwoliński},
-           familyi={Z\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2136a2d6c3453d7531669adc0d744f54}{%
-           family={Kamińska},
-           familyi={K\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c7687c81bec059fd9117491d8373885f}{%
-           family={Laska-Leśniewicz},
-           familyi={L\bibinithyphendelim L\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=68057af9eca5d915c56cb11fccd823b2}{%
-           family={Haamer},
-           familyi={H\bibinitperiod},
-           given={R.\bibnamedelimi E.},
-           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f58d5ea23ef63f03b0138c71f6b17d49}{%
-           family={Vairinhos},
-           familyi={V\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b3d9a29ee5fdb287140b9b5ce20f23f8}{%
-           family={Raposo},
-           familyi={R\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=48917eb08bbd3941e9c4ba1941452cc7}{%
-           family={Urem},
-           familyi={U\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=20ee2cb89c38cbe3596fc962e50eafbd}{%
-           family={Reisinho},
-           familyi={R\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {MDPI}%
-      }
-      \strng{namehash}{4fa5510b5aecdb32df144affc73aa37f}
-      \strng{fullhash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{fullhashraw}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{bibnamehash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{authorbibnamehash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{authornamehash}{4fa5510b5aecdb32df144affc73aa37f}
-      \strng{authorfullhash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{authorfullhashraw}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Electronics}
-      \field{number}{3}
-      \field{title}{Extended Reality in Education and Training: Case Studies in Management Education}
-      \field{volume}{11}
-      \field{year}{2022}
-      \field{pages}{336}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/electronics11030336
       \endverb
     \endentry
   \enddatalist
@@ -3132,214 +2816,6 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
-    \entry{chen_effects_2022}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=de12352bb75d0f2f66d63ab85f0617f6}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Jingying},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc6df306cc3cb9193b211b401b774a7c}{%
-           family={Dai},
-           familyi={D\bibinitperiod},
-           given={Jian},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc7189eb3fdb4181f723157746155aa2}{%
-           family={Zhu},
-           familyi={Z\bibinitperiod},
-           given={Keke},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=99387f3bc80efe710bb34ac89ac2e92f}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Liujie},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{55b75bd3f6735edd5f8d458f078915c8}
-      \strng{fullhash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{fullhashraw}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{bibnamehash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{authorbibnamehash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{authornamehash}{55b75bd3f6735edd5f8d458f078915c8}
-      \strng{authorfullhash}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \strng{authorfullhashraw}{b68b6ea3c8d92adc362688b9b29a10fa}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{In recent years, there has been increasing use of extended reality ({XR}) in language learning. Many scholars have conducted empirical research on the relationship between the two, but conclusions have been inconsistent, which calls for an organization and reanalysis of relevant literature. Articles published between 2000 and 2022 on the impact of {XR} on language learning were retrieved from the Web of Science and Scopus databases, and 17 of them (including 21 independent samples and 993 subjects) were included in this meta-analysis. The findings indicate that {XR} could promote language learning (effect size = 0.825). The moderating effects of education level, target language, and technology type were also tested, and the results indicate that the target language type significantly moderated the effect of {XR} technology on language learning ( Q  = 30.563, p  \&lt; 0.001). Moreover, based on the subgroup analysis, several research questions worthy of further exploration in this field are discussed. Some suggestions are provided, noting that these technologies should be personally designed for learners and learning objects when applied in order to improve the effects of language learning.}
-      \field{day}{20}
-      \field{issn}{1664-1078}
-      \field{journaltitle}{Frontiers in Psychology}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{shortjournal}{Front. Psychol.}
-      \field{shorttitle}{Effects of extended reality on language learning}
-      \field{title}{Effects of extended reality on language learning: A meta-analysis}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{13}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1016519}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3389/fpsyg.2022.1016519
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/WYCRVALY/Chen et al. - 2022 - Effects of extended reality on language learning A meta-analysis.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1016519/full
-      \endverb
-      \verb{url}
-      \verb https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1016519/full
-      \endverb
-    \endentry
-    \entry{curran_use_2024}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9c78f3683469569a4e174b7c3713223c}{%
-           family={Curran},
-           familyi={C\bibinitperiod},
-           given={Vernon\bibnamedelima R},
-           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d6c1189d38e542515c4dda0baa867831}{%
-           family={Hollett},
-           familyi={H\bibinitperiod},
-           given={Ann},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{fullhash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{fullhashraw}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{bibnamehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authorbibnamehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authornamehash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authorfullhash}{1beb6f659cd813b05d59cbcf032e1727}
-      \strng{authorfullhashraw}{1beb6f659cd813b05d59cbcf032e1727}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Objective: Extended reality ({XR}) has emerged as an innovative educational modality that offers the potential for the creation of more interactive and engaging forms of patient education experiences and products. The purpose of this article is to describe the field of {XR} technologies and review its potential through a critical lens as well as its possible adoption as a mainstream technology for providing patient education in the future. Method: A review of the literature was undertaken to summarise the emerging evidence concerning the effectiveness of {XR} as a patient education modality. The findings of several reviews are summarised and a critical discussion of potential issues and challenges in the adoption and use of {XR} among particular marginalised populations are explored. Results: The emerging evidence suggests that different forms of {XR} technology applications have the potential to create immersive and engaging patient education experiences that can lead to enhanced patient satisfaction, positive educational outcomes and reduced patient anxiety. Nonetheless, there have been calls for greater consideration of how patient characteristics, including socioeconomic status, gender, cultural and generational differences, influence the learning effects of virtual reality educational applications, as well as its adoption and implementation for patient education purposes. Conclusion: The evidence surrounding the effectiveness of {XR} in patient education is growing; however, various factors could influence the successful adoption and implementation of {XR} in different patient populations who have traditionally experienced challenges with digital health literacy. The paper offers some recommendations for enhancing the evidence base and potential approaches to advance the design and evaluation of {XR} applications in patient education.}
-      \field{issn}{0017-8969, 1748-8176}
-      \field{journaltitle}{Health Education Journal}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{4}
-      \field{shortjournal}{Health Education Journal}
-      \field{shorttitle}{The use of extended reality ({XR}) in patient education}
-      \field{title}{The use of extended reality ({XR}) in patient education: A critical perspective}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{83}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{338\bibrangedash 351}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1177/00178969231198955
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/BXYAD994/Curran and Hollett - 2024 - The use of extended reality (XR) in patient education A critical perspective.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/10.1177/00178969231198955
-      \endverb
-      \verb{url}
-      \verb https://journals.sagepub.com/doi/10.1177/00178969231198955
-      \endverb
-    \endentry
-    \entry{curran_use_2022}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=9c78f3683469569a4e174b7c3713223c}{%
-           family={Curran},
-           familyi={C\bibinitperiod},
-           given={Vernon\bibnamedelima R.},
-           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=12df93d7ee4a71f68d8b5921791630d3}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Xiaolin},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0c2af0855473f073938b2bcd20895a05}{%
-           family={Aydin},
-           familyi={A\bibinitperiod},
-           given={Mustafa\bibnamedelima Yalin},
-           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb9e67b3cd81f70d6dc5b801ffabad1f}{%
-           family={Meruvia-Pastor},
-           familyi={M\bibinithyphendelim P\bibinitperiod},
-           given={Oscar},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{80ac7f0d4bb81bf89a4e58690d3d5821}
-      \strng{fullhash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{fullhashraw}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{bibnamehash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{authorbibnamehash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{authornamehash}{80ac7f0d4bb81bf89a4e58690d3d5821}
-      \strng{authorfullhash}{1932c0ab422bf09109a0d4f3c57000e0}
-      \strng{authorfullhashraw}{1932c0ab422bf09109a0d4f3c57000e0}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Extended reality ({XR}) has emerged as an innovative simulation-based learning modality. An integrative review was undertaken to explore the nature of evidence, usage, and effectiveness of {XR} modalities in medical education. One hundred and thirty-three (N = 133) studies and articles were reviewed. {XR} technologies are commonly reported in surgical and anatomical education, and the evidence suggests {XR} may be as effective as traditional medical education teaching methods and, potentially, a more cost-effective means of curriculum delivery. Further research to compare different variations of {XR} technologies and best applications in medical education and training are required to advance the field.}
-      \field{day}{19}
-      \field{issn}{2156-8650}
-      \field{journaltitle}{Medical Science Educator}
-      \field{langid}{english}
-      \field{month}{12}
-      \field{number}{1}
-      \field{shortjournal}{Med.Sci.Educ.}
-      \field{shorttitle}{Use of Extended Reality in Medical Education}
-      \field{title}{Use of Extended Reality in Medical Education: An Integrative Review}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{33}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{275\bibrangedash 286}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1007/s40670-022-01698-4
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/3MUKEELW/Curran et al. - 2022 - Use of Extended Reality in Medical Education An Integrative Review.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s40670-022-01698-4
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s40670-022-01698-4
-      \endverb
-    \endentry
     \entry{dai_educational_2022}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=962d9a9ca7f76a4a9ba7e9c7219b492b}{%
@@ -3547,60 +3023,6 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
-      \endverb
-    \endentry
-    \entry{emma_extended_2026}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8bf81627318f3e01111163d09aae5d7b}{%
-           family={Emma},
-           familyi={E\bibinitperiod},
-           given={Ottaviano},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{fullhash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{fullhashraw}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{bibnamehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authorbibnamehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authornamehash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authorfullhash}{8bf81627318f3e01111163d09aae5d7b}
-      \strng{authorfullhashraw}{8bf81627318f3e01111163d09aae5d7b}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This literature review explores the transformative potential of Extended Reality ({XR}) - encompassing Virtual Reality ({VR}), Augmented Reality ({AR}), and Mixed Reality ({MR}) - when integrated with Artificial Intelligence ({AI}) and multimodal interfaces in learning environments for extended education. Through a systematic analysis of 72 peer-reviewed studies (2014–2024), the review identifies five main application areas: professional training, {STEM} education, soft skills development, general education, and assessment; as well as four pedagogical goals aimed at enhancing learning outcomes, increasing engagement and motivation, ensuring accessibility and safety, and fostering 21st-century skills.}
-      \field{issn}{29496780}
-      \field{journaltitle}{Computers \& Education: X Reality}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{shortjournal}{Computers \& Education: X Reality}
-      \field{shorttitle}{Extended reality in the digital age}
-      \field{title}{Extended reality in the digital age: A literature review on technology-driven learning environments}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{8}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{100127}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.cexr.2025.100127
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/XBEYDY3W/Emma - 2026 - Extended reality in the digital age A literature review on technology-driven learning environments.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2949678025000352
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2949678025000352
       \endverb
     \endentry
     \entry{gdc2026report}{misc}{}{}
@@ -4287,56 +3709,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Contemporary Ergonomics 1993}
       \field{year}{2003}
-    \endentry
-    \entry{lowell_extended_2024}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=90da6902537fd72c176c34fc86c46590}{%
-           family={Lowell},
-           familyi={L\bibinitperiod},
-           given={Victoria},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{fullhash}{90da6902537fd72c176c34fc86c46590}
-      \strng{fullhashraw}{90da6902537fd72c176c34fc86c46590}
-      \strng{bibnamehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authorbibnamehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authornamehash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authorfullhash}{90da6902537fd72c176c34fc86c46590}
-      \strng{authorfullhashraw}{90da6902537fd72c176c34fc86c46590}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Extended Reality ({XR}) technologies—encompassing Virtual Reality ({VR}), Augmented Reality ({AR}), and Mixed Reality ({MR})—are revolutionizing educational practices through their unique ability to create immersive, authentic learning experiences. This transformation aligns with core principles of situated cognition and legitimate peripheral participation. {XR} enables students to learn by doing in safe yet realistic environments where they can practice without real-world consequences. Through these technologies, learners can engage in experiences that would be impractical, impossible, or too costly to replicate in traditional educational settings. This special issue of the Journal of Applied Instructional Design ({JAID}) examines the critical intersection of {XR} technologies with authentic learning principles, addressing the widening gap between rapid technological advancement and established instructional design practices. The collection explores how {XR} can bridge theoretical knowledge and practical application across educational contexts by drawing together perspectives from educational technology researchers, learning scientists, and practitioners. The contributing authors investigate three interconnected themes: the design of {XR} environments to support authentic learning characteristics, the unique affordances of different {XR} modalities, and the practical implementation challenges in educational settings. Through empirical evidence, theoretical frameworks, and practical insights, they demonstrate how {XR} technologies facilitate progressive skill development, create unprecedented levels of immersion and presence, and enable previously impossible learning experiences while thoughtfully addressing critical challenges in accessibility, technical implementation, pedagogical frameworks, and ethical considerations.}
-      \field{journaltitle}{The Journal of Applied Instructional Design}
-      \field{langid}{english}
-      \field{number}{4}
-      \field{shorttitle}{Extended Reality ({XR}) for Authentic Learning}
-      \field{title}{Extended Reality ({XR}) for Authentic Learning: New Frontiers in Educational Technology}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{13}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.59668/2033.19042
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/YC4R5H92/Lowell - 2024 - Extended Reality (XR) for Authentic Learning New Frontiers in Educational Technology.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://jaid.edtechbooks.org/jaid_13_4/XR_New_Frontiers
-      \endverb
-      \verb{url}
-      \verb https://jaid.edtechbooks.org/jaid_13_4/XR_New_Frontiers
-      \endverb
     \endentry
     \entry{luukkonen_modelling_2011}{article}{}{}
       \name{author}{1}{}{%
@@ -5051,6 +4423,82 @@
       \field{title}{Agile Software Development with Scrum}
       \field{year}{2001}
     \endentry
+    \entry{shah_airsim_2017}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2983594a6c7c1e934b9553c1032b4683}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Shital},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14a631e77effc1b5f2774d9255ed6ebc}{%
+           family={Dey},
+           familyi={D\bibinitperiod},
+           given={Debadeepta},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c53bde0c4dd2fc8e5da6c77ef94b56b4}{%
+           family={Lovett},
+           familyi={L\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=976735c002ce6a93b243cfa6779822c4}{%
+           family={Kapoor},
+           familyi={K\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{850e69515a77f6fc9b28ada64dd280eb}
+      \strng{fullhash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{fullhashraw}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{bibnamehash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{authorbibnamehash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{authornamehash}{850e69515a77f6fc9b28ada64dd280eb}
+      \strng{authorfullhash}{315fc397365c6d59db1134e705e6aa7f}
+      \strng{authorfullhashraw}{315fc397365c6d59db1134e705e6aa7f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Developing and testing algorithms for autonomous vehicles in real world is an expensive and time consuming process. Also, in order to utilize recent advances in machine intelligence and deep learning we need to collect a large amount of annotated training data in a variety of conditions and environments. We present a new simulator built on Unreal Engine that offers physically and visually realistic simulations for both of these goals. Our simulator includes a physics engine that can operate at a high frequency for real-time hardware-in-the-loop ({HITL}) simulations with support for popular protocols (e.g. {MavLink}). The simulator is designed from the ground up to be extensible to accommodate new types of vehicles, hardware platforms and software protocols. In addition, the modular design enables various components to be easily usable independently in other projects. We demonstrate the simulator by ﬁrst implementing a quadrotor as an autonomous vehicle and then experimentally comparing the software components with real-world ﬂights.}
+      \field{day}{18}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{{arXiv}:1705.05065}
+      \field{shorttitle}{{AirSim}}
+      \field{title}{{AirSim}: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.1705.05065
+      \endverb
+      \verb{eprint}
+      \verb 1705.05065 [cs]
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/MVQBU7DI/Shah et al. - 2017 - AirSim High-Fidelity Visual and Physical Simulation for Autonomous Vehicles.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1705.05065
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1705.05065
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
+    \endentry
     \entry{turk_assumptions_2005}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6131e20273369a25dbf1be8c8bf82736}{%
@@ -5543,86 +4991,6 @@
       \endverb
       \verb{url}
       \verb https://assetstore.unity.com/packages/tools/physics/yue-ultimate-fpv-drone-physics-231651
-      \endverb
-    \endentry
-    \entry{zwolinski2022xr}{article}{}{}
-      \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=e073e7c7dc0c2f144b249a218cb115aa}{%
-           family={Zwoliński},
-           familyi={Z\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2136a2d6c3453d7531669adc0d744f54}{%
-           family={Kamińska},
-           familyi={K\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c7687c81bec059fd9117491d8373885f}{%
-           family={Laska-Leśniewicz},
-           familyi={L\bibinithyphendelim L\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=68057af9eca5d915c56cb11fccd823b2}{%
-           family={Haamer},
-           familyi={H\bibinitperiod},
-           given={R.\bibnamedelimi E.},
-           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f58d5ea23ef63f03b0138c71f6b17d49}{%
-           family={Vairinhos},
-           familyi={V\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b3d9a29ee5fdb287140b9b5ce20f23f8}{%
-           family={Raposo},
-           familyi={R\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=48917eb08bbd3941e9c4ba1941452cc7}{%
-           family={Urem},
-           familyi={U\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=20ee2cb89c38cbe3596fc962e50eafbd}{%
-           family={Reisinho},
-           familyi={R\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {MDPI}%
-      }
-      \strng{namehash}{4fa5510b5aecdb32df144affc73aa37f}
-      \strng{fullhash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{fullhashraw}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{bibnamehash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{authorbibnamehash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{authornamehash}{4fa5510b5aecdb32df144affc73aa37f}
-      \strng{authorfullhash}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \strng{authorfullhashraw}{cbaba2d85a0532ee134c525eb74dd2e3}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Electronics}
-      \field{number}{3}
-      \field{title}{Extended Reality in Education and Training: Case Studies in Management Education}
-      \field{volume}{11}
-      \field{year}{2022}
-      \field{pages}{336}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/electronics11030336
       \endverb
     \endentry
   \enddatalist

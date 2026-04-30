@@ -568,6 +568,12 @@ INPUT ./img/exp/exp.png
 INPUT ./theoretical_background/co-trainer/fpv_sim.tex
 INPUT ./theoretical_background/co-trainer/fpv_sim.tex
 INPUT theoretical_background/co-trainer/fpv_sim.tex
+INPUT ./theoretical_background/co-trainer/hac.tex
+INPUT ./theoretical_background/co-trainer/hac.tex
+INPUT theoretical_background/co-trainer/hac.tex
+INPUT ./theoretical_background/co-trainer/rl.tex
+INPUT ./theoretical_background/co-trainer/rl.tex
+INPUT theoretical_background/co-trainer/rl.tex
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
