@@ -1,3 +1,11 @@
+\subsubsection{Spatial Coordinate System}
 
-\subsubsection{Spatial Reference Systems}
-    Reference Spaces
+In an XR environment, a coordinate system is used as a frame of reference (FoR) to determine the position, orientation, and scale of virtual objects relative to the surrounding environment \parencite{davari_towards_2024}.
+
+Across both virtual reality (VR) and augmented reality (AR), XR applications require consistent mapping between virtual objects and their corresponding real-world locations. To support this, OpenXR defines spatial constructs known as reference spaces, which enable applications to track the real world and describe how different frames of reference relate and evolve over time \parencite{openxr2024spec}.
+
+OpenXR specifies four primary reference spaces: VIEW, LOCAL, STAGE, and LOCAL\_FLOOR.
+
+The VIEW space represents the pose of the primary viewer and is typically used for head-locked content, such as heads-up displays (HUDs). The LOCAL space provides a stable, gravity-aligned coordinate system suitable for seated or stationary experiences. The STAGE space defines a room-scale coordinate system aligned with the physical floor, enabling spatial movement within a bounded area. Finally, the LOCAL\_FLOOR space is similar to LOCAL but with its origin explicitly positioned at an estimated floor level, ensuring consistency with real-world ground alignment.
+
+

@@ -715,6 +715,8 @@ INPUT discussion/future.tex
 INPUT ./_08_summary.tex
 INPUT ./_08_summary.tex
 INPUT _08_summary.tex
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri8c.tfm
+INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmri8c.vf
 INPUT ./_09_appendix.tex
 INPUT ./_09_appendix.tex
 INPUT _09_appendix.tex

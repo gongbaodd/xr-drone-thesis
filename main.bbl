@@ -328,6 +328,60 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
+    \entry{billinghurst_survey_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=397a40f3a8c30fbe20a4682b1610f0e2}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14f41278656158d26644ead6bce4de74}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gun},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9de0181c62b62fff70aad74d56d6ef7a}
+      \strng{fullhash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{fullhashraw}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{bibnamehash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{authorbibnamehash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{authornamehash}{9de0181c62b62fff70aad74d56d6ef7a}
+      \strng{authorfullhash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{authorfullhashraw}{6fac77249f8c9349f6b5aa69e416b65d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This survey summarizes almost 50 years of research and development in the field of Augmented Reality ({AR}). From early research in the 1960's until widespread availability by the 2010's there has been steady progress towards the goal of being able to seamlessly combine real and virtual worlds. We provide an overview of the common definitions of {AR}, and show how {AR} fits into taxonomies of other related technologies. A history of important milestones in Augmented Reality is followed by sections on the key enabling technologies of tracking, display and input devices. We also review design guidelines and provide some examples of successful {AR} applications. Finally, we conclude with a summary of directions for future work and a review of some of the areas that are currently being researched.}
+      \field{day}{31}
+      \field{journaltitle}{Foundations and Trends® in Human-Computer Interaction}
+      \field{month}{3}
+      \field{shortjournal}{Foundations and Trends® in Human-Computer Interaction}
+      \field{title}{A Survey of Augmented Reality}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{73\bibrangedash 272}
+      \range{pages}{200}
+      \verb{doi}
+      \verb 10.1561/1100000049
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/4LJZ4AEY/Billinghurst et al. - 2015 - A Survey of Augmented Reality.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{dablander_future_2024}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=026807838749dac1d3b2003f76c1025d}{%
@@ -433,6 +487,69 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
+    \endentry
+    \entry{davari_towards_2024}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=749280a26c4d7c52509606198f00440f}{%
+           family={Davari},
+           familyi={D\bibinitperiod},
+           given={Shakiba},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6d01578713510a28160c14a89006a6b}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Doug\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{fullhash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{fullhashraw}{1601d3f07430ced17fba280eeea7423c}
+      \strng{bibnamehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authorbibnamehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authornamehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authorfullhash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authorfullhashraw}{1601d3f07430ced17fba280eeea7423c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{By converting the entire 3D space around the user into a screen, Extended Reality ({XR}) can ameliorate traditional displays' space limitations and facilitate the consumption of multiple pieces of information at a time. However, if designed inappropriately, these {XR} interfaces can overwhelm the user and complicate information access. In this work, we explored the design dimensions that can be adapted to enable suitable presentation and interaction within an {XR} interface. To investigate a specific use case of context-aware adaptations within our proposed design space, we concentrated on the spatial layout of the {XR} content and investigated non-adaptive and adaptive placement strategies. In this paper, we (1) present a comprehensive design space for {XR} interfaces, (2) propose Environment-referenced, an adaptive placement strategy that uses a relevant intermediary from the environment within a Hybrid Frame of Reference ({FoR}) for each {XR} object, and (3) evaluate the effectiveness of this adaptive placement strategy and a non-adaptive Body-Fixed placement strategy in four contextual scenarios varying in terms of social setting and user mobility in the environment. The performance of these placement strategies from our within-subjects user study emphasized the importance of intermediaries' relevance to the user's focus. These findings underscore the importance of context-aware interfaces, indicating that the appropriate use of an adaptive content placement strategy in a context can significantly improve task efficiency, accuracy, and usability.}
+      \field{day}{4}
+      \field{eprinttype}{arxiv}
+      \field{month}{11}
+      \field{number}{{arXiv}:2411.02607}
+      \field{shorttitle}{Towards Context-Aware Adaptation in Extended Reality}
+      \field{title}{Towards Context-Aware Adaptation in Extended Reality: A Design Space for {XR} Interfaces and an Adaptive Placement Strategy}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2411.02607
+      \endverb
+      \verb{eprint}
+      \verb 2411.02607 [cs]
+      \endverb
+      \verb{file}
+      \verb Preprint PDF:/home/gongbaodd/Zotero/storage/INNAFQLY/Davari and Bowman - 2024 - Towards Context-Aware Adaptation in Extended Reality A Design Space for XR Interfaces and an Adapti.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/FYFVWR7V/2411.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2411.02607
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2411.02607
+      \endverb
+      \keyw{Computer Science - Computers and Society,Computer Science - Graphics,Computer Science - Human-Computer Interaction,Computer Science - Information Retrieval,Computer Science - Multimedia}
     \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
@@ -2070,6 +2187,87 @@
       \endverb
       \verb{url}
       \verb https://link.springer.com/10.1007/s11528-022-00795-w
+      \endverb
+    \endentry
+    \entry{rolland_head-mounted_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a322db25d6ac4462d6435fea78d3e415}{%
+           family={Rolland},
+           familyi={R\bibinitperiod},
+           given={Jannick},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea3ab76e97117f29a19b8fa7edd81e46}{%
+           family={Hua},
+           familyi={H\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{fullhash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{fullhashraw}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{bibnamehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authorbibnamehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authornamehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authorfullhash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authorfullhashraw}{508280ec7ea0ee96d0710bc0aa8de356}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Encyclopedia of Optical Engineering}
+      \field{month}{1}
+      \field{shortjournal}{Encyclopedia of Optical Engineering}
+      \field{title}{Head-Mounted Display Systems}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/Z5QH2DVF/Rolland and Hua - 2005 - Head-Mounted Display Systems.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{schmalstieg_augmented_2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b31d42dd4ba4466eb4b996d6e714dc68}{%
+           family={Schmalstieg},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22f545ecadaedf548ce1942093a0a225}{%
+           family={Höllerer},
+           familyi={H\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{fullhash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{fullhashraw}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{bibnamehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authorbibnamehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authornamehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authorfullhash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authorfullhashraw}{22cbf4da0da85fe6025b1860552299f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{isbn}{978-0-321-88357-5}
+      \field{month}{6}
+      \field{title}{Augmented Reality - Principles and Practice}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/NKXIWFBL/Schmalstieg and Höllerer - 2016 - Augmented Reality - Principles and Practice.pdf:application/pdf
       \endverb
     \endentry
     \entry{Schwaber2001Agile}{book}{}{}
@@ -2949,6 +3147,60 @@
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
       \endverb
     \endentry
+    \entry{billinghurst_survey_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ebb11475827ce7b6b5609294d4e15d5b}{%
+           family={Billinghurst},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=397a40f3a8c30fbe20a4682b1610f0e2}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14f41278656158d26644ead6bce4de74}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gun},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9de0181c62b62fff70aad74d56d6ef7a}
+      \strng{fullhash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{fullhashraw}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{bibnamehash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{authorbibnamehash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{authornamehash}{9de0181c62b62fff70aad74d56d6ef7a}
+      \strng{authorfullhash}{6fac77249f8c9349f6b5aa69e416b65d}
+      \strng{authorfullhashraw}{6fac77249f8c9349f6b5aa69e416b65d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This survey summarizes almost 50 years of research and development in the field of Augmented Reality ({AR}). From early research in the 1960's until widespread availability by the 2010's there has been steady progress towards the goal of being able to seamlessly combine real and virtual worlds. We provide an overview of the common definitions of {AR}, and show how {AR} fits into taxonomies of other related technologies. A history of important milestones in Augmented Reality is followed by sections on the key enabling technologies of tracking, display and input devices. We also review design guidelines and provide some examples of successful {AR} applications. Finally, we conclude with a summary of directions for future work and a review of some of the areas that are currently being researched.}
+      \field{day}{31}
+      \field{journaltitle}{Foundations and Trends® in Human-Computer Interaction}
+      \field{month}{3}
+      \field{shortjournal}{Foundations and Trends® in Human-Computer Interaction}
+      \field{title}{A Survey of Augmented Reality}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{73\bibrangedash 272}
+      \range{pages}{200}
+      \verb{doi}
+      \verb 10.1561/1100000049
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/4LJZ4AEY/Billinghurst et al. - 2015 - A Survey of Augmented Reality.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{dablander_future_2024}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=026807838749dac1d3b2003f76c1025d}{%
@@ -3054,6 +3306,69 @@
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S2666920X2200042X
       \endverb
+    \endentry
+    \entry{davari_towards_2024}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=749280a26c4d7c52509606198f00440f}{%
+           family={Davari},
+           familyi={D\bibinitperiod},
+           given={Shakiba},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6d01578713510a28160c14a89006a6b}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Doug\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{fullhash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{fullhashraw}{1601d3f07430ced17fba280eeea7423c}
+      \strng{bibnamehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authorbibnamehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authornamehash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authorfullhash}{1601d3f07430ced17fba280eeea7423c}
+      \strng{authorfullhashraw}{1601d3f07430ced17fba280eeea7423c}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{By converting the entire 3D space around the user into a screen, Extended Reality ({XR}) can ameliorate traditional displays' space limitations and facilitate the consumption of multiple pieces of information at a time. However, if designed inappropriately, these {XR} interfaces can overwhelm the user and complicate information access. In this work, we explored the design dimensions that can be adapted to enable suitable presentation and interaction within an {XR} interface. To investigate a specific use case of context-aware adaptations within our proposed design space, we concentrated on the spatial layout of the {XR} content and investigated non-adaptive and adaptive placement strategies. In this paper, we (1) present a comprehensive design space for {XR} interfaces, (2) propose Environment-referenced, an adaptive placement strategy that uses a relevant intermediary from the environment within a Hybrid Frame of Reference ({FoR}) for each {XR} object, and (3) evaluate the effectiveness of this adaptive placement strategy and a non-adaptive Body-Fixed placement strategy in four contextual scenarios varying in terms of social setting and user mobility in the environment. The performance of these placement strategies from our within-subjects user study emphasized the importance of intermediaries' relevance to the user's focus. These findings underscore the importance of context-aware interfaces, indicating that the appropriate use of an adaptive content placement strategy in a context can significantly improve task efficiency, accuracy, and usability.}
+      \field{day}{4}
+      \field{eprinttype}{arxiv}
+      \field{month}{11}
+      \field{number}{{arXiv}:2411.02607}
+      \field{shorttitle}{Towards Context-Aware Adaptation in Extended Reality}
+      \field{title}{Towards Context-Aware Adaptation in Extended Reality: A Design Space for {XR} Interfaces and an Adaptive Placement Strategy}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2411.02607
+      \endverb
+      \verb{eprint}
+      \verb 2411.02607 [cs]
+      \endverb
+      \verb{file}
+      \verb Preprint PDF:/home/gongbaodd/Zotero/storage/INNAFQLY/Davari and Bowman - 2024 - Towards Context-Aware Adaptation in Extended Reality A Design Space for XR Interfaces and an Adapti.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/FYFVWR7V/2411.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2411.02607
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2411.02607
+      \endverb
+      \keyw{Computer Science - Computers and Society,Computer Science - Graphics,Computer Science - Human-Computer Interaction,Computer Science - Information Retrieval,Computer Science - Multimedia}
     \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
@@ -4691,6 +5006,87 @@
       \endverb
       \verb{url}
       \verb https://link.springer.com/10.1007/s11528-022-00795-w
+      \endverb
+    \endentry
+    \entry{rolland_head-mounted_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a322db25d6ac4462d6435fea78d3e415}{%
+           family={Rolland},
+           familyi={R\bibinitperiod},
+           given={Jannick},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea3ab76e97117f29a19b8fa7edd81e46}{%
+           family={Hua},
+           familyi={H\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{fullhash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{fullhashraw}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{bibnamehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authorbibnamehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authornamehash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authorfullhash}{508280ec7ea0ee96d0710bc0aa8de356}
+      \strng{authorfullhashraw}{508280ec7ea0ee96d0710bc0aa8de356}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Encyclopedia of Optical Engineering}
+      \field{month}{1}
+      \field{shortjournal}{Encyclopedia of Optical Engineering}
+      \field{title}{Head-Mounted Display Systems}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/Z5QH2DVF/Rolland and Hua - 2005 - Head-Mounted Display Systems.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{schmalstieg_augmented_2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b31d42dd4ba4466eb4b996d6e714dc68}{%
+           family={Schmalstieg},
+           familyi={S\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22f545ecadaedf548ce1942093a0a225}{%
+           family={Höllerer},
+           familyi={H\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{fullhash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{fullhashraw}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{bibnamehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authorbibnamehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authornamehash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authorfullhash}{22cbf4da0da85fe6025b1860552299f4}
+      \strng{authorfullhashraw}{22cbf4da0da85fe6025b1860552299f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{isbn}{978-0-321-88357-5}
+      \field{month}{6}
+      \field{title}{Augmented Reality - Principles and Practice}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/NKXIWFBL/Schmalstieg and Höllerer - 2016 - Augmented Reality - Principles and Practice.pdf:application/pdf
       \endverb
     \endentry
     \entry{Schwaber2001Agile}{book}{}{}

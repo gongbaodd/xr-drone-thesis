@@ -110,6 +110,9 @@
       <file>ref/simlearn.bib</file>
       <file>ref/airsim2.bib</file>
       <file>ref/bestsim.bib</file>
+      <file>ref/openxr.bib</file>
+      <file>ref/xrref.bib</file>
+      <file>ref/xrblend.bib</file>
     </requires>
   </external>
 </requests>

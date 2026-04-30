@@ -1,0 +1,28 @@
+\subsubsection{Rendering and Composition}
+
+To present rendered image to the system display, \textcite{openxr2024spec} will blend it with one of three modes. Opaque, Addtive and Alpha blend, these three modes are called environemnt blend modes.
+
+The environemnt may be perceived in two ways, It could be the user's view of the physical world that exists beyond the displays, or it could be a synthetic environment including virtual components generated externally from the application. Alternatively , it could be a combination of both these elements.
+
+Environment blend modes define how virtual content is composited with the real world in XR systems. According to the OpenXR specification (\cite{openxr2024spec}), three primary modes are supported: opaque, additive, and alpha blend.
+
+Opaque blending fully replaces the real-world view with virtual imagery, which is typical for virtual reality 
+
+Both optical and video see-through technologies can be considered for augmented reality. With a video see-through HMD, the real-world view is captured with two miniature video cameras mounted on the head gear, and the computer-generated images are electroni­cally combined with the video representation of the real-world. With opti­cal see-through HMDs, the real-world is viewed through a pair of half-silvered mirrors placed in front of the user's eyes. The mirrors also reflect the virtual(computer-generated) images into the user's eyes, thereby optically combining the real- and virtual-world views. \parencite{rolland_head-mounted_2005}
+
+Addtive blending is for the optical see through while alpha blending is for video see through.
+
+Whereas virtual reality (VR) places a user inside a completely computer-generated environ-ment, augmented reality (AR) aims to present information that is directly registered to the physical environment. AR goes beyond mobile computing in that it bridges the gap between virtual world and real world, both spatially and cognitively. With AR, the digital information appears to become part of the real world, at least in the user’s perception. \parencite{schmalstieg_augmented_2016}
+
+digitizes the real world scene using a video camera system, so that the image of the real environment could be composited with the rendered image of the virtual scene using digital image processing technique. Figure 5.2 shows the structure of video based AR displays. \parencite{billinghurst_survey_2015}
+
+% used in optical see-through displays, where virtual content is added to the real-world light without occlusion. This approach corresponds to early augmented reality (AR) systems described by \textcite{azuma1997survey}.
+
+% Alpha blending, on the other hand, is associated with video see-through systems, where virtual and real-world imagery are composited using pixel-wise blending, allowing for correct occlusion and depth perception \parencite{schmalstieg2016ar}. These blending strategies align with the mixed reality continuum proposed by \textcite{milgram1994taxonomy}.VR) systems \parencite{jerald2015vr}. In contrast, additive blending is commonly
+
+
+Mixed reality (MR) headsets create immersive experiences designed to spatially integrate virtual content into the physical world. The newest headsets rely on passthrough video. While using passthrough, a person does not see light from the real world but instead relies on stereoscopic, color, high resolution, low latency, real-time video of the world, which is displayed on small screens inside a headset. \parencite{bailenson2024passthrough}
+
+\textcite{waldow_investigating_2025} investigates Pass-Through Embodiment (PTE), The study found that PTE significantly enhances the user's sense of presence and embodiment compared to using a customizable digital avatar. The ability to see one's own body strengthens the feeling of being physically present in the VR environment without negatively affecting performance or causing sickness.
+
+Leveraging passthrough on modern XR devices can help developers build highly engaging mixed-reality environments, which is particularly beneficial for applications like prototyping drone simulations.
