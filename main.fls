@@ -557,6 +557,17 @@ INPUT theoretical_background/quadrotor/04_pid.tex
 INPUT ./theoretical_background/co-trainer/01_exp_learn.tex
 INPUT ./theoretical_background/co-trainer/01_exp_learn.tex
 INPUT theoretical_background/co-trainer/01_exp_learn.tex
+INPUT ./theoretical_background/co-trainer/exp.tex
+INPUT ./theoretical_background/co-trainer/exp.tex
+INPUT theoretical_background/co-trainer/exp.tex
+INPUT ./img/exp/exp.png
+INPUT ./img/exp/exp.png
+INPUT ./img/exp/exp.png
+INPUT ./img/exp/exp.png
+INPUT ./img/exp/exp.png
+INPUT ./theoretical_background/co-trainer/fpv_sim.tex
+INPUT ./theoretical_background/co-trainer/fpv_sim.tex
+INPUT theoretical_background/co-trainer/fpv_sim.tex
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg
 INPUT ./img/decision.jpg

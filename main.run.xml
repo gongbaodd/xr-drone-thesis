@@ -104,6 +104,12 @@
       <file>ref/scrum.bib</file>
       <file>ref/dutescu.bib</file>
       <file>ref/Waldow.bib</file>
+      <file>ref/explearn.bib</file>
+      <file>ref/simGame.bib</file>
+      <file>ref/airsim.bib</file>
+      <file>ref/simlearn.bib</file>
+      <file>ref/airsim2.bib</file>
+      <file>ref/bestsim.bib</file>
     </requires>
   </external>
 </requests>

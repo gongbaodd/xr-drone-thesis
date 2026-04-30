@@ -19,6 +19,65 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{almeida_learning_2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8ec7cbed1c079dba8c57700b0925dd96}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Patrícia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f9b9f1a005281248568fcc36f310a82}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{fullhash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{fullhashraw}{50a229765bc9ec68bee430164d4d8636}
+      \strng{bibnamehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authorbibnamehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authornamehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authorfullhash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authorfullhashraw}{50a229765bc9ec68bee430164d4d8636}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given the diversity of nowadays student population, being aware and understanding student differences in the classroom is of crucial importance. David Kolb’s theory of experiential learning provides knowledge that can be valuable to gain insight into, and respond effectively to style differences, therefore improving teachers’ skills to provide proper support and challenge in learning environments. This paper reports the first results of an ongoing research project aimed at examining the relationship between university students’ learning styles and their academic field. This study is being conducted at the University of Aveiro, in Portugal. The Learning Styles Inventory was administered to a sample of 186 students from different academic backgrounds: biology, elementary education, design, biochemistry, biotechnology and languages. Inventories were applied in class to all students during the 2009/2010 academic year. The overall results do not confirm the association between learning styles and disciplines previously established by Kolb. Actually, all the students (except education students) possess the accommodating style as dominant. Implications of these findings are discussed and topics for further research are proposed.}
+      \field{issn}{1447-9532, 1447-9583}
+      \field{journaltitle}{The International Journal of Diversity in Organizations, Communities, and Nations: Annual Review}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shortjournal}{The International Journal of Diversity in Organizations, Communities, and Nations: Annual Review}
+      \field{title}{Learning Style Preferences across Disciplines}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{10}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{285\bibrangedash 302}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.18848/1447-9532/CGP/v10i02/39847
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/TE6SKMFP/Almeida and Mendes - 2010 - Learning Style Preferences across Disciplines.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://cgscholar.com/publishers/articles/learning-style-preferences-across-disciplines
+      \endverb
+      \verb{url}
+      \verb https://cgscholar.com/publishers/articles/learning-style-preferences-across-disciplines
+      \endverb
+    \endentry
     \entry{bailenson2024passthrough}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -267,72 +326,6 @@
       \endverb
       \verb{url}
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
-      \endverb
-    \endentry
-    \entry{caballero-hernandez_skill_2017}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=300ea9c86985b7b9591e8d6d51467f8e}{%
-           family={Caballero-Hernández},
-           familyi={C\bibinithyphendelim H\bibinitperiod},
-           given={Juan\bibnamedelima Antonio},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=89e0dfac2e2400c6586577cedf66e82f}{%
-           family={Palomo-Duarte},
-           familyi={P\bibinithyphendelim D\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bec92bb4f967640ab3bab78ceefb022b}{%
-           family={Dodero},
-           familyi={D\bibinitperiod},
-           given={Juan\bibnamedelima Manuel},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b38fa56e6a7819b0b505ebd5f086fffd}
-      \strng{fullhash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{fullhashraw}{1b60665a524c7259e7785c53740e1c25}
-      \strng{bibnamehash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{authorbibnamehash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{authornamehash}{b38fa56e6a7819b0b505ebd5f086fffd}
-      \strng{authorfullhash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{authorfullhashraw}{1b60665a524c7259e7785c53740e1c25}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Serious games are games with an educational purpose. In these games, players develop their skills by facing a number of challenges, and students are assessed according to their game playing behaviour. Assessment of serious game-based learning experiences has to take into account diverse features as game genre, pedagogical aim or game context. This paper analyses how skills are usually assessed in learning experiences based on serious games. To reach this objective, a systematic mapping study of more than 400 papers is undertaken. Papers were identiﬁed and classiﬁed according to a framework based on four categories: assessment aim, implementation, integration and primary assessment type. The reviewed literature mainly deals with contributions on methods and approaches for serious games. Results have revealed that most assessment methods are applied for a formative purpose more than for a certiﬁcation purpose. Most frequent implementations such as game scoring and integrations like monitoring states were also uncovered. The main primary type of assessment detected was in-process. In addition, several limitations were found in the assessment methods: regarding the aim of assessment, certiﬁcation of previous or attained skills was usually implemented out of the game; the scope of some implementations was limited because results were predeﬁned earlier; and most of methods analysed present scalability issues because they rely on manual assessments. Such ﬁndings are analysed and discussed to clarify the state of the art and provide recommendations for further work in the area of serious games-based learning.}
-      \field{issn}{03601315}
-      \field{journaltitle}{Computers \& Education}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{shortjournal}{Computers \& Education}
-      \field{shorttitle}{Skill assessment in learning experiences based on serious games}
-      \field{title}{Skill assessment in learning experiences based on serious games: A Systematic Mapping Study}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{113}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{42\bibrangedash 60}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1016/j.compedu.2017.05.008
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/YJ62RSEZ/Caballero-Hernández et al. - 2017 - Skill assessment in learning experiences based on serious games A Systematic Mapping Study.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
       \endverb
     \endentry
     \entry{chen_effects_2022}{article}{}{}
@@ -971,6 +964,52 @@
       \verb https://www.sciendo.com/article/10.21307/ijssis-2017-872
       \endverb
     \endentry
+    \entry{guide_best_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca30df08a0e783db2e40de4cfcf98498}{%
+           family={Guide},
+           familyi={G\bibinitperiod},
+           given={{FPV}\bibnamedelima Drone},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{fullhash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{fullhashraw}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{bibnamehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authorbibnamehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authornamehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authorfullhash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authorfullhashraw}{ca30df08a0e783db2e40de4cfcf98498}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Best {FPV} simulators 2026: Liftoff, Velocidrone, {DRL} Simulator comparison. Learn {FPV} before crashing real drones.}
+      \field{day}{19}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Best {FPV} Simulators 2026 {|} Liftoff vs Velocidrone}
+      \field{titleaddon}{{FPV} Drone Guide}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/gongbaodd/Zotero/storage/3EAHBZCM/best-fpv-simulators-2026.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
+      \endverb
+      \verb{url}
+      \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
+      \endverb
+    \endentry
     \entry{idrissi_review_2022}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=66bd8554378db599a80665dbcb40d599}{%
@@ -1217,6 +1256,91 @@
       \verb https://registry.khronos.org/OpenXR/specs/1.1/html/xrspec.html
       \endverb
     \endentry
+    \entry{knobovitch_virtual_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dbef18b82f0f444b69492e32ecbb8abd}{%
+           family={Knobovitch},
+           familyi={K\bibinitperiod},
+           given={Ryan\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3a7e2de68b4fa0807ae416f1405f3a}{%
+           family={Tokuno},
+           familyi={T\bibinitperiod},
+           given={Junko},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a97fb5558e337037ffe127c483d7b44c}{%
+           family={Botelho},
+           familyi={B\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a3caa73e5750b2534cd49c5600e7411}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Howard\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=178213b690965b9622c6ccfcaaa86f0c}{%
+           family={Carver},
+           familyi={C\bibinitperiod},
+           given={Tamara\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d2e426df57ffd03ef7a5f92de418c63}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Gerald\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e42b7a872349a0cf0c606818bd99464}
+      \strng{fullhash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{fullhashraw}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{bibnamehash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{authorbibnamehash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{authornamehash}{7e42b7a872349a0cf0c606818bd99464}
+      \strng{authorfullhash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{authorfullhashraw}{1c57dd062bf21a39273aab18ebd76ca0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Objectives: The goal of this study was to evaluate whether immersive virtual reality ({VR}) training used in conjunction with interactive online learning improved procedural skills in medical students, using chest tube insertion as a model. Methods: Medical students (n = 30) with limited or no experience with chest tube insertion were randomized into control and {VR} groups. All participants received access to a previously developed online module to learn the equipment and steps involved in performing chest tube insertion. The {VR} group received additional training using commercially available software. All participants were then asked to perform chest tube insertion on a standardized mannequin. Technical skills were assessed by surgical experts, blinded to the group allocation, using a modiﬁed Objective Structured Assessment of Technical Skill ({OSATS}) rating scale (11-items, each scored 1-5). Multiple-choice tests and a 5-point Likert-scale were used to assess theoretical knowledge and to rate conﬁdence level before and after training. Data are presented as median and interquartile range. Results: After training, all participants showed signiﬁcant improvement in knowledge from baseline; rate of correct answers was 50\% pre-training [40.0-66.7]; 80\% post-training [73.0-93.3]; P {<} 0.0001). There was no statistically signiﬁcant difference between the two groups in knowledge before and after training. The {VR} group spent {<}60 min in {VR} training and had better procedural performance ({OSATS} scores: controls: 39 [33-45]; {VR}: 46 [42.0-50]; P = 0.03) and higher conﬁdence (controls: 3 [3-4]; {VR}: 4 [4-5]; P = 0.002). Conclusions: Adding {VR} simulation to online learning improved technical skills and conﬁdence in medical students learning chest tube insertion.}
+      \field{issn}{1553-3506, 1553-3514}
+      \field{journaltitle}{Surgical Innovation}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{Surg Innov}
+      \field{shorttitle}{Virtual Reality Training Improves Procedural Skills in Mannequin-Based Simulation in Medical Students}
+      \field{title}{Virtual Reality Training Improves Procedural Skills in Mannequin-Based Simulation in Medical Students: A Pilot Randomized Controlled Trial}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{32}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{364\bibrangedash 373}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/15533506251334693
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/UX7Q6DFB/Knobovitch et al. - 2025 - Virtual Reality Training Improves Procedural Skills in Mannequin-Based Simulation in Medical Student.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/15533506251334693
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/15533506251334693
+      \endverb
+    \endentry
     \entry{kolb1984}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5089e249846f7339ecad82d42e130d74}{%
@@ -1255,6 +1379,79 @@
       \endverb
       \verb{url}
       \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+    \endentry
+    \entry{liu_research_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e5375c2a91a4577392798604acdad0c1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chajuan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4f5ca3b868587408d3650dab7b24526}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuqi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a0718666bf9d24f574b5c7eb6431f27}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Weikang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf16f9852f583a7915637ebc742545ae}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhiyi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a06b3c29bce98d4149439580f40c001}
+      \strng{fullhash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{fullhashraw}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{bibnamehash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{authorbibnamehash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{authornamehash}{3a06b3c29bce98d4149439580f40c001}
+      \strng{authorfullhash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{authorfullhashraw}{9db94e3b517313f20a61c1da30fbc39a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Immersive virtual reality ({VR}) holds immense potential, and its applications in the field of education have garnered close attention from numerous researchers, sparking widespread and in-depth research interest. This study attempts to illustrate the impact of virtual reality in the classroom on student experience and concentration. In the experimental design, students used a virtual reality teaching system to replicate ceramic production in a porcelain factory in Jingdezhen. To compare the effects of {VR} interactivity with traditional video teaching, students were divided into three groups and tested in three separate studies: sense of experience and emotion (immersion, empathy, and sense of presence), cognition and concentration, and quiz scores for students with and without a relevant knowledge base. The findings revealed that the interactive Jingdezhen Ceramics {VR} education system group outperformed the no-interaction and traditional video groups in terms of sense of experience and emotion; the interactive {VR} education system group scored higher in terms of course concentration and knowledge mastery; and the students’ scores were positively correlated with their knowledge base. Furthermore, examining the disparities between boys and females on the indicators found that female students scored better in empathy. These findings indicate that immersive and interactive {VR} education may give students with novel experiences that have emotional, attentional, and cognitive benefits.}
+      \field{day}{12}
+      \field{issn}{1434-9957}
+      \field{journaltitle}{Virtual Reality}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{2}
+      \field{shortjournal}{Virtual Reality}
+      \field{title}{Research on the impact of immersive virtual reality classroom on student experience and concentration}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{29}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{82}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10055-025-01153-w
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/2CZBC6TZ/Liu et al. - 2025 - Research on the impact of immersive virtual reality classroom on student experience and concentratio.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s10055-025-01153-w
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s10055-025-01153-w
       \endverb
     \endentry
     \entry{lovesay2003ergonomics}{book}{}{}
@@ -1502,6 +1699,80 @@
       \verb https://ieeexplore.ieee.org/document/9584498/
       \endverb
     \endentry
+    \entry{marougkas_virtual_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9e14cac17f9704abc29b3d3b5c77e461}{%
+           family={Marougkas},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eac487be65179b336ea948ff7a15f290}{%
+           family={Troussas},
+           familyi={T\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232fb43e21348e5d3f9e52a014406992}{%
+           family={Krouska},
+           familyi={K\bibinitperiod},
+           given={Akrivi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06016505992cd7b9ad6ed3680241ad15}{%
+           family={Sgouropoulou},
+           familyi={S\bibinitperiod},
+           given={Cleo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0bbd3e93cd2452e9765e35a3987e52f4}
+      \strng{fullhash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{fullhashraw}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{bibnamehash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{authorbibnamehash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{authornamehash}{0bbd3e93cd2452e9765e35a3987e52f4}
+      \strng{authorfullhash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{authorfullhashraw}{73b47d39c6915f8b2b40323bdb005604}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the ﬁeld of education, virtual reality ({VR}) offers learners an immersive and interactive learning experience, allowing them to comprehend challenging concepts and ideas more efﬁciently and effectively. {VR} technology has enabled educators to develop a wide range of learning experiences, from virtual ﬁeld trips to complex simulations, that may be utilized to engage students and help them learn. Learning theories and approaches are essential for understanding how students learn and how to design effective learning experiences. This study examines the most recent published ﬁndings in educational theories and approaches connected to the use of {VR} systems for educational and tutoring purposes. Seventeen research studies that meet the search criteria have been found in the database, and each of them focuses on at least one learning theory or learning approach related to educational systems using {VR}. These studies yielded ﬁve educational approaches, one methodology, ﬁve learning theories and one theoretical framework, which are presented in the context of virtual reality in education. These include constructivism learning, experiential learning, gamiﬁcation of learning, John Dewey’s theory of learning by doing, ﬂow theory, Cognitive Theory of Multimedia Learning, design thinking, learning through problem solving, scientiﬁc discovery learning, social constructivism, cognitive load theory and the Technology Pedagogical Content Knowledge Framework ({TPACK}). A major ﬁnding of this study is that constructivism learning is the most often utilized learning theory/method, Experiential Learning is most appropriate for {VR} and the gamiﬁcation of learning has the greatest future potential.}
+      \field{day}{26}
+      \field{issn}{2079-9292}
+      \field{journaltitle}{Electronics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{13}
+      \field{shortjournal}{Electronics}
+      \field{shorttitle}{Virtual Reality in Education}
+      \field{title}{Virtual Reality in Education: A Review of Learning Theories, Approaches and Methodologies for the Last Decade}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2832}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/electronics12132832
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/EM35WKLF/Marougkas et al. - 2023 - Virtual Reality in Education A Review of Learning Theories, Approaches and Methodologies for the La.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2079-9292/12/13/2832
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2079-9292/12/13/2832
+      \endverb
+    \endentry
     \entry{narayanasamy_distinguishing_2006}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=5171dde1c628c4e65f09e1cb9b9036d4}{%
@@ -1681,6 +1952,94 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+    \endentry
+    \entry{pappas_generic_2025}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=1a5411ac98929ae88cd292d89ceb7bd1}{%
+           family={Pappas},
+           familyi={P\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e63770246f46d32c95e7012f51675a6b}{%
+           family={Lappas},
+           familyi={L\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cbe9dc884854875cf7559f27b48a9c3}{%
+           family={Karampelas},
+           familyi={K\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7066a17e37d05b5a5c372baffe3aca0e}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af577ca706f24869c8c314833f64d1a7}{%
+           family={Templalexis},
+           familyi={T\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3820ec0d2a69c3fe5c1c65b6a73ab34f}{%
+           family={Stavrou},
+           familyi={S\bibinitperiod},
+           given={Stavros},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ff0535e4422c279afaaad8549f5587b}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Sriram},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a1a5f731c9507e06d3e8af2aa9364be6}
+      \strng{fullhash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{fullhashraw}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{bibnamehash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{authorbibnamehash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{authornamehash}{a1a5f731c9507e06d3e8af2aa9364be6}
+      \strng{authorfullhash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{authorfullhashraw}{df2d4f9beeb001d9e55ab034db6ece52}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study addresses the need for scenario-specific drone simulators to enhance research, education, pilot training, and performance evaluation across diverse mission contexts. A gamified simulator was developed for the joint master’s degree program “Security and Defence” between the Open University of Cyprus ({OUC}) and the Hellenic Air Force Academy ({HAFA}), with a focus on Search and Rescue mission training and planning. The simulator balances interface design, physics accuracy, and environmental realism to support specialized professional training and research. A survey-based evaluation involving 57 participants –pilots, engineers, and air traffic controllers –demonstrated the tool’s ability to provide realistic experiences for trained pilots and meaningful learning opportunities for novices. Statistical analysis revealed significant correlations between gaming familiarity, task completion times, and participant expertise.}
+      \field{issn}{0272-1716, 1558-1756}
+      \field{journaltitle}{{IEEE} Computer Graphics and Applications}
+      \field{langid}{english}
+      \field{shortjournal}{{IEEE} Comput. Grap. Appl.}
+      \field{shorttitle}{Generic Drone Simulator}
+      \field{title}{Generic Drone Simulator: Design, Development and User Testing in a Virtual Search and Rescue Mission}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/MCG.2025.3560537
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/RFKEGZKN/Pappas et al. - 2025 - Generic Drone Simulator Design, Development and User Testing in a Virtual Search and Rescue Mission.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10964139/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10964139/
       \endverb
     \endentry
     \entry{paredes2021quadcopter}{article}{}{}
@@ -2464,6 +2823,65 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{almeida_learning_2010}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8ec7cbed1c079dba8c57700b0925dd96}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Patrícia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f9b9f1a005281248568fcc36f310a82}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{fullhash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{fullhashraw}{50a229765bc9ec68bee430164d4d8636}
+      \strng{bibnamehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authorbibnamehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authornamehash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authorfullhash}{50a229765bc9ec68bee430164d4d8636}
+      \strng{authorfullhashraw}{50a229765bc9ec68bee430164d4d8636}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given the diversity of nowadays student population, being aware and understanding student differences in the classroom is of crucial importance. David Kolb’s theory of experiential learning provides knowledge that can be valuable to gain insight into, and respond effectively to style differences, therefore improving teachers’ skills to provide proper support and challenge in learning environments. This paper reports the first results of an ongoing research project aimed at examining the relationship between university students’ learning styles and their academic field. This study is being conducted at the University of Aveiro, in Portugal. The Learning Styles Inventory was administered to a sample of 186 students from different academic backgrounds: biology, elementary education, design, biochemistry, biotechnology and languages. Inventories were applied in class to all students during the 2009/2010 academic year. The overall results do not confirm the association between learning styles and disciplines previously established by Kolb. Actually, all the students (except education students) possess the accommodating style as dominant. Implications of these findings are discussed and topics for further research are proposed.}
+      \field{issn}{1447-9532, 1447-9583}
+      \field{journaltitle}{The International Journal of Diversity in Organizations, Communities, and Nations: Annual Review}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shortjournal}{The International Journal of Diversity in Organizations, Communities, and Nations: Annual Review}
+      \field{title}{Learning Style Preferences across Disciplines}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{10}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{285\bibrangedash 302}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.18848/1447-9532/CGP/v10i02/39847
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/TE6SKMFP/Almeida and Mendes - 2010 - Learning Style Preferences across Disciplines.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://cgscholar.com/publishers/articles/learning-style-preferences-across-disciplines
+      \endverb
+      \verb{url}
+      \verb https://cgscholar.com/publishers/articles/learning-style-preferences-across-disciplines
+      \endverb
+    \endentry
     \entry{bailenson2024passthrough}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -2712,72 +3130,6 @@
       \endverb
       \verb{url}
       \verb https://support.betafpv.com/hc/en-us/article_attachments/55907267618073
-      \endverb
-    \endentry
-    \entry{caballero-hernandez_skill_2017}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=300ea9c86985b7b9591e8d6d51467f8e}{%
-           family={Caballero-Hernández},
-           familyi={C\bibinithyphendelim H\bibinitperiod},
-           given={Juan\bibnamedelima Antonio},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=89e0dfac2e2400c6586577cedf66e82f}{%
-           family={Palomo-Duarte},
-           familyi={P\bibinithyphendelim D\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bec92bb4f967640ab3bab78ceefb022b}{%
-           family={Dodero},
-           familyi={D\bibinitperiod},
-           given={Juan\bibnamedelima Manuel},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b38fa56e6a7819b0b505ebd5f086fffd}
-      \strng{fullhash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{fullhashraw}{1b60665a524c7259e7785c53740e1c25}
-      \strng{bibnamehash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{authorbibnamehash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{authornamehash}{b38fa56e6a7819b0b505ebd5f086fffd}
-      \strng{authorfullhash}{1b60665a524c7259e7785c53740e1c25}
-      \strng{authorfullhashraw}{1b60665a524c7259e7785c53740e1c25}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Serious games are games with an educational purpose. In these games, players develop their skills by facing a number of challenges, and students are assessed according to their game playing behaviour. Assessment of serious game-based learning experiences has to take into account diverse features as game genre, pedagogical aim or game context. This paper analyses how skills are usually assessed in learning experiences based on serious games. To reach this objective, a systematic mapping study of more than 400 papers is undertaken. Papers were identiﬁed and classiﬁed according to a framework based on four categories: assessment aim, implementation, integration and primary assessment type. The reviewed literature mainly deals with contributions on methods and approaches for serious games. Results have revealed that most assessment methods are applied for a formative purpose more than for a certiﬁcation purpose. Most frequent implementations such as game scoring and integrations like monitoring states were also uncovered. The main primary type of assessment detected was in-process. In addition, several limitations were found in the assessment methods: regarding the aim of assessment, certiﬁcation of previous or attained skills was usually implemented out of the game; the scope of some implementations was limited because results were predeﬁned earlier; and most of methods analysed present scalability issues because they rely on manual assessments. Such ﬁndings are analysed and discussed to clarify the state of the art and provide recommendations for further work in the area of serious games-based learning.}
-      \field{issn}{03601315}
-      \field{journaltitle}{Computers \& Education}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{shortjournal}{Computers \& Education}
-      \field{shorttitle}{Skill assessment in learning experiences based on serious games}
-      \field{title}{Skill assessment in learning experiences based on serious games: A Systematic Mapping Study}
-      \field{urlday}{28}
-      \field{urlmonth}{4}
-      \field{urlyear}{2026}
-      \field{volume}{113}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{42\bibrangedash 60}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1016/j.compedu.2017.05.008
-      \endverb
-      \verb{file}
-      \verb PDF:/home/gongbaodd/Zotero/storage/YJ62RSEZ/Caballero-Hernández et al. - 2017 - Skill assessment in learning experiences based on serious games A Systematic Mapping Study.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0360131517301136
       \endverb
     \endentry
     \entry{chen_effects_2022}{article}{}{}
@@ -3416,6 +3768,52 @@
       \verb https://www.sciendo.com/article/10.21307/ijssis-2017-872
       \endverb
     \endentry
+    \entry{guide_best_2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca30df08a0e783db2e40de4cfcf98498}{%
+           family={Guide},
+           familyi={G\bibinitperiod},
+           given={{FPV}\bibnamedelima Drone},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{fullhash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{fullhashraw}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{bibnamehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authorbibnamehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authornamehash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authorfullhash}{ca30df08a0e783db2e40de4cfcf98498}
+      \strng{authorfullhashraw}{ca30df08a0e783db2e40de4cfcf98498}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Best {FPV} simulators 2026: Liftoff, Velocidrone, {DRL} Simulator comparison. Learn {FPV} before crashing real drones.}
+      \field{day}{19}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Best {FPV} Simulators 2026 {|} Liftoff vs Velocidrone}
+      \field{titleaddon}{{FPV} Drone Guide}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/gongbaodd/Zotero/storage/3EAHBZCM/best-fpv-simulators-2026.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
+      \endverb
+      \verb{url}
+      \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
+      \endverb
+    \endentry
     \entry{idrissi_review_2022}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=66bd8554378db599a80665dbcb40d599}{%
@@ -3662,6 +4060,91 @@
       \verb https://registry.khronos.org/OpenXR/specs/1.1/html/xrspec.html
       \endverb
     \endentry
+    \entry{knobovitch_virtual_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=dbef18b82f0f444b69492e32ecbb8abd}{%
+           family={Knobovitch},
+           familyi={K\bibinitperiod},
+           given={Ryan\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3a7e2de68b4fa0807ae416f1405f3a}{%
+           family={Tokuno},
+           familyi={T\bibinitperiod},
+           given={Junko},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a97fb5558e337037ffe127c483d7b44c}{%
+           family={Botelho},
+           familyi={B\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a3caa73e5750b2534cd49c5600e7411}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Howard\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=178213b690965b9622c6ccfcaaa86f0c}{%
+           family={Carver},
+           familyi={C\bibinitperiod},
+           given={Tamara\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d2e426df57ffd03ef7a5f92de418c63}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Gerald\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e42b7a872349a0cf0c606818bd99464}
+      \strng{fullhash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{fullhashraw}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{bibnamehash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{authorbibnamehash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{authornamehash}{7e42b7a872349a0cf0c606818bd99464}
+      \strng{authorfullhash}{1c57dd062bf21a39273aab18ebd76ca0}
+      \strng{authorfullhashraw}{1c57dd062bf21a39273aab18ebd76ca0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Objectives: The goal of this study was to evaluate whether immersive virtual reality ({VR}) training used in conjunction with interactive online learning improved procedural skills in medical students, using chest tube insertion as a model. Methods: Medical students (n = 30) with limited or no experience with chest tube insertion were randomized into control and {VR} groups. All participants received access to a previously developed online module to learn the equipment and steps involved in performing chest tube insertion. The {VR} group received additional training using commercially available software. All participants were then asked to perform chest tube insertion on a standardized mannequin. Technical skills were assessed by surgical experts, blinded to the group allocation, using a modiﬁed Objective Structured Assessment of Technical Skill ({OSATS}) rating scale (11-items, each scored 1-5). Multiple-choice tests and a 5-point Likert-scale were used to assess theoretical knowledge and to rate conﬁdence level before and after training. Data are presented as median and interquartile range. Results: After training, all participants showed signiﬁcant improvement in knowledge from baseline; rate of correct answers was 50\% pre-training [40.0-66.7]; 80\% post-training [73.0-93.3]; P {<} 0.0001). There was no statistically signiﬁcant difference between the two groups in knowledge before and after training. The {VR} group spent {<}60 min in {VR} training and had better procedural performance ({OSATS} scores: controls: 39 [33-45]; {VR}: 46 [42.0-50]; P = 0.03) and higher conﬁdence (controls: 3 [3-4]; {VR}: 4 [4-5]; P = 0.002). Conclusions: Adding {VR} simulation to online learning improved technical skills and conﬁdence in medical students learning chest tube insertion.}
+      \field{issn}{1553-3506, 1553-3514}
+      \field{journaltitle}{Surgical Innovation}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{Surg Innov}
+      \field{shorttitle}{Virtual Reality Training Improves Procedural Skills in Mannequin-Based Simulation in Medical Students}
+      \field{title}{Virtual Reality Training Improves Procedural Skills in Mannequin-Based Simulation in Medical Students: A Pilot Randomized Controlled Trial}
+      \field{urlday}{28}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{32}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{364\bibrangedash 373}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/15533506251334693
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/UX7Q6DFB/Knobovitch et al. - 2025 - Virtual Reality Training Improves Procedural Skills in Mannequin-Based Simulation in Medical Student.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/15533506251334693
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/15533506251334693
+      \endverb
+    \endentry
     \entry{kolb1984}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5089e249846f7339ecad82d42e130d74}{%
@@ -3700,6 +4183,79 @@
       \endverb
       \verb{url}
       \verb http://www.learningfromexperience.com/images/uploads/process-of-experiential-learning.pdf
+      \endverb
+    \endentry
+    \entry{liu_research_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e5375c2a91a4577392798604acdad0c1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chajuan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4f5ca3b868587408d3650dab7b24526}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Shuqi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a0718666bf9d24f574b5c7eb6431f27}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Weikang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf16f9852f583a7915637ebc742545ae}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhiyi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a06b3c29bce98d4149439580f40c001}
+      \strng{fullhash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{fullhashraw}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{bibnamehash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{authorbibnamehash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{authornamehash}{3a06b3c29bce98d4149439580f40c001}
+      \strng{authorfullhash}{9db94e3b517313f20a61c1da30fbc39a}
+      \strng{authorfullhashraw}{9db94e3b517313f20a61c1da30fbc39a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Immersive virtual reality ({VR}) holds immense potential, and its applications in the field of education have garnered close attention from numerous researchers, sparking widespread and in-depth research interest. This study attempts to illustrate the impact of virtual reality in the classroom on student experience and concentration. In the experimental design, students used a virtual reality teaching system to replicate ceramic production in a porcelain factory in Jingdezhen. To compare the effects of {VR} interactivity with traditional video teaching, students were divided into three groups and tested in three separate studies: sense of experience and emotion (immersion, empathy, and sense of presence), cognition and concentration, and quiz scores for students with and without a relevant knowledge base. The findings revealed that the interactive Jingdezhen Ceramics {VR} education system group outperformed the no-interaction and traditional video groups in terms of sense of experience and emotion; the interactive {VR} education system group scored higher in terms of course concentration and knowledge mastery; and the students’ scores were positively correlated with their knowledge base. Furthermore, examining the disparities between boys and females on the indicators found that female students scored better in empathy. These findings indicate that immersive and interactive {VR} education may give students with novel experiences that have emotional, attentional, and cognitive benefits.}
+      \field{day}{12}
+      \field{issn}{1434-9957}
+      \field{journaltitle}{Virtual Reality}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{2}
+      \field{shortjournal}{Virtual Reality}
+      \field{title}{Research on the impact of immersive virtual reality classroom on student experience and concentration}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{29}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{82}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10055-025-01153-w
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/2CZBC6TZ/Liu et al. - 2025 - Research on the impact of immersive virtual reality classroom on student experience and concentratio.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/s10055-025-01153-w
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/s10055-025-01153-w
       \endverb
     \endentry
     \entry{lovesay2003ergonomics}{book}{}{}
@@ -3947,6 +4503,80 @@
       \verb https://ieeexplore.ieee.org/document/9584498/
       \endverb
     \endentry
+    \entry{marougkas_virtual_2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9e14cac17f9704abc29b3d3b5c77e461}{%
+           family={Marougkas},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eac487be65179b336ea948ff7a15f290}{%
+           family={Troussas},
+           familyi={T\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232fb43e21348e5d3f9e52a014406992}{%
+           family={Krouska},
+           familyi={K\bibinitperiod},
+           given={Akrivi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06016505992cd7b9ad6ed3680241ad15}{%
+           family={Sgouropoulou},
+           familyi={S\bibinitperiod},
+           given={Cleo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0bbd3e93cd2452e9765e35a3987e52f4}
+      \strng{fullhash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{fullhashraw}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{bibnamehash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{authorbibnamehash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{authornamehash}{0bbd3e93cd2452e9765e35a3987e52f4}
+      \strng{authorfullhash}{73b47d39c6915f8b2b40323bdb005604}
+      \strng{authorfullhashraw}{73b47d39c6915f8b2b40323bdb005604}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the ﬁeld of education, virtual reality ({VR}) offers learners an immersive and interactive learning experience, allowing them to comprehend challenging concepts and ideas more efﬁciently and effectively. {VR} technology has enabled educators to develop a wide range of learning experiences, from virtual ﬁeld trips to complex simulations, that may be utilized to engage students and help them learn. Learning theories and approaches are essential for understanding how students learn and how to design effective learning experiences. This study examines the most recent published ﬁndings in educational theories and approaches connected to the use of {VR} systems for educational and tutoring purposes. Seventeen research studies that meet the search criteria have been found in the database, and each of them focuses on at least one learning theory or learning approach related to educational systems using {VR}. These studies yielded ﬁve educational approaches, one methodology, ﬁve learning theories and one theoretical framework, which are presented in the context of virtual reality in education. These include constructivism learning, experiential learning, gamiﬁcation of learning, John Dewey’s theory of learning by doing, ﬂow theory, Cognitive Theory of Multimedia Learning, design thinking, learning through problem solving, scientiﬁc discovery learning, social constructivism, cognitive load theory and the Technology Pedagogical Content Knowledge Framework ({TPACK}). A major ﬁnding of this study is that constructivism learning is the most often utilized learning theory/method, Experiential Learning is most appropriate for {VR} and the gamiﬁcation of learning has the greatest future potential.}
+      \field{day}{26}
+      \field{issn}{2079-9292}
+      \field{journaltitle}{Electronics}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{13}
+      \field{shortjournal}{Electronics}
+      \field{shorttitle}{Virtual Reality in Education}
+      \field{title}{Virtual Reality in Education: A Review of Learning Theories, Approaches and Methodologies for the Last Decade}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2832}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/electronics12132832
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/EM35WKLF/Marougkas et al. - 2023 - Virtual Reality in Education A Review of Learning Theories, Approaches and Methodologies for the La.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2079-9292/12/13/2832
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2079-9292/12/13/2832
+      \endverb
+    \endentry
     \entry{narayanasamy_distinguishing_2006}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=5171dde1c628c4e65f09e1cb9b9036d4}{%
@@ -4126,6 +4756,94 @@
       \endverb
       \verb{url}
       \verb https://onlinelibrary.wiley.com/doi/10.1002/net.21818
+      \endverb
+    \endentry
+    \entry{pappas_generic_2025}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=1a5411ac98929ae88cd292d89ceb7bd1}{%
+           family={Pappas},
+           familyi={P\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e63770246f46d32c95e7012f51675a6b}{%
+           family={Lappas},
+           familyi={L\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cbe9dc884854875cf7559f27b48a9c3}{%
+           family={Karampelas},
+           familyi={K\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7066a17e37d05b5a5c372baffe3aca0e}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af577ca706f24869c8c314833f64d1a7}{%
+           family={Templalexis},
+           familyi={T\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3820ec0d2a69c3fe5c1c65b6a73ab34f}{%
+           family={Stavrou},
+           familyi={S\bibinitperiod},
+           given={Stavros},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ff0535e4422c279afaaad8549f5587b}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Sriram},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a1a5f731c9507e06d3e8af2aa9364be6}
+      \strng{fullhash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{fullhashraw}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{bibnamehash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{authorbibnamehash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{authornamehash}{a1a5f731c9507e06d3e8af2aa9364be6}
+      \strng{authorfullhash}{df2d4f9beeb001d9e55ab034db6ece52}
+      \strng{authorfullhashraw}{df2d4f9beeb001d9e55ab034db6ece52}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study addresses the need for scenario-specific drone simulators to enhance research, education, pilot training, and performance evaluation across diverse mission contexts. A gamified simulator was developed for the joint master’s degree program “Security and Defence” between the Open University of Cyprus ({OUC}) and the Hellenic Air Force Academy ({HAFA}), with a focus on Search and Rescue mission training and planning. The simulator balances interface design, physics accuracy, and environmental realism to support specialized professional training and research. A survey-based evaluation involving 57 participants –pilots, engineers, and air traffic controllers –demonstrated the tool’s ability to provide realistic experiences for trained pilots and meaningful learning opportunities for novices. Statistical analysis revealed significant correlations between gaming familiarity, task completion times, and participant expertise.}
+      \field{issn}{0272-1716, 1558-1756}
+      \field{journaltitle}{{IEEE} Computer Graphics and Applications}
+      \field{langid}{english}
+      \field{shortjournal}{{IEEE} Comput. Grap. Appl.}
+      \field{shorttitle}{Generic Drone Simulator}
+      \field{title}{Generic Drone Simulator: Design, Development and User Testing in a Virtual Search and Rescue Mission}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/MCG.2025.3560537
+      \endverb
+      \verb{file}
+      \verb PDF:/home/gongbaodd/Zotero/storage/RFKEGZKN/Pappas et al. - 2025 - Generic Drone Simulator Design, Development and User Testing in a Virtual Search and Rescue Mission.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10964139/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10964139/
       \endverb
     \endentry
     \entry{paredes2021quadcopter}{article}{}{}
