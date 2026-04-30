@@ -1,0 +1,12 @@
+\subsubsection{Using Geographical Data to Build a Realistic Environment}
+
+In the fourth stage of experiential learning, active experimentation is emphasized as a critical component of knowledge acquisition \parencite{kolb1984}. To support this stage, it is necessary to construct a realistic and sufficiently large virtual environment. Publicly available governmental geospatial data provide a reliable foundation for achieving this objective.
+
+The spatial data used in this study are based on Tallinn, Estonia, located at latitude 59.436962 and longitude 24.753574 \parencite{eslamirad_geoprocess_2023}.
+
+Building geometries at Levels of Detail 2 and 3 (LOD2 and LOD3) were obtained from the Tallinn City Model dataset \parencite{TallinnCityModel2012}. These models, provided in OBJ format and based on the L-EST97 coordinate reference system, were used to construct the urban environment. In this database, approximately 700 buildings in the Old Town area were manually reconstructed to achieve higher detail levels (LOD3+).
+
+The Model Context Protocol (MCP) is an emerging open standard that defines a unified, bidirectional communication and dynamic discovery protocol between AI models and external tools or resources. It aims to enhance interoperability and reduce fragmentation across heterogeneous systems \parencite{hou_model_2025}. In this study, the MCP approach was employed to facilitate the integration and construction of building assets within the Unity environment.
+
+Additionally, high-resolution (1:2000) Digital Terrain Model (DTM) data for map sheets 589541, 589542, 588541, and 588542 were utilized to generate the terrain mesh \parencite{EstonianLandBoard2020}. For 3D visualization, the Digital Elevation Model (DEM) was converted into a triangulated terrain mesh using the Qgis2threejs plugin \parencite{Akagi2024}.
+

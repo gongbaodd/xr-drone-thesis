@@ -19,6 +19,40 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{Akagi2024}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d97988aef0dfc30625ba11e953b3584f}{%
+           family={Akagi},
+           familyi={A\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{bibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorbibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authornamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Software available from QGIS Python Plugins Repository}
+      \field{title}{Qgis2threejs (Version 2.10) [QGIS Plugin]}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+      \verb{url}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+    \endentry
     \entry{almeida_learning_2010}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8ec7cbed1c079dba8c57700b0925dd96}{%
@@ -840,6 +874,84 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
       \endverb
     \endentry
+    \entry{eslamirad_geoprocess_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=586bf3146267c0afa17d74d0313c8831}{%
+           family={Eslamirad},
+           familyi={E\bibinitperiod},
+           given={Nasim},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7512a23047ca69481bcddff303f4a60c}{%
+           family={De\bibnamedelima Luca},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c0e5e1d314ca015e80be84bc4b3e391}{%
+           family={Lylykangas},
+           familyi={L\bibinitperiod},
+           given={Kimmo\bibnamedelima Sakari},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddce4ef9a95de49c8234fad2d0209a93}{%
+           family={Ben\bibnamedelima Yahia},
+           familyi={B\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={Sadok},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c0aeef66b50fa7297f626ac8d210014}{%
+           family={Rasoulinezhad},
+           familyi={R\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{fullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{fullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{bibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorbibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authornamehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{authorfullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorfullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The new digital era brings increasingly massive and complex interdisciplinary projects in various fields. At the same time, the availability of an accurate and reliable database plays a crucial role in achieving project goals. Meanwhile, urban projects and issues usually need to be analyzed to support the objectives of sustainable development of the built environment. Furthermore, the volume and variety of spatial data used to describe urban elements and phenomena have grown exponentially in recent decades. The scope of this dataset is to process spatial data to provide input data for the urban heat island ({UHI}) assessment project in Tallinn, Estonia. The dataset builds the generative, predictive, and explainable machine learning {UHI} model. The dataset presented here consists of multi-scale urban data. It provides essential baseline information for (i) urban planners, researchers, and practitioners to incorporate urban data in their research activities, (ii) architects and urban planners to improve the features of buildings and the city, considering urban data and the {UHI} effect, (iii) stakeholders, policymakers and administration in cities implementing built environment projects, and supporting urban sustainability goals. The dataset is available for download as supplementary material to this article.}
+      \field{day}{1}
+      \field{issn}{2352-3409}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{6}
+      \field{shortjournal}{Data in Brief}
+      \field{title}{Geoprocess of geospatial urban data in Tallinn, Estonia}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{109172}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2023.109172
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/gongbaodd/Zotero/storage/7GUM95YV/Eslamirad et al. - 2023 - Geoprocess of geospatial urban data in Tallinn, Estonia.pdf:application/pdf;ScienceDirect Snapshot:/home/gongbaodd/Zotero/storage/X6KDQHHB/S2352340923002913.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \keyw{Ascending hierarchical grid system,Urban analysis,Urban data acquisition,Urban Heat Island ({UHI}),Urban heterogeneity}
+    \endentry
     \entry{ezhil_comparative_nodate}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=156e522151b71130c2878699a69f25cc}{%
@@ -1136,6 +1248,81 @@
       \verb{url}
       \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
       \endverb
+    \endentry
+    \entry{hou_model_2025}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bbe203ccb474a175f598679a28e5081b}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e6e67151fcd0f9de7104ca4abbe2dc}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57a2afd7b45de630d592cb4c4b2c67c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shenao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44ddd1947297940fae36faf60cfdc356}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{fullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{fullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{bibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorbibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authornamehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{authorfullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorfullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Model Context Protocol ({MCP}) is an emerging open standard that defines a unified, bi-directional communication and dynamic discovery protocol between {AI} models and external tools or resources, aiming to enhance interoperability and reduce fragmentation across diverse systems. This paper presents a systematic study of {MCP} from both architectural and security perspectives. We first define the full lifecycle of an {MCP} server, comprising four phases (creation, deployment, operation, and maintenance), further decomposed into 16 key activities that capture its functional evolution. Building on this lifecycle analysis, we construct a comprehensive threat taxonomy that categorizes security and privacy risks across four major attacker types: malicious developers, external attackers, malicious users, and security flaws, encompassing 16 distinct threat scenarios. To validate these risks, we develop and analyze real-world case studies that demonstrate concrete attack surfaces and vulnerability manifestations within {MCP} implementations. Based on these findings, the paper proposes a set of fine-grained, actionable security safeguards tailored to each lifecycle phase and threat category, offering practical guidance for secure {MCP} adoption. We also analyze the current {MCP} landscape, covering industry adoption, integration patterns, and supporting tools, to identify its technological strengths as well as existing limitations that constrain broader deployment. Finally, we outline future research and development directions aimed at strengthening {MCP}'s standardization, trust boundaries, and sustainable growth within the evolving ecosystem of tool-augmented {AI} systems.}
+      \field{day}{7}
+      \field{eprinttype}{arxiv}
+      \field{month}{10}
+      \field{number}{{arXiv}:2503.23278}
+      \field{shorttitle}{Model Context Protocol ({MCP})}
+      \field{title}{Model Context Protocol ({MCP}): Landscape, Security Threats, and Future Research Directions}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2503.23278
+      \endverb
+      \verb{eprint}
+      \verb 2503.23278 [cs]
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/2AUX73A8/Hou et al. - 2025 - Model Context Protocol (MCP) Landscape, Security Threats, and Future Research Directions.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/TRV365V5/2503.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Cryptography and Security}
     \endentry
     \entry{idrissi_review_2022}{article}{}{}
       \name{author}{3}{}{%
@@ -2353,6 +2540,38 @@
       \verb 10.1109/ICEST55168.2022.9828656
       \endverb
     \endentry
+    \entry{EstonianLandBoard2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ada71d95dc6f6918d8bfc07e769b6077}{%
+           family={{Republic of Estonia Land and Spatial Development Board}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{bibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorbibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authornamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Estonian Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Elevation data 2017--2020: Digital Elevation Model (DEM) and Digital Terrain Model (DTM) [Dataset]}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
+      \endverb
+      \verb{url}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
+      \endverb
+    \endentry
     \entry{rolland_head-mounted_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a322db25d6ac4462d6435fea78d3e415}{%
@@ -2569,6 +2788,39 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/home/gongbaodd/Zotero/storage/C6DY88XM/Shatokhin et al. - 2025 - Extended Reality Types and Applications.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{TallinnCityModel2012}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5aa855e13756b39f543b60adedc8980c}{%
+           family={{Tallinn Strategy Centre}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \strng{bibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorbibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authornamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tallinn Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Tallinn {3D} {City} {Model}}
+      \field{type}{Data set}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
+      \endverb
+      \verb{url}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
       \endverb
     \endentry
     \entry{usama2021fpv}{article}{}{}
@@ -3067,6 +3319,40 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{Akagi2024}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d97988aef0dfc30625ba11e953b3584f}{%
+           family={Akagi},
+           familyi={A\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{bibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorbibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authornamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Software available from QGIS Python Plugins Repository}
+      \field{title}{Qgis2threejs (Version 2.10) [QGIS Plugin]}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+      \verb{url}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+    \endentry
     \entry{almeida_learning_2010}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8ec7cbed1c079dba8c57700b0925dd96}{%
@@ -3888,6 +4174,84 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
       \endverb
     \endentry
+    \entry{eslamirad_geoprocess_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=586bf3146267c0afa17d74d0313c8831}{%
+           family={Eslamirad},
+           familyi={E\bibinitperiod},
+           given={Nasim},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7512a23047ca69481bcddff303f4a60c}{%
+           family={De\bibnamedelima Luca},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c0e5e1d314ca015e80be84bc4b3e391}{%
+           family={Lylykangas},
+           familyi={L\bibinitperiod},
+           given={Kimmo\bibnamedelima Sakari},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddce4ef9a95de49c8234fad2d0209a93}{%
+           family={Ben\bibnamedelima Yahia},
+           familyi={B\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={Sadok},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c0aeef66b50fa7297f626ac8d210014}{%
+           family={Rasoulinezhad},
+           familyi={R\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{fullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{fullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{bibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorbibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authornamehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{authorfullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorfullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The new digital era brings increasingly massive and complex interdisciplinary projects in various fields. At the same time, the availability of an accurate and reliable database plays a crucial role in achieving project goals. Meanwhile, urban projects and issues usually need to be analyzed to support the objectives of sustainable development of the built environment. Furthermore, the volume and variety of spatial data used to describe urban elements and phenomena have grown exponentially in recent decades. The scope of this dataset is to process spatial data to provide input data for the urban heat island ({UHI}) assessment project in Tallinn, Estonia. The dataset builds the generative, predictive, and explainable machine learning {UHI} model. The dataset presented here consists of multi-scale urban data. It provides essential baseline information for (i) urban planners, researchers, and practitioners to incorporate urban data in their research activities, (ii) architects and urban planners to improve the features of buildings and the city, considering urban data and the {UHI} effect, (iii) stakeholders, policymakers and administration in cities implementing built environment projects, and supporting urban sustainability goals. The dataset is available for download as supplementary material to this article.}
+      \field{day}{1}
+      \field{issn}{2352-3409}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{6}
+      \field{shortjournal}{Data in Brief}
+      \field{title}{Geoprocess of geospatial urban data in Tallinn, Estonia}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{109172}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2023.109172
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/gongbaodd/Zotero/storage/7GUM95YV/Eslamirad et al. - 2023 - Geoprocess of geospatial urban data in Tallinn, Estonia.pdf:application/pdf;ScienceDirect Snapshot:/home/gongbaodd/Zotero/storage/X6KDQHHB/S2352340923002913.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \keyw{Ascending hierarchical grid system,Urban analysis,Urban data acquisition,Urban Heat Island ({UHI}),Urban heterogeneity}
+    \endentry
     \entry{ezhil_comparative_nodate}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=156e522151b71130c2878699a69f25cc}{%
@@ -4184,6 +4548,81 @@
       \verb{url}
       \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
       \endverb
+    \endentry
+    \entry{hou_model_2025}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bbe203ccb474a175f598679a28e5081b}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e6e67151fcd0f9de7104ca4abbe2dc}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57a2afd7b45de630d592cb4c4b2c67c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shenao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44ddd1947297940fae36faf60cfdc356}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{fullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{fullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{bibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorbibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authornamehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{authorfullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorfullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Model Context Protocol ({MCP}) is an emerging open standard that defines a unified, bi-directional communication and dynamic discovery protocol between {AI} models and external tools or resources, aiming to enhance interoperability and reduce fragmentation across diverse systems. This paper presents a systematic study of {MCP} from both architectural and security perspectives. We first define the full lifecycle of an {MCP} server, comprising four phases (creation, deployment, operation, and maintenance), further decomposed into 16 key activities that capture its functional evolution. Building on this lifecycle analysis, we construct a comprehensive threat taxonomy that categorizes security and privacy risks across four major attacker types: malicious developers, external attackers, malicious users, and security flaws, encompassing 16 distinct threat scenarios. To validate these risks, we develop and analyze real-world case studies that demonstrate concrete attack surfaces and vulnerability manifestations within {MCP} implementations. Based on these findings, the paper proposes a set of fine-grained, actionable security safeguards tailored to each lifecycle phase and threat category, offering practical guidance for secure {MCP} adoption. We also analyze the current {MCP} landscape, covering industry adoption, integration patterns, and supporting tools, to identify its technological strengths as well as existing limitations that constrain broader deployment. Finally, we outline future research and development directions aimed at strengthening {MCP}'s standardization, trust boundaries, and sustainable growth within the evolving ecosystem of tool-augmented {AI} systems.}
+      \field{day}{7}
+      \field{eprinttype}{arxiv}
+      \field{month}{10}
+      \field{number}{{arXiv}:2503.23278}
+      \field{shorttitle}{Model Context Protocol ({MCP})}
+      \field{title}{Model Context Protocol ({MCP}): Landscape, Security Threats, and Future Research Directions}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2503.23278
+      \endverb
+      \verb{eprint}
+      \verb 2503.23278 [cs]
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/2AUX73A8/Hou et al. - 2025 - Model Context Protocol (MCP) Landscape, Security Threats, and Future Research Directions.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/TRV365V5/2503.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Cryptography and Security}
     \endentry
     \entry{idrissi_review_2022}{article}{}{}
       \name{author}{3}{}{%
@@ -5401,6 +5840,38 @@
       \verb 10.1109/ICEST55168.2022.9828656
       \endverb
     \endentry
+    \entry{EstonianLandBoard2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ada71d95dc6f6918d8bfc07e769b6077}{%
+           family={{Republic of Estonia Land and Spatial Development Board}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{bibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorbibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authornamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Estonian Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Elevation data 2017--2020: Digital Elevation Model (DEM) and Digital Terrain Model (DTM) [Dataset]}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
+      \endverb
+      \verb{url}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
+      \endverb
+    \endentry
     \entry{rolland_head-mounted_2005}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a322db25d6ac4462d6435fea78d3e415}{%
@@ -5617,6 +6088,39 @@
       \endverb
       \verb{file}
       \verb Full Text PDF:/home/gongbaodd/Zotero/storage/C6DY88XM/Shatokhin et al. - 2025 - Extended Reality Types and Applications.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{TallinnCityModel2012}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5aa855e13756b39f543b60adedc8980c}{%
+           family={{Tallinn Strategy Centre}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \strng{bibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorbibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authornamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tallinn Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Tallinn {3D} {City} {Model}}
+      \field{type}{Data set}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
+      \endverb
+      \verb{url}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
       \endverb
     \endentry
     \entry{usama2021fpv}{article}{}{}

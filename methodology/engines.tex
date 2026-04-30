@@ -1,0 +1,35 @@
+\subsubsection{Comparison of Development Platforms}
+
+Game development is strongly influenced by the choice of game engine. Before initiating a project, it is critical to determine the target hardware and environmental requirements, as these factors define the development constraints.
+
+This section presents a comparison of current game engines supporting extended reality, based on programming language, physics engine, rendering methods, Meta platform support, machine learning support, and editor size (see Table~\ref{table:xr_engine}). This comparison is based on official documentation and prior research from \parencite{ezhil_comparative_nodate}.
+
+\begin{table}[h]
+\centering
+\caption{Software Engine Comparison}\label{table:xr_engine}
+\setlength{\tabcolsep}{6pt} 
+\begin{tabularx}{1\textwidth}{l|X|X|X|X}
+\hline
+Feature & Unreal Engine (5.7) & Unity (6.0) & Godot (4.6) & Wonderland Engine \\
+\hline
+Language & C++, Blueprints    & C\#        & GDScript, C\# & JavaScript, TypeScript \\
+Physics & Chaos Physics      & NVIDIA PhysX, DOTS & Jolt Physics   & NVIDIA PhysX \\
+Rendering  & Lumen, Nanite & URP, HDRP    & Forward+, Mobile & WebGL2 \\
+Meta Support & Fork build  & First-class & Community-driven & No support \\
+ML Support & Learning Agent & ML Agents & Godot RL Agents & No support \\
+Editor Size & $\sim$50GB+ & $\sim$20GB & $<1$GB & 200MB \\
+\hline
+\end{tabularx}
+
+\end{table}
+
+Unreal Engine: Unreal Engine is widely recognized for its photorealistic rendering capabilities and high visual fidelity. Its Chaos Physics engine is highly regarded for complex simulations, making it the foundation for projects like Microsoft's AirSim. However, UE has a high barrier to entry: the editor is massive, and utilizing Meta's private APIs often requires compiling a custom engine branch from source.
+
+Unity: Unity remains the most popular choice for Meta Quest development due to its mature SDK support and C\# scripting. While it uses PhysX by default, its DOTS (Data-Oriented Technology Stack) provides high-performance physics for complex drone swarms. It offers the most streamlined out-of-the-box experience for Standalone VR.
+
+Godot: Godot has emerged as a powerful, lightweight alternative. It is highly compatible with modern AI coding assistants due to its Python-like GDScript. The integration of Jolt Physics as the default 3D engine has resolved previous performance hurdles for VR. However, its XR ecosystem is largely community-maintained. While excellent for prototyping, the lack of official Meta API support and the potential instability of third-party GDExtensions require careful dependency management for production-grade projects.
+
+Wonderland Engine: Wonderland Engine is a specialized WebXR engine built in C++ and compiled to WebAssembly.  By leveraging WebGL2, it achieves the performance necessary to render thousands of objects at native frame rates directly within a browser. The development workflow relies on JavaScript and TypeScript, providing a highly familiar and accessible environment for traditional web developers. A unique advantage is the ability to edit scenes directly on the headset, enabling instant feedback without removing the device.
+
+Unity 3D is frequently used in research due to its flexible configuration, extensive plugin ecosystem, and ease of rapid prototyping. Thus, it is often used in various experiments \parencite{shatokhin_extended_2025}.
+
