@@ -19,6 +19,40 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{Akagi2024}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d97988aef0dfc30625ba11e953b3584f}{%
+           family={Akagi},
+           familyi={A\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{bibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorbibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authornamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Software available from QGIS Python Plugins Repository}
+      \field{title}{Qgis2threejs (Version 2.10) [QGIS Plugin]}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+      \verb{url}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+    \endentry
     \entry{almeida_learning_2010}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8ec7cbed1c079dba8c57700b0925dd96}{%
@@ -221,6 +255,37 @@
       \verb 10.1609/aimag.v40i1.2844
       \endverb
     \endentry
+    \entry{unity_env_track_lowpoly}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71d468b46a98432d496c8f2ca0e6b23d}{%
+           family={{BE DRILL ENTER}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{bibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorbibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authornamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Environment Track Lowpoly: Cartoon Props Mobile Free}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+    \endentry
     \entry{Beck2004XP}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
@@ -262,6 +327,37 @@
       \field{series}{The XP Series}
       \field{title}{Extreme Programming Explained: Embrace Change}
       \field{year}{2004}
+    \endentry
+    \entry{unity_gems_items}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3dbd0ca7aeb75370cb614fd646d27066}{%
+           family={{BenjaTheMaker}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{bibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorbibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authornamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Simple Gems and Items Ultimate Animated Customizable Pack}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
     \endentry
     \entry{bennett1993pid}{article}{}{}
       \name{author}{1}{}{%
@@ -614,6 +710,82 @@
       \endverb
       \keyw{Computer Science - Computers and Society,Computer Science - Graphics,Computer Science - Human-Computer Interaction,Computer Science - Information Retrieval,Computer Science - Multimedia}
     \endentry
+    \entry{dojcinovic_personalized_2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ae0d0d89c6ee72c63bf955f9f76ad5e7}{%
+           family={Dojcinovic},
+           familyi={D\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f75465d7ea8ff5a193d7621fab78d5bd}{%
+           family={Strecker-Bischoff},
+           familyi={S\bibinithyphendelim B\bibinitperiod},
+           given={Jannis},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80745943c387d1ad45b1ef55f54e114c}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fec4e2252fb4703aefaa2c3baf32a437}{%
+           family={Bektaş},
+           familyi={B\bibinitperiod},
+           given={Kenan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}, {USA}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{6fd58308e53be869fbe6223be8fd308c}
+      \strng{fullhash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{fullhashraw}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{bibnamehash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{authorbibnamehash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{authornamehash}{6fd58308e53be869fbe6223be8fd308c}
+      \strng{authorfullhash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{authorfullhashraw}{5d4a01898ba12127b0ed27b883cea0b6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Board games often involve strategic decision making and procedural planning tasks. Such tasks require learners to make decisions based on dynamically evolving game state and changing information that is situated in a physical environment. Recommender systems can filter available information and provide learners with personalized and actionable suggestions that simplify their decision making while playing board games. Such recommendations can further be spatially aligned with relevant physical elements through Mixed Reality ({MR}). We present an {MR} system called {GLAMRec} for an engine-building strategy board game. {GLAMRec} provides personalized, transparent recommendations by integrating user data, real-time game state tracking, and ontology-based reasoning during a complex board game, which we use as a proxy environment for procedural learning tasks. We interviewed six board game designers to improve the {GLAMRec} and conducted a within-subjects design user study (N=32) to investigate how personalized explanations affect explanation satisfaction, user experience, and trust. We found that personalized recommendations significantly improve explanation satisfaction and hedonic user experience without affecting trust ratings, recommendation compliance, and game performance. These findings suggest that personalization primarily shaped perception of enjoyment rather than measurable learning outcomes or trust.}
+      \field{day}{22}
+      \field{isbn}{979-8-4007-1984-4}
+      \field{journaltitle}{Proceedings of the 31st International Conference on Intelligent User Interfaces}
+      \field{month}{3}
+      \field{series}{{IUI} '26}
+      \field{title}{Personalized Recommendations in Mixed Reality Enhance Explanation Satisfaction and Hedonic User Experience in Board Game Learning}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1263\bibrangedash 1282}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1145/3742413.3789129
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/FZM3IX97/Dojcinovic et al. - 2026 - Personalized Recommendations in Mixed Reality Enhance Explanation Satisfaction and Hedonic User Expe.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3742413.3789129
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3742413.3789129
+      \endverb
+    \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
@@ -762,6 +934,116 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
+      \endverb
+    \endentry
+    \entry{eslamirad_geoprocess_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=586bf3146267c0afa17d74d0313c8831}{%
+           family={Eslamirad},
+           familyi={E\bibinitperiod},
+           given={Nasim},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7512a23047ca69481bcddff303f4a60c}{%
+           family={De\bibnamedelima Luca},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c0e5e1d314ca015e80be84bc4b3e391}{%
+           family={Lylykangas},
+           familyi={L\bibinitperiod},
+           given={Kimmo\bibnamedelima Sakari},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddce4ef9a95de49c8234fad2d0209a93}{%
+           family={Ben\bibnamedelima Yahia},
+           familyi={B\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={Sadok},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c0aeef66b50fa7297f626ac8d210014}{%
+           family={Rasoulinezhad},
+           familyi={R\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{fullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{fullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{bibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorbibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authornamehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{authorfullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorfullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The new digital era brings increasingly massive and complex interdisciplinary projects in various fields. At the same time, the availability of an accurate and reliable database plays a crucial role in achieving project goals. Meanwhile, urban projects and issues usually need to be analyzed to support the objectives of sustainable development of the built environment. Furthermore, the volume and variety of spatial data used to describe urban elements and phenomena have grown exponentially in recent decades. The scope of this dataset is to process spatial data to provide input data for the urban heat island ({UHI}) assessment project in Tallinn, Estonia. The dataset builds the generative, predictive, and explainable machine learning {UHI} model. The dataset presented here consists of multi-scale urban data. It provides essential baseline information for (i) urban planners, researchers, and practitioners to incorporate urban data in their research activities, (ii) architects and urban planners to improve the features of buildings and the city, considering urban data and the {UHI} effect, (iii) stakeholders, policymakers and administration in cities implementing built environment projects, and supporting urban sustainability goals. The dataset is available for download as supplementary material to this article.}
+      \field{day}{1}
+      \field{issn}{2352-3409}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{6}
+      \field{shortjournal}{Data in Brief}
+      \field{title}{Geoprocess of geospatial urban data in Tallinn, Estonia}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{109172}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2023.109172
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/gongbaodd/Zotero/storage/7GUM95YV/Eslamirad et al. - 2023 - Geoprocess of geospatial urban data in Tallinn, Estonia.pdf:application/pdf;ScienceDirect Snapshot:/home/gongbaodd/Zotero/storage/X6KDQHHB/S2352340923002913.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \keyw{Ascending hierarchical grid system,Urban analysis,Urban data acquisition,Urban Heat Island ({UHI}),Urban heterogeneity}
+    \endentry
+    \entry{ezhil_comparative_nodate}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=156e522151b71130c2878699a69f25cc}{%
+           family={Ezhil},
+           familyi={E\bibinitperiod},
+           given={Srignanalokesh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{156e522151b71130c2878699a69f25cc}
+      \strng{fullhash}{156e522151b71130c2878699a69f25cc}
+      \strng{fullhashraw}{156e522151b71130c2878699a69f25cc}
+      \strng{bibnamehash}{156e522151b71130c2878699a69f25cc}
+      \strng{authorbibnamehash}{156e522151b71130c2878699a69f25cc}
+      \strng{authornamehash}{156e522151b71130c2878699a69f25cc}
+      \strng{authorfullhash}{156e522151b71130c2878699a69f25cc}
+      \strng{authorfullhashraw}{156e522151b71130c2878699a69f25cc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Game Theory}
+      \field{month}{10}
+      \field{title}{A Comparative Analysis of Unity, Unreal Engine, Godot, and CryEngine: Technical Features, Licensing Models, and Suitability for Modern Game Development}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.5281/zenodo.17383448
       \endverb
     \endentry
     \entry{gdc2026report}{misc}{}{}
@@ -1028,6 +1310,81 @@
       \verb{url}
       \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
       \endverb
+    \endentry
+    \entry{hou_model_2025}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bbe203ccb474a175f598679a28e5081b}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e6e67151fcd0f9de7104ca4abbe2dc}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57a2afd7b45de630d592cb4c4b2c67c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shenao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44ddd1947297940fae36faf60cfdc356}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{fullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{fullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{bibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorbibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authornamehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{authorfullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorfullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Model Context Protocol ({MCP}) is an emerging open standard that defines a unified, bi-directional communication and dynamic discovery protocol between {AI} models and external tools or resources, aiming to enhance interoperability and reduce fragmentation across diverse systems. This paper presents a systematic study of {MCP} from both architectural and security perspectives. We first define the full lifecycle of an {MCP} server, comprising four phases (creation, deployment, operation, and maintenance), further decomposed into 16 key activities that capture its functional evolution. Building on this lifecycle analysis, we construct a comprehensive threat taxonomy that categorizes security and privacy risks across four major attacker types: malicious developers, external attackers, malicious users, and security flaws, encompassing 16 distinct threat scenarios. To validate these risks, we develop and analyze real-world case studies that demonstrate concrete attack surfaces and vulnerability manifestations within {MCP} implementations. Based on these findings, the paper proposes a set of fine-grained, actionable security safeguards tailored to each lifecycle phase and threat category, offering practical guidance for secure {MCP} adoption. We also analyze the current {MCP} landscape, covering industry adoption, integration patterns, and supporting tools, to identify its technological strengths as well as existing limitations that constrain broader deployment. Finally, we outline future research and development directions aimed at strengthening {MCP}'s standardization, trust boundaries, and sustainable growth within the evolving ecosystem of tool-augmented {AI} systems.}
+      \field{day}{7}
+      \field{eprinttype}{arxiv}
+      \field{month}{10}
+      \field{number}{{arXiv}:2503.23278}
+      \field{shorttitle}{Model Context Protocol ({MCP})}
+      \field{title}{Model Context Protocol ({MCP}): Landscape, Security Threats, and Future Research Directions}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2503.23278
+      \endverb
+      \verb{eprint}
+      \verb 2503.23278 [cs]
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/2AUX73A8/Hou et al. - 2025 - Model Context Protocol (MCP) Landscape, Security Threats, and Future Research Directions.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/TRV365V5/2503.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Cryptography and Security}
     \endentry
     \entry{idrissi_review_2022}{article}{}{}
       \name{author}{3}{}{%
@@ -1778,6 +2135,47 @@
       \verb https://ieeexplore.ieee.org/document/9584498/
       \endverb
     \endentry
+    \entry{maniulit_learning_2026}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba8e81d473ab4c036278a47d6e6bc6bf}{%
+           family={Maniulit},
+           familyi={M\bibinitperiod},
+           given={Jeo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{bibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorbibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authornamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The increasing integration of artificial intelligence in higher education necessitates systematic evaluation of its instructional effectiveness, particularly in supporting students’ cognitive engagement. This study examined the responsiveness of an {AI}-assisted tool, {NotebookLM}, in enhancing cognitive task performance among pre-service mathematics teachers in a tertiary setting. Specifically, it sought to evaluate students’ post-exposure perceptions of the tool’s functionality, accessibility, technical requirements, privacy and data protection, and social and cognitive presence during classroom-based Learning Station activities. Employing a descriptive–evaluative research design with a case study approach, the study involved 45 Bachelor of Secondary Education major in Mathematics students selected through purposive sampling. Data were collected using a structured questionnaire adapted from the {eCampusOntario} rubric for evaluating {AI} tools, consisting of both Likert-scale items and open-ended questions. Quantitative data were analyzed using descriptive statistics, including frequencies and weighted means, while qualitative responses underwent thematic analysis to capture recurring patterns in students’ experiences. Findings revealed generally positive perceptions of {NotebookLM}, particularly in supporting comprehension, organization of ideas, and collaborative learning tasks. However, students also identified challenges related to initial navigation and dependency on stable internet connectivity. Overall, the study highlights the potential of {AI}-supported learning stations in enhancing cognitive task engagement while underscoring the importance of guided implementation. The results contribute to the growing discourse on responsible and pedagogically grounded integration of {AI} tools in teacher education.}
+      \field{day}{21}
+      \field{month}{3}
+      \field{shorttitle}{Learning with {AI}, Not From {AI}}
+      \field{title}{Learning with {AI}, Not From {AI}: A Post-exposure Evaluation of {NotebookLM}}
+      \field{volume}{1}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{pages}{290\bibrangedash 299}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5281/zenodo.19142887
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/LMJHERRF/Maniulit - 2026 - Learning with AI, Not From AI A Post-exposure Evaluation of NotebookLM.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{marougkas_virtual_2023}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9e14cac17f9704abc29b3d3b5c77e461}{%
@@ -2198,6 +2596,37 @@
       \verb 10.48550/arXiv.2105.14231
       \endverb
     \endentry
+    \entry{unity_fantasy_skybox}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1082c11cad47b8d595b843797e88f6a}{%
+           family={{Render Knight}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{bibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorbibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authornamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Fantasy Skybox FREE}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+    \endentry
     \entry{rendevski2022vr}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -2243,6 +2672,38 @@
       \range{pages}{4}
       \verb{doi}
       \verb 10.1109/ICEST55168.2022.9828656
+      \endverb
+    \endentry
+    \entry{EstonianLandBoard2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ada71d95dc6f6918d8bfc07e769b6077}{%
+           family={{Republic of Estonia Land and Spatial Development Board}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{bibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorbibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authornamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Estonian Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Elevation data 2017--2020: Digital Elevation Model (DEM) and Digital Terrain Model (DTM) [Dataset]}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
+      \endverb
+      \verb{url}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
       \endverb
     \endentry
     \entry{rolland_head-mounted_2005}{article}{}{}
@@ -2402,6 +2863,100 @@
       \endverb
       \keyw{Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
     \endentry
+    \entry{shatokhin_extended_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=196c2394a8b2d78c77d1cc2a0b9e664d}{%
+           family={Shatokhin},
+           familyi={S\bibinitperiod},
+           given={Oleksii},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b84993e2f6c2a16fec7f3e86b393485b}{%
+           family={Dzedzickis},
+           familyi={D\bibinitperiod},
+           given={Andrius},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79a4b3d4153bb73c16197e9cb32a57c1}{%
+           family={Pečiulienė},
+           familyi={P\bibinitperiod},
+           given={Milda},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb15a941bfb7cac7bd0f0ff310ae25d7}{%
+           family={Bučinskas},
+           familyi={B\bibinitperiod},
+           given={Vytautas},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2414014d739958cd744fdf4084863b90}
+      \strng{fullhash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{fullhashraw}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{bibnamehash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{authorbibnamehash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{authornamehash}{2414014d739958cd744fdf4084863b90}
+      \strng{authorfullhash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{authorfullhashraw}{83b614e8fa5258649f4cbdc2fe744806}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This review is dedicated to the fast developing area of robotic technology cohesion with extended reality techniques. This paper analyzes existing extended reality technologies, categorizing them as virtual reality, augmented reality, and mixed reality. These technologies differ from each other based on resulting graphics and are similar in terms of hardware, software, and functional issues. The research methodology is shown in a separate section, which declares the depth of the research, used keywords, and criteria for paper selection. A brief classification of extended realty issues provides a systematic approach to these techniques and reveals their applications in robotics, placing the focus on mobile robotic technology. The term extended reality covers technologies of virtual, augmented, and mixed reality, which are classified in this review. Each section of the reviewed field gives an original issue classification in a table format. Finally, the general outcome of the review is summarized in the discussion, and conclusions are drawn.}
+      \field{day}{17}
+      \field{journaltitle}{Applied Sciences}
+      \field{month}{3}
+      \field{shortjournal}{Applied Sciences}
+      \field{shorttitle}{Extended Reality}
+      \field{title}{Extended Reality: Types and Applications}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{3282}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app15063282
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/C6DY88XM/Shatokhin et al. - 2025 - Extended Reality Types and Applications.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{TallinnCityModel2012}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5aa855e13756b39f543b60adedc8980c}{%
+           family={{Tallinn Strategy Centre}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \strng{bibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorbibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authornamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tallinn Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Tallinn {3D} {City} {Model}}
+      \field{type}{Data set}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
+      \endverb
+      \verb{url}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
+      \endverb
+    \endentry
     \entry{usama2021fpv}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=53f0ce173d4c6c40b249a7c8666c62b3}{%
@@ -2462,6 +3017,37 @@
       \endverb
       \verb{url}
       \verb https://journals.ekb.eg/article_246400.html
+      \endverb
+    \endentry
+    \entry{unity_floor_materials}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3baa73f1d10cafa26650d24944d6dab}{%
+           family={{VK GameDev}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{bibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorbibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authornamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Floor Materials Pack v.1}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
       \endverb
     \endentry
     \entry{waldow_investigating_2025}{article}{}{}
@@ -2538,12 +3124,12 @@
     \endentry
     \entry{wang_influence_2026}{article}{}{}
       \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=77b5291a8870f0f0fdeeb449a9176b20}{%
+        {{un=1,uniquepart=given,hash=77b5291a8870f0f0fdeeb449a9176b20}{%
            family={Wang},
            familyi={W\bibinitperiod},
            given={Huanlei},
            giveni={H\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=cee72dd97987c51fc4dc49318f884f45}{%
            family={Lai},
            familyi={L\bibinitperiod},
@@ -2587,7 +3173,6 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{While extensive research has examined adult perceptions of Artificial Intelligence ({AI})’s impact on the workforce, studies focusing on adolescents—who are at a critical stage of career development—remain scarce. Drawing upon Social Cognitive Career Theory ({SCCT}) and the significance of fostering adolescents’ adaptability in the era of {AI}, we designed a questionnaire-based experiment to examine how adolescents’ prior perceptions, attitude and immediate knowledge of {AI} influence their career preferences. We conducted a questionnaire-based experiment with 836 adolescents (Mage = 13.98, {SD} = 1.35 years; 52.30\% male) to investigate the influence of three independent variable groups: prior perception of {AI} (familiarity with {AI}), prior attitudes towards {AI} (trust in {AI} and positive/negative attitude towards {AI}) and immediate knowledge of {AI} (experimental manipulation). The results showed that immediate knowledge of {AI} significantly and negatively predicted adolescents’ preference for both low- and high-replaceable jobs. In contrast, familiarity with {AI}, trust in {AI} and positive attitude towards {AI} significantly and positively predicted a preference for low-replaceable jobs. This study introduces an integrated empirical framework demonstrating that distinct {AI}-related factors differentially influence adolescent career preferences. Results emphasize the importance of familiarity with {AI}, trust in {AI} and positive attitude towards {AI} among teenagers in order to better adapt the future changes in the labor market. This finding provides an empirical reference for educators and policy makers to better guide teenagers to make career plans.}
@@ -2620,6 +3205,116 @@
       \verb{url}
       \verb https://www.mdpi.com/2076-328X/16/1/72
       \endverb
+    \endentry
+    \entry{wang_xr-dt_2026}{misc}{}{}
+      \name{author}{10}{}{%
+        {{un=1,uniquepart=given,hash=7eb003447474aea0940c8dca013292e1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tianyi},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=76c3aa51c5d1f28a076ad32aa4dde1d6}{%
+           family={Byeon},
+           familyi={B\bibinitperiod},
+           given={Jiseop},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e85ab03b2cca3b4c2a538ccb9fb07cc7}{%
+           family={Yehia},
+           familyi={Y\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e415966cd08385a88248939cdc9e4c16}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yiming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97c9a574f1cf03ef869871409216246e}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Jihyung},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a812d90ed1abf56ad209024fb9806b4e}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Tianyi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2ccd5210368dd4e75f59d030b6cb410}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Sikai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f73557a27a013cc8f1602fd0945ffa2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ziran},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3d1efb6dae53ebed433b7e39dc45be0}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Junfeng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59008a688aafa092f27defe732e010e6}{%
+           family={Claudel},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{b8be29858f34efa7ba70af710cb4cc94}
+      \strng{fullhash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{fullhashraw}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{bibnamehash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{authorbibnamehash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{authornamehash}{b8be29858f34efa7ba70af710cb4cc94}
+      \strng{authorfullhash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{authorfullhashraw}{1858b876bfd158357dd9f9e4b289852c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{As mobile robots increasingly operate alongside humans in shared workspaces, ensuring safe, efficient, and interpretable Human-Robot Interaction ({HRI}) has become a pressing challenge. While substantial progress has been devoted to human behavior prediction, limited attention has been paid to how humans perceive, interpret, and trust robots' inferences and how robots plan safe and efficient trajectories based on predicted human behaviors. To address these challenges, this paper presents {XR}-{DT}, an {eXtended} Reality-enhanced Digital Twin framework for mobile robots, which bridges physical and virtual spaces to enable bi-directional understanding between humans and robots. Our hierarchical {XR}-{DT} architecture integrates augmented-, virtual-, and mixed-reality layers, fusing real-time sensor data, simulated environments in the Unity game engine, and human feedback captured through wearable {XR} devices. Within this framework, we design a novel Human-Aware Model Predictive Path Integral ({HA}-{MPPI}) control model, an {MPPI}-based motion planner that incorporates {ATLAS} (Attention-based Trajectory Learning with Anticipatory Sensing), a multi-modal Transformer model designed for egocentric human trajectory prediction via {XR} headsets. Extensive real-world experimental results demonstrate accurate human trajectory prediction, and safe and efficient robot navigation, validating the {HA}-{MPPI}'s effectiveness within the {XR}-{DT} framework. By embedding human behavior, environmental dynamics, and robot navigation into the {XR}-{DT} framework, our system enables interpretable, trustworthy, and adaptive {HRI}.}
+      \field{day}{6}
+      \field{eprinttype}{arxiv}
+      \field{month}{3}
+      \field{number}{{arXiv}:2512.05270}
+      \field{shorttitle}{{XR}-{DT}}
+      \field{title}{{XR}-{DT}: Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predictive Path Integral Control}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2512.05270
+      \endverb
+      \verb{eprint}
+      \verb 2512.05270 [cs]
+      \endverb
+      \verb{file}
+      \verb Preprint PDF:/home/gongbaodd/Zotero/storage/4YHNLVDQ/Wang et al. - 2026 - XR-DT Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predict.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/BSD8BWSF/2512.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2512.05270
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2512.05270
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Human-Computer Interaction,Computer Science - Multiagent Systems,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
     \endentry
     \entry{w3c2022webxr}{misc}{}{}
       \name{author}{1}{}{%
@@ -2789,6 +3484,40 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{Akagi2024}{manual}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d97988aef0dfc30625ba11e953b3584f}{%
+           family={Akagi},
+           familyi={A\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{fullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{bibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorbibnamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authornamehash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhash}{d97988aef0dfc30625ba11e953b3584f}
+      \strng{authorfullhashraw}{d97988aef0dfc30625ba11e953b3584f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Software available from QGIS Python Plugins Repository}
+      \field{title}{Qgis2threejs (Version 2.10) [QGIS Plugin]}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+      \verb{url}
+      \verb https://github.com/minorua/Qgis2threejs
+      \endverb
+    \endentry
     \entry{almeida_learning_2010}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8ec7cbed1c079dba8c57700b0925dd96}{%
@@ -2991,6 +3720,37 @@
       \verb 10.1609/aimag.v40i1.2844
       \endverb
     \endentry
+    \entry{unity_env_track_lowpoly}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71d468b46a98432d496c8f2ca0e6b23d}{%
+           family={{BE DRILL ENTER}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{bibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorbibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authornamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Environment Track Lowpoly: Cartoon Props Mobile Free}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+    \endentry
     \entry{Beck2004XP}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
@@ -3032,6 +3792,37 @@
       \field{series}{The XP Series}
       \field{title}{Extreme Programming Explained: Embrace Change}
       \field{year}{2004}
+    \endentry
+    \entry{unity_gems_items}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3dbd0ca7aeb75370cb614fd646d27066}{%
+           family={{BenjaTheMaker}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{bibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorbibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authornamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Simple Gems and Items Ultimate Animated Customizable Pack}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
     \endentry
     \entry{bennett1993pid}{article}{}{}
       \name{author}{1}{}{%
@@ -3384,6 +4175,82 @@
       \endverb
       \keyw{Computer Science - Computers and Society,Computer Science - Graphics,Computer Science - Human-Computer Interaction,Computer Science - Information Retrieval,Computer Science - Multimedia}
     \endentry
+    \entry{dojcinovic_personalized_2026}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ae0d0d89c6ee72c63bf955f9f76ad5e7}{%
+           family={Dojcinovic},
+           familyi={D\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f75465d7ea8ff5a193d7621fab78d5bd}{%
+           family={Strecker-Bischoff},
+           familyi={S\bibinithyphendelim B\bibinitperiod},
+           given={Jannis},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80745943c387d1ad45b1ef55f54e114c}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fec4e2252fb4703aefaa2c3baf32a437}{%
+           family={Bektaş},
+           familyi={B\bibinitperiod},
+           given={Kenan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}, {USA}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{6fd58308e53be869fbe6223be8fd308c}
+      \strng{fullhash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{fullhashraw}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{bibnamehash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{authorbibnamehash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{authornamehash}{6fd58308e53be869fbe6223be8fd308c}
+      \strng{authorfullhash}{5d4a01898ba12127b0ed27b883cea0b6}
+      \strng{authorfullhashraw}{5d4a01898ba12127b0ed27b883cea0b6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Board games often involve strategic decision making and procedural planning tasks. Such tasks require learners to make decisions based on dynamically evolving game state and changing information that is situated in a physical environment. Recommender systems can filter available information and provide learners with personalized and actionable suggestions that simplify their decision making while playing board games. Such recommendations can further be spatially aligned with relevant physical elements through Mixed Reality ({MR}). We present an {MR} system called {GLAMRec} for an engine-building strategy board game. {GLAMRec} provides personalized, transparent recommendations by integrating user data, real-time game state tracking, and ontology-based reasoning during a complex board game, which we use as a proxy environment for procedural learning tasks. We interviewed six board game designers to improve the {GLAMRec} and conducted a within-subjects design user study (N=32) to investigate how personalized explanations affect explanation satisfaction, user experience, and trust. We found that personalized recommendations significantly improve explanation satisfaction and hedonic user experience without affecting trust ratings, recommendation compliance, and game performance. These findings suggest that personalization primarily shaped perception of enjoyment rather than measurable learning outcomes or trust.}
+      \field{day}{22}
+      \field{isbn}{979-8-4007-1984-4}
+      \field{journaltitle}{Proceedings of the 31st International Conference on Intelligent User Interfaces}
+      \field{month}{3}
+      \field{series}{{IUI} '26}
+      \field{title}{Personalized Recommendations in Mixed Reality Enhance Explanation Satisfaction and Hedonic User Experience in Board Game Learning}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1263\bibrangedash 1282}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1145/3742413.3789129
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/FZM3IX97/Dojcinovic et al. - 2026 - Personalized Recommendations in Mixed Reality Enhance Explanation Satisfaction and Hedonic User Expe.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3742413.3789129
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3742413.3789129
+      \endverb
+    \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
@@ -3532,6 +4399,116 @@
       \endverb
       \verb{url}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0141933118300930
+      \endverb
+    \endentry
+    \entry{eslamirad_geoprocess_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=586bf3146267c0afa17d74d0313c8831}{%
+           family={Eslamirad},
+           familyi={E\bibinitperiod},
+           given={Nasim},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7512a23047ca69481bcddff303f4a60c}{%
+           family={De\bibnamedelima Luca},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c0e5e1d314ca015e80be84bc4b3e391}{%
+           family={Lylykangas},
+           familyi={L\bibinitperiod},
+           given={Kimmo\bibnamedelima Sakari},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddce4ef9a95de49c8234fad2d0209a93}{%
+           family={Ben\bibnamedelima Yahia},
+           familyi={B\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={Sadok},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c0aeef66b50fa7297f626ac8d210014}{%
+           family={Rasoulinezhad},
+           familyi={R\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{fullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{fullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{bibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorbibnamehash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authornamehash}{6231264f0ec193de586d42fb73058f8b}
+      \strng{authorfullhash}{bdaf1d3214f0e375f102b902a50a11c0}
+      \strng{authorfullhashraw}{bdaf1d3214f0e375f102b902a50a11c0}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The new digital era brings increasingly massive and complex interdisciplinary projects in various fields. At the same time, the availability of an accurate and reliable database plays a crucial role in achieving project goals. Meanwhile, urban projects and issues usually need to be analyzed to support the objectives of sustainable development of the built environment. Furthermore, the volume and variety of spatial data used to describe urban elements and phenomena have grown exponentially in recent decades. The scope of this dataset is to process spatial data to provide input data for the urban heat island ({UHI}) assessment project in Tallinn, Estonia. The dataset builds the generative, predictive, and explainable machine learning {UHI} model. The dataset presented here consists of multi-scale urban data. It provides essential baseline information for (i) urban planners, researchers, and practitioners to incorporate urban data in their research activities, (ii) architects and urban planners to improve the features of buildings and the city, considering urban data and the {UHI} effect, (iii) stakeholders, policymakers and administration in cities implementing built environment projects, and supporting urban sustainability goals. The dataset is available for download as supplementary material to this article.}
+      \field{day}{1}
+      \field{issn}{2352-3409}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{6}
+      \field{shortjournal}{Data in Brief}
+      \field{title}{Geoprocess of geospatial urban data in Tallinn, Estonia}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{volume}{48}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{109172}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2023.109172
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:/home/gongbaodd/Zotero/storage/7GUM95YV/Eslamirad et al. - 2023 - Geoprocess of geospatial urban data in Tallinn, Estonia.pdf:application/pdf;ScienceDirect Snapshot:/home/gongbaodd/Zotero/storage/X6KDQHHB/S2352340923002913.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352340923002913
+      \endverb
+      \keyw{Ascending hierarchical grid system,Urban analysis,Urban data acquisition,Urban Heat Island ({UHI}),Urban heterogeneity}
+    \endentry
+    \entry{ezhil_comparative_nodate}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=156e522151b71130c2878699a69f25cc}{%
+           family={Ezhil},
+           familyi={E\bibinitperiod},
+           given={Srignanalokesh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{156e522151b71130c2878699a69f25cc}
+      \strng{fullhash}{156e522151b71130c2878699a69f25cc}
+      \strng{fullhashraw}{156e522151b71130c2878699a69f25cc}
+      \strng{bibnamehash}{156e522151b71130c2878699a69f25cc}
+      \strng{authorbibnamehash}{156e522151b71130c2878699a69f25cc}
+      \strng{authornamehash}{156e522151b71130c2878699a69f25cc}
+      \strng{authorfullhash}{156e522151b71130c2878699a69f25cc}
+      \strng{authorfullhashraw}{156e522151b71130c2878699a69f25cc}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Game Theory}
+      \field{month}{10}
+      \field{title}{A Comparative Analysis of Unity, Unreal Engine, Godot, and CryEngine: Technical Features, Licensing Models, and Suitability for Modern Game Development}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.5281/zenodo.17383448
       \endverb
     \endentry
     \entry{gdc2026report}{misc}{}{}
@@ -3798,6 +4775,81 @@
       \verb{url}
       \verb https://fpvdroneguide.com/blog/best-fpv-simulators-2026
       \endverb
+    \endentry
+    \entry{hou_model_2025}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bbe203ccb474a175f598679a28e5081b}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Xinyi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14e6e67151fcd0f9de7104ca4abbe2dc}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yanjie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57a2afd7b45de630d592cb4c4b2c67c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shenao},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44ddd1947297940fae36faf60cfdc356}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{fullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{fullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{bibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorbibnamehash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authornamehash}{97c844757bc1ced6ee04f333c8270232}
+      \strng{authorfullhash}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \strng{authorfullhashraw}{2a7ed4c77591d0c3017182fc52b1d7ed}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Model Context Protocol ({MCP}) is an emerging open standard that defines a unified, bi-directional communication and dynamic discovery protocol between {AI} models and external tools or resources, aiming to enhance interoperability and reduce fragmentation across diverse systems. This paper presents a systematic study of {MCP} from both architectural and security perspectives. We first define the full lifecycle of an {MCP} server, comprising four phases (creation, deployment, operation, and maintenance), further decomposed into 16 key activities that capture its functional evolution. Building on this lifecycle analysis, we construct a comprehensive threat taxonomy that categorizes security and privacy risks across four major attacker types: malicious developers, external attackers, malicious users, and security flaws, encompassing 16 distinct threat scenarios. To validate these risks, we develop and analyze real-world case studies that demonstrate concrete attack surfaces and vulnerability manifestations within {MCP} implementations. Based on these findings, the paper proposes a set of fine-grained, actionable security safeguards tailored to each lifecycle phase and threat category, offering practical guidance for secure {MCP} adoption. We also analyze the current {MCP} landscape, covering industry adoption, integration patterns, and supporting tools, to identify its technological strengths as well as existing limitations that constrain broader deployment. Finally, we outline future research and development directions aimed at strengthening {MCP}'s standardization, trust boundaries, and sustainable growth within the evolving ecosystem of tool-augmented {AI} systems.}
+      \field{day}{7}
+      \field{eprinttype}{arxiv}
+      \field{month}{10}
+      \field{number}{{arXiv}:2503.23278}
+      \field{shorttitle}{Model Context Protocol ({MCP})}
+      \field{title}{Model Context Protocol ({MCP}): Landscape, Security Threats, and Future Research Directions}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2503.23278
+      \endverb
+      \verb{eprint}
+      \verb 2503.23278 [cs]
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/2AUX73A8/Hou et al. - 2025 - Model Context Protocol (MCP) Landscape, Security Threats, and Future Research Directions.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/TRV365V5/2503.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2503.23278
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Cryptography and Security}
     \endentry
     \entry{idrissi_review_2022}{article}{}{}
       \name{author}{3}{}{%
@@ -4548,6 +5600,47 @@
       \verb https://ieeexplore.ieee.org/document/9584498/
       \endverb
     \endentry
+    \entry{maniulit_learning_2026}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba8e81d473ab4c036278a47d6e6bc6bf}{%
+           family={Maniulit},
+           familyi={M\bibinitperiod},
+           given={Jeo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{bibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorbibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authornamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The increasing integration of artificial intelligence in higher education necessitates systematic evaluation of its instructional effectiveness, particularly in supporting students’ cognitive engagement. This study examined the responsiveness of an {AI}-assisted tool, {NotebookLM}, in enhancing cognitive task performance among pre-service mathematics teachers in a tertiary setting. Specifically, it sought to evaluate students’ post-exposure perceptions of the tool’s functionality, accessibility, technical requirements, privacy and data protection, and social and cognitive presence during classroom-based Learning Station activities. Employing a descriptive–evaluative research design with a case study approach, the study involved 45 Bachelor of Secondary Education major in Mathematics students selected through purposive sampling. Data were collected using a structured questionnaire adapted from the {eCampusOntario} rubric for evaluating {AI} tools, consisting of both Likert-scale items and open-ended questions. Quantitative data were analyzed using descriptive statistics, including frequencies and weighted means, while qualitative responses underwent thematic analysis to capture recurring patterns in students’ experiences. Findings revealed generally positive perceptions of {NotebookLM}, particularly in supporting comprehension, organization of ideas, and collaborative learning tasks. However, students also identified challenges related to initial navigation and dependency on stable internet connectivity. Overall, the study highlights the potential of {AI}-supported learning stations in enhancing cognitive task engagement while underscoring the importance of guided implementation. The results contribute to the growing discourse on responsible and pedagogically grounded integration of {AI} tools in teacher education.}
+      \field{day}{21}
+      \field{month}{3}
+      \field{shorttitle}{Learning with {AI}, Not From {AI}}
+      \field{title}{Learning with {AI}, Not From {AI}: A Post-exposure Evaluation of {NotebookLM}}
+      \field{volume}{1}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{pages}{290\bibrangedash 299}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5281/zenodo.19142887
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/LMJHERRF/Maniulit - 2026 - Learning with AI, Not From AI A Post-exposure Evaluation of NotebookLM.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{marougkas_virtual_2023}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9e14cac17f9704abc29b3d3b5c77e461}{%
@@ -4968,6 +6061,37 @@
       \verb 10.48550/arXiv.2105.14231
       \endverb
     \endentry
+    \entry{unity_fantasy_skybox}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1082c11cad47b8d595b843797e88f6a}{%
+           family={{Render Knight}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{bibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorbibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authornamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Fantasy Skybox FREE}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+    \endentry
     \entry{rendevski2022vr}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -5013,6 +6137,38 @@
       \range{pages}{4}
       \verb{doi}
       \verb 10.1109/ICEST55168.2022.9828656
+      \endverb
+    \endentry
+    \entry{EstonianLandBoard2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ada71d95dc6f6918d8bfc07e769b6077}{%
+           family={{Republic of Estonia Land and Spatial Development Board}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{fullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{bibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorbibnamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authornamehash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhash}{ada71d95dc6f6918d8bfc07e769b6077}
+      \strng{authorfullhashraw}{ada71d95dc6f6918d8bfc07e769b6077}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Estonian Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Elevation data 2017--2020: Digital Elevation Model (DEM) and Digital Terrain Model (DTM) [Dataset]}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
+      \endverb
+      \verb{url}
+      \verb https://geoportaal.maaamet.ee/eng/Maps-and-Data/Elevation-data/Download-Elevation-Data-p664.html
       \endverb
     \endentry
     \entry{rolland_head-mounted_2005}{article}{}{}
@@ -5172,6 +6328,100 @@
       \endverb
       \keyw{Computer Science - Artificial Intelligence,Computer Science - Computer Vision and Pattern Recognition,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
     \endentry
+    \entry{shatokhin_extended_2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=196c2394a8b2d78c77d1cc2a0b9e664d}{%
+           family={Shatokhin},
+           familyi={S\bibinitperiod},
+           given={Oleksii},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b84993e2f6c2a16fec7f3e86b393485b}{%
+           family={Dzedzickis},
+           familyi={D\bibinitperiod},
+           given={Andrius},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79a4b3d4153bb73c16197e9cb32a57c1}{%
+           family={Pečiulienė},
+           familyi={P\bibinitperiod},
+           given={Milda},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb15a941bfb7cac7bd0f0ff310ae25d7}{%
+           family={Bučinskas},
+           familyi={B\bibinitperiod},
+           given={Vytautas},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2414014d739958cd744fdf4084863b90}
+      \strng{fullhash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{fullhashraw}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{bibnamehash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{authorbibnamehash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{authornamehash}{2414014d739958cd744fdf4084863b90}
+      \strng{authorfullhash}{83b614e8fa5258649f4cbdc2fe744806}
+      \strng{authorfullhashraw}{83b614e8fa5258649f4cbdc2fe744806}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This review is dedicated to the fast developing area of robotic technology cohesion with extended reality techniques. This paper analyzes existing extended reality technologies, categorizing them as virtual reality, augmented reality, and mixed reality. These technologies differ from each other based on resulting graphics and are similar in terms of hardware, software, and functional issues. The research methodology is shown in a separate section, which declares the depth of the research, used keywords, and criteria for paper selection. A brief classification of extended realty issues provides a systematic approach to these techniques and reveals their applications in robotics, placing the focus on mobile robotic technology. The term extended reality covers technologies of virtual, augmented, and mixed reality, which are classified in this review. Each section of the reviewed field gives an original issue classification in a table format. Finally, the general outcome of the review is summarized in the discussion, and conclusions are drawn.}
+      \field{day}{17}
+      \field{journaltitle}{Applied Sciences}
+      \field{month}{3}
+      \field{shortjournal}{Applied Sciences}
+      \field{shorttitle}{Extended Reality}
+      \field{title}{Extended Reality: Types and Applications}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{3282}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app15063282
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/C6DY88XM/Shatokhin et al. - 2025 - Extended Reality Types and Applications.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{TallinnCityModel2012}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5aa855e13756b39f543b60adedc8980c}{%
+           family={{Tallinn Strategy Centre}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{fullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \strng{bibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorbibnamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authornamehash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhash}{5aa855e13756b39f543b60adedc8980c}
+      \strng{authorfullhashraw}{5aa855e13756b39f543b60adedc8980c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Tallinn Geoportal}
+      \field{note}{Accessed: 2026-04-30}
+      \field{title}{Tallinn {3D} {City} {Model}}
+      \field{type}{Data set}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
+      \endverb
+      \verb{url}
+      \verb https://www.tallinn.ee/et/geoportaal/ruumiandmed
+      \endverb
+    \endentry
     \entry{usama2021fpv}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=53f0ce173d4c6c40b249a7c8666c62b3}{%
@@ -5232,6 +6482,37 @@
       \endverb
       \verb{url}
       \verb https://journals.ekb.eg/article_246400.html
+      \endverb
+    \endentry
+    \entry{unity_floor_materials}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3baa73f1d10cafa26650d24944d6dab}{%
+           family={{VK GameDev}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{bibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorbibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authornamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Floor Materials Pack v.1}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
       \endverb
     \endentry
     \entry{waldow_investigating_2025}{article}{}{}
@@ -5308,12 +6589,12 @@
     \endentry
     \entry{wang_influence_2026}{article}{}{}
       \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=77b5291a8870f0f0fdeeb449a9176b20}{%
+        {{un=1,uniquepart=given,hash=77b5291a8870f0f0fdeeb449a9176b20}{%
            family={Wang},
            familyi={W\bibinitperiod},
            given={Huanlei},
            giveni={H\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=cee72dd97987c51fc4dc49318f884f45}{%
            family={Lai},
            familyi={L\bibinitperiod},
@@ -5357,7 +6638,6 @@
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{While extensive research has examined adult perceptions of Artificial Intelligence ({AI})’s impact on the workforce, studies focusing on adolescents—who are at a critical stage of career development—remain scarce. Drawing upon Social Cognitive Career Theory ({SCCT}) and the significance of fostering adolescents’ adaptability in the era of {AI}, we designed a questionnaire-based experiment to examine how adolescents’ prior perceptions, attitude and immediate knowledge of {AI} influence their career preferences. We conducted a questionnaire-based experiment with 836 adolescents (Mage = 13.98, {SD} = 1.35 years; 52.30\% male) to investigate the influence of three independent variable groups: prior perception of {AI} (familiarity with {AI}), prior attitudes towards {AI} (trust in {AI} and positive/negative attitude towards {AI}) and immediate knowledge of {AI} (experimental manipulation). The results showed that immediate knowledge of {AI} significantly and negatively predicted adolescents’ preference for both low- and high-replaceable jobs. In contrast, familiarity with {AI}, trust in {AI} and positive attitude towards {AI} significantly and positively predicted a preference for low-replaceable jobs. This study introduces an integrated empirical framework demonstrating that distinct {AI}-related factors differentially influence adolescent career preferences. Results emphasize the importance of familiarity with {AI}, trust in {AI} and positive attitude towards {AI} among teenagers in order to better adapt the future changes in the labor market. This finding provides an empirical reference for educators and policy makers to better guide teenagers to make career plans.}
@@ -5390,6 +6670,116 @@
       \verb{url}
       \verb https://www.mdpi.com/2076-328X/16/1/72
       \endverb
+    \endentry
+    \entry{wang_xr-dt_2026}{misc}{}{}
+      \name{author}{10}{}{%
+        {{un=1,uniquepart=given,hash=7eb003447474aea0940c8dca013292e1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tianyi},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=76c3aa51c5d1f28a076ad32aa4dde1d6}{%
+           family={Byeon},
+           familyi={B\bibinitperiod},
+           given={Jiseop},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e85ab03b2cca3b4c2a538ccb9fb07cc7}{%
+           family={Yehia},
+           familyi={Y\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e415966cd08385a88248939cdc9e4c16}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yiming},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97c9a574f1cf03ef869871409216246e}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Jihyung},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a812d90ed1abf56ad209024fb9806b4e}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Tianyi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2ccd5210368dd4e75f59d030b6cb410}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Sikai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f73557a27a013cc8f1602fd0945ffa2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ziran},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3d1efb6dae53ebed433b7e39dc45be0}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Junfeng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59008a688aafa092f27defe732e010e6}{%
+           family={Claudel},
+           familyi={C\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{b8be29858f34efa7ba70af710cb4cc94}
+      \strng{fullhash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{fullhashraw}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{bibnamehash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{authorbibnamehash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{authornamehash}{b8be29858f34efa7ba70af710cb4cc94}
+      \strng{authorfullhash}{1858b876bfd158357dd9f9e4b289852c}
+      \strng{authorfullhashraw}{1858b876bfd158357dd9f9e4b289852c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{As mobile robots increasingly operate alongside humans in shared workspaces, ensuring safe, efficient, and interpretable Human-Robot Interaction ({HRI}) has become a pressing challenge. While substantial progress has been devoted to human behavior prediction, limited attention has been paid to how humans perceive, interpret, and trust robots' inferences and how robots plan safe and efficient trajectories based on predicted human behaviors. To address these challenges, this paper presents {XR}-{DT}, an {eXtended} Reality-enhanced Digital Twin framework for mobile robots, which bridges physical and virtual spaces to enable bi-directional understanding between humans and robots. Our hierarchical {XR}-{DT} architecture integrates augmented-, virtual-, and mixed-reality layers, fusing real-time sensor data, simulated environments in the Unity game engine, and human feedback captured through wearable {XR} devices. Within this framework, we design a novel Human-Aware Model Predictive Path Integral ({HA}-{MPPI}) control model, an {MPPI}-based motion planner that incorporates {ATLAS} (Attention-based Trajectory Learning with Anticipatory Sensing), a multi-modal Transformer model designed for egocentric human trajectory prediction via {XR} headsets. Extensive real-world experimental results demonstrate accurate human trajectory prediction, and safe and efficient robot navigation, validating the {HA}-{MPPI}'s effectiveness within the {XR}-{DT} framework. By embedding human behavior, environmental dynamics, and robot navigation into the {XR}-{DT} framework, our system enables interpretable, trustworthy, and adaptive {HRI}.}
+      \field{day}{6}
+      \field{eprinttype}{arxiv}
+      \field{month}{3}
+      \field{number}{{arXiv}:2512.05270}
+      \field{shorttitle}{{XR}-{DT}}
+      \field{title}{{XR}-{DT}: Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predictive Path Integral Control}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2512.05270
+      \endverb
+      \verb{eprint}
+      \verb 2512.05270 [cs]
+      \endverb
+      \verb{file}
+      \verb Preprint PDF:/home/gongbaodd/Zotero/storage/4YHNLVDQ/Wang et al. - 2026 - XR-DT Extended Reality-Enhanced Digital Twin for Safe Motion Planning via Human-Aware Model Predict.pdf:application/pdf;Snapshot:/home/gongbaodd/Zotero/storage/BSD8BWSF/2512.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2512.05270
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2512.05270
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Human-Computer Interaction,Computer Science - Multiagent Systems,Computer Science - Robotics,Electrical Engineering and Systems Science - Systems and Control}
     \endentry
     \entry{w3c2022webxr}{misc}{}{}
       \name{author}{1}{}{%

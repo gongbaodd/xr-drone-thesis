@@ -7,14 +7,11 @@ The First-Person View (FPV) experience is defined by the synchronization between
     \centering
     \caption{Transmitter (Left) and Gamepad (Right)}\label{fig:control}
     \includegraphics[width=0.8\linewidth]{img/control.jpg}
-    \begin{flushleft}
-    \small Adapted from \parencite{betafpv2022manual}
-    \end{flushleft}
 \end{figure}
 
 The industry standardizes these controls into two primary layouts: Mode 1 (Japanese Hand): Predominantly used in Japan and parts of Europe. The throttle is located on the right gimbal; Mode 2 (American Hand): The global standard for FPV.The throttle is located on the left gimbal, which most pilots find more intuitive for separating altitude from directional pitch. Difference between Mode 1 and Mode 2 is shown in \cref{table:modes}
 
-\begin{table}[h]
+\begin{table}[H]
 \caption{Comparison of Transmitter Control Modes}\label{table:modes}
 \centering
 \begin{tabular}{lllll}
@@ -30,12 +27,9 @@ Mode 2 & Throttle       & Yaw            & Pitch            & Roll            \\
 From a signal processing perspective, the flight controller differentiates between the unipolar throttle and the bipolar command sticks: Throttle ($T$): Mapped to a range of $[0, 1]$. Roll, Pitch, and Yaw ($\phi, \theta, \psi$): Mapped to a range of $[-1, 1]$. In \cref{fig:mode2} shows the interaction of the transmitter in Mode 2 and how the quadcopter move.
 
 \begin{figure}[H]
-    \caption{Mode 2 control system}\label{fig:mode2}
+    \caption{Mode 2 control system, Top left: throttle; top right: pitch; bottom left: yaw; bottom right: roll.}\label{fig:mode2}
     \centering
     \includegraphics[width=0.8\linewidth]{img/drone.png}
-    \begin{flushleft}
-        \small Adapted from \parencite{betafpv2022manual}
-    \end{flushleft}
 \end{figure}
 
 
@@ -43,11 +37,8 @@ FPV drones generally operate across two flight logic modes. Self-Leveling (Angle
 
 The FPV goggles provide the pilot with a low-latency first person view video feed pass from the camera set on the quadcopter's front. Beyond the video feed, an On-Screen Display (OSD) provides critical telemetry data, including battery voltage, signal strength, and flight time, as shown in \cref{fig:goggles}.
 
-\begin{figure}
-    \caption{The FPV goggles interface}\label{fig:goggles}
+\begin{figure}[H]
+    \caption{The FPV goggles and its OSD}\label{fig:goggles}
     \centering
     \includegraphics[width=0.8\linewidth]{img/goggles.png}
-    \begin{flushleft}
-        \small Adapted from \parencite{betafpv2022manual}
-    \end{flushleft}
 \end{figure}

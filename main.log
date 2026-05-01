@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1223,50 +1223,49 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3.
  (/opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) (./theoretical_background/quadrotor/02_physics.tex
-<img/6DOF.png, id=445, 857.45343pt x 346.29375pt>
+<img/6DOF.png, id=445, 791.20593pt x 358.33875pt>
 File: img/6DOF.png Graphic file (type png)
 <use img/6DOF.png>
 Package pdftex.def Info: img/6DOF.png  used on input line 8.
-(pdftex.def)             Requested size: 375.80544pt x 151.77261pt.
- [8] [9 <./img/6DOF.png>]) (./theoretical_background/quadrotor/03_hci.tex
-<img/control.jpg, id=477, 1206.0542pt x 369.12097pt>
+(pdftex.def)             Requested size: 375.80544pt x 170.20174pt.
+ [8] [9 <./img/6DOF.png (PNG copy)>]) (./theoretical_background/quadrotor/03_hci.tex [10]
+<img/control.jpg, id=485, 1919.17pt x 804.00375pt>
 File: img/control.jpg Graphic file (type jpg)
 <use img/control.jpg>
 Package pdftex.def Info: img/control.jpg  used on input line 9.
-(pdftex.def)             Requested size: 375.80544pt x 115.0177pt.
- [10]
-<img/drone.png, id=491, 903.375pt x 344.03531pt>
+(pdftex.def)             Requested size: 375.80544pt x 157.43645pt.
+<img/drone.png, id=488, 602.25pt x 216.81pt>
 File: img/drone.png Graphic file (type png)
 <use img/drone.png>
-Package pdftex.def Info: img/drone.png  used on input line 35.
-(pdftex.def)             Requested size: 375.80544pt x 143.1237pt.
+Package pdftex.def Info: img/drone.png  used on input line 32.
+(pdftex.def)             Requested size: 375.80544pt x 135.29417pt.
  [11 <./img/control.jpg>]
-<img/goggles.png, id=503, 285.31593pt x 209.28188pt>
+<img/goggles.png, id=498, 803.0pt x 297.11pt>
 File: img/goggles.png Graphic file (type png)
 <use img/goggles.png>
-Package pdftex.def Info: img/goggles.png  used on input line 49.
-(pdftex.def)             Requested size: 375.80544pt x 275.65892pt.
-) (./theoretical_background/quadrotor/04_pid.tex [12 <./img/drone.png>] [13 <./img/goggles.png>])) (./theoretical_background/co-trainer/01_exp_learn.tex (./theoretical_background/co-trainer/exp.tex
-<img/exp/exp.png, id=524, 1413.78188pt x 1006.51031pt>
-File: img/exp/exp.png Graphic file (type png)
-<use img/exp/exp.png>
-Package pdftex.def Info: img/exp/exp.png  used on input line 14.
-(pdftex.def)             Requested size: 375.80544pt x 267.53793pt.
- [14]) (./theoretical_background/co-trainer/fpv_sim.tex [15 <./img/exp/exp.png>]) (./theoretical_background/co-trainer/hac.tex [16]) (./theoretical_background/co-trainer/rl.tex [17]
-<img/decision.jpg, id=575, 451.6875pt x 173.89969pt>
-File: img/decision.jpg Graphic file (type jpg)
-<use img/decision.jpg>
-Package pdftex.def Info: img/decision.jpg  used on input line 14.
-(pdftex.def)             Requested size: 375.80544pt x 144.69225pt.
-)) (./theoretical_background/xr/01-hci.tex (./theoretical_background/xr/hardware.tex [18] [19 <./img/decision.jpg>]) (./theoretical_background/xr/runtime.tex (./theoretical_background/xr/openxr.tex) (./theoretical_background/xr/webxr.tex [20])) (./theoretical_background/xr/spatial_ref.tex [21]) (./theoretical_background/xr/render.tex [22]) (./theoretical_background/xr/input.tex
-Overfull \hbox (38.66907pt too wide) in paragraph at lines 15--28
+Package pdftex.def Info: img/goggles.png  used on input line 43.
+(pdftex.def)             Requested size: 375.80544pt x 139.05235pt.
+) (./theoretical_background/quadrotor/04_pid.tex [12 <./img/drone.png (PNG copy)> <./img/goggles.png>])) (./theoretical_background/co-trainer/01_exp_learn.tex (./theoretical_background/co-trainer/exp.tex [13] (./figure/exp4stages.tex)) (./theoretical_background/co-trainer/fpv_sim.tex [14]) (./theoretical_background/co-trainer/hac.tex [15]) (./theoretical_background/co-trainer/rl.tex [16]
+<img/mdp.png, id=563, 602.25pt x 401.24907pt>
+File: img/mdp.png Graphic file (type png)
+<use img/mdp.png>
+Package pdftex.def Info: img/mdp.png  used on input line 13.
+(pdftex.def)             Requested size: 375.80544pt x 250.3882pt.
+)) [17] (./theoretical_background/xr/01-hci.tex (./theoretical_background/xr/hardware.tex [18 <./img/mdp.png (PNG copy)>]) (./theoretical_background/xr/runtime.tex (./theoretical_background/xr/openxr.tex) (./theoretical_background/xr/webxr.tex [19])) (./theoretical_background/xr/spatial_ref.tex [20]) (./theoretical_background/xr/render.tex [21]) (./theoretical_background/xr/input.tex [22]
+<img/xr.png, id=621, 357.58594pt x 243.91125pt>
+File: img/xr.png Graphic file (type png)
+<use img/xr.png>
+Package pdftex.def Info: img/xr.png  used on input line 11.
+(pdftex.def)             Requested size: 375.80544pt x 256.35255pt.
+
+Overfull \hbox (38.66907pt too wide) in paragraph at lines 21--34
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23])) (./theoretical_background/rq.tex [24] [25])) (./main/_05_methodology.tex [26] (./methodology/methods.tex (./methodology/dbr.tex) (./methodology/agile.tex [27]) (./methodology/plan.tex [28])) (./methodology/dev_env.tex (./methodology/engines.tex
+)) [23 <./img/xr.png (PNG copy)>] (./theoretical_background/rq.tex [24] [25])) (./main/_05_methodology.tex [26] (./methodology/methods.tex (./methodology/dbr.tex) (./methodology/agile.tex [27]) (./methodology/plan.tex [28])) (./methodology/dev_env.tex (./methodology/engines.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\T1/ptm/m/n/12 Unreal En-gine
  []
@@ -1292,60 +1291,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
  []
 
 [29]) (./methodology/tech.tex [30])) (./methodology/drone.tex [31] [32]) (./methodology/trainer.tex (./methodology/pd.tex
-<img/pid.png, id=730, 429.10312pt x 194.22563pt>
+<img/pid.png, id=725, 429.10312pt x 194.22563pt>
 File: img/pid.png Graphic file (type png)
 <use img/pid.png>
 Package pdftex.def Info: img/pid.png  used on input line 8.
 (pdftex.def)             Requested size: 375.80544pt x 170.10406pt.
  [33] [34 <./img/pid.png>]) (./methodology/rl.tex
-<img/agent.png, id=755, 1130.2225pt x 970.62625pt>
+<img/agent.png, id=750, 1130.2225pt x 970.62625pt>
 File: img/agent.png Graphic file (type png)
 <use img/agent.png>
 Package pdftex.def Info: img/agent.png  used on input line 10.
 (pdftex.def)             Requested size: 375.80544pt x 322.73659pt.
  [35] [36 <./img/agent.png>])) (./methodology/eval.tex [37]
-<img/train.png, id=780, 642.90187pt x 345.54094pt>
+<img/train.png, id=775, 642.90187pt x 345.54094pt>
 File: img/train.png Graphic file (type png)
 <use img/train.png>
 Package pdftex.def Info: img/train.png  used on input line 14.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
  [38 <./img/train.png>]
-<img/path.png, id=792, 341.77687pt x 270.25969pt>
+<img/path.png, id=787, 341.77687pt x 270.25969pt>
 File: img/path.png Graphic file (type png)
 <use img/path.png>
 Package pdftex.def Info: img/path.png  used on input line 34.
 (pdftex.def)             Requested size: 375.80544pt x 297.18759pt.
 ) (./methodology/xr.tex (./methodology/XRUI.tex [39 <./img/path.png>] [40]) (./methodology/geo.tex [41]))) (./main/_06_result.tex [42] (./result/drone_in_xr.tex [43]
-<img/stages/drone-control.png, id=838, 864.98157pt x 531.48563pt>
+<img/stages/drone-control.png, id=833, 864.98157pt x 531.48563pt>
 File: img/stages/drone-control.png Graphic file (type png)
 <use img/stages/drone-control.png>
 Package pdftex.def Info: img/stages/drone-control.png  used on input line 36.
 (pdftex.def)             Requested size: 375.80544pt x 230.91054pt.
 ) (./result/tutorial.tex [44 <./img/stages/drone-control.png>] [45]
-<img/stages/structure.png, id=855, 1296.34312pt x 453.94594pt>
+<img/stages/structure.png, id=850, 1296.34312pt x 453.94594pt>
 File: img/stages/structure.png Graphic file (type png)
 <use img/stages/structure.png>
 Package pdftex.def Info: img/stages/structure.png  used on input line 33.
 (pdftex.def)             Requested size: 375.80544pt x 131.59938pt.
 ) (./result/real.tex [46 <./img/stages/structure.png>]
-<img/Tallinn.png, id=870, 429.85594pt x 371.13657pt>
+<img/Tallinn.png, id=865, 429.85594pt x 371.13657pt>
 File: img/Tallinn.png Graphic file (type png)
 <use img/Tallinn.png>
 Package pdftex.def Info: img/Tallinn.png  used on input line 20.
 (pdftex.def)             Requested size: 375.80544pt x 324.47752pt.
-<img/real.png, id=872, 602.25pt x 347.04657pt>
+<img/real.png, id=867, 602.25pt x 347.04657pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
 Package pdftex.def Info: img/real.png  used on input line 28.
 (pdftex.def)             Requested size: 375.80544pt x 216.56465pt.
  [47 <./img/Tallinn.png>]) (./result/white-box.tex [48 <./img/real.png>]
-<img/white-box.png, id=889, 1023.825pt x 505.13719pt>
+<img/white-box.png, id=884, 1023.825pt x 505.13719pt>
 File: img/white-box.png Graphic file (type png)
 <use img/white-box.png>
 Package pdftex.def Info: img/white-box.png  used on input line 15.
 (pdftex.def)             Requested size: 375.80544pt x 185.41023pt.
 ) (./result/explore.tex) [49 <./img/white-box.png>] (./result/pid.tex
-<img/ui.png, id=904, 585.68813pt x 303.38344pt>
+<img/ui.png, id=899, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
 Package pdftex.def Info: img/ui.png  used on input line 23.
@@ -1356,13 +1355,13 @@ File: img/train.png Graphic file (type png)
 Package pdftex.def Info: img/train.png  used on input line 23.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
  [52]
-<img/result.png, id=926, 782.17218pt x 665.48625pt>
+<img/result.png, id=921, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 31.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
  [53]
-<img/hover.png, id=933, 598.48593pt x 693.34032pt>
+<img/hover.png, id=928, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 39.
@@ -1379,24 +1378,24 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 276DF21A7E9C1A344F4F88AFA228FF77;16766.
+(rerunfilecheck)             Checksum: 3018F25E68C51D33F9EC919F31E4B62A;16767.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38146 strings out of 467349
- 743607 string characters out of 5389291
- 1650637 words of memory out of 5000000
- 66188 multiletter control sequences out of 15000+600000
- 682697 words of font info for 111 fonts, out of 8000000 for 9000
+ 38262 strings out of 467349
+ 746016 string characters out of 5389291
+ 1649820 words of memory out of 5000000
+ 66300 multiletter control sequences out of 15000+600000
+ 679975 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (69 pages, 5173688 bytes).
+Output written on main.pdf (69 pages, 6846129 bytes).
 PDF statistics:
- 1185 PDF objects out of 1200 (max. 8388607)
- 1047 compressed objects within 11 object streams
- 281 named destinations out of 1000 (max. 500000)
+ 1180 PDF objects out of 1200 (max. 8388607)
+ 1045 compressed objects within 11 object streams
+ 282 named destinations out of 1000 (max. 500000)
  719 words of extra memory for PDF output out of 10000 (max. 10000000)
 
