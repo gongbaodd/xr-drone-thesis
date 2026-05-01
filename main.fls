@@ -710,6 +710,17 @@ INPUT ./img/real.png
 INPUT ./img/real.png
 INPUT ./img/real.png
 INPUT ./img/real.png
+INPUT ./result/white-box.tex
+INPUT ./result/white-box.tex
+INPUT result/white-box.tex
+INPUT ./img/white-box.png
+INPUT ./img/white-box.png
+INPUT ./img/white-box.png
+INPUT ./img/white-box.png
+INPUT ./img/white-box.png
+INPUT ./result/explore.tex
+INPUT ./result/explore.tex
+INPUT result/explore.tex
 INPUT ./result/pid.tex
 INPUT ./result/pid.tex
 INPUT result/pid.tex
