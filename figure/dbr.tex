@@ -1,0 +1,19 @@
+
+\begin{figure}[htbp]
+\caption{Iterative cycle of Design-Based Research}\label{fig:dbr_cycle}
+\centering
+\begin{tikzpicture}[
+    every node/.style={draw, circle, minimum size=2.5cm, align=center},
+    arrow/.style={->, thick}
+]
+
+\node (design) at (0,0) {Design};
+\node (enact) at (4,0) {Enactment};
+\node (analysis) at (2,-4) {Analysis};
+
+\draw[arrow] (design) -- (enact);
+\draw[arrow] (enact) -- (analysis);
+\draw[arrow] (analysis) -- (design);
+
+\end{tikzpicture}
+\end{figure}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  2 MAY 2026 00:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -992,12 +992,8 @@ File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowlength=\dimen310
 \pgfarrowwidth=\dimen311
 \pgfarrowlinewidth=\dimen312
-) (/opt/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
-File: tikzlibraryangles.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/opt/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
-File: tikzlibraryquotes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (/opt/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex
-File: tikzlibrary3d.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/opt/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (/opt/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
  (/opt/texlive/2026/texmf-dist/tex/latex/tools/array.sty
@@ -1265,7 +1261,7 @@ Overfull \hbox (38.66907pt too wide) in paragraph at lines 21--34
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)) [23 <./img/xr.png (PNG copy)>] (./theoretical_background/rq.tex [24] [25])) (./main/_05_methodology.tex [26] (./methodology/methods.tex (./methodology/dbr.tex) (./methodology/agile.tex [27]) (./methodology/plan.tex [28])) (./methodology/dev_env.tex (./methodology/engines.tex
+)) [23 <./img/xr.png (PNG copy)>] (./theoretical_background/rq.tex [24] [25])) (./main/_05_methodology.tex [26] (./methodology/methods.tex (./methodology/dbr.tex (./figure/dbr.tex)) (./methodology/agile.tex [27]) (./methodology/plan.tex [28])) (./methodology/dev_env.tex (./methodology/engines.tex [29]
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\T1/ptm/m/n/12 Unreal En-gine
  []
@@ -1290,20 +1286,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\T1/ptm/m/n/12 Community-
  []
 
-[29]) (./methodology/tech.tex [30])) (./methodology/drone.tex [31] [32]) (./methodology/trainer.tex (./methodology/pd.tex
-<img/pid.png, id=725, 429.10312pt x 194.22563pt>
+[30]) (./methodology/tech.tex [31])) (./methodology/drone.tex [32]) (./methodology/trainer.tex (./methodology/pd.tex [33]
+<img/pid.png, id=734, 429.10312pt x 194.22563pt>
 File: img/pid.png Graphic file (type png)
 <use img/pid.png>
 Package pdftex.def Info: img/pid.png  used on input line 8.
 (pdftex.def)             Requested size: 375.80544pt x 170.10406pt.
- [33] [34 <./img/pid.png>]) (./methodology/rl.tex
-<img/agent.png, id=750, 1130.2225pt x 970.62625pt>
+ [34 <./img/pid.png>]) (./methodology/rl.tex [35]
+<img/agent.png, id=758, 1130.2225pt x 970.62625pt>
 File: img/agent.png Graphic file (type png)
 <use img/agent.png>
 Package pdftex.def Info: img/agent.png  used on input line 10.
 (pdftex.def)             Requested size: 375.80544pt x 322.73659pt.
- [35] [36 <./img/agent.png>])) (./methodology/eval.tex [37]
-<img/train.png, id=775, 642.90187pt x 345.54094pt>
+ [36 <./img/agent.png>])) (./methodology/eval.tex [37]
+<img/train.png, id=776, 642.90187pt x 345.54094pt>
 File: img/train.png Graphic file (type png)
 <use img/train.png>
 Package pdftex.def Info: img/train.png  used on input line 14.
@@ -1314,37 +1310,37 @@ File: img/path.png Graphic file (type png)
 <use img/path.png>
 Package pdftex.def Info: img/path.png  used on input line 34.
 (pdftex.def)             Requested size: 375.80544pt x 297.18759pt.
-) (./methodology/xr.tex (./methodology/XRUI.tex [39 <./img/path.png>] [40]) (./methodology/geo.tex [41]))) (./main/_06_result.tex [42] (./result/drone_in_xr.tex [43]
-<img/stages/drone-control.png, id=833, 864.98157pt x 531.48563pt>
+ [39 <./img/path.png>]) (./methodology/xr.tex (./methodology/XRUI.tex [40]) (./methodology/geo.tex [41]))) (./main/_06_result.tex [42] (./result/drone_in_xr.tex [43]
+<img/stages/drone-control.png, id=835, 864.98157pt x 531.48563pt>
 File: img/stages/drone-control.png Graphic file (type png)
 <use img/stages/drone-control.png>
 Package pdftex.def Info: img/stages/drone-control.png  used on input line 36.
 (pdftex.def)             Requested size: 375.80544pt x 230.91054pt.
 ) (./result/tutorial.tex [44 <./img/stages/drone-control.png>] [45]
-<img/stages/structure.png, id=850, 1296.34312pt x 453.94594pt>
+<img/stages/structure.png, id=852, 1296.34312pt x 453.94594pt>
 File: img/stages/structure.png Graphic file (type png)
 <use img/stages/structure.png>
 Package pdftex.def Info: img/stages/structure.png  used on input line 33.
 (pdftex.def)             Requested size: 375.80544pt x 131.59938pt.
 ) (./result/real.tex [46 <./img/stages/structure.png>]
-<img/Tallinn.png, id=865, 429.85594pt x 371.13657pt>
+<img/Tallinn.png, id=867, 429.85594pt x 371.13657pt>
 File: img/Tallinn.png Graphic file (type png)
 <use img/Tallinn.png>
 Package pdftex.def Info: img/Tallinn.png  used on input line 20.
 (pdftex.def)             Requested size: 375.80544pt x 324.47752pt.
-<img/real.png, id=867, 602.25pt x 347.04657pt>
+<img/real.png, id=869, 602.25pt x 347.04657pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
 Package pdftex.def Info: img/real.png  used on input line 28.
 (pdftex.def)             Requested size: 375.80544pt x 216.56465pt.
  [47 <./img/Tallinn.png>]) (./result/white-box.tex [48 <./img/real.png>]
-<img/white-box.png, id=884, 1023.825pt x 505.13719pt>
+<img/white-box.png, id=886, 1023.825pt x 505.13719pt>
 File: img/white-box.png Graphic file (type png)
 <use img/white-box.png>
 Package pdftex.def Info: img/white-box.png  used on input line 15.
 (pdftex.def)             Requested size: 375.80544pt x 185.41023pt.
 ) (./result/explore.tex) [49 <./img/white-box.png>] (./result/pid.tex
-<img/ui.png, id=899, 585.68813pt x 303.38344pt>
+<img/ui.png, id=901, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
 Package pdftex.def Info: img/ui.png  used on input line 23.
@@ -1355,13 +1351,13 @@ File: img/train.png Graphic file (type png)
 Package pdftex.def Info: img/train.png  used on input line 23.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
  [52]
-<img/result.png, id=921, 782.17218pt x 665.48625pt>
+<img/result.png, id=923, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 31.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
  [53]
-<img/hover.png, id=928, 598.48593pt x 693.34032pt>
+<img/hover.png, id=930, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 39.
@@ -1378,24 +1374,24 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3018F25E68C51D33F9EC919F31E4B62A;16767.
+(rerunfilecheck)             Checksum: 65B2591E2571FB58F0A8AA4F14E4AA62;16767.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38262 strings out of 467349
- 746016 string characters out of 5389291
- 1649820 words of memory out of 5000000
- 66300 multiletter control sequences out of 15000+600000
+ 38231 strings out of 467349
+ 744351 string characters out of 5389291
+ 1646750 words of memory out of 5000000
+ 66272 multiletter control sequences out of 15000+600000
  679975 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (69 pages, 6846129 bytes).
+Output written on main.pdf (69 pages, 6847055 bytes).
 PDF statistics:
- 1180 PDF objects out of 1200 (max. 8388607)
- 1045 compressed objects within 11 object streams
- 282 named destinations out of 1000 (max. 500000)
+ 1183 PDF objects out of 1200 (max. 8388607)
+ 1048 compressed objects within 11 object streams
+ 283 named destinations out of 1000 (max. 500000)
  719 words of extra memory for PDF output out of 10000 (max. 10000000)
 
