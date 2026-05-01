@@ -1,5 +1,16 @@
-\subsubsection{Development Planning}
 
-This study includes three objectives in development, (1) Choosing or implement an FPV quadcopter physics; (2) Implement and testing a human-AI collaboration agent; (3) Choosing a set of interaction UI components and implement the XR environment.
+\subsubsection{Development Strategy}
 
-% TODO: undone
+This study employs an iterative design-based research (DBR) approach with an agile-inspired development structure. It aims to iteratively develop and evaluate three core components: (1) an FPV quadcopter physics model, (2) an XR interaction environment, and (3) a human-AI collaboration agent.
+
+The development process consisted of iterative cycles comprising three phases: Design, Enactment, and Analysis. Each iteration is informed by the findings of the previous cycle, enabling continuous refinement of both the system design and research insights. Design decisions are therefore not fixed at the beginning of the study, but evolve through evaluation.
+
+Prior to the main development process, an exploration phase is conducted to reduce uncertainty in key system design decisions, such as game engine selection and physics simulation approaches. This decision is based on criteria such as prototyping efficiency, extensibility, and compatibility with both AI agent building and XR systems.
+
+Following the platform selection, an initial exploration of FPV quadcopter physics models is conducted. Candidate models are evaluated based on their suitability for real-time simulation, extensibility for control integration, and performance within XR environments.
+
+The XR interaction system is developed iteratively. The first iteration focuses on establishing basic drone control and system input mapping. The second iteration introduces user interface (UI) components to support interaction and feedback. The final iteration integrates the interaction system into a more realistic XR environment to enhance immersion and ecological validity.
+
+In parallel, the human-AI collaboration agent is also developed iteratively. The first iteration implements a proportional-integral-derivative (PID) based controller. The second iteration explores reinforcement learning (RL) methods for improved control performance. If necessary, alternative control strategies are evaluated based on empirical performance.
+
+The final stage of development focuses on integrating the XR environment with the human-AI collaboration agent, enabling a complete system where users interact with and evaluate the agent in real-time simulated flight scenarios.
