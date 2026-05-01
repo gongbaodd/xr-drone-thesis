@@ -1,9 +1,16 @@
-\subsubsection{Iteration 1: Basic XR Control}
+\subsubsection{Iteration 1: Establishing Basic XR Control}
 
-The architecture of Yue's ultimate drone physics shown in \cref{fig:quad_structure}. A quad GameObject includes (1) Rigidbody, Unity's physics (2) YueInputModule, used to calculate controller axis. (3) YueDronePhysics, used to calculate the physics should applied on the drone's body with YueInputModule. (4) DroneXrEmulator, Map the Meta Quest Touch controller joystick data to YueInputModule.
+\paragraph{Design}
+
+An initial XR control architecture was implemented to enable direct manipulation of a quadcopter model within an immersive environment. As illustrated in \cref{fig:quad_structure}, the system integrates Unity's physics engine (Rigidbody) with a modular input-processing pipeline. 
+
+The YueInputModule translates controller signals into normalized control inputs, which are then processed by YueDronePhysics to generate physically consistent forces and torques applied to the drone body. To support XR interaction, a DroneXrEmulator component was introduced to map Meta Quest Touch controller inputs to the control system.
+
+Additionally, video passthrough functionality was enabled by incorporating AR session management and camera background rendering within the XR scene configuration.
 
 \begin{figure}[h]
-    \caption{The Components of the Quad GameObject}\label{fig:quad_structure}
+    \caption{Components of the Quad GameObject}
+    \label{fig:quad_structure}
     \centering
     \[
     \begin{array}{|c|}
@@ -19,13 +26,18 @@ The architecture of Yue's ultimate drone physics shown in \cref{fig:quad_structu
     \]
 \end{figure}
 
+\paragraph{Enactment}
 
-To implement video passthrough, The scene should include the AR session into the scene, also add AR Raycast manager into the XR Origin. And add “AR Camera Manager” and “AR Camera background” on the MainCamera. 
-
-The result as shown in \cref{fig:drone-in-xr}
+The implemented system enabled real-time control of the drone within an XR environment. Users were able to manipulate the drone using handheld controllers, with input signals successfully mapped to physical drone behavior. A representative scene is shown in \cref{fig:drone-in-xr}, where the drone is controlled in a passthrough-enabled mixed reality setting.
 
 \begin{figure}[H]
-    \caption{Controlling the drone physics in XR environment}\label{fig:drone-in-xr}
+    \caption{Controlling the drone in an XR environment}\label{fig:drone-in-xr}
     \centering
     \includegraphics[width=0.8\linewidth]{img/stages/drone-control.png}
 \end{figure}
+
+\paragraph{Analysis}
+
+Initial testing revealed several usability challenges. Participants experienced difficulty in stabilizing the drone, including unintended drift, persistent yaw motion, and challenges in maintaining orientation. In several cases, users were unaware of slight joystick deflections that continuously affected control input.
+
+These observations indicate that direct mapping of controller input to drone physics, without additional feedback or guidance, imposes a high cognitive and motor control burden on users.

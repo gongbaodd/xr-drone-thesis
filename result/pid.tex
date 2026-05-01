@@ -1,21 +1,39 @@
-\subsubsection{Iteration 1: PID Controller for Path Following}
+\subsubsection{Iteration 1: PID-based Control for Path Following}
 
-It is better to complete this section in a flat panel display. As this part is more algorithm centered. Instead of using the DroneXrEmulator in \cref{fig:quad_structure}, it is simpler to make another PidDroneEmulator which maps the calculated joystick value to YueInputModule.
+This iteration investigates the feasibility of using a classical PID controller as a Human-AI Collaboration (HAC) agent for assisting drone path following.
 
-\paragraph{Enactment} 
+\paragraph{Design}
 
-By calculating these normalized joystick rates, the system can visualize the AI's calculation on the HUD.This serves as an AI collaboration hinter, showing human pilots the optimal stick positions for maintaining the designated path \cref{fig:pid-ui}.
+As this iteration focuses on control algorithm behavior rather than immersive interaction, the experiment was conducted in a flat panel environment. Instead of using the DroneXrEmulator (see \cref{fig:quad_structure}), a simplified PidDroneEmulator was implemented.
+
+The PidDroneEmulator maps the PID controller outputs—represented as normalized joystick rates—directly to the YueInputModule. This abstraction allows the controller to operate under the same input interface as a human pilot, ensuring consistency between AI-generated and human-generated control signals.
+
+The PID controller was designed to minimize the positional error between the drone and a predefined waypoint path, producing continuous joystick corrections for roll, pitch, and throttle.
+
+\paragraph{Enactment}
+
+During execution, the PID controller continuously computed normalized joystick inputs based on the real-time positional error.
+
+These computed joystick rates were visualized on a HUD (see \cref{fig:pid-ui}), allowing human users to observe the controller’s intended actions. This visualization acts as an AI collaboration hinter, exposing the controller’s decision-making process and providing guidance on optimal stick positions for maintaining the designated path.
 
 \begin{figure}[H]
-    \caption{hinter UI}\label{fig:pid-ui}
+    \caption{Hinter UI showing PID-generated joystick signals}
+    \label{fig:pid-ui}
     \centering
     \includegraphics[width=0.8\linewidth]{img/ui.png}
 \end{figure}
 
-%------%
-% TODO: Need Evaluation
 \paragraph{Analysis}
 
-The result, the PID controller successfully pilot the drone from its origin to the waypoint and turned back. However, during this time, the controller repeatedly change the joystick status too fast, which human can not react. By lowering the targets in the PathFollower can ease the problem, but still hard to adjust.
+The PID controller demonstrated the ability to autonomously guide the drone from its initial position to the designated waypoint and return along the path. This indicates that the controller is functionally capable of performing the path-following task.
 
+% ---- Metrics placeholder ----
+% Quantitative evaluation of tracking accuracy and control stability will be reported in the following section.
 
+However, a critical limitation was observed in the controller’s interaction characteristics. The PID controller produced rapid and frequent changes in joystick outputs, resulting in high-frequency control signals that are difficult for human users to interpret and replicate in real time.
+
+Attempts to mitigate this issue by reducing the aggressiveness of the path-following targets (e.g., lowering waypoint precision) led to slight improvements, but the control signals remained challenging for human adaptation.
+
+This finding suggests a mismatch between optimal control behavior and human-operable control dynamics. While the PID controller is effective as an autonomous agent, its raw output is not directly suitable for Human-AI Collaboration without additional smoothing, filtering, or adaptation mechanisms.
+
+This insight informed subsequent design iterations, where reducing control volatility and improving human interpretability became key objectives.
