@@ -1,24 +1,39 @@
 \subsubsection{Iteration 2: Supporting Learning through UI and Tutorial}
 
-Interaction Game Objects including the following elements. Quad, DroneVision and Instruct.
-The Quad GameObject act as the quadcopter. 
-The droneVision GameObject uses Unity's RenderTexture to render the video feed from the quadcopter act as the FPV goggles.
-The instruct GameObject shows tutorials for player to learn simple joystick interaction of the quadcopter.
+\paragraph{Design}
+
+The findings from the previous iteration indicated that participants were initially unable to understand the controller-based interaction. Therefore, this iteration focused on improving learnability through structured tutorials, enhanced visual feedback, and environmental constraints.
+
+The system was extended with three primary interaction components: (1) the Quad GameObject, representing the physical quadcopter model; (2) the DroneVision GameObject, which uses Unity's RenderTexture to provide a first-person view (FPV) through a virtual headset; and (3) the Instruct GameObject, which delivers step-by-step tutorial guidance.
+
+The Quad GameObject functions as the physical simulation of the quadcopter, while DroneVision renders the onboard camera feed to simulate FPV piloting. The Instruct module presents content in a sequential manner, covering arming, throttle, yaw, pitch, and roll control. During tutorial execution, the quadcopter's Rigidbody is temporarily locked to support reflective observation, consistent with Kolb's experiential learning cycle \parencite{kolb1984}.
+
+To improve interaction awareness, a dual-layer HUD system was introduced. A cross-axis indicator was rendered in front of the player, while corresponding visual markers were placed within the scene to represent real-time joystick input positions.
+
+In total, six interaction modes were implemented. Five correspond to quadcopter flight control in mode 2 \cref{fig:mode2}, while one supports general XR interaction:
+
+\begin{itemize}
+    \item \textbf{Arm}: Activates the rotor system by pulling the left joystick to its minimum position.
+    \item \textbf{Throttle}: Controls vertical thrust by adjusting the vertical axis of the left joystick.
+    \item \textbf{Yaw}: Controls rotational movement around the vertical axis via horizontal movement of the left joystick.
+    \item \textbf{Pitch}: Controls forward and backward tilt using the vertical axis of the right joystick.
+    \item \textbf{Roll}: Controls lateral tilt using the horizontal axis of the right joystick.
+    \item \textbf{Grip/Select}: Enables interaction with UI elements using the controller grip button.
+\end{itemize}
+
+Additionally, the DroneXrEmulator \cref{fig:quad_structure} was extended with a BoxCollider parameter to define a bounded safe flight area.
+
+\paragraph{Enactment}
+
+The updated system maintained a video-passthrough XR environment while introducing structured abstractions that map directly to real-world drone control inputs. The tutorial system guided users through incremental interaction learning, while the HUD provided continuous feedback of controller input states. The inclusion of a bounded flight space ensured that users remained within a safe operational area during early learning stages.
 
 \begin{figure}[H]
-    \caption{structure of the interaction elements}\label{fig:interact}
     \centering
     \includegraphics[width=0.8\linewidth]{img/stages/structure.png}
+    \caption{Structure of the interaction system components}
+    \label{fig:interact}
 \end{figure}
 
-There are 6 interactions the player has to learn, 5 are inclusive of quadcopter's HCI \cref{fig:mode2}. 
-Arm, use to start the rotors, is to drag the left stick down to zero.
-Throttle, increase or decrease the rotor speed, 
-change the longitudinal force of the quadcopter's body, is to turn the left stick up and down.
-Yaw, turn the quadcopter's body left and right, is to turn the left stick left and down.
-Pitch, control the quadcopter lean forward and back, is to turn the right stick up and down.
-Roll, control the quadcopter lean left and right, is to turn the right stick left and right.
+\paragraph{Analysis}
 
-The last interaction is to Grip or Select, which is used to click on a button or drag some interactive element.
-It uses the grip button on either of the controllers.
-
+Observational testing showed that participants were able to understand basic controller interactions in third-person mode after the introduction of the tutorial system. However, difficulties persisted in spatial orientation during FPV (DroneVision) mode. In particular, the skydome environment did not provide sufficient directional cues, which negatively impacted navigation performance in first-person piloting scenarios.
