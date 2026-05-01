@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777650504.31698 "main.bcf" "main.bbl" "main" 1777650570.80971 0
-  "main.bcf" 1777650570.56794 144169 71be6abd02bb18299aa1af5aefd940ae "pdflatex"
+["biber main"] 1777650504.31698 "main.bcf" "main.bbl" "main" 1777651949.88356 0
+  "main.bcf" 1777651949.68638 144169 71be6abd02bb18299aa1af5aefd940ae "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -43,7 +43,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777650559.9741 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777650570.81135 0
+["pdflatex"] 1777651940.00657 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777651949.8849 0
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1777313236 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -311,15 +311,15 @@
   "img/train.png" 1777329563.68804 441463 1760e312228154aef704ee618f24517f ""
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
   "img/white-box.png" 1777641920.19991 602365 58bd983f0c2359ef26d18a8589347503 ""
-  "main.aux" 1777650570.51994 43934 4009a7266ba1b72580365abed7d3ac22 "pdflatex"
+  "main.aux" 1777651949.65538 43934 4009a7266ba1b72580365abed7d3ac22 "pdflatex"
   "main.bbl" 1777650507.70035 357486 b012b0802321165e5fe0632c8f778ef6 "biber main"
-  "main.out" 1777650570.56094 16117 c8eee341a19093e6abd2dd2902328caa "pdflatex"
-  "main.run.xml" 1777650570.56983 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
+  "main.out" 1777651949.68138 16117 c8eee341a19093e6abd2dd2902328caa "pdflatex"
+  "main.run.xml" 1777651949.68894 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777650570.56983 7406 93c6f16520910c5f0676245dc08f8d1d "pdflatex"
+  "main.toc" 1777651949.68894 7406 93c6f16520910c5f0676245dc08f8d1d "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
-  "main/_02_abstract_page.tex" 1777491750.89757 1679 3bc1065b09dd456e051080e37e66a013 ""
-  "main/_03_introduction.tex" 1777532699.42013 3753 8cd3b06e5a6368f5183e4633c26ea9e4 ""
+  "main/_02_abstract_page.tex" 1777651429.17129 1767 38f2eb45c24f783c8c41fd4445a074a8 ""
+  "main/_03_introduction.tex" 1777651939.62355 3753 8389ecf48e23c243c61cd0279dc8ef30 ""
   "main/_04_theoretical_background.tex" 1777577893.19892 415 f584dd7714e9c35ae18799f8f47a7f71 ""
   "main/_05_methodology.tex" 1777626583.06134 300 9a68ac4150e0bf9c834bce185b2dce23 ""
   "main/_06_result.tex" 1777641603.05228 1088 ed6ccdf1c8cc093635708772139f9d9e ""
