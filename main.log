@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1173,9 +1173,9 @@ Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 11.
 Package biblatex Info: Reference segment=0 on input line 11.
- (./_01_title_page.tex [1
+ (./main/_01_title_page.tex [1
 
-{/opt/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}]) (./_02_abstract_page.tex) [2] (./main.toc
+{/opt/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}]) (./main/_02_abstract_page.tex) [2] (./main.toc
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 5.
  (/opt/texlive/2026/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -1218,7 +1218,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
- [5] (./_03_introduction.tex [6]) (./_04_theoretical_background.tex [7] (./theoretical_background/quadrotor/01_intro.tex
+ [5] (./main/_03_introduction.tex [6]) (./main/_04_theoretical_background.tex [7] (./theoretical_background/quadrotor/01_intro.tex
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3.
  (/opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -1263,7 +1263,7 @@ Overfull \hbox (38.66907pt too wide) in paragraph at lines 15--28
  [][] 
  []
 
-[24]))) (./_05_methodology.tex [25] (./methodology/methods.tex (./methodology/dbr.tex) (./methodology/agile.tex [26]) (./methodology/plan.tex [27])) (./methodology/dev_env.tex (./methodology/engines.tex
+[24]))) (./main/_05_methodology.tex [25] (./methodology/methods.tex (./methodology/dbr.tex) (./methodology/agile.tex [26]) (./methodology/plan.tex [27])) (./methodology/dev_env.tex (./methodology/engines.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\T1/ptm/m/n/12 Unreal En-gine
  []
@@ -1312,7 +1312,7 @@ File: img/path.png Graphic file (type png)
 <use img/path.png>
 Package pdftex.def Info: img/path.png  used on input line 34.
 (pdftex.def)             Requested size: 375.80544pt x 297.18759pt.
-) (./methodology/xr.tex (./methodology/XRUI.tex [37 <./img/path.png>] [38]) (./methodology/geo.tex [39]))) (./_06_result.tex [40] (./result/drone_in_xr.tex [41]
+) (./methodology/xr.tex (./methodology/XRUI.tex [37 <./img/path.png>] [38]) (./methodology/geo.tex [39]))) (./main/_06_result.tex [40] (./result/drone_in_xr.tex [41]
 <img/stages/drone-control.png, id=784, 864.98157pt x 531.48563pt>
 File: img/stages/drone-control.png Graphic file (type png)
 <use img/stages/drone-control.png>
@@ -1346,9 +1346,9 @@ File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 39.
 (pdftex.def)             Requested size: 375.80544pt x 435.37848pt.
-) [48 <./img/result.png>]) (./_07_discussion.tex [49 <./img/hover.png>] (./discussion/physics.tex) [50] (./discussion/cotrainer.tex) (./discussion/xr.tex [51]) (./discussion/limitation.tex [52]) (./discussion/future.tex [53])) (./_08_summary.tex [54]) [55] [56
+) [48 <./img/result.png>]) (./main/_07_discussion.tex [49 <./img/hover.png>] (./discussion/physics.tex) [50] (./discussion/cotrainer.tex) (./discussion/xr.tex [51]) (./discussion/limitation.tex [52]) (./discussion/future.tex [53])) (./main/_08_summary.tex [54]) [55] [56
 
-] [57] [58] [59] [60] [61] (./_09_appendix.tex) AED endfloat: Processing end Figures and Tables [62] (./main.aux)
+] [57] [58] [59] [60] [61] (./main/_09_appendix.tex) AED endfloat: Processing end Figures and Tables [62] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -1364,8 +1364,8 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38012 strings out of 467349
- 740070 string characters out of 5389291
+ 38013 strings out of 467349
+ 740340 string characters out of 5389291
  1649052 words of memory out of 5000000
  66099 multiletter control sequences out of 15000+600000
  682697 words of font info for 111 fonts, out of 8000000 for 9000
