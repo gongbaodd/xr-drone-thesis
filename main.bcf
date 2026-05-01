@@ -3104,6 +3104,8 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/xrui.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/geo.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">ref/mcp.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/assets.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">ref/ai.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">machado_autonomous_2021</bcf:citekey>
@@ -3175,27 +3177,34 @@
     <bcf:citekey order="65" intorder="1">keith2010agile</bcf:citekey>
     <bcf:citekey order="66" intorder="1">ezhil_comparative_nodate</bcf:citekey>
     <bcf:citekey order="67" intorder="1">shatokhin_extended_2025</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">yuetility2022fpvphysics</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">lovesay2003ergonomics</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">paredes2021quadcopter</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">openai2017ppo</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">yu2025depth</bcf:citekey>
-    <bcf:citekey order="73" intorder="1">dojcinovic_personalized_2026</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">wang_xr-dt_2026</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">shatokhin_extended_2025</bcf:citekey>
-    <bcf:citekey order="76" intorder="1">shatokhin_extended_2025</bcf:citekey>
-    <bcf:citekey order="77" intorder="1">kolb1984</bcf:citekey>
-    <bcf:citekey order="78" intorder="1">eslamirad_geoprocess_2023</bcf:citekey>
-    <bcf:citekey order="79" intorder="1">TallinnCityModel2012</bcf:citekey>
-    <bcf:citekey order="80" intorder="1">hou_model_2025</bcf:citekey>
-    <bcf:citekey order="81" intorder="1">EstonianLandBoard2020</bcf:citekey>
-    <bcf:citekey order="82" intorder="1">Akagi2024</bcf:citekey>
-    <bcf:citekey order="83" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">unity_env_track_lowpoly</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">unity_fantasy_skybox</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">unity_floor_materials</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">unity_gems_items</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">maniulit_learning_2026</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">betafpv2022manual</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">lovesay2003ergonomics</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">paredes2021quadcopter</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">openai2017ppo</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">yu2025depth</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">dojcinovic_personalized_2026</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">wang_xr-dt_2026</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">shatokhin_extended_2025</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">shatokhin_extended_2025</bcf:citekey>
     <bcf:citekey order="84" intorder="1">kolb1984</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">TallinnCityModel2012</bcf:citekey>
-    <bcf:citekey order="85" intorder="2">EstonianLandBoard2020</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">yuetility2022fpvphysics</bcf:citekey>
-    <bcf:citekey order="87" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">eslamirad_geoprocess_2023</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">TallinnCityModel2012</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">hou_model_2025</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">EstonianLandBoard2020</bcf:citekey>
+    <bcf:citekey order="89" intorder="1">Akagi2024</bcf:citekey>
+    <bcf:citekey order="90" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="91" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="92" intorder="1">TallinnCityModel2012</bcf:citekey>
+    <bcf:citekey order="92" intorder="2">EstonianLandBoard2020</bcf:citekey>
+    <bcf:citekey order="93" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="94" intorder="1">kolb1984</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

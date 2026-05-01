@@ -119,6 +119,8 @@
       <file>ref/xrui.bib</file>
       <file>ref/geo.bib</file>
       <file>ref/mcp.bib</file>
+      <file>ref/assets.bib</file>
+      <file>ref/ai.bib</file>
     </requires>
   </external>
 </requests>

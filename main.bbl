@@ -255,6 +255,37 @@
       \verb 10.1609/aimag.v40i1.2844
       \endverb
     \endentry
+    \entry{unity_env_track_lowpoly}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71d468b46a98432d496c8f2ca0e6b23d}{%
+           family={{BE DRILL ENTER}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{bibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorbibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authornamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Environment Track Lowpoly: Cartoon Props Mobile Free}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+    \endentry
     \entry{Beck2004XP}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
@@ -296,6 +327,37 @@
       \field{series}{The XP Series}
       \field{title}{Extreme Programming Explained: Embrace Change}
       \field{year}{2004}
+    \endentry
+    \entry{unity_gems_items}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3dbd0ca7aeb75370cb614fd646d27066}{%
+           family={{BenjaTheMaker}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{bibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorbibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authornamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Simple Gems and Items Ultimate Animated Customizable Pack}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
     \endentry
     \entry{bennett1993pid}{article}{}{}
       \name{author}{1}{}{%
@@ -2073,6 +2135,47 @@
       \verb https://ieeexplore.ieee.org/document/9584498/
       \endverb
     \endentry
+    \entry{maniulit_learning_2026}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba8e81d473ab4c036278a47d6e6bc6bf}{%
+           family={Maniulit},
+           familyi={M\bibinitperiod},
+           given={Jeo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{bibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorbibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authornamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The increasing integration of artificial intelligence in higher education necessitates systematic evaluation of its instructional effectiveness, particularly in supporting students’ cognitive engagement. This study examined the responsiveness of an {AI}-assisted tool, {NotebookLM}, in enhancing cognitive task performance among pre-service mathematics teachers in a tertiary setting. Specifically, it sought to evaluate students’ post-exposure perceptions of the tool’s functionality, accessibility, technical requirements, privacy and data protection, and social and cognitive presence during classroom-based Learning Station activities. Employing a descriptive–evaluative research design with a case study approach, the study involved 45 Bachelor of Secondary Education major in Mathematics students selected through purposive sampling. Data were collected using a structured questionnaire adapted from the {eCampusOntario} rubric for evaluating {AI} tools, consisting of both Likert-scale items and open-ended questions. Quantitative data were analyzed using descriptive statistics, including frequencies and weighted means, while qualitative responses underwent thematic analysis to capture recurring patterns in students’ experiences. Findings revealed generally positive perceptions of {NotebookLM}, particularly in supporting comprehension, organization of ideas, and collaborative learning tasks. However, students also identified challenges related to initial navigation and dependency on stable internet connectivity. Overall, the study highlights the potential of {AI}-supported learning stations in enhancing cognitive task engagement while underscoring the importance of guided implementation. The results contribute to the growing discourse on responsible and pedagogically grounded integration of {AI} tools in teacher education.}
+      \field{day}{21}
+      \field{month}{3}
+      \field{shorttitle}{Learning with {AI}, Not From {AI}}
+      \field{title}{Learning with {AI}, Not From {AI}: A Post-exposure Evaluation of {NotebookLM}}
+      \field{volume}{1}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{pages}{290\bibrangedash 299}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5281/zenodo.19142887
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/LMJHERRF/Maniulit - 2026 - Learning with AI, Not From AI A Post-exposure Evaluation of NotebookLM.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{marougkas_virtual_2023}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9e14cac17f9704abc29b3d3b5c77e461}{%
@@ -2493,6 +2596,37 @@
       \verb 10.48550/arXiv.2105.14231
       \endverb
     \endentry
+    \entry{unity_fantasy_skybox}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1082c11cad47b8d595b843797e88f6a}{%
+           family={{Render Knight}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{bibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorbibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authornamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Fantasy Skybox FREE}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+    \endentry
     \entry{rendevski2022vr}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -2883,6 +3017,37 @@
       \endverb
       \verb{url}
       \verb https://journals.ekb.eg/article_246400.html
+      \endverb
+    \endentry
+    \entry{unity_floor_materials}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3baa73f1d10cafa26650d24944d6dab}{%
+           family={{VK GameDev}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{bibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorbibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authornamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Floor Materials Pack v.1}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
       \endverb
     \endentry
     \entry{waldow_investigating_2025}{article}{}{}
@@ -3555,6 +3720,37 @@
       \verb 10.1609/aimag.v40i1.2844
       \endverb
     \endentry
+    \entry{unity_env_track_lowpoly}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71d468b46a98432d496c8f2ca0e6b23d}{%
+           family={{BE DRILL ENTER}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{fullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{bibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorbibnamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authornamehash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhash}{71d468b46a98432d496c8f2ca0e6b23d}
+      \strng{authorfullhashraw}{71d468b46a98432d496c8f2ca0e6b23d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Environment Track Lowpoly: Cartoon Props Mobile Free}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/environment-track-lowpoly-cartoon-props-mobile-free-211494
+      \endverb
+    \endentry
     \entry{Beck2004XP}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c5dcbe71f60a8d55caa11fe1493614d0}{%
@@ -3596,6 +3792,37 @@
       \field{series}{The XP Series}
       \field{title}{Extreme Programming Explained: Embrace Change}
       \field{year}{2004}
+    \endentry
+    \entry{unity_gems_items}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3dbd0ca7aeb75370cb614fd646d27066}{%
+           family={{BenjaTheMaker}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{fullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{bibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorbibnamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authornamehash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhash}{3dbd0ca7aeb75370cb614fd646d27066}
+      \strng{authorfullhashraw}{3dbd0ca7aeb75370cb614fd646d27066}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Simple Gems and Items Ultimate Animated Customizable Pack}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/3d/props/simple-gems-and-items-ultimate-animated-customizable-pack-73764
+      \endverb
     \endentry
     \entry{bennett1993pid}{article}{}{}
       \name{author}{1}{}{%
@@ -5373,6 +5600,47 @@
       \verb https://ieeexplore.ieee.org/document/9584498/
       \endverb
     \endentry
+    \entry{maniulit_learning_2026}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba8e81d473ab4c036278a47d6e6bc6bf}{%
+           family={Maniulit},
+           familyi={M\bibinitperiod},
+           given={Jeo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{fullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{bibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorbibnamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authornamehash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhash}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \strng{authorfullhashraw}{ba8e81d473ab4c036278a47d6e6bc6bf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The increasing integration of artificial intelligence in higher education necessitates systematic evaluation of its instructional effectiveness, particularly in supporting students’ cognitive engagement. This study examined the responsiveness of an {AI}-assisted tool, {NotebookLM}, in enhancing cognitive task performance among pre-service mathematics teachers in a tertiary setting. Specifically, it sought to evaluate students’ post-exposure perceptions of the tool’s functionality, accessibility, technical requirements, privacy and data protection, and social and cognitive presence during classroom-based Learning Station activities. Employing a descriptive–evaluative research design with a case study approach, the study involved 45 Bachelor of Secondary Education major in Mathematics students selected through purposive sampling. Data were collected using a structured questionnaire adapted from the {eCampusOntario} rubric for evaluating {AI} tools, consisting of both Likert-scale items and open-ended questions. Quantitative data were analyzed using descriptive statistics, including frequencies and weighted means, while qualitative responses underwent thematic analysis to capture recurring patterns in students’ experiences. Findings revealed generally positive perceptions of {NotebookLM}, particularly in supporting comprehension, organization of ideas, and collaborative learning tasks. However, students also identified challenges related to initial navigation and dependency on stable internet connectivity. Overall, the study highlights the potential of {AI}-supported learning stations in enhancing cognitive task engagement while underscoring the importance of guided implementation. The results contribute to the growing discourse on responsible and pedagogically grounded integration of {AI} tools in teacher education.}
+      \field{day}{21}
+      \field{month}{3}
+      \field{shorttitle}{Learning with {AI}, Not From {AI}}
+      \field{title}{Learning with {AI}, Not From {AI}: A Post-exposure Evaluation of {NotebookLM}}
+      \field{volume}{1}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{pages}{290\bibrangedash 299}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5281/zenodo.19142887
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/gongbaodd/Zotero/storage/LMJHERRF/Maniulit - 2026 - Learning with AI, Not From AI A Post-exposure Evaluation of NotebookLM.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{marougkas_virtual_2023}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=9e14cac17f9704abc29b3d3b5c77e461}{%
@@ -5793,6 +6061,37 @@
       \verb 10.48550/arXiv.2105.14231
       \endverb
     \endentry
+    \entry{unity_fantasy_skybox}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1082c11cad47b8d595b843797e88f6a}{%
+           family={{Render Knight}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{fullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{bibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorbibnamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authornamehash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhash}{b1082c11cad47b8d595b843797e88f6a}
+      \strng{authorfullhashraw}{b1082c11cad47b8d595b843797e88f6a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Fantasy Skybox FREE}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+      \endverb
+    \endentry
     \entry{rendevski2022vr}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -6183,6 +6482,37 @@
       \endverb
       \verb{url}
       \verb https://journals.ekb.eg/article_246400.html
+      \endverb
+    \endentry
+    \entry{unity_floor_materials}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3baa73f1d10cafa26650d24944d6dab}{%
+           family={{VK GameDev}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{fullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{bibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorbibnamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authornamehash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhash}{c3baa73f1d10cafa26650d24944d6dab}
+      \strng{authorfullhashraw}{c3baa73f1d10cafa26650d24944d6dab}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unity Asset Store}
+      \field{title}{Floor Materials Pack v.1}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
+      \endverb
+      \verb{url}
+      \verb https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
       \endverb
     \endentry
     \entry{waldow_investigating_2025}{article}{}{}
