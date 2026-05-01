@@ -606,6 +606,9 @@ INPUT theoretical_background/xr/render.tex
 INPUT ./theoretical_background/xr/input.tex
 INPUT ./theoretical_background/xr/input.tex
 INPUT theoretical_background/xr/input.tex
+INPUT ./theoretical_background/rq.tex
+INPUT ./theoretical_background/rq.tex
+INPUT theoretical_background/rq.tex
 INPUT ./main/_05_methodology.tex
 INPUT ./main/_05_methodology.tex
 INPUT main/_05_methodology.tex

@@ -1,0 +1,33 @@
+\subsection{Research Gap and Research Questions}
+
+\subsubsection{Related Study}
+
+Existing literature on drone simulators has primarily focused on technical design or training effectiveness, often using research-oriented platforms such as Microsoft AirSim \parencite{shah_airsim_2017}. However, widely used commercial FPV simulators (e.g., Liftoff and Uncrashed) remain under explored in pedagogical research. These commercial simulators typically emphasize high-fidelity environments and support advanced flight modes such as acrobatic mode for pilot practice. In contrast, research platforms such as AirSim and RotorS are widely used for machine learning and autonomous system development, but are not specifically tailored for practical pilot training \parencite{pappas_generic_2025}.
+
+Despite their realism, FPV simulators also present several limitations. For example, while they aim to replicate real-world physics, users often report a steep learning curve and highly unforgiving flight dynamics, which may not always support beginner training effectively \parencite{guide_best_2026}. Additionally, hardware compatibility issues can arise, as not all radio transmitters are universally supported. The lack of standardization in flight controller architectures, along with the prevalence of proprietary and closed-source systems in UAV platforms, further complicates integration and usability \parencite{ebeid_survey_2018}.
+
+\subsubsection{Open Questions}
+
+Although existing FPV simulators aim to replicate real-world physics, their flight dynamics are often perceived as highly unforgiving, especially for beginners. This raises the question of whether alternative design approaches, such as gamified constraints (e.g., safe flight zones), could support learning without compromising realism? And how can FPV quadcopter physics be implemented effectively in an XR environment?
+
+Prior studies indicate that users struggle with the steep learning curve associated with FPV simulators. This suggests a need for instructional support mechanisms. Could a human–AI collaboration agent, acting as a virtual instructor, effectively guide users and reduce the initial learning barrier?
+
+Given the similarities between XR hardware (e.g., head-mounted displays and motion controllers) and FPV equipment (e.g., goggles and radio transmitters), an important question is whether a fully XR-based FPV simulator can be developed, thereby eliminating hardware compatibility issues.
+
+Additionally, the relatively low accessibility of traditional FPV simulators raises concerns about user engagement. Could immersive and realistic VR environments improve attention and learning effectiveness?
+
+Finally, practical considerations remain: how feasible is it to rapidly prototype a high-fidelity XR environment, and what interaction techniques are most suitable for integrating FPV drone control within such systems?
+
+\subsubsection{Research Questions}
+
+Building upon these open questions, this study aims to design an XR-based training system that lowers the learning barrier for FPV quadcopter piloting. The proposed system incorporates human-AI collaboration to support the development of users's muscle memory.
+
+The study addresses the following research questions:
+
+\begin{itemize}
+\item[] (1) How can FPV quadcopter flight physics be simulated?
+\item[] (2) How can a human-AI collaboration agent be designed to assist users?
+\item[] (3) What interaction techniques enable high-fidelity XR prototyping?
+\end{itemize}
+
+To answer these questions, the study aims to achieve the following objectives, (1) to understand the physics of an FPV quadcopter and how to simulate it, (2) to design a human-AI collaboration agent to provide guidance, (3) to identify effective design techniques for high-fidelity XR prototyping.
