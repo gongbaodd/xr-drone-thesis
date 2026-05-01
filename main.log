@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  1 MAY 2026 16:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1038,12 +1038,6 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11.
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./main.aux
 
-LaTeX Warning: Label `fig:tallinn' multiply defined.
-
-
-LaTeX Warning: Label `fig:tallinn@cref' multiply defined.
-
-
 LaTeX Warning: Label `fig:train' multiply defined.
 
 
@@ -1330,32 +1324,25 @@ File: img/stages/structure.png Graphic file (type png)
 <use img/stages/structure.png>
 Package pdftex.def Info: img/stages/structure.png  used on input line 33.
 (pdftex.def)             Requested size: 375.80544pt x 131.59938pt.
-) (./result/real.tex
-
-LaTeX Warning: cref reference format for label type `' undefined on input line 7.
-
-[44 <./img/stages/structure.png>]
-
-LaTeX Warning: cref reference format for label type `' undefined on input line 15.
-
-<img/Tallinn.png, id=819, 429.85594pt x 371.13657pt>
+) (./result/real.tex [44 <./img/stages/structure.png>]
+<img/Tallinn.png, id=822, 429.85594pt x 371.13657pt>
 File: img/Tallinn.png Graphic file (type png)
 <use img/Tallinn.png>
 Package pdftex.def Info: img/Tallinn.png  used on input line 20.
 (pdftex.def)             Requested size: 375.80544pt x 324.47752pt.
-<img/real.png, id=821, 602.25pt x 347.04657pt>
+<img/real.png, id=824, 602.25pt x 347.04657pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
 Package pdftex.def Info: img/real.png  used on input line 28.
 (pdftex.def)             Requested size: 375.80544pt x 216.56465pt.
-[45 <./img/Tallinn.png>]) (./result/white-box.tex [46 <./img/real.png>]
-<img/white-box.png, id=838, 1023.825pt x 505.13719pt>
+ [45 <./img/Tallinn.png>]) (./result/white-box.tex [46 <./img/real.png>]
+<img/white-box.png, id=840, 1023.825pt x 505.13719pt>
 File: img/white-box.png Graphic file (type png)
 <use img/white-box.png>
 Package pdftex.def Info: img/white-box.png  used on input line 15.
 (pdftex.def)             Requested size: 375.80544pt x 185.41023pt.
 ) (./result/explore.tex) [47 <./img/white-box.png>] (./result/pid.tex
-<img/ui.png, id=851, 585.68813pt x 303.38344pt>
+<img/ui.png, id=854, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
 Package pdftex.def Info: img/ui.png  used on input line 23.
@@ -1366,13 +1353,13 @@ File: img/train.png Graphic file (type png)
 Package pdftex.def Info: img/train.png  used on input line 23.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
  [50]
-<img/result.png, id=875, 782.17218pt x 665.48625pt>
+<img/result.png, id=878, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 31.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
  [51]
-<img/hover.png, id=882, 598.48593pt x 693.34032pt>
+<img/hover.png, id=885, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 39.
@@ -1386,9 +1373,6 @@ L3 programming layer <2026-03-20>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1398,18 +1382,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38078 strings out of 467349
- 741519 string characters out of 5389291
- 1649425 words of memory out of 5000000
- 66139 multiletter control sequences out of 15000+600000
+ 38077 strings out of 467349
+ 741507 string characters out of 5389291
+ 1649514 words of memory out of 5000000
+ 66138 multiletter control sequences out of 15000+600000
  682697 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2000b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (66 pages, 5167052 bytes).
+Output written on main.pdf (66 pages, 5167167 bytes).
 PDF statistics:
- 1117 PDF objects out of 1200 (max. 8388607)
- 983 compressed objects within 10 object streams
+ 1120 PDF objects out of 1200 (max. 8388607)
+ 986 compressed objects within 10 object streams
  265 named destinations out of 1000 (max. 500000)
  679 words of extra memory for PDF output out of 10000 (max. 10000000)
 
