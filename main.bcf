@@ -3192,8 +3192,10 @@
     <bcf:citekey order="82" intorder="1">Akagi2024</bcf:citekey>
     <bcf:citekey order="83" intorder="1">yuetility2022fpvphysics</bcf:citekey>
     <bcf:citekey order="84" intorder="1">kolb1984</bcf:citekey>
-    <bcf:citekey order="85" intorder="1">yuetility2022fpvphysics</bcf:citekey>
-    <bcf:citekey order="86" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">TallinnCityModel2012</bcf:citekey>
+    <bcf:citekey order="85" intorder="2">EstonianLandBoard2020</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">kolb1984</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
