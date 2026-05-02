@@ -1,0 +1,60 @@
+\begin{figure}
+    \caption{Simplified ML-Agents Scene Block Diagram}\label{fig:agent}
+    \centering
+\begin{tikzpicture}[
+    font=\sffamily\bfseries,
+    base/.style={rectangle, rounded corners=5pt, minimum width=2.2cm, minimum height=1cm, align=center, draw=white, line width=1pt, text=white},
+    agent/.style={base, fill={rgb,255:red,119; green,184; blue,103}},
+    behavior/.style={base, fill={rgb,255:red,98; green,155; blue,210}, minimum width=3cm},
+    purple_box/.style={base, fill={rgb,255:red,146; green,106; blue,196}},
+    orange_box/.style={base, fill={rgb,255:red,243; green,156; blue,87}},
+    red_box/.style={base, fill={rgb,255:red,219; green,97; blue,94}},
+    yellow_box/.style={base, fill={rgb,255:red,241; green,190; blue,47}},
+    arrow/.style={<->, >=Stealth, thick, white},
+    % 使用 * 并在连线时稍微偏移
+    dash_arrow/.style={*-, dashed, thick, black} 
+]
+
+    % --- 内部节点 ---
+    \node[behavior] (behA) {Behavior A};
+    \node[agent, above left=1.5cm and -1.2cm of behA] (a1) {Agent\\A1};
+    \node[agent, above right=1.5cm and -1.2cm of behA] (a2) {Agent\\A2};
+    \node[orange_box, below=1cm of behA] (comm) {Communicator};
+
+    \node[behavior, right=1cm of behA, minimum width=2.2cm] (behC) {Behavior C};
+    \node[agent, at={(behC |- a1)}] (c1) {Agent\\C1};
+    \node[purple_box, below=1cm of behC] (inf) {Inference};
+
+    \node[behavior, right=1cm of behC, minimum width=2.2cm] (behD) {Behavior D};
+    \node[agent, at={(behD |- a1)}] (d1) {Agent\\D1};
+    \node[purple_box, below=1cm of behD] (heu) {Heuristic};
+
+    % --- 外部节点 ---
+    \node[red_box, below=2cm of comm] (pyAPI) {Python API};
+    \node[yellow_box, right=1.2cm of pyAPI] (pyTrain) {Python Trainer};
+
+    % --- 连线 ---
+    \draw[arrow] (behA.north) -- ++(0,0.6) -| (a1.south);
+    \draw[arrow] (behA.north) -- ++(0,0.6) -| (a2.south);
+    \draw[arrow] (behA) -- (comm);
+    \draw[arrow] (c1) -- (behC);
+    \draw[arrow] (behC) -- (inf);
+    \draw[arrow] (d1) -- (behD);
+    \draw[arrow] (behD) -- (heu);
+    
+    % 虚线连线：起点从 comm.south 稍微往下移 1pt，确保圆点（*）不被框线切掉
+    \draw[dash_arrow] ([yshift=-1pt]comm.south) -- (pyAPI.north);
+    \draw[arrow, black] (pyAPI) -- (pyTrain);
+
+    % --- 背景框 ---
+    \begin{scope}[on background layer]
+        % 增加 inner ysep=30pt 确保上下都有足够的留白
+        \node[fill=gray, rounded corners=10pt, 
+              fit=(a1) (a2) (c1) (d1) (comm) (inf) (heu), 
+              inner xsep=15pt, inner ysep=30pt] (env) {};
+        
+        \node[anchor=north west, text=white, inner sep=10pt] at (env.north west) {Learning Environment};
+    \end{scope}
+
+\end{tikzpicture}
+\end{figure}

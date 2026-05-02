@@ -2004,6 +2004,45 @@
       \verb PDF:/home/gongbaodd/Zotero/storage/34P8B97S/Luukkonen - Modelling and control of quadcopter.pdf:application/pdf
       \endverb
     \endentry
+    \entry{lynch2017modern}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=911bc67984a2a44d2c80e6d47d2f5a7a}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6babd1a6340e123148e50491e8e831a}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{fullhash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{fullhashraw}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{bibnamehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authorbibnamehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authornamehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authorfullhash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authorfullhashraw}{15475ae30bbefc7b6127cbd5efadadeb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Robotics: Mechanics, Planning, and Control}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1017/9781316661239
+      \endverb
+    \endentry
     \entry{machado_autonomous_2021}{article}{}{}
       \name{author}{13}{}{%
         {{un=0,uniquepart=base,hash=a5738340cca9c27dcac280f9238341a6}{%
@@ -5467,6 +5506,45 @@
       \field{dateera}{ce}
       \verb{file}
       \verb PDF:/home/gongbaodd/Zotero/storage/34P8B97S/Luukkonen - Modelling and control of quadcopter.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{lynch2017modern}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=911bc67984a2a44d2c80e6d47d2f5a7a}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={K.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6babd1a6340e123148e50491e8e831a}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={F.\bibnamedelimi C.},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{fullhash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{fullhashraw}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{bibnamehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authorbibnamehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authornamehash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authorfullhash}{15475ae30bbefc7b6127cbd5efadadeb}
+      \strng{authorfullhashraw}{15475ae30bbefc7b6127cbd5efadadeb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modern Robotics: Mechanics, Planning, and Control}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1017/9781316661239
       \endverb
     \endentry
     \entry{machado_autonomous_2021}{article}{}{}
