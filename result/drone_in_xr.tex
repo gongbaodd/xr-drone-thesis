@@ -4,27 +4,11 @@
 
 An initial XR control architecture was implemented to enable direct manipulation of a quadcopter model within an immersive environment. As illustrated in \cref{fig:quad_structure}, the system integrates Unity's physics engine (Rigidbody) with a modular input-processing pipeline. 
 
+\input{figure/quadobj.tex}
+
 The YueInputModule translates controller signals into normalized control inputs, which are then processed by YueDronePhysics to generate physically consistent forces and torques applied to the drone body. To support XR interaction, a DroneXrEmulator component was introduced to map Meta Quest Touch controller inputs to the control system.
 
 Additionally, video passthrough functionality was enabled by incorporating AR session management and camera background rendering within the XR scene configuration.
-
-\begin{figure}[h]
-    \caption{Components of the Quad GameObject}
-    \label{fig:quad_structure}
-    \centering
-    \[
-    \begin{array}{|c|}
-    \hline
-    \mathbf{GameObject: Quad} \\
-    \hline
-    \text{Rigidbody} \\
-    \text{YueInputModule} \\
-    \text{YueDronePhysics} \\
-    \text{DroneXrEmulator} \\
-    \hline
-    \end{array}
-    \]
-\end{figure}
 
 \paragraph{Enactment}
 

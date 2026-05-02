@@ -1,0 +1,41 @@
+\begin{figure}[H]
+    \caption{Components of the Quad GameObject}\label{fig:quad_structure}
+    \centering
+\begin{tikzpicture}
+    % 定义 GameObject 主类，移除不支持的 wide
+    \umlclass[x=0, y=0]{Quad}{
+        % 属性
+    }{
+        % 方法
+    }
+
+    % 定义组件类
+    \umlclass[x=-7, y=-3]{Rigidbody}{
+        + Mass: float \\
+        + useGravity: boolean \\
+    }{}
+    \umlclass[x=-4, y=-6]{YueInputModule}{
+        + rawInputLeftHorizontal: float \\
+        + rawInputLeftVertial: float \\
+        \dots
+    }{}
+    \umlclass[x=3, y=-6.5]{YueDronePhysics}{
+        + Armed: boolearn \\
+        + PID configuration: ScriptableObject \\
+        + AppliedTorque: Vector3 \\
+        + AppliedForce: Vector3 \\
+        \dots
+    }{}
+    \umlclass[x=7, y=-3]{DroneXrEmulator}{
+        + inputsource: Enum \\
+        \dots
+    }{}
+
+    % 建立组合关系 (实心菱形)
+    \umlcompo[geometry=-|]{Quad}{Rigidbody}
+    \umlcompo[geometry=-|]{Quad}{YueInputModule}
+    \umlcompo[geometry=-|]{Quad}{YueDronePhysics}
+    \umlcompo[geometry=-|]{Quad}{DroneXrEmulator}
+
+\end{tikzpicture}
+\end{figure}
