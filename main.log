@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  2 MAY 2026 11:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  2 MAY 2026 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1520,32 +1520,58 @@ File: img/stages/drone-control.png Graphic file (type png)
 <use img/stages/drone-control.png>
 Package pdftex.def Info: img/stages/drone-control.png  used on input line 20.
 (pdftex.def)             Requested size: 375.80544pt x 230.91054pt.
-) [45 <./img/stages/drone-control.png>] (./result/tutorial.tex [46]
-<img/stages/structure.png, id=886, 1296.34312pt x 453.94594pt>
+) [45 <./img/stages/drone-control.png>] (./result/tutorial.tex (./figure/interact.tex
+Missing character: There is no T in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+) [46]
+<img/stages/structure.png, id=888, 1296.34312pt x 453.94594pt>
 File: img/stages/structure.png Graphic file (type png)
 <use img/stages/structure.png>
-Package pdftex.def Info: img/stages/structure.png  used on input line 33.
+Package pdftex.def Info: img/stages/structure.png  used on input line 35.
 (pdftex.def)             Requested size: 375.80544pt x 131.59938pt.
-) (./result/real.tex [47 <./img/stages/structure.png>]
-<img/Tallinn.png, id=901, 429.85594pt x 371.13657pt>
+ [47]) (./result/real.tex [48 <./img/stages/structure.png>]
+<img/Tallinn.png, id=908, 429.85594pt x 371.13657pt>
 File: img/Tallinn.png Graphic file (type png)
 <use img/Tallinn.png>
 Package pdftex.def Info: img/Tallinn.png  used on input line 20.
 (pdftex.def)             Requested size: 375.80544pt x 324.47752pt.
- [48]
-<img/real.png, id=909, 602.25pt x 347.04657pt>
+<img/real.png, id=910, 602.25pt x 347.04657pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
 Package pdftex.def Info: img/real.png  used on input line 28.
 (pdftex.def)             Requested size: 375.80544pt x 216.56465pt.
  [49 <./img/Tallinn.png>]) (./result/white-box.tex
-<img/white-box.png, id=918, 1023.825pt x 505.13719pt>
+<img/white-box.png, id=920, 1023.825pt x 505.13719pt>
 File: img/white-box.png Graphic file (type png)
 <use img/white-box.png>
 Package pdftex.def Info: img/white-box.png  used on input line 15.
 (pdftex.def)             Requested size: 375.80544pt x 185.41023pt.
  [50 <./img/real.png>]) (./result/explore.tex) (./result/pid.tex [51 <./img/white-box.png>]
-<img/ui.png, id=940, 585.68813pt x 303.38344pt>
+<img/ui.png, id=942, 585.68813pt x 303.38344pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
 Package pdftex.def Info: img/ui.png  used on input line 23.
@@ -1556,13 +1582,13 @@ File: img/train.png Graphic file (type png)
 Package pdftex.def Info: img/train.png  used on input line 23.
 (pdftex.def)             Requested size: 375.80544pt x 201.99036pt.
  [54]
-<img/result.png, id=961, 782.17218pt x 665.48625pt>
+<img/result.png, id=963, 782.17218pt x 665.48625pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 31.
 (pdftex.def)             Requested size: 375.80544pt x 319.74455pt.
  [55]
-<img/hover.png, id=969, 598.48593pt x 693.34032pt>
+<img/hover.png, id=971, 598.48593pt x 693.34032pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 39.
@@ -1579,24 +1605,24 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D93ED5DE798AD92E77FCB671F6F44F53;16767.
+(rerunfilecheck)             Checksum: F7409447417C6AB6D07BD94617D652C9;16767.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43473 strings out of 467349
- 881656 string characters out of 5389291
- 1857016 words of memory out of 5000000
- 71405 multiletter control sequences out of 15000+600000
+ 43583 strings out of 467349
+ 884372 string characters out of 5389291
+ 1857120 words of memory out of 5000000
+ 71511 multiletter control sequences out of 15000+600000
  711208 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (71 pages, 7204660 bytes).
+Output written on main.pdf (71 pages, 7206114 bytes).
 PDF statistics:
- 1227 PDF objects out of 1440 (max. 8388607)
- 1072 compressed objects within 11 object streams
- 288 named destinations out of 1000 (max. 500000)
+ 1231 PDF objects out of 1440 (max. 8388607)
+ 1076 compressed objects within 11 object streams
+ 289 named destinations out of 1000 (max. 500000)
  820 words of extra memory for PDF output out of 10000 (max. 10000000)
 

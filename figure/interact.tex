@@ -1,0 +1,28 @@
+\begin{figure}[H]
+    \caption{Components of the Tutorial Scene}\label{fig:tutorial_scene}
+    \centering
+    \begin{tikzpicture}
+        % 建议先定义类，再用 umlpackage 包含，或确保坐标明确
+        \begin{umlpackage}{Tutorial Scene}
+            \umlclass[width=3cm]{Quad}{
+                + FpvCam: Camera
+            }{
+            }
+            
+            \umlclass[x=6, width=4cm]{DroneVision}{
+                - renderTexture : RenderTexture
+            }{}
+            
+            \umlclass[y=-4, x=3, width=4cm]{Instruct}{
+                - tutorialSteps : List
+            }{
+                + Next()
+            }
+            
+            % 连线需放在 package 内部或紧随其后
+            \umluniassoc{DroneVision}{Quad}
+            \umluniassoc{Instruct}{Quad}
+            \umluniassoc{Instruct}{DroneVision}
+        \end{umlpackage}
+    \end{tikzpicture}
+\end{figure}

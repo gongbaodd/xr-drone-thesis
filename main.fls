@@ -804,6 +804,9 @@ INPUT ./img/stages/drone-control.png
 INPUT ./result/tutorial.tex
 INPUT ./result/tutorial.tex
 INPUT result/tutorial.tex
+INPUT ./figure/interact.tex
+INPUT ./figure/interact.tex
+INPUT figure/interact.tex
 INPUT ./img/stages/structure.png
 INPUT ./img/stages/structure.png
 INPUT ./img/stages/structure.png
