@@ -9,11 +9,19 @@ The flight controller distinguishes between unipolar throttle inputs and bipolar
 
 To refine the pilot's control over the aircraft, the system utilizes a non-linear control curve for joystick calculation. As \parencite{lovesay2003ergonomics} observes, a good quality force tracking controller has a linear output, with joystick force directly proportional to sight velocity, but many systems shape the joystick voltage output, to achieve fine control and greater tracking accuracy as the joystick output approaches zero, whilst retaining the same maximum output capability.
 
-In this implementation, shaping is achieved by combining proportional ($p$) and exponential ($e$) components to calculate the target angular rate ($\tau$) from the raw angular rate ($u$) as shown in \cref{eq:mapping}.
+In this implementation, input shaping combines proportional ($p$) and exponential ($e$) components to map the raw joystick input ($u$) to a target angular rate ($\tau$), as shown in Equation~\ref{eq:mapping}.
 
 \begin{equation}\label{eq:mapping}
     \tau = p \cdot u + e \cdot \text{sgn}(u) \cdot u^{2}
 \end{equation}
+
+This mapping provides fine-grained control for small joystick inputs, enabling precise attitude adjustments, while producing stronger control responses at larger inputs to support rapid maneuvers.
+
+\begin{figure}
+    \caption{Controller mapping for attitude commands}\label{fig:controller_mapping}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/mapping.png}
+\end{figure}
 
 The raw gamepad throttle $u_T \in [-1, 1]$ is normalized to a linear thrust scalar as shown in \cref{eq:mappingt}
 

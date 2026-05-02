@@ -8,7 +8,14 @@ Opaque blending fully replaces the real-world view with virtual imagery and is t
 
 Two primary display technologies are commonly used in AR systems: optical see-through (OST) and video see-through (VST). In optical see-through head-mounted displays (HMDs), users view the real world directly through semi-transparent mirrors, onto which virtual imagery is projected. In video see-through systems, the real-world view is captured by cameras and digitally composited with virtual content before being displayed to the user \parencite{rolland_head-mounted_2005, billinghurst_survey_2015}.
 
-These display technologies correspond closely to different blending strategies. Additive blending is typically associated with optical see-through displays, where virtual content is added to the incoming real-world light without fully occluding it. Alpha blending, on the other hand, is commonly used in video see-through systems, where pixel-wise compositing allows for proper occlusion and depth integration between real and virtual elements.
+
+These display technologies correspond closely to different blending strategies. Additive blending is typically associated with optical see-through displays, where virtual content is added to the incoming real-world light without fully occluding it. Alpha blending, on the other hand, is commonly used in video see-through systems, where pixel-wise compositing allows for proper occlusion and depth integration between real and virtual elements\cref{fig:ost_vst}.
+
+\begin{figure}[H]
+    \caption{Environment blend modes}\label{fig:ost_vst}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/OST_VST.png}
+\end{figure}
 
 Recent developments in HMDs increasingly rely on video passthrough technology. In such systems, users perceive the physical environment indirectly through stereoscopic, real-time video feeds displayed inside the headset rather than through direct optical transmission \parencite{bailenson2024passthrough}. This approach enables more flexible and accurate compositing of virtual and real-world elements.
 
