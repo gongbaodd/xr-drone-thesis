@@ -10,30 +10,21 @@ The PidDroneEmulator maps the PID controller outputs—represented as normalized
 
 The PID controller was designed to minimize the positional error between the drone and a predefined waypoint path, producing continuous joystick corrections for roll, pitch, and throttle.
 
+\begin{figure}[H]
+    \caption{Hinter UI showing PID-generated joystick signals}\label{fig:pid-ui}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/ui.png}
+\end{figure}
+
 \paragraph{Enactment}
 
 During execution, the PID controller continuously computed normalized joystick inputs based on the real-time positional error.
 
-These computed joystick rates were visualized on a HUD (see \cref{fig:pid-ui}), allowing human users to observe the controller’s intended actions. This visualization acts as an AI collaboration hinter, exposing the controller’s decision-making process and providing guidance on optimal stick positions for maintaining the designated path.
-
-\begin{figure}[H]
-    \caption{Hinter UI showing PID-generated joystick signals}
-    \label{fig:pid-ui}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/ui.png}
-\end{figure}
+These computed joystick rates were visualized on a HUD (see \cref{fig:pid-ui}), allowing human users to observe the controller's intended actions. This visualization acts as an AI collaboration hinter, exposing the controller's decision-making process and providing guidance on optimal stick positions for maintaining the designated path.
 
 \paragraph{Analysis}
 
 The PID controller demonstrated the ability to autonomously guide the drone from its initial position to the designated waypoint and return along the path. This indicates that the controller is functionally capable of performing the path-following task.
 
-% ---- Metrics placeholder ----
-% Quantitative evaluation of tracking accuracy and control stability will be reported in the following section.
+However, a critical limitation was observed in the controller's interaction characteristics. The PID controller produced rapid and frequent changes in joystick outputs, resulting in high-frequency control signals that are difficult for human users to interpret and replicate in real time.
 
-However, a critical limitation was observed in the controller’s interaction characteristics. The PID controller produced rapid and frequent changes in joystick outputs, resulting in high-frequency control signals that are difficult for human users to interpret and replicate in real time.
-
-Attempts to mitigate this issue by reducing the aggressiveness of the path-following targets (e.g., lowering waypoint precision) led to slight improvements, but the control signals remained challenging for human adaptation.
-
-This finding suggests a mismatch between optimal control behavior and human-operable control dynamics. While the PID controller is effective as an autonomous agent, its raw output is not directly suitable for Human-AI Collaboration without additional smoothing, filtering, or adaptation mechanisms.
-
-This insight informed subsequent design iterations, where reducing control volatility and improving human interpretability became key objectives.

@@ -1,40 +1,39 @@
-\subsubsection{Iteration 2: Exploration of RL-based Control (Preliminary)}
+\subsubsection{Iteration 2: Exploration of RL-Based Control (Preliminary)}
 
-We implemented a 1D control mission: regulating the drone's vertical position ($y$) within a target band $[H - R, H + R]$, where $H$ is the `targetHeight` and $R$ is the `acceptableRadius`.
+This iteration explored the use of a reinforcement learning (RL) agent for hovering control. The goal was to reduce the high-frequency control signals observed in the PID-based approach and provide smoother guidance that better matches human perception.
 
-The following two values are being observed. (1) Normalized Height Error: $\text{clip}(\frac{y - H}{R}, -k, k) / k$ (where $k$ is `errorClampK`). This maps the error to a $[-1, 1]$ range, preventing extreme spikes from destabilizing the gradient. (2) Vertical Velocity: $v_y / v_{\text{ref}}$, clipped to $[-1, 1]$.
+\paragraph{Design}
 
-Rewards are calculated at each decision step ($\Delta t$): (1) Event-based: A firstArrivalReward is granted upon entering the target band for the first time per episode. (2) Dense/Steady-state: A livingRewardPerSecond is granted while maintaining position within the band. (3) Shaping: A penalty proportional to the normalized excess $(|e|-R)/R$ is applied when outside the band to discourage drifting.
+A simplified 1D hovering task was implemented, where the agent controlled the vertical position ($y$) to stay within a target band $[H - R, H + R]$. The agent received two observations: a normalized height error and the vertical velocity. A reward function combining event-based and continuous feedback was used to encourage stable hovering behavior.
 
-The agent was trained for $5 \times 10^5$ steps using the following parameters with Proximal Policy Optimization \cref{eq:ppo} approach:
+The agent was trained using Proximal Policy Optimization (PPO) for $5 \times 10^5$ steps. Training progress was monitored through cumulative reward and episode length.
 
-\begin{itemize}
-    \item Clipping parameter $\epsilon = 0.2$
-    \item GAE parameters $(\lambda, \gamma) = 0.99$
-    \item Neural network: a 2-layer MLP with $128$ hidden units
-    \item Learning rate: $3 \times 10^{-4}$ with linear decay
-\end{itemize}
+\paragraph{Enactment}
 
-To monitor progress, we implemented a color-coded feedback system, \cref{fig:train}: Yellow: Below target; Orange: Above target; Blue: Stable hovering.
-
-\begin{figure}[H]
-    \caption{training process}\label{fig:train}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/train.png}
-\end{figure}
-
-From the train report, Cumulative Reward: Showed steady growth after 100k steps, plateauing at 400k, \cref{fig:rl_result}. Episode Length: Positively correlated with rewards; as the agent improved, it survived longer without crashing (falling too low). Environment/Cumulative Reward Histograms: also shows when training time raises, reward start to raise.
+The training results showed that the agent learned to maintain stable hovering within the target range. Cumulative reward increased steadily after approximately 100k steps and plateaued around 400k steps (see Figure~\ref{fig:rl_result}). Episode length also increased, indicating improved stability.
 
 \begin{figure}[H]
     \caption{Training result of the RL agent}\label{fig:rl_result}
     \centering
-    \includegraphics[width=0.8\linewidth]{img/result.png}
+    \includegraphics[width=1\linewidth]{img/result.png}
 \end{figure}
 
-The RL agent successfully learned to hover with high precision. By adjusting the DecisionRequester, we created a smoother control hint for the UI, matching the pace of human perception \cref{fig:rl_hover}.
+In addition, the use of a decision interval (DecisionRequester) allowed the control output to be updated at a lower frequency. This produced smoother control signals compared to the PID-based approach, which aligns better with human perceptual capabilities \cref{fig:rl_hover}.
 
 \begin{figure}[H]
     \caption{UI prototype of the RL learning agent}\label{fig:rl_hover}
     \centering
-    \includegraphics[width=0.8\linewidth]{img/hover.png}
+    \includegraphics[width=1\linewidth]{img/hover.png}
 \end{figure}
+
+\paragraph{Analysis}
+
+Although the RL agent achieved stable hovering in a simplified setting, several limitations were identified.
+
+First, the approach did not scale well to more complex tasks such as path following. These tasks require a larger set of state variables (e.g., position, velocity, and angular motion in multiple axes), which increases the difficulty of training.
+
+Second, the RL model behaved as a black-box system. Fine-tuning the behavior required extensive experimentation, and the relationship between parameters and performance was difficult to interpret.
+
+Third, compared to the PID-based method, the RL approach required significantly more training time and computational resources, while not providing a clear advantage in control stability in the current study.
+
+The RL-based approach is considered promising for future work. However, it requires a more systematic pipeline, such as data collection and state variable reduction (e.g., using principal component analysis), which is beyond the scope of the current study.

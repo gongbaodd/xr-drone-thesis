@@ -847,10 +847,6 @@ INPUT ./img/ui.png
 INPUT ./result/rl.tex
 INPUT ./result/rl.tex
 INPUT result/rl.tex
-INPUT ./img/train.png
-INPUT ./img/train.png
-INPUT ./img/train.png
-INPUT ./img/train.png
 INPUT ./img/result.png
 INPUT ./img/result.png
 INPUT ./img/result.png
@@ -861,6 +857,9 @@ INPUT ./img/hover.png
 INPUT ./img/hover.png
 INPUT ./img/hover.png
 INPUT ./img/hover.png
+INPUT ./result/eval.tex
+INPUT ./result/eval.tex
+INPUT result/eval.tex
 INPUT ./main/_07_discussion.tex
 INPUT ./main/_07_discussion.tex
 INPUT main/_07_discussion.tex
