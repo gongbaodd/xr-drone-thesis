@@ -1,9 +1,5 @@
 \subsection{Future Work}
 
-%TODO far transform
-
-%TODO evaluation on AIs
-
 \subsubsection{Evaluation Methodology for XR-Based Drone Prototyping}
 
 Future work should develop more reliable evaluation methods for XR-based drone prototyping systems. In current user studies, participants may have very different levels of experience with XR devices, which can strongly affect their performance and learning speed.
@@ -25,9 +21,11 @@ Future research should explore the integration of multimodal feedback, including
 % HAC
 \subsubsection{Reinforcement Learning for Path-Following Control}
 
-While hovering control can be effectively modeled using distance-based feedback signals, path-following tasks require reasoning over multiple spatial and temporal variables. Manually designing these features can become inefficient and non-scalable.
+While hovering control can be effectively modeled using distance-based feedback, path-following tasks require reasoning over more complex spatial and temporal dependencies. Manually designing such features is often inefficient and difficult to generalize.
 
-Future work should explore reinforcement learning approaches to automatically learn control policies from richer state representations. This may enable a transition from target-based navigation to more general vision-based flight control systems.
+The initial scope of this study focused on supporting the formation of motor skills through human-AI collaboration (HAC) agents in the context of drone piloting. As part of this exploration, reinforcement learning (RL) was considered as a potential approach for learning control policies. One preliminary idea involved applying principal component analysis (PCA) to identify key state variables, which could then be used as observations for training agents using Unity ML-Agents.
+
+However, this approach was not fully implemented in the current system. Future work should investigate RL-based methods that can automatically learn control policies from richer representations. Such approaches may support a transition from target-based navigation toward more general vision-based flight control systems.
 
 % HAC
 \subsubsection{Imitation Learning for Human-Guided Control}
@@ -36,4 +34,11 @@ Although imitation learning provides a promising direction for human-aligned con
 
 Future research should investigate efficient data collection strategies, including semi-automated annotation or human-in-the-loop learning, to reduce the overhead of dataset construction and improve training efficiency.
 
+% Learning
+\subsubsection{Extending to Concept Transfer}
 
+This study primarily focuses on training operators' muscle memory to support near transfer in drone control tasks. In contrast, concept transfer involves far transfer processes, such as understanding drone physics and assembling knowledge.
+
+Existing FPV drone simulators also provide customization features, such as allowing users to decorate or configure their own devices. In such contexts, a goal-oriented action planning (GOAP) agent may be applicable to support the system behavior.
+
+Future research should investigate how such approaches can enhance user engagement and learning outcomes. In addition, these mechanisms may be integrated into points-badges-leaderboard (PBL) systems as part of a gamification strategy to reinforce learning motivation.

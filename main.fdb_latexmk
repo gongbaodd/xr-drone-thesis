@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1777709517.62095 -1
-  "main.bcf" 1777709517.36397 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1777713121.33432 -1
+  "main.bcf" 1777713121.10827 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -43,7 +43,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777709507.05652 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777709517.62263 0
+["pdflatex"] 1777713110.89554 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777713121.3355 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -323,8 +323,8 @@
   "/opt/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1777313236 3648862 7c58e41054a7d27329793c5f2e246c91 ""
   "/opt/texlive/2026/texmf.cnf" 1777313236 585 d90dcc7e4cbb41f80da762fdc25fd0ea ""
   "discussion/cotrainer.tex" 1777492153.36361 990 5f95d9b4d183a8a01b930727236dcdf1 ""
-  "discussion/future.tex" 1777583165.041 2817 16716db9587850d195323ed576999fd7 ""
-  "discussion/limitation.tex" 1777452680.64462 1561 37bcc4558f6e82ae7e7a24c1719feaf8 ""
+  "discussion/future.tex" 1777713110.50811 4147 94e7bbb4b1817a1843ab83733121b352 ""
+  "discussion/limitation.tex" 1777711575.12247 2008 8ec9852a7d6a05086512dbff6f517f03 ""
   "discussion/physics.tex" 1777492164.75892 3054 a636e1ecb60b7524e7bbd4d405443678 ""
   "discussion/xr.tex" 1777449279.37796 2157 86dcce77d3673354632aa099938c91eb ""
   "figure/agent.tex" 1777707412.69535 2709 3688db82f133a3d27dff8d0c6056e90c ""
@@ -351,12 +351,12 @@
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
   "img/white-box.png" 1777641920.19991 602365 58bd983f0c2359ef26d18a8589347503 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777709517.32097 45987 c5beec5787bba4d6a8ff44b46bf2d995 "pdflatex"
+  "main.aux" 1777713121.07327 46122 bc57af24adb76dfdf49d82550436acf4 "pdflatex"
   "main.bbl" 1777707226.19456 360718 6490f5c3003fb566a054e85687f7974c "biber main"
-  "main.out" 1777709517.35597 16767 f7409447417c6ab6d07bd94617d652c9 "pdflatex"
-  "main.run.xml" 1777709517.36745 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
+  "main.out" 1777713121.10327 17018 a2a5005dce85e4daa7c8c90003f9c776 "pdflatex"
+  "main.run.xml" 1777713121.11127 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777709517.36745 7688 70664e6df009da19b4c24333a2546ff9 "pdflatex"
+  "main.toc" 1777713121.11127 7775 a7f09d887e29ed634356cbbf4d2f947d "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "main/_02_abstract_page.tex" 1777651429.17129 1767 38f2eb45c24f783c8c41fd4445a074a8 ""
   "main/_03_introduction.tex" 1777651939.62355 3753 8389ecf48e23c243c61cd0279dc8ef30 ""
