@@ -860,6 +860,11 @@ INPUT ./img/hover.png
 INPUT ./result/eval.tex
 INPUT ./result/eval.tex
 INPUT result/eval.tex
+INPUT ./img/result_hovering.png
+INPUT ./img/result_hovering.png
+INPUT ./img/result_hovering.png
+INPUT ./img/result_hovering.png
+INPUT ./img/result_hovering.png
 INPUT ./main/_07_discussion.tex
 INPUT ./main/_07_discussion.tex
 INPUT main/_07_discussion.tex

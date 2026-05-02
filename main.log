@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  2 MAY 2026 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  2 MAY 2026 19:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1217,7 +1217,14 @@ Package csquotes Info: Redefining alias 'default' -> 'american'.
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11.
  (/opt/texlive/2026/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (./main.aux)
+) (./main.aux
+
+LaTeX Warning: Label `fig:rl_hover' multiply defined.
+
+
+LaTeX Warning: Label `fig:rl_hover@cref' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -1581,32 +1588,42 @@ File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 26.
 (pdftex.def)             Requested size: 469.75502pt x 140.39256pt.
- [54 <./img/result.png> <./img/hover.png>]) (./result/eval.tex)) (./main/_07_discussion.tex [55] (./discussion/physics.tex) [56] (./discussion/cotrainer.tex) (./discussion/xr.tex [57]) (./discussion/limitation.tex [58]) (./discussion/future.tex [59] [60])) (./main/_08_summary.tex [61]) [62] [63] [64
+ [54 <./img/result.png> <./img/hover.png>]) (./result/eval.tex
+<img/result_hovering.png, id=958, 859.2903pt x 498.663pt>
+File: img/result_hovering.png Graphic file (type png)
+<use img/result_hovering.png>
+Package pdftex.def Info: img/result_hovering.png  used on input line 36.
+(pdftex.def)             Requested size: 375.80544pt x 218.08842pt.
+) [55]) (./main/_07_discussion.tex [56 <./img/result_hovering.png>] (./discussion/physics.tex) [57] (./discussion/cotrainer.tex) (./discussion/xr.tex [58]) (./discussion/limitation.tex [59]) (./discussion/future.tex [60] [61])) (./main/_08_summary.tex [62]) [63] [64] [65
 
-] [65] [66] [67] [68] [69] (./main/_09_appendix.tex [70]) AED endfloat: Processing end Figures and Tables [71] (./main.aux)
+] [66] [67] [68] [69] [70] (./main/_09_appendix.tex [71]) AED endfloat: Processing end Figures and Tables [72] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FABC2AE10A21794AB8FE1476C5CCB749;16641.
+(rerunfilecheck)             Checksum: 877C296A89F6B7E09E6D1A47F4CB88F4;16641.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43584 strings out of 467349
- 884414 string characters out of 5389291
- 1858080 words of memory out of 5000000
- 71511 multiletter control sequences out of 15000+600000
+ 43598 strings out of 467349
+ 884730 string characters out of 5389291
+ 1858295 words of memory out of 5000000
+ 71520 multiletter control sequences out of 15000+600000
  711208 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (71 pages, 7100082 bytes).
+Output written on main.pdf (72 pages, 7183865 bytes).
 PDF statistics:
- 1214 PDF objects out of 1440 (max. 8388607)
- 1059 compressed objects within 11 object streams
- 288 named destinations out of 1000 (max. 500000)
- 796 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1228 PDF objects out of 1440 (max. 8388607)
+ 1070 compressed objects within 11 object streams
+ 293 named destinations out of 1000 (max. 500000)
+ 801 words of extra memory for PDF output out of 10000 (max. 10000000)
 
