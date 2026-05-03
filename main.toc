@@ -103,14 +103,13 @@
 \contentsline {subsection}{Limitations}{61}{section*.135}%
 \contentsline {subsubsection}{Self-Leveling Flight Mode Only}{61}{section*.136}%
 \contentsline {subsubsection}{Visual Feedback Only}{62}{section*.137}%
-\contentsline {subsubsection}{No Public Participant Testing}{62}{section*.138}%
-\contentsline {subsection}{Future Work}{62}{section*.139}%
-\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{62}{section*.140}%
-\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{63}{section*.141}%
-\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{63}{section*.142}%
-\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{63}{section*.143}%
-\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{64}{section*.144}%
-\contentsline {subsubsection}{Extending to Concept Transfer}{64}{section*.145}%
-\contentsline {section}{Summary}{65}{section*.146}%
-\contentsline {section}{Appendices}{74}{section*.148}%
-\contentsline {subsection}{Appendix 1. Source Code}{74}{section*.149}%
+\contentsline {subsection}{Future Work}{62}{section*.138}%
+\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{62}{section*.139}%
+\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{62}{section*.140}%
+\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{63}{section*.141}%
+\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{63}{section*.142}%
+\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{63}{section*.143}%
+\contentsline {subsubsection}{Extending to Concept Transfer}{64}{section*.144}%
+\contentsline {section}{Summary}{65}{section*.145}%
+\contentsline {section}{Appendices}{74}{section*.147}%
+\contentsline {subsection}{Appendix 1. Source Code}{74}{section*.148}%
