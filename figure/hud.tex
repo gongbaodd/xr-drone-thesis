@@ -1,0 +1,45 @@
+
+\begin{figure}[htbp]
+\caption{Structure of XrJoystickHud}\label{fig:hud}
+\centering
+
+\begin{tikzpicture}
+
+% Classes
+\umlclass[style={fill=white}, x=0, y=0]{XrJoystickHud}{
+}{
+  + update()
+}
+
+\umlclass[style={fill=white}, x=-7, y=-3]{DroneXrEmulator}{
+}{
+  + getJoyStickData()
+}
+
+\umlclass[style={fill=white}, x=7, y=-3]{PidEmulator}{
+}{
+  + getJoyStickData()
+}
+
+\umlclass[style={fill=white}, x=-3, y=-6.]{YueInputModule}{
+    + rawInputLeftHorizontal: float \\
+    + rawInputLeftVertical: float
+}{
+}
+
+\umlclass[style={fill=white}, x=3, y=-6]{PidController}{
+    + kp: float \\
+    + ki: float \\
+    + kd: float
+}{
+}
+
+% Relationships
+\umluniassoc[arg1=fetches, pos1=0.5]{XrJoystickHud}{DroneXrEmulator}
+\umluniassoc[arg1=fetches, pos1=0.5]{XrJoystickHud}{PidEmulator}
+
+\umluniassoc[arg1=maps to, pos1=0.5]{DroneXrEmulator}{YueInputModule}
+\umluniassoc[arg1=calculates for, pos1=0.5]{PidController}{PidEmulator}
+
+\end{tikzpicture}
+\end{figure}

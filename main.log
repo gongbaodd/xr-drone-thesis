@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  3 MAY 2026 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  3 MAY 2026 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1597,9 +1597,14 @@ Package pdftex.def Info: img/result_hovering.png  used on input line 36.
  [55]) (./result/eval_path.tex [56 <./img/result_hovering.png>]
 File: img/path.png Graphic file (type png)
 <use img/path.png>
-Package pdftex.def Info: img/path.png  used on input line 15.
+Package pdftex.def Info: img/path.png  used on input line 16.
 (pdftex.def)             Requested size: 469.75502pt x 158.41444pt.
-) (./result/integration.tex [57])) (./main/_07_discussion.tex [58] (./discussion/physics.tex) [59] (./discussion/cotrainer.tex) (./discussion/xr.tex [60]) (./discussion/limitation.tex [61]) (./discussion/future.tex [62] [63])) (./main/_08_summary.tex [64]) [65] [66] [67
+) (./result/integration.tex [57] (./figure/hud.tex
+Overfull \hbox (36.85506pt too wide) in paragraph at lines 44--45
+ [][] 
+ []
+
+))) (./main/_07_discussion.tex [58] (./discussion/physics.tex) [59] (./discussion/cotrainer.tex) (./discussion/xr.tex [60]) (./discussion/limitation.tex [61]) (./discussion/future.tex [62] [63])) (./main/_08_summary.tex [64]) [65] [66] [67
 
 ] [68] [69] [70] [71] [72] (./main/_09_appendix.tex [73]) AED endfloat: Processing end Figures and Tables [74] (./main.aux)
  ***********
@@ -1611,24 +1616,24 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 439246D76C229004D5440EFA0EECBE39;17031.
+(rerunfilecheck)             Checksum: 3FC4CB47AD206DC3E00410D3796156F2;17031.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43625 strings out of 467349
- 885235 string characters out of 5389291
- 1857413 words of memory out of 5000000
- 71529 multiletter control sequences out of 15000+600000
+ 43716 strings out of 467349
+ 887400 string characters out of 5389291
+ 1858514 words of memory out of 5000000
+ 71616 multiletter control sequences out of 15000+600000
  711208 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (74 pages, 7634858 bytes).
+Output written on main.pdf (74 pages, 7637116 bytes).
 PDF statistics:
- 1255 PDF objects out of 1440 (max. 8388607)
- 1095 compressed objects within 11 object streams
- 304 named destinations out of 1000 (max. 500000)
+ 1258 PDF objects out of 1440 (max. 8388607)
+ 1098 compressed objects within 11 object streams
+ 305 named destinations out of 1000 (max. 500000)
  809 words of extra memory for PDF output out of 10000 (max. 10000000)
 

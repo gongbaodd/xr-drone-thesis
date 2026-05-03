@@ -875,6 +875,9 @@ INPUT ./img/path.png
 INPUT ./result/integration.tex
 INPUT ./result/integration.tex
 INPUT result/integration.tex
+INPUT ./figure/hud.tex
+INPUT ./figure/hud.tex
+INPUT figure/hud.tex
 INPUT ./main/_07_discussion.tex
 INPUT ./main/_07_discussion.tex
 INPUT main/_07_discussion.tex

@@ -90,27 +90,27 @@
 \contentsline {paragraph}{Analysis}{57}{section*.120}%
 \contentsline {subsection}{Integration: Human-AI Collaboration in an XR Environment}{57}{section*.121}%
 \contentsline {paragraph}{Design}{57}{section*.122}%
-\contentsline {paragraph}{Enactment}{58}{section*.123}%
-\contentsline {paragraph}{Analysis}{58}{section*.124}%
-\contentsline {section}{Discussion}{59}{section*.125}%
-\contentsline {subsection}{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{59}{section*.126}%
-\contentsline {subsubsection}{Comparison With Existing Simulators}{59}{section*.127}%
-\contentsline {subsection}{RQ2: How can a human-AI collaboration agent be designed to assist users?}{60}{section*.128}%
-\contentsline {subsubsection}{Comparison of PID and RL}{60}{section*.129}%
-\contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{60}{section*.130}%
-\contentsline {subsubsection}{When XR helps}{61}{section*.131}%
-\contentsline {subsubsection}{When XR is not preferable}{61}{section*.132}%
-\contentsline {subsection}{Limitations}{61}{section*.133}%
-\contentsline {subsubsection}{Self-Leveling Flight Mode Only}{61}{section*.134}%
-\contentsline {subsubsection}{Visual Feedback Only}{62}{section*.135}%
-\contentsline {subsubsection}{No Public Participant Testing}{62}{section*.136}%
-\contentsline {subsection}{Future Work}{62}{section*.137}%
-\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{62}{section*.138}%
-\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{63}{section*.139}%
-\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{63}{section*.140}%
-\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{63}{section*.141}%
-\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{64}{section*.142}%
-\contentsline {subsubsection}{Extending to Concept Transfer}{64}{section*.143}%
-\contentsline {section}{Summary}{65}{section*.144}%
-\contentsline {section}{Appendices}{74}{section*.146}%
-\contentsline {subsection}{Appendix 1. Source Code}{74}{section*.147}%
+\contentsline {paragraph}{Enactment}{58}{section*.124}%
+\contentsline {paragraph}{Analysis}{58}{section*.125}%
+\contentsline {section}{Discussion}{59}{section*.126}%
+\contentsline {subsection}{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{59}{section*.127}%
+\contentsline {subsubsection}{Comparison With Existing Simulators}{59}{section*.128}%
+\contentsline {subsection}{RQ2: How can a human-AI collaboration agent be designed to assist users?}{60}{section*.129}%
+\contentsline {subsubsection}{Comparison of PID and RL}{60}{section*.130}%
+\contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{60}{section*.131}%
+\contentsline {subsubsection}{When XR helps}{61}{section*.132}%
+\contentsline {subsubsection}{When XR is not preferable}{61}{section*.133}%
+\contentsline {subsection}{Limitations}{61}{section*.134}%
+\contentsline {subsubsection}{Self-Leveling Flight Mode Only}{61}{section*.135}%
+\contentsline {subsubsection}{Visual Feedback Only}{62}{section*.136}%
+\contentsline {subsubsection}{No Public Participant Testing}{62}{section*.137}%
+\contentsline {subsection}{Future Work}{62}{section*.138}%
+\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{62}{section*.139}%
+\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{63}{section*.140}%
+\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{63}{section*.141}%
+\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{63}{section*.142}%
+\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{64}{section*.143}%
+\contentsline {subsubsection}{Extending to Concept Transfer}{64}{section*.144}%
+\contentsline {section}{Summary}{65}{section*.145}%
+\contentsline {section}{Appendices}{74}{section*.147}%
+\contentsline {subsection}{Appendix 1. Source Code}{74}{section*.148}%
