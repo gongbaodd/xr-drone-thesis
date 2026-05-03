@@ -10,10 +10,18 @@ To support this functionality, the structure of the XrJoystickHud was modified t
 
 \input{figure/hud.tex}
 
+In the evaluation of path following iteration, the agent piloting operation is shaky. To reduce the effect, the frequency was changed to 100 frame one calculation. And the hint solution in the XrJoystickHud was to light up the expected quadrant shown in \cref{fig:integration}.
+
+\begin{figure}[H]
+    \caption{Integration of the HAC agent}\label{fig:integration}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/integration.png}
+\end{figure}
+
 \paragraph{Enactment}
 
-% TODO: Insert screenshot and describe implementation (1 day remaining)
+The test play shows that the agent can give correct instruction on the operation. However the hint was shaky occationally. If only following on the instruction of the HUD, the player can not be able to correct operate. Some test play shows that constantly reminding annoy the player.
 
 \paragraph{Analysis}
 
-% TODO: Complete analysis of user interaction and system performance (1 day remaining)
+The result shows a signal that the agent parameter still needs to be refined to avoid shaky solutions. Also the agent should add a condition logic, if the player is correctly piloting towards a correct direction, it should not provide suggestion in case being anoying.

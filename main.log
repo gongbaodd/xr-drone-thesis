@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  3 MAY 2026 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  3 MAY 2026 21:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1604,7 +1604,13 @@ Overfull \hbox (36.85506pt too wide) in paragraph at lines 44--45
  [][] 
  []
 
-))) (./main/_07_discussion.tex [57] (./discussion/physics.tex [58]) (./discussion/cotrainer.tex) [59] (./discussion/xr.tex) [60] (./discussion/limitation.tex [61]) (./discussion/future.tex [62] [63])) (./main/_08_summary.tex [64]) [65] [66] [67
+) [57]
+<img/integration.png, id=993, 587.19376pt x 261.97874pt>
+File: img/integration.png Graphic file (type png)
+<use img/integration.png>
+Package pdftex.def Info: img/integration.png  used on input line 18.
+(pdftex.def)             Requested size: 375.80544pt x 167.66582pt.
+)) (./main/_07_discussion.tex [58 <./img/integration.png>] (./discussion/physics.tex) [59] (./discussion/cotrainer.tex) (./discussion/xr.tex [60]) (./discussion/limitation.tex [61]) (./discussion/future.tex [62] [63])) (./main/_08_summary.tex [64]) [65] [66] [67
 
 ] [68] [69] [70] [71] [72] (./main/_09_appendix.tex [73]) AED endfloat: Processing end Figures and Tables [74] (./main.aux)
  ***********
@@ -1616,24 +1622,24 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3FC4CB47AD206DC3E00410D3796156F2;17031.
+(rerunfilecheck)             Checksum: 29B94F10EB4337CDE53FD7165770176F;17031.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43716 strings out of 467349
- 887400 string characters out of 5389291
- 1858519 words of memory out of 5000000
- 71616 multiletter control sequences out of 15000+600000
+ 43725 strings out of 467349
+ 887621 string characters out of 5389291
+ 1858620 words of memory out of 5000000
+ 71624 multiletter control sequences out of 15000+600000
  711208 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (74 pages, 7637549 bytes).
+Output written on main.pdf (74 pages, 7936113 bytes).
 PDF statistics:
- 1258 PDF objects out of 1440 (max. 8388607)
- 1098 compressed objects within 11 object streams
- 305 named destinations out of 1000 (max. 500000)
- 809 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1262 PDF objects out of 1440 (max. 8388607)
+ 1100 compressed objects within 11 object streams
+ 306 named destinations out of 1000 (max. 500000)
+ 814 words of extra memory for PDF output out of 10000 (max. 10000000)
 

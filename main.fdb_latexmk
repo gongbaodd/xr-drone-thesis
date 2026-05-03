@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777793476.34946 "main.bcf" "main.bbl" "main" 1777831263.97292 0
-  "main.bcf" 1777831263.77171 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
+["biber main"] 1777793476.34946 "main.bcf" "main.bbl" "main" 1777832350.34824 0
+  "main.bcf" 1777832350.1444 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -43,7 +43,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777831254.23259 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777831263.97428 0
+["pdflatex"] 1777832339.34209 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777832350.34933 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -330,7 +330,7 @@
   "figure/agent.tex" 1777707412.69535 2709 3688db82f133a3d27dff8d0c6056e90c ""
   "figure/dbr.tex" 1777669926.11601 478 13294260ca9770812f1f9f5d8810022b ""
   "figure/exp4stages.tex" 1777666805.73677 780 5a9b267e9d57c331cb0840fc92527480 ""
-  "figure/hud.tex" 1777793990.07167 943 0a9f18267a1eefad4a18569caf1cbbec ""
+  "figure/hud.tex" 1777831623.46797 939 1557d1aa7157fbf1cf8a4d82184c3f9d ""
   "figure/interact.tex" 1777709417.26152 910 35181a060d982e4f1cda078e8d167330 ""
   "figure/quadobj.tex" 1777708844.30808 1114 6c00534d9edb57103797db68037f1fa6 ""
   "img/6DOF.png" 1777658803.10238 589291 e961606e3532634538b989cc92f43116 ""
@@ -340,6 +340,7 @@
   "img/drone.png" 1777665209.53494 330243 60055ceefed93495c62160102ed8d8da ""
   "img/goggles.png" 1777666351.96037 404478 7df24e76306444bc2fcfeb1d9078c2bd ""
   "img/hover.png" 1777736380.77943 473781 04415b652ad73c0bcdc6e8a30e7fa710 ""
+  "img/integration.png" 1777825193.09495 248115 f187603d85fce47559170e744ee7794b ""
   "img/mapping.png" 1777703935.31379 69054 8de5f381de988987bde19c26a51a6ba2 ""
   "img/mdp.png" 1777667417.081 208841 ff84cf4699cd7ce7f9cea368fcc4fe1e ""
   "img/path.png" 1777754683.55476 557813 013c6e7f8b24e601ddb00b066c280bdd ""
@@ -353,12 +354,12 @@
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
   "img/white-box.png" 1777641920.19991 602365 58bd983f0c2359ef26d18a8589347503 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777831263.74071 48114 48051997b894c2f82e52d7bc17b876bd "pdflatex"
+  "main.aux" 1777832350.1154 48425 094e4cd406586c0704c9629ab48efe87 "pdflatex"
   "main.bbl" 1777793479.8234 360718 6490f5c3003fb566a054e85687f7974c "biber main"
-  "main.out" 1777831263.76671 17031 3fc4cb47ad206dc3e00410d3796156f2 "pdflatex"
-  "main.run.xml" 1777831263.77439 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
+  "main.out" 1777832350.1404 17031 29b94f10eb4337cde53fd7165770176f "pdflatex"
+  "main.run.xml" 1777832350.14692 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777831263.77439 8326 bca88ff341543611c156465d953b9179 "pdflatex"
+  "main.toc" 1777832350.14692 8326 02bd125ce6aa3d62c04252f2af473739 "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "main/_02_abstract_page.tex" 1777792656.49416 1777 7ac0cb66dd79db94db8d86c9ab90c23f ""
   "main/_03_introduction.tex" 1777651939.62355 3753 8389ecf48e23c243c61cd0279dc8ef30 ""
@@ -388,7 +389,7 @@
   "result/eval_hover.tex" 1777752936.19179 1944 083f58bfc4d31505415697aa6b499b52 ""
   "result/eval_path.tex" 1777793370.44726 2189 2bc1f185610ab1707a7e7bd399245629 ""
   "result/explore.tex" 1777830536.05276 1792 6a9d657905e0ca377a988b506b9ba16b ""
-  "result/integration.tex" 1777829279.47785 1207 121cbd1b96b3ad1a760605a6072eeb30 ""
+  "result/integration.tex" 1777832338.95965 2056 ee553b9173f2d7d43561e9be8834c105 ""
   "result/pid.tex" 1777736550.02168 2249 6dd041967c69e08cfba10479e11dbc18 ""
   "result/real.tex" 1777830956.02095 2358 a2233eba2e6dce80f84a4cbb7e43105b ""
   "result/rl.tex" 1777738069.8805 2862 1399675bd214308e21e2e830764a4d8d ""

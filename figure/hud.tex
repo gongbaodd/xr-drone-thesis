@@ -1,5 +1,5 @@
 
-\begin{figure}[htbp]
+\begin{figure}[H]
 \caption{Structure of XrJoystickHud}\label{fig:hud}
 \centering
 
@@ -11,23 +11,23 @@
   + update()
 }
 
-\umlclass[style={fill=white}, x=-7, y=-3]{DroneXrEmulator}{
+\umlclass[style={fill=white}, x=-7, y=-1]{DroneXrEmulator}{
 }{
   + getJoyStickData()
 }
 
-\umlclass[style={fill=white}, x=7, y=-3]{PidEmulator}{
+\umlclass[style={fill=white}, x=7, y=-1]{PidEmulator}{
 }{
   + getJoyStickData()
 }
 
-\umlclass[style={fill=white}, x=-3, y=-6.]{YueInputModule}{
+\umlclass[style={fill=white}, x=-3, y=-4]{YueInputModule}{
     + rawInputLeftHorizontal: float \\
     + rawInputLeftVertical: float
 }{
 }
 
-\umlclass[style={fill=white}, x=3, y=-6]{PidController}{
+\umlclass[style={fill=white}, x=3, y=-4]{PidController}{
     + kp: float \\
     + ki: float \\
     + kd: float

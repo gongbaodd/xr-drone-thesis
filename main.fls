@@ -878,6 +878,11 @@ INPUT result/integration.tex
 INPUT ./figure/hud.tex
 INPUT ./figure/hud.tex
 INPUT figure/hud.tex
+INPUT ./img/integration.png
+INPUT ./img/integration.png
+INPUT ./img/integration.png
+INPUT ./img/integration.png
+INPUT ./img/integration.png
 INPUT ./main/_07_discussion.tex
 INPUT ./main/_07_discussion.tex
 INPUT main/_07_discussion.tex
