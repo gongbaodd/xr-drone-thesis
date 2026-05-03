@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  3 MAY 2026 21:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  3 MAY 2026 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1600,7 +1600,7 @@ File: img/path.png Graphic file (type png)
 Package pdftex.def Info: img/path.png  used on input line 16.
 (pdftex.def)             Requested size: 469.75502pt x 158.41444pt.
  [56]) (./result/integration.tex (./figure/hud.tex
-Overfull \hbox (36.85506pt too wide) in paragraph at lines 44--45
+Overfull \hbox (20.16261pt too wide) in paragraph at lines 44--45
  [][] 
  []
 
@@ -1628,15 +1628,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43725 strings out of 467349
- 887621 string characters out of 5389291
+ 43726 strings out of 467349
+ 887713 string characters out of 5389291
  1858620 words of memory out of 5000000
- 71624 multiletter control sequences out of 15000+600000
+ 71625 multiletter control sequences out of 15000+600000
  711208 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (74 pages, 7936113 bytes).
+Output written on main.pdf (74 pages, 7936414 bytes).
 PDF statistics:
  1262 PDF objects out of 1440 (max. 8388607)
  1100 compressed objects within 11 object streams

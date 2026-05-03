@@ -6,7 +6,7 @@
 \begin{tikzpicture}
 
 % Classes
-\umlclass[style={fill=white}, x=0, y=0]{XrJoystickHud}{
+\umlclass[style={fill=white}, x=-1, y=0]{XrJoystickHud}{
 }{
   + update()
 }
@@ -16,7 +16,7 @@
   + getJoyStickData()
 }
 
-\umlclass[style={fill=white}, x=7, y=-1]{PidEmulator}{
+\umlclass[style={fill=white}, x=6, y=-1]{PidAutoFlightEmulator}{
 }{
   + getJoyStickData()
 }
@@ -27,7 +27,7 @@
 }{
 }
 
-\umlclass[style={fill=white}, x=3, y=-4]{PidController}{
+\umlclass[style={fill=white}, x=2, y=-4]{PidController}{
     + kp: float \\
     + ki: float \\
     + kd: float
@@ -36,10 +36,10 @@
 
 % Relationships
 \umluniassoc[arg1=fetches, pos1=0.5]{XrJoystickHud}{DroneXrEmulator}
-\umluniassoc[arg1=fetches, pos1=0.5]{XrJoystickHud}{PidEmulator}
+\umluniassoc[arg1=fetches, pos1=0.5]{XrJoystickHud}{PidAutoFlightEmulator}
 
 \umluniassoc[arg1=maps to, pos1=0.5]{DroneXrEmulator}{YueInputModule}
-\umluniassoc[arg1=calculates for, pos1=0.5]{PidController}{PidEmulator}
+\umluniassoc[arg1=calculates for, pos1=0.5]{PidController}{PidAutoFlightEmulator}
 
 \end{tikzpicture}
 \end{figure}
