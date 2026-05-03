@@ -2,15 +2,20 @@
 
 \paragraph{Redesign}
 
-Building on the third iteration, an exploration mode within the realistic environment was introduced to support the active experimentation phase of experiential learning. The intention was to allow users to navigate the environment more freely and apply previously acquired piloting skills in a less constrained context.
+Building on the third iteration, an exploration mode within a realistic environment was introduced to support the active experimentation stage of experiential learning. The aim was to enable users to navigate the environment more freely and apply previously acquired piloting skills in a less constrained context.
 
-To evaluate this approach, environmental constraints were reduced by removing the collider boundaries. Participants were assigned a navigation task requiring them to travel independently from Viru Gate to St.\ Olaf's Church, which is the tallest structure in the modeled environment shown in \cref{fig:tallinn}.
+To evaluate this approach, environmental constraints were reduced by removing collider boundaries. Participants were assigned a navigation task requiring them to travel independently from Viru Gate to St.\ Olaf's Church, the tallest structure in the modeled environment (see \cref{fig:tallinn}).
 
 \paragraph{Enactment}
 
-The primary technical modification involved the removal of boundary constraints, with no additional interaction mechanics introduced in this phase.
+The technical modification involved the removal of boundary constraints, without introducing additional interaction mechanics.
+
+Due to the absence of colliders, the quadcopter was able to pass through building meshes. Additionally, as the drone increased in altitude, a larger number of buildings were rendered in the scene, which led to a decrease in frame rate and negatively affected the user experience.
+
+However, the immersive environment appeared to encourage exploration. Users tended to engage for longer periods compared to previous iterations, as the absence of failure conditions (e.g., crashes) reduced frustration.
 
 \paragraph{Analysis}
 
-% TODO: test play!!!!!
-Due to the limited implementation period, no empirical evaluation results are available at this stage.
+The results suggest that an immersive environment may increase user engagement and practice duration. Furthermore, reducing failure conditions appears to lower user frustration.
+
+However, it remains unclear whether these changes lead to measurable improvements in learning outcomes. Future work should incorporate quantitative data collection and comparative analysis to evaluate the effectiveness of this approach.
