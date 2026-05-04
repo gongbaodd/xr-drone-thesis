@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777793476.34946 "main.bcf" "main.bbl" "main" 1777834522.00204 0
-  "main.bcf" 1777834521.78277 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
+["biber main"] 1777793476.34946 "main.bcf" "main.bbl" "main" 1777904221.75266 0
+  "main.bcf" 1777904221.49153 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -43,7 +43,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777834511.02782 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777834522.00329 0
+["pdflatex"] 1777904209.78089 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777904221.7542 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -324,7 +324,7 @@
   "/opt/texlive/2026/texmf.cnf" 1777313236 585 d90dcc7e4cbb41f80da762fdc25fd0ea ""
   "discussion/cotrainer.tex" 1777755985.84872 1250 c20dbe339ba94342efc2ab76431ad788 ""
   "discussion/future.tex" 1777713110.50811 4147 94e7bbb4b1817a1843ab83733121b352 ""
-  "discussion/limitation.tex" 1777834498.83351 1246 69c23d8dd05b6cb1fd5773c201d7a4bd ""
+  "discussion/limitation.tex" 1777834558.32382 1246 69c23d8dd05b6cb1fd5773c201d7a4bd ""
   "discussion/physics.tex" 1777715722.58624 2348 7702a855a05ea393795598a6b21dd8f0 ""
   "discussion/xr.tex" 1777449279.37796 2157 86dcce77d3673354632aa099938c91eb ""
   "figure/agent.tex" 1777707412.69535 2709 3688db82f133a3d27dff8d0c6056e90c ""
@@ -354,12 +354,12 @@
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
   "img/white-box.png" 1777641920.19991 602365 58bd983f0c2359ef26d18a8589347503 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777834521.74677 48304 b77dbe761ea8e0b0923b56586ceae8f8 "pdflatex"
+  "main.aux" 1777904221.45253 48304 b77dbe761ea8e0b0923b56586ceae8f8 "pdflatex"
   "main.bbl" 1777793479.8234 360718 6490f5c3003fb566a054e85687f7974c "biber main"
-  "main.out" 1777834521.77777 16818 35037cacf01c5c2181eecae274789dab "pdflatex"
-  "main.run.xml" 1777834521.78519 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
+  "main.out" 1777904221.48453 16818 35037cacf01c5c2181eecae274789dab "pdflatex"
+  "main.run.xml" 1777904221.4943 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777834521.78519 8246 033369b1563f53f63c780c66df206d14 "pdflatex"
+  "main.toc" 1777904221.4943 8246 033369b1563f53f63c780c66df206d14 "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "main/_02_abstract_page.tex" 1777792656.49416 1777 7ac0cb66dd79db94db8d86c9ab90c23f ""
   "main/_03_introduction.tex" 1777651939.62355 3753 8389ecf48e23c243c61cd0279dc8ef30 ""
@@ -395,7 +395,7 @@
   "result/rl.tex" 1777738069.8805 2862 1399675bd214308e21e2e830764a4d8d ""
   "result/tutorial.tex" 1777709449.95836 3614 5075b55b57fd3ce39f6090d4df9426b9 ""
   "result/white-box.tex" 1777831059.93794 1294 252765a3725a1c5bcee2dba4c189a68d ""
-  "settings.tex" 1777707248.49843 976 38deb73926d21ba80b8fea485afe1cf1 ""
+  "settings.tex" 1777904209.36314 976 38deb73926d21ba80b8fea485afe1cf1 ""
   "theoretical_background/co-trainer/01_exp_learn.tex" 1777549749.79559 257 ad2c898b20a50d3c60df02b1d41fa82f ""
   "theoretical_background/co-trainer/exp.tex" 1777666820.51143 2561 8451c6be48756922465fe1faa9e3d812 ""
   "theoretical_background/co-trainer/fpv_sim.tex" 1777652819.53843 1611 d08d496b0f891944257201a29ff11b2e ""
