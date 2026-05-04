@@ -1,0 +1,32 @@
+\begin{figure}[H]
+    \caption{Components of the drone Object}\label{fig:webxr_drone}
+    \centering
+\begin{tikzpicture}
+
+\umlclass[x=0, y=0]{DroneObject}{
+  - appliedForce : float \\
+  - appliedTorqueYaw : float \\
+  - appliedTorqueRoll: float \\
+  - appliedTorquePitch: float \\
+  \dots
+}{
+  + Update() : void \\
+  + ReadInput() : void
+}
+
+\umlclass[x=6, y=2]{PhysXComponent}{
+  + shape : Box \\
+  + engine : NVIDIA PhysX
+}{
+}
+
+\umlclass[x=6, y=-2]{CollisionComponent}{
+      + shape : Box 
+}{
+}
+
+\umluniassoc{DroneObject}{PhysXComponent}
+\umluniassoc{DroneObject}{CollisionComponent}
+
+\end{tikzpicture}
+\end{figure}
