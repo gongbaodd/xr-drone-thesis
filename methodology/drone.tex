@@ -7,12 +7,12 @@ found in the Yue's Ultimate Drone physics model \parencite{yuetility2022fpvphysi
 
 The flight controller distinguishes between unipolar throttle inputs and bipolar command sticks (Roll, Pitch, and Yaw): Throttle ($T$): Mapped to a normalized range of $[0, 1]$. Attitude Commands ($\theta, \phi, \psi$): Mapped to a range of $[-1, 1]$.
 
-To refine the pilot's control over the aircraft, the system utilizes a non-linear control curve for joystick calculation. As \parencite{lovesay2003ergonomics} observes, a good quality force tracking controller has a linear output, with joystick force directly proportional to sight velocity, but many systems shape the joystick voltage output, to achieve fine control and greater tracking accuracy as the joystick output approaches zero, whilst retaining the same maximum output capability.
+To improve fine-grained control of the aircraft, a non-linear input mapping is applied to the joystick signal. Previous research in human-machine interfaces indicates that high-quality force tracking systems often employ non-linear response curves, enabling increased precision near the neutral position while preserving full-range output capability \parencite{lovesay2003ergonomics}.
 
-In this implementation, input shaping combines proportional ($p$) and exponential ($e$) components to map the raw joystick input ($u$) to a target angular rate ($\tau$), as shown in Equation~\ref{eq:mapping}.
+Following this principle, the controller mapping is designed based on common flight transmitter behavior, combining proportional ($p$) and exponential ($e$) components to transform the raw joystick input ($u$) into a target angular rate ($\tau$), as shown in Equation~\ref{eq:mapping}.
 
 \begin{equation}\label{eq:mapping}
-    \tau = p \cdot u + e \cdot \text{sgn}(u) \cdot u^{2}
+\tau = p \cdot u + e \cdot \text{sgn}(u) \cdot u^{2}
 \end{equation}
 
 This mapping provides fine-grained control for small joystick inputs, enabling precise attitude adjustments, while producing stronger control responses at larger inputs to support rapid maneuvers.
