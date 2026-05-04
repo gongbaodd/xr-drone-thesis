@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777924168.91304 "main.bcf" "main.bbl" "main" 1777925451.41683 0
-  "main.bcf" 1777925451.17932 144345 805b04518cd75756844a5c991705ed9d "pdflatex"
+["biber main"] 1777927252.27107 "main.bcf" "main.bbl" "main" 1777927366.17416 0
+  "main.bcf" 1777927365.95226 144345 4a0f1f1abf7ce27a9260580c6079fe9b "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -44,7 +44,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777925439.5308 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777925451.41881 0
+["pdflatex"] 1777927354.10436 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777927366.17533 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -354,15 +354,15 @@
   "img/webxr.png" 1777920504.05853 517948 1b0ff0728044abdc3d55a1ab7d4751ca ""
   "img/white-box.png" 1777641920.19991 602365 58bd983f0c2359ef26d18a8589347503 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777925451.14332 52015 099641e281c94311b70062115371946f "pdflatex"
-  "main.bbl" 1777924172.90232 368072 65971f4acaaa50d847efddf6b7d9b123 "biber main"
-  "main.out" 1777925451.17432 17757 4295e1be1bf5adaa672f1aee368f3f19 "pdflatex"
-  "main.run.xml" 1777925451.18275 3765 e0436e9338dbec215610fc0a994c0ec8 "pdflatex"
+  "main.aux" 1777927365.91725 52016 d70b032579e7228e0ce0257da447872d "pdflatex"
+  "main.bbl" 1777927255.63428 368072 65971f4acaaa50d847efddf6b7d9b123 "biber main"
+  "main.out" 1777927365.94725 17757 4295e1be1bf5adaa672f1aee368f3f19 "pdflatex"
+  "main.run.xml" 1777927365.95485 3765 e0436e9338dbec215610fc0a994c0ec8 "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777925451.18275 10531 da5af8ca7041449ebf2e8c9f56e1b112 "pdflatex"
+  "main.toc" 1777927365.95485 10531 f74866e8a3b6a5bb0992194eed55504f "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "main/_02_abstract_page.tex" 1777905409.47328 1821 3e55cf4469edbbce2802f9d26d26ee66 ""
-  "main/_03_introduction.tex" 1777651939.62355 3753 8389ecf48e23c243c61cd0279dc8ef30 ""
+  "main/_03_introduction.tex" 1777926892.55049 4084 ba52f03fab9371b9784255ecc128ca93 ""
   "main/_04_theoretical_background.tex" 1777652317.38869 476 dce6b6933e57d0f9ce0c6762abe2e3fa ""
   "main/_05_methodology.tex" 1777626583.06134 300 9a68ac4150e0bf9c834bce185b2dce23 ""
   "main/_06_result.tex" 1777924216.90776 1382 329ead3c94252d8cf687dacec6d64428 ""
@@ -402,8 +402,8 @@
   "theoretical_background/co-trainer/fpv_sim.tex" 1777906760.87602 1611 d08d496b0f891944257201a29ff11b2e ""
   "theoretical_background/co-trainer/hac.tex" 1777553856.29281 3026 23617f4907190f020a949d6b3062d63d ""
   "theoretical_background/co-trainer/rl.tex" 1777667440.61785 2440 32a0cbeb0295b1b6dcab9092ee32f398 ""
-  "theoretical_background/quadrotor/01_intro.tex" 1777652780.98742 1768 561846795f7de833b486efb64e697013 ""
-  "theoretical_background/quadrotor/02_physics.tex" 1777921217.69354 4112 6e0de48d0c51ebcfb215cbc3ec177514 ""
+  "theoretical_background/quadrotor/01_intro.tex" 1777927353.7098 1903 6a1dd488d018450eb09092949bac1509 ""
+  "theoretical_background/quadrotor/02_physics.tex" 1777927212.51905 3951 00f95b2827b3ab28a79cf8ac2d8d44ba ""
   "theoretical_background/quadrotor/03_hci.tex" 1777666508.28279 3319 a1e5ec59eca01a3fff0dbd9afb7d2683 ""
   "theoretical_background/quadrotor/04_pid.tex" 1777915969.66469 2594 3b0fddd8c26dc7ce28ca47bbcf443407 ""
   "theoretical_background/rq.tex" 1777655478.38988 3806 29055b3996f0d26610a875ff6cfb7ffd ""
