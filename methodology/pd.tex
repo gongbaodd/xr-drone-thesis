@@ -1,15 +1,6 @@
-\subsubsection{Design of a PID based HAC}
+\subsubsection{Design of a PID-Based HAC}
 
-\begin{figure}[H]
-    \caption{Comparison of PID and PD}\label{fig:pd}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/pid.png}
-    \begin{flushleft}
-    \textit{Note. Adapted from \parencite{lynch2017modern}} 
-    \end{flushleft}
-\end{figure}
-
-Proportional integral derivative (PID) shown in \cref{eq:pid} can be applied for making a simple aviation helper in piloting the quadcopter. For basic flight stabilization, a simple PD action can provide satisfactory performance shown in \cref{fig:pd}.
+Proportional integral derivative (PID) shown in \cref{eq:pid} can be applied for making a simple aviation human-AI collaboration (HAC) agent in piloting the quadcopter. 
 
 For attitude control, The error between the target orientation $q_{\text{target}}$ and the current body orientation $q_{\text{body}}$ is defined as \cref{eq:attitude}.
 
@@ -17,9 +8,7 @@ For attitude control, The error between the target orientation $q_{\text{target}
     \Delta q = q_{\text{target}} \cdot q_{\text{body}}^{-1}
 \end{equation}
 
-Using Unity's ToAngleAxis method, this relative rotation is converted into an angle $\phi$ and an axis $\mathbf{n}$. The error vector $\mathbf{e}$ is then $\mathbf{e} = \phi \cdot \mathbf{n}$.
-
-The controller applies a PD loop (Proportional-Derivative) to generate corrective torque shown in \cref{eq:pdt}.
+Using Unity's ToAngleAxis method, this relative rotation is converted into an angle $\phi$ and an axis $\mathbf{n}$. The error vector $\mathbf{e}$ is then $\mathbf{e} = \phi \cdot \mathbf{n}$. The controller applies a PID loop to generate corrective torque shown in \cref{eq:pdt}.
 
 \begin{equation}\label{eq:pdt}
     \boldsymbol{\tau}_{\text{world}} = K_p \cdot \mathbf{e} + K_d \cdot \frac{\mathbf{e} - \mathbf{e}_{k-1}}{\Delta t}
@@ -38,7 +27,7 @@ Following a path requires a look-ahead method. Given current position $\mathbf{p
 The Outer Loop converts this error into a desired velocity in the world axis as shown in \cref{eq:outerLoop}.
 
 \begin{equation}\label{eq:outerLoop}
-    v_{x,\text{des}} = \text{PD}_X(e_x),\quad v_{z,\text{des}} = \text{PD}_Z(e_z)
+    v_{x,\text{des}} = \text{PID}_X(e_x),\quad v_{z,\text{des}} = \text{PID}_Z(e_z)
 \end{equation}
 
 To translate these into drone-relative commands (Pitch/Roll), the world velocity is projected onto the drone's Heading Axis: (1) Forward Basis: $\hat{\mathbf{f}} = R_y(\psi)\,\hat{\mathbf{z}}_{\text{forward}}$; (2) Right Basis: $\hat{\mathbf{r}} = R_y(\psi)\,\hat{\mathbf{x}}_{\text{right}}$; The projections shown as \cref{eq:projection}. Where $e_{v,\parallel}$ is the longitudinal velocity error,  $e_{v,\perp}$ is the lateral velocity error.

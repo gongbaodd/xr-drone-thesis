@@ -1,8 +1,8 @@
-\subsubsection{Design of a RL based HAC}
+\subsubsection{Design of a RL-Based HAC}
 
-Unity's ML-Agents \cref{fig:agent} enable games and simulations to serve as environments for training intelligent agents in Unity. Training can be done with reinforcement learning, imitation learning, neuroevolution, or any other methods. Trained agents can be used for many use cases, including controlling NPC behavior (in a variety of settings such as multi-agent and adversarial), automated testing of game builds and evaluating different game design decisions pre-release.
+Alternatively, reinforcement learning (RL) can also be used in building an HAC agent with Unity's Machine Learning Agents (ML-Agents). ML-Agents allows developers to utilize games and simulations as training environments for intelligent agents. These agents can be trained using various paradigms, including reinforcement learning, imitation learning, and neuroevolution. Practical applications of trained agents encompass the control of non-player character (NPC) behavior in multi-agent or adversarial settings, automated game build testing, and the pre-release evaluation of game design decisions.
 
-Every Learning Environment will always have one Agent for every character in the scene. While each Agent must be linked to a Behavior, it is possible for Agents that have similar observations and actions to have the same Behavior.
+To facilitate training, a configuration file is typically required for the Python API, with Proximal Policy Optimization (PPO) serving as the predominant algorithm. The Python API interacts with the Unity environment via a communicator to execute the training process. Upon completion, the trained model is exported as an Open Neural Network Exchange (ONNX) file, which is subsequently used for agent inference and control. Furthermore, Unity provides a heuristic API for debugging and imitation learning (IL), enabling manual control over agents and the adjustment of training outcomes, as illustrated in \cref{fig:agent}.
 
 \input{figure/agent.tex}
 
@@ -13,7 +13,7 @@ Proximal Policy Optimization (PPO) is an on-policy actor-critic algorithm that u
 The optimization objective is defined as \cref{eq:ppo} shows.
 
 \begin{equation}\label{eq:ppo}
-    L^{CLIP}(\theta) = \hat{\mathbb{E}}_t [ \min(r_t(\theta)\hat{A}_t, \text{text{clip}}(r_t(\theta), 1-\epsilon, 1+\epsilon)\hat{A}_t) ]
+L^{CLIP}(\theta) = \hat{\mathbb{E}}_t [ \min(r_t(\theta)\hat{A}_t, \text{clip}(r_t(\theta), 1-\epsilon, 1+\epsilon)\hat{A}_t) ]
 \end{equation}
 
 \begin{itemize}
@@ -24,4 +24,4 @@ The optimization objective is defined as \cref{eq:ppo} shows.
     \item $\epsilon$ is a hyperparameter, usually $0.1$ or $0.2$
 \end{itemize}
 
-Compared with a PD AI agent, a reinforcement learning-based AI agent does not require repeated testing to fine-tune parameters. Decisions are executed through a Decision Requester, which makes it easier to adjust the request frequency and pacing. However, as a black-box approach, it can be more difficult to achieve optimal performance or interpret and refine its behavior.
+Compared with a PID AI agent, a reinforcement learning-based AI agent does not require repeated testing to fine-tune parameters. Decisions are executed through a Decision Requester, which makes it easier to adjust the request frequency and pacing. However, as a black-box approach, it can be more difficult to achieve optimal performance or interpret and refine its behavior.

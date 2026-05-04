@@ -10,4 +10,17 @@ The idealized control law is expressed as \cref{eq:pid}.
     u(t) = K_p e(t) + K_i \int e(t) dt + K_d \frac{de(t)}{dt}
 \end{equation}
 
+PID control should be applied with careful parameter tuning, as the integral term ($K_i$) may introduce undesirable effects. While the integral component is essential for eliminating steady-state error,  improperly tuned integral action can lead to increased overshoot behavior. This phenomenon is commonly associated with integral windup and delayed error correction, as illustrated in \cref{fig:pd}.
+
+\begin{figure}[H]
+    \caption{Comparison of PID and PD}\label{fig:pd}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/pid.png}
+    \begin{flushleft}
+    \textit{Note. Adapted from \parencite{lynch2017modern}} 
+    \end{flushleft}
+\end{figure}
+
+In certain applications, such as real-time drone attitude stabilization, a Proportional-Derivative (PD) controller may be sufficient. This is because the primary objective in such scenarios is to achieve fast and stable responses rather than eliminating steady-state error entirely. Moreover, user-controlled inputs, such as joystick commands, do not necessarily require exact convergence to a fixed reference value. As a result, omitting the integral component can simplify the control system and improve responsiveness.
+
 

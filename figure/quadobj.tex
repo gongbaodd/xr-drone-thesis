@@ -10,23 +10,23 @@
     }
 
     % 定义组件类
-    \umlclass[x=-7, y=-3]{Rigidbody}{
+    \umlclass[x=-7, y=-1]{Rigidbody}{
         + Mass: float \\
         + useGravity: boolean \\
     }{}
-    \umlclass[x=-4, y=-6]{YueInputModule}{
+    \umlclass[x=-4, y=-4]{YueInputModule}{
         + rawInputLeftHorizontal: float \\
         + rawInputLeftVertial: float \\
         \dots
     }{}
-    \umlclass[x=3, y=-6.5]{YueDronePhysics}{
+    \umlclass[x=3, y=-4.5]{YueDronePhysics}{
         + Armed: boolearn \\
         + PID configuration: ScriptableObject \\
         + AppliedTorque: Vector3 \\
         + AppliedForce: Vector3 \\
         \dots
     }{}
-    \umlclass[x=7, y=-3]{DroneXrEmulator}{
+    \umlclass[x=7, y=-1]{DroneXrEmulator}{
         + inputsource: Enum \\
         \dots
     }{}

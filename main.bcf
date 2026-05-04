@@ -3124,68 +3124,68 @@
     <bcf:citekey order="13" intorder="1">usama2021fpv</bcf:citekey>
     <bcf:citekey order="14" intorder="1">bennett1993pid</bcf:citekey>
     <bcf:citekey order="15" intorder="1">idrissi_review_2022</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">kolb1984</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">almeida_learning_2010</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">knobovitch_virtual_2025</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">marougkas_virtual_2023</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">liu_research_2025</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">lynch2017modern</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">almeida_learning_2010</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">knobovitch_virtual_2025</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">marougkas_virtual_2023</bcf:citekey>
     <bcf:citekey order="21" intorder="1">liu_research_2025</bcf:citekey>
     <bcf:citekey order="22" intorder="1">liu_research_2025</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">narayanasamy_distinguishing_2006</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">dai_educational_2022</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">pappas_generic_2025</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">garcia-sanchez_georgios_2019</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">dablander_future_2024</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">liu_research_2025</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">narayanasamy_distinguishing_2006</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">dai_educational_2022</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">pappas_generic_2025</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">garcia-sanchez_georgios_2019</bcf:citekey>
     <bcf:citekey order="28" intorder="1">dablander_future_2024</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">gao2025humancenteredhumanaicollaborationhchac</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">lin_beyond_2023</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">zhang_human-ai_2025</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">gao2025humancenteredhumanaicollaborationhchac</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">kolb1984</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">yu2025depth</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">barto2019rl</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">kaelbling1996rl</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">rendevski2022vr</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">gdc2026report</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">openxr2024spec</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">w3c2022webxr</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">davari_towards_2024</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">openxr2024spec</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">dablander_future_2024</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">gao2025humancenteredhumanaicollaborationhchac</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">lin_beyond_2023</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">zhang_human-ai_2025</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">gao2025humancenteredhumanaicollaborationhchac</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">kolb1984</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">yu2025depth</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">barto2019rl</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">kaelbling1996rl</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">rendevski2022vr</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">gdc2026report</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">openxr2024spec</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">w3c2022webxr</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">davari_towards_2024</bcf:citekey>
     <bcf:citekey order="43" intorder="1">openxr2024spec</bcf:citekey>
     <bcf:citekey order="44" intorder="1">openxr2024spec</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">schmalstieg_augmented_2016</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">rolland_head-mounted_2005</bcf:citekey>
-    <bcf:citekey order="46" intorder="2">billinghurst_survey_2015</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">bailenson2024passthrough</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">waldow_investigating_2025</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">openxr2024spec</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">schmalstieg_augmented_2016</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">rolland_head-mounted_2005</bcf:citekey>
+    <bcf:citekey order="47" intorder="2">billinghurst_survey_2015</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">bailenson2024passthrough</bcf:citekey>
     <bcf:citekey order="49" intorder="1">waldow_investigating_2025</bcf:citekey>
-    <bcf:citekey order="50" intorder="1">openxr2024spec</bcf:citekey>
-    <bcf:citekey order="51" intorder="1">mine_virtual_1995</bcf:citekey>
-    <bcf:citekey order="51" intorder="2">bowman_evaluation_1997</bcf:citekey>
-    <bcf:citekey order="52" intorder="1">shah_airsim_2017</bcf:citekey>
-    <bcf:citekey order="53" intorder="1">pappas_generic_2025</bcf:citekey>
-    <bcf:citekey order="54" intorder="1">guide_best_2026</bcf:citekey>
-    <bcf:citekey order="55" intorder="1">ebeid_survey_2018</bcf:citekey>
-    <bcf:citekey order="56" intorder="1">wang_influence_2026</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">jong_design-based_2017</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">wang_influence_2026</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">jong_design-based_2017</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">Beck2004XP</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">waldow_investigating_2025</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">openxr2024spec</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">mine_virtual_1995</bcf:citekey>
+    <bcf:citekey order="52" intorder="2">bowman_evaluation_1997</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">shah_airsim_2017</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">pappas_generic_2025</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">guide_best_2026</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">ebeid_survey_2018</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">wang_influence_2026</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">jong_design-based_2017</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">wang_influence_2026</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">jong_design-based_2017</bcf:citekey>
     <bcf:citekey order="61" intorder="1">Beck2004XP</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">keith2010agile</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">Beck2004XP</bcf:citekey>
     <bcf:citekey order="63" intorder="1">keith2010agile</bcf:citekey>
-    <bcf:citekey order="64" intorder="1">ezhil_comparative_nodate</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">shatokhin_extended_2025</bcf:citekey>
-    <bcf:citekey order="66" intorder="1">unity_env_track_lowpoly</bcf:citekey>
-    <bcf:citekey order="67" intorder="1">unity_fantasy_skybox</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">unity_floor_materials</bcf:citekey>
-    <bcf:citekey order="69" intorder="1">unity_gems_items</bcf:citekey>
-    <bcf:citekey order="70" intorder="1">maniulit_learning_2026</bcf:citekey>
-    <bcf:citekey order="71" intorder="1">betafpv2022manual</bcf:citekey>
-    <bcf:citekey order="72" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">keith2010agile</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">ezhil_comparative_nodate</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">shatokhin_extended_2025</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">unity_env_track_lowpoly</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">unity_fantasy_skybox</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">unity_floor_materials</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">unity_gems_items</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">maniulit_learning_2026</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">betafpv2022manual</bcf:citekey>
     <bcf:citekey order="73" intorder="1">yuetility2022fpvphysics</bcf:citekey>
-    <bcf:citekey order="74" intorder="1">lovesay2003ergonomics</bcf:citekey>
-    <bcf:citekey order="75" intorder="1">lynch2017modern</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">yuetility2022fpvphysics</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">lovesay2003ergonomics</bcf:citekey>
     <bcf:citekey order="76" intorder="1">paredes2021quadcopter</bcf:citekey>
     <bcf:citekey order="77" intorder="1">openai2017ppo</bcf:citekey>
     <bcf:citekey order="78" intorder="1">yu2025depth</bcf:citekey>
