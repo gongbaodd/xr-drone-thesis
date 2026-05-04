@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777793476.34946 "main.bcf" "main.bbl" "main" 1777905181.1125 0
-  "main.bcf" 1777905180.8646 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
+["biber main"] 1777793476.34946 "main.bcf" "main.bbl" "main" 1777905422.0663 0
+  "main.bcf" 1777905421.85896 144021 d0f6c16e57d827d59f543ae471cae083 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -43,7 +43,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777905168.46825 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777905181.11404 0
+["pdflatex"] 1777905409.87431 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777905422.06848 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -351,20 +351,20 @@
   "img/ui.png" 1777328711.04826 101103 c69a4b127cd39d62f739c214d7a4e5e6 ""
   "img/white-box.png" 1777641920.19991 602365 58bd983f0c2359ef26d18a8589347503 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777905180.8286 50279 929dbb01cdb14b115182ab4043907cb1 "pdflatex"
+  "main.aux" 1777905421.83196 50279 929dbb01cdb14b115182ab4043907cb1 "pdflatex"
   "main.bbl" 1777793479.8234 360718 6490f5c3003fb566a054e85687f7974c "biber main"
-  "main.out" 1777905180.8586 17346 41f54bd444f4d5fd1aa5c30a4869049e "pdflatex"
-  "main.run.xml" 1777905180.8666 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
+  "main.out" 1777905421.85496 17346 41f54bd444f4d5fd1aa5c30a4869049e "pdflatex"
+  "main.run.xml" 1777905421.86244 3729 7b470228aaa8836777be27a093ea466e "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777905180.8666 10210 a0f34ad72293904088a0a49017867133 "pdflatex"
+  "main.toc" 1777905421.86244 10210 a0f34ad72293904088a0a49017867133 "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
-  "main/_02_abstract_page.tex" 1777792656.49416 1777 7ac0cb66dd79db94db8d86c9ab90c23f ""
+  "main/_02_abstract_page.tex" 1777905409.47328 1821 3e55cf4469edbbce2802f9d26d26ee66 ""
   "main/_03_introduction.tex" 1777651939.62355 3753 8389ecf48e23c243c61cd0279dc8ef30 ""
   "main/_04_theoretical_background.tex" 1777652317.38869 476 dce6b6933e57d0f9ce0c6762abe2e3fa ""
   "main/_05_methodology.tex" 1777626583.06134 300 9a68ac4150e0bf9c834bce185b2dce23 ""
   "main/_06_result.tex" 1777755461.33498 1110 70a6022d1d7e89b8d880853018780e3f ""
   "main/_07_discussion.tex" 1777715744.00161 263 ae064b49ed379ac404d3624e1890ed25 ""
-  "main/_08_summary.tex" 1777905155.63928 2621 e840a9ee8d3aa9bec2003052b96f8cee ""
+  "main/_08_summary.tex" 1777905232.18522 2621 e840a9ee8d3aa9bec2003052b96f8cee ""
   "main/_09_appendix.tex" 1777649613.33975 170 0cd26b9e4ba41d80dcb297b5fc78c212 ""
   "methodology/XRUI.tex" 1777572966.47921 2681 d29ca08ddb6a34f598c889b50eeb28f7 ""
   "methodology/agile.tex" 1777582032.97852 1731 64516cec6124bdbe8a5fdef3590b7ab1 ""
