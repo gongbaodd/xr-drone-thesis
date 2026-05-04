@@ -6,7 +6,7 @@ An initial XR control architecture was implemented to enable direct manipulation
 
 The YueInputModule translates controller signals into normalized control inputs, which are then processed by YueDronePhysics to generate physically consistent forces and torques applied to the drone body. To support XR interaction, a DroneXrEmulator component was introduced to map Meta Quest Touch controller inputs to the control system.
 
-Additionally, video passthrough functionality was enabled by incorporating AR session management and camera background rendering within the XR scene configuration.
+Additionally, video passthrough functionality was enabled by incorporating AR session management and camera background rendering within the XR scene configuration. This scene is designed to function as a tutorial environment. By situating users in a familiar physical context, the system aims to enhance their sense of presence and embodiment, allowing them to strengthen the feeling of being physically present in the VR environment without negatively affecting performance or causing sickness \parencite{waldow_investigating_2025}.
 
 \input{figure/quadobj.tex}
 
@@ -15,14 +15,15 @@ Additionally, video passthrough functionality was enabled by incorporating AR se
 
 The implemented system enabled real-time control of the drone within an XR environment. Users were able to manipulate the drone using handheld controllers, with input signals successfully mapped to physical drone behavior. A representative scene is shown in \cref{fig:drone-in-xr}, where the drone is controlled in a passthrough-enabled mixed reality setting.
 
-\begin{figure}[H]
-    \caption{Controlling the drone in an XR environment}\label{fig:drone-in-xr}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/stages/drone-control.png}
-\end{figure}
-
 \paragraph{Analysis}
 
 Initial testing revealed several usability challenges. Participants experienced difficulty in stabilizing the drone, including unintended drift, persistent yaw motion, and challenges in maintaining orientation. In several cases, users were unaware of slight joystick deflections that continuously affected control input.
 
 These observations indicate that direct mapping of controller input to drone physics, without additional feedback or guidance, imposes a high cognitive and motor control burden on users.
+
+
+\begin{figure}[H]
+    \caption{Controlling the drone in an XR environment}\label{fig:drone-in-xr}
+    \centering
+    \includegraphics[width=0.8\linewidth]{img/stages/drone-control.png}
+\end{figure}
