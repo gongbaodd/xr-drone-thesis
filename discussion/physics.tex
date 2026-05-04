@@ -2,11 +2,7 @@
 
 This study adopts Yue's Ultimate Drone physics model \parencite{yuetility2022fpvphysics} as a reference implementation for simulating first-person view (FPV) quadcopter flight dynamics. The model employs a proportional-derivative (PD) control approach for flight stabilization, which is widely used in modern quadcopter systems.
 
-In addition, a mapping strategy was developed to translate the controller profile of the Meta Quest into a simulated drone transmitter, thereby enabling intuitive user interaction within the virtual environment.
-
-To ensure safe operation during simulation, the environment incorporates collider-based boundaries that constrain the quadcopter within a predefined area.
-
-\subsubsection{Comparison With Existing Simulators}
+In addition, a mapping strategy was developed to translate the controller profile of the Meta Quest into a simulated drone transmitter, thereby enabling intuitive user interaction within the virtual environment. To ensure safe operation during simulation, the environment incorporates collider-based boundaries that constrain the quadcopter within a predefined area.
 
 FPV simulators (e.g., Liftoff, Uncrashed) primarily adopt cascaded proportional-integral-derivative (PID) control models to replicate real-world flight controllers. These systems typically support multiple controller configurations and provide interfaces for PID parameter tuning. However, such configurations can be difficult for beginners to set up with their own controllers.
 

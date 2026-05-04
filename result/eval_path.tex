@@ -4,7 +4,7 @@ In this iteration, the drone was designed to follow a predefined path consisting
 
 \paragraph{Design}
 
-During the execution of the path-following task, the drone’s position, rotation, and raw joystick inputs were recorded. The evaluation focuses on four visual analyses: (1) jerk magnitude over time, defined as $J = \sqrt{j_x^2 + j_y^2 + j_z^2}$, to assess motion smoothness; (2) throttle and pitch signals over time to examine forward flight behaviour; (3) yaw and roll signals over time to evaluate turning behaviour; and (4) a 3D trajectory plot to verify whether the intended path was successfully followed.
+During the execution of the path-following task, the drone's position, rotation, and raw joystick inputs were recorded. The evaluation focuses on four visual analyses: (1) jerk magnitude over time, defined as the time derivative of acceleration and computed as $J = \sqrt{j_x^2 + j_y^2 + j_z^2}$, to assess motion smoothness; (2) throttle and pitch signals over time to examine forward flight behavior; (3) yaw and roll signals over time to evaluate turning behavior; and (4) a 3D trajectory plot to verify whether the intended path was successfully followed.
 
 \paragraph{Enactment}
 
@@ -18,6 +18,6 @@ The results are shown in \cref{fig:path_result}. The left figure illustrates the
 
 \paragraph{Analysis}
 
-As observed in the results, consistent with the previous iteration, the controller performs well during take-off and hovering phases. However, during forward flight, the pitch signal exhibits noticeable instability, occasionally taking negative values, indicating unintended backward motion. A similar issue is observed during turning behaviour, where yaw and roll signals show inconsistent and negatively correlated patterns, whereas a positively correlated relationship would be expected under stable coordinated control.
+As observed in the results in \cref{fig:path_result}, consistent with the previous iteration, the controller performs well during take-off and hovering phases. However, during forward flight, the pitch signal exhibits noticeable instability, occasionally taking negative values, indicating unintended backward motion. A similar issue can be seen during turning behavior, the bottom graph, where yaw and roll signals show inconsistent and negatively correlated patterns, whereas a positively correlated relationship would be expected under stable coordinated control.
 
 Despite these instabilities, the system demonstrates sufficient functional performance for integration with the XR environment at its current stage of development.

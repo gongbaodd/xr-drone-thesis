@@ -1,25 +1,17 @@
-\subsection{Future Work}
-
-\subsubsection{Evaluation Methodology for XR-Based Drone Prototyping}
-
-Future work should develop more reliable evaluation methods for XR-based drone prototyping systems. In current user studies, participants may have very different levels of experience with XR devices, which can strongly affect their performance and learning speed.
-
-To address this issue, future studies should consider designing evaluation protocols that reduce the influence of prior XR familiarity.
+\subsubsection{Future Work}
 
 % drone physics
-\subsubsection{Extending to Acrobatic Flight Mode}
+\paragraph{Extending to Acrobatic Flight Mode}
 
-Future work should extend the current self-leveling flight system to include acrobatic (acro) mode. While acro mode enables more expressive and realistic quadcopter control, it also introduces significantly higher control complexity and instability. This extension raises several research challenges, including crash detection, recovery mechanisms, and AI-assisted strategies. 
-
-From a game design perspective, it is also important to investigate circumstances, such as penalties or reset mechanisms.
+Future work should extend the current self-leveling flight system to include acrobatic (acro) mode. While acro mode enables more expressive and realistic quadcopter control, it also introduces significantly higher control complexity and instability. This extension raises several research challenges, including crash detection, recovery mechanisms, and AI-assisted strategies. From a game design perspective, it is also important to investigate circumstances, such as penalties or reset mechanisms.
 
 % xr
-\subsubsection{Designing Multimodal Feedback Mechanisms}
+\paragraph{Designing Multimodal Feedback Mechanisms}
 
 Future research should explore the integration of multimodal feedback, including audio, and haptic channels, to enhance user awareness during flight control. Rather than simply adding additional feedback modalities, it is important to investigate their placement, timing, and intensity, as these parameters may significantly affect cognitive load and learning performance. A systematic study of feedback design space could provide guidelines for more effective XR interaction design.
 
 % HAC
-\subsubsection{Reinforcement Learning for Path-Following Control}
+\paragraph{Reinforcement Learning for Path-Following Control}
 
 While hovering control can be effectively modeled using distance-based feedback, path-following tasks require reasoning over more complex spatial and temporal dependencies. Manually designing such features is often inefficient and difficult to generalize.
 
@@ -28,17 +20,17 @@ The initial scope of this study focused on supporting the formation of motor ski
 However, this approach was not fully implemented in the current system. Future work should investigate RL-based methods that can automatically learn control policies from richer representations. Such approaches may support a transition from target-based navigation toward more general vision-based flight control systems.
 
 % HAC
-\subsubsection{Imitation Learning for Human-Guided Control}
+\paragraph{Imitation Learning for Human-Guided Control}
 
 Although imitation learning provides a promising direction for human-aligned control policies, it requires large-scale and high-quality human demonstration data. In the context of XR drone interaction, collecting such data introduces challenges in consistency, labeling, and user variability.
 
 Future research should investigate efficient data collection strategies, including semi-automated annotation or human-in-the-loop learning, to reduce the overhead of dataset construction and improve training efficiency.
 
 % Learning
-\subsubsection{Extending to Concept Transfer}
+\paragraph{Extending to Concept Transfer}
 
 This study primarily focuses on training operators' muscle memory to support near transfer in drone control tasks. In contrast, concept transfer involves far transfer processes, such as understanding drone physics and assembling knowledge.
 
 Existing FPV drone simulators also provide customization features, such as allowing users to decorate or configure their own devices. In such contexts, a goal-oriented action planning (GOAP) agent may be applicable to support the system behavior.
 
-Future research should investigate how such approaches can enhance user engagement and learning outcomes. In addition, these mechanisms may be integrated into points-badges-leaderboard (PBL) systems as part of a gamification strategy to reinforce learning motivation.
+Future research should investigate how such approaches can enhance user engagement and learning outcomes. In addition, these mechanisms may be integrated into points-badges-leaderboard (PBL) systems as part of a strategy to reinforce learning motivation.
