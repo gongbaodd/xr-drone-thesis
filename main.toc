@@ -35,7 +35,7 @@
 \contentsline {subsubsection}{\numberline {3.2.2}Materials and Equipment: Game Assets, AI, and Tools}{32}{subsubsection.3.2.2}%
 \contentsline {paragraph}{Game Assets}{32}{subsubsection.3.2.2}%
 \contentsline {paragraph}{Use of AI}{33}{subsubsection.3.2.2}%
-\contentsline {paragraph}{Tools Used}{33}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Additional Tools Used}{33}{subsubsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.3}Implement Quadcopter Simulation}{33}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Controller Mapping}{33}{subsubsection.3.3.1}%
 \contentsline {subsubsection}{\numberline {3.3.2}Flight Modes and Orientation Logic}{35}{subsubsection.3.3.2}%
