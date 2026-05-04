@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  5 MAY 2026 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  5 MAY 2026 01:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1570,68 +1570,70 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 ) [48 <./img/stages/drone-control.png>] [49]
-<img/stages/structure.png, id=883, 1296.34312pt x 453.94594pt>
+<img/stages/structure.png, id=884, 1296.34312pt x 453.94594pt>
 File: img/stages/structure.png Graphic file (type png)
 <use img/stages/structure.png>
-Package pdftex.def Info: img/stages/structure.png  used on input line 35.
+Package pdftex.def Info: img/stages/structure.png  used on input line 37.
 (pdftex.def)             Requested size: 375.80544pt x 131.59938pt.
 ) (./result/real.tex [50 <./img/stages/structure.png>]
-<img/Tallinn.png, id=895, 429.85594pt x 371.13657pt>
+<img/Tallinn.png, id=896, 429.85594pt x 371.13657pt>
 File: img/Tallinn.png Graphic file (type png)
 <use img/Tallinn.png>
 Package pdftex.def Info: img/Tallinn.png  used on input line 18.
 (pdftex.def)             Requested size: 281.85587pt x 243.35956pt.
-<img/real.png, id=897, 602.25pt x 347.04657pt>
+ [51]
+<img/real.png, id=903, 602.25pt x 347.04657pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
 Package pdftex.def Info: img/real.png  used on input line 26.
 (pdftex.def)             Requested size: 281.85587pt x 162.4235pt.
- [51 <./img/Tallinn.png>]) (./result/white-box.tex
-<img/white-box.png, id=906, 1023.825pt x 505.13719pt>
+ [52 <./img/Tallinn.png> <./img/real.png>]) (./result/white-box.tex
+<img/white-box.png, id=912, 1023.825pt x 505.13719pt>
 File: img/white-box.png Graphic file (type png)
 <use img/white-box.png>
 Package pdftex.def Info: img/white-box.png  used on input line 14.
 (pdftex.def)             Requested size: 375.80544pt x 185.41023pt.
- [52 <./img/real.png>]) (./result/explore.tex [53 <./img/white-box.png>]) (./result/pid.tex
-<img/ui.png, id=920, 585.68813pt x 303.38344pt>
+) (./result/explore.tex [53 <./img/white-box.png>]) (./result/pid.tex [54]
+<img/ui.png, id=925, 375.65344pt x 186.6975pt>
 File: img/ui.png Graphic file (type png)
 <use img/ui.png>
-Package pdftex.def Info: img/ui.png  used on input line 16.
-(pdftex.def)             Requested size: 375.80544pt x 194.67395pt.
- [54]) (./result/rl.tex [55 <./img/ui.png>]
-<img/result.png, id=934, 602.25pt x 175.40532pt>
+Package pdftex.def Info: img/ui.png  used on input line 20.
+(pdftex.def)             Requested size: 281.85587pt x 140.08829pt.
+ [55 <./img/ui.png>]) (./result/rl.tex
+<img/result.png, id=935, 602.25pt x 175.40532pt>
 File: img/result.png Graphic file (type png)
 <use img/result.png>
 Package pdftex.def Info: img/result.png  used on input line 18.
 (pdftex.def)             Requested size: 469.75502pt x 136.82094pt.
-<img/hover.png, id=936, 1128.46594pt x 337.26pt>
+ [56]
+<img/hover.png, id=942, 1128.46594pt x 337.26pt>
 File: img/hover.png Graphic file (type png)
 <use img/hover.png>
 Package pdftex.def Info: img/hover.png  used on input line 26.
 (pdftex.def)             Requested size: 469.75502pt x 140.39256pt.
- [56 <./img/result.png>]) (./result/eval_hover.tex [57 <./img/hover.png>]
+ [57 <./img/result.png> <./img/hover.png>]) (./result/eval_hover.tex
 <img/result_hovering.png, id=953, 859.2903pt x 498.663pt>
 File: img/result_hovering.png Graphic file (type png)
 <use img/result_hovering.png>
 Package pdftex.def Info: img/result_hovering.png  used on input line 36.
 (pdftex.def)             Requested size: 375.80544pt x 218.08842pt.
-) (./result/eval_path.tex [58 <./img/result_hovering.png>]
+ [58]) (./result/eval_path.tex [59 <./img/result_hovering.png>]
 File: img/path.png Graphic file (type png)
 <use img/path.png>
 Package pdftex.def Info: img/path.png  used on input line 16.
 (pdftex.def)             Requested size: 469.75502pt x 158.41444pt.
- [59]) (./result/integration.tex (./figure/hud.tex
+) (./result/integration.tex [60] (./figure/hud.tex
 Overfull \hbox (20.16261pt too wide) in paragraph at lines 44--45
  [][] 
  []
 
-) [60]
+)
 <img/integration.png, id=974, 587.19376pt x 261.97874pt>
 File: img/integration.png Graphic file (type png)
 <use img/integration.png>
 Package pdftex.def Info: img/integration.png  used on input line 18.
 (pdftex.def)             Requested size: 375.80544pt x 167.66582pt.
- [61 <./img/integration.png>])) (./main/_07_discussion.tex [62] (./discussion/physics.tex [63]) (./discussion/cotrainer.tex) (./discussion/xr.tex [64]) (./discussion/limitation.tex [65]) (./discussion/future.tex [66] [67])) (./main/_08_summary.tex [68] [69]) [70] [71
+ [61])) (./main/_07_discussion.tex [62 <./img/integration.png>] (./discussion/physics.tex [63]) (./discussion/cotrainer.tex) (./discussion/xr.tex [64]) (./discussion/limitation.tex [65]) (./discussion/future.tex [66] [67])) (./main/_08_summary.tex [68] [69]) [70] [71
 
 ] [72] [73] [74] [75] [76] (./main/_09_appendix.tex [77]
 
@@ -1656,16 +1658,16 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  44069 strings out of 467349
  894271 string characters out of 5389291
- 1865292 words of memory out of 5000000
+ 1865541 words of memory out of 5000000
  71998 multiletter control sequences out of 15000+600000
  715690 words of font info for 151 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (78 pages, 8629203 bytes).
+Output written on main.pdf (78 pages, 9267631 bytes).
 PDF statistics:
- 1234 PDF objects out of 1440 (max. 8388607)
- 1068 compressed objects within 11 object streams
+ 1235 PDF objects out of 1440 (max. 8388607)
+ 1069 compressed objects within 11 object streams
  268 named destinations out of 1000 (max. 500000)
  819 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,18 +10,18 @@ The agent was trained using Proximal Policy Optimization (PPO) for $5 \times 10^
 
 \paragraph{Enactment}
 
-The training results showed that the agent learned to maintain stable hovering within the target range. Cumulative reward increased steadily after approximately 100k steps and plateaued around 400k steps (see Figure~\ref{fig:rl_result}). Episode length also increased, indicating improved stability.
+The machine learning process was implemented using Unity's ML-Agents toolkit, which leverages PyTorch as its underlying deep learning framework and provides training analytics for performance evaluation. The results indicate that the agent successfully learned to maintain stable hovering within the designated target range. As shown in Figure~\ref{fig:rl_result}, the cumulative reward increased steadily after approximately 100,000 training steps and plateaued around 400,000 steps. Furthermore, episode length progressively increased over time, suggesting improved flight stability and control performance.
 
 \begin{figure}[H]
-    \caption{Training result of the RL agent}\label{fig:rl_result}
+    \caption{Training performance of the reinforcement learning agent using PyTorch via Unity ML-Agents.}\label{fig:rl_result}
     \centering
     \includegraphics[width=1\linewidth]{img/result.png}
 \end{figure}
 
-In addition, the use of a decision interval (DecisionRequester) allowed the control output to be updated at a lower frequency. This produced smoother control signals compared to the PID-based approach, which aligns better with human perceptual capabilities \cref{fig:rl_hover}.
+Moreover, the use of a decision interval (DecisionRequester) enabled the control output to be updated at a lower frequency, resulting in smoother control signals compared to the PID-based approach, which aligns more closely with human perceptual capabilities (see Figure~\ref{fig:rl_hover}).
 
 \begin{figure}[H]
-    \caption{UI prototype of the RL learning agent}\label{fig:rl_hover}
+    \caption{User interface prototype of the reinforcement learning agent.}\label{fig:rl_hover}
     \centering
     \includegraphics[width=1\linewidth]{img/hover.png}
 \end{figure}

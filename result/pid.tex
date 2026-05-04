@@ -10,15 +10,15 @@ The PidDroneEmulator maps the PID controller outputs—represented as normalized
 
 The PID controller was designed to minimize the positional error between the drone and a predefined waypoint path, producing continuous joystick corrections for roll, pitch, and throttle.
 
-\begin{figure}[H]
-    \caption{Hinter UI showing PID-generated joystick signals}\label{fig:pid-ui}
-    \centering
-    \includegraphics[width=0.8\linewidth]{img/ui.png}
-\end{figure}
-
 \paragraph{Enactment}
 
 During execution, the PID controller continuously computed normalized joystick inputs based on the real-time positional error.
+
+\begin{figure}[H]
+    \caption{Hinter UI (the white dots) showing PID-generated joystick signals, while the yellow dots are the user's joystick status}\label{fig:pid-ui}
+    \centering
+    \includegraphics[width=0.6\linewidth]{img/ui.png}
+\end{figure}
 
 These computed joystick rates were visualized on a HUD (see \cref{fig:pid-ui}), allowing human users to observe the controller's intended actions. This visualization acts as an AI collaboration hinter, exposing the controller's decision-making process and providing guidance on optimal stick positions for maintaining the designated path.
 

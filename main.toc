@@ -63,35 +63,35 @@
 \contentsline {paragraph}{Design}{48}{subsubsection.4.2.2}%
 \contentsline {paragraph}{Enactment}{50}{figure.caption.22}%
 \contentsline {paragraph}{Analysis}{50}{figure.caption.23}%
-\contentsline {subsubsection}{\numberline {4.2.3}Iteration 3: Test Flight in a Realistic Environment}{50}{subsubsection.4.2.3}%
-\contentsline {paragraph}{Redesign}{50}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3}Iteration 3: Test Flight in a Realistic Environment}{51}{subsubsection.4.2.3}%
+\contentsline {paragraph}{Redesign}{51}{subsubsection.4.2.3}%
 \contentsline {paragraph}{Enactment}{51}{subsubsection.4.2.3}%
 \contentsline {paragraph}{Analysis}{52}{figure.caption.25}%
-\contentsline {subsubsection}{\numberline {4.2.4}Iteration 4: Downgraded White-Box Playground}{52}{subsubsection.4.2.4}%
-\contentsline {paragraph}{Redesign}{52}{subsubsection.4.2.4}%
-\contentsline {paragraph}{Enactment}{52}{subsubsection.4.2.4}%
-\contentsline {paragraph}{Analysis}{53}{figure.caption.26}%
-\contentsline {subsubsection}{\numberline {4.2.5}Iteration 5: Exploration in a Realistic Environment}{53}{subsubsection.4.2.5}%
-\contentsline {paragraph}{Redesign}{53}{subsubsection.4.2.5}%
-\contentsline {paragraph}{Enactment}{53}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.4}Iteration 4: Downgraded White-Box Playground}{53}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Redesign}{53}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Enactment}{53}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Analysis}{54}{figure.caption.26}%
+\contentsline {subsubsection}{\numberline {4.2.5}Iteration 5: Exploration in a Realistic Environment}{54}{subsubsection.4.2.5}%
+\contentsline {paragraph}{Redesign}{54}{subsubsection.4.2.5}%
+\contentsline {paragraph}{Enactment}{54}{subsubsection.4.2.5}%
 \contentsline {paragraph}{Analysis}{54}{subsubsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.3}Iterative Development of Human-AI Collaboration Agent}{54}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Iteration 1: PID-based Control for Path Following}{54}{subsubsection.4.3.1}%
-\contentsline {paragraph}{Design}{54}{subsubsection.4.3.1}%
-\contentsline {paragraph}{Enactment}{55}{figure.caption.27}%
-\contentsline {paragraph}{Analysis}{55}{figure.caption.27}%
-\contentsline {subsubsection}{\numberline {4.3.2}Iteration 2: Exploration of RL-Based Control (Preliminary)}{55}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3}Iterative Development of Human-AI Collaboration Agent}{55}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Iteration 1: PID-based Control for Path Following}{55}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Design}{55}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Enactment}{55}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Analysis}{56}{figure.caption.27}%
+\contentsline {subsubsection}{\numberline {4.3.2}Iteration 2: Exploration of RL-Based Control (Preliminary)}{56}{subsubsection.4.3.2}%
 \contentsline {paragraph}{Design}{56}{subsubsection.4.3.2}%
 \contentsline {paragraph}{Enactment}{56}{subsubsection.4.3.2}%
 \contentsline {paragraph}{Analysis}{57}{figure.caption.29}%
-\contentsline {subsubsection}{\numberline {4.3.3}Iteration 3: Evaluation on Hovering Task}{57}{subsubsection.4.3.3}%
-\contentsline {paragraph}{Design}{57}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3}Iteration 3: Evaluation on Hovering Task}{58}{subsubsection.4.3.3}%
+\contentsline {paragraph}{Design}{58}{subsubsection.4.3.3}%
 \contentsline {paragraph}{Enactment}{58}{table.caption.30}%
-\contentsline {paragraph}{Analysis}{58}{figure.caption.31}%
+\contentsline {paragraph}{Analysis}{59}{figure.caption.31}%
 \contentsline {subsubsection}{\numberline {4.3.4}Iteration 4: Evaluation on Path Following}{59}{subsubsection.4.3.4}%
 \contentsline {paragraph}{Design}{59}{subsubsection.4.3.4}%
-\contentsline {paragraph}{Enactment}{59}{subsubsection.4.3.4}%
-\contentsline {paragraph}{Analysis}{59}{figure.caption.32}%
+\contentsline {paragraph}{Enactment}{60}{subsubsection.4.3.4}%
+\contentsline {paragraph}{Analysis}{60}{figure.caption.32}%
 \contentsline {subsection}{\numberline {4.4}Integration: Human-AI Collaboration in an XR Environment}{60}{subsection.4.4}%
 \contentsline {paragraph}{Design}{60}{subsection.4.4}%
 \contentsline {paragraph}{Enactment}{62}{figure.caption.34}%

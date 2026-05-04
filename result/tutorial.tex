@@ -27,10 +27,12 @@ Additionally, the DroneXrEmulator \cref{fig:quad_structure} was extended with a 
 
 \paragraph{Enactment}
 
-The updated system maintained a video-passthrough XR environment while introducing structured abstractions that map directly to real-world drone control inputs. The tutorial system guided users through incremental interaction learning, while the HUD provided continuous feedback of controller input states. The inclusion of a bounded flight space ensured that users remained within a safe operational area during early learning stages.
+The updated system maintained a video-passthrough XR environment while introducing structured abstractions that directly map to real-world drone control inputs. The tutorial system guided users through incremental interaction learning, while the head-up display (HUD) continuously provided feedback on controller input states. The inclusion of a bounded flight space ensured that users remained within a safe operational area during the early stages of learning.
+
+The correspondence between the real FPV drone system and the simulation environment is illustrated in \cref{fig:interact}. In this mapping, the DroneVision GameObject simulates FPV goggles (blue connections), the Quad GameObject represents the physical drone body (orange connections), the Instruct object corresponds to a quick-start instructional guide (green connections), and the joystick controller simulates the real-world drone radio transmitter (pink connections).
 
 \begin{figure}[H]
-    \caption{Structure of the interaction system components}\label{fig:interact}
+    \caption{The correspondence between the real FPV drone system and the simulation environment}\label{fig:interact}
     \centering
     \includegraphics[width=0.8\linewidth]{img/stages/structure.png}
 \end{figure}
