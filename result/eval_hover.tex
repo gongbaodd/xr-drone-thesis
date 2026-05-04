@@ -30,16 +30,17 @@ Yaw Control & Yaw & 3.0 & 0.00 & 1.0 & 5 \\
 
 In the hovering task, the refined PID controller demonstrated stable performance. As illustrated in \cref{fig:rl_hover}, both the PID controller (orange) and the reinforcement learning (RL) agent (blue) were tasked with maintaining a constant altitude of 5 meters. Data were collected over a duration of 60 seconds. The results indicate that the PID controller maintained a relatively stable hover, whereas the RL agent exhibited greater oscillation around the target altitude. This outcome contrasts with the common expectation that RL-based agents outperform model-based controllers such as PID in control tasks.
 
+\paragraph{Analysis}
+
+After parameter tuning, the PID controller demonstrated stable and reliable altitude control in the hovering task. This level of performance was considered sufficient to proceed to the subsequent path-following evaluation.
+
+One possible explanation for the superior performance of the PID controller in this context lies in the choice of evaluation metric. In the methodology chapter, accuracy was selected as the primary metric for assessing agent performance; however, this metric may not fully capture the requirements of human-AI collaborative control. In such contexts, consistency and predictability of control signals are often more critical than strict accuracy.
+
 \begin{figure}[H]
 \caption{Hovering task results. The top plot shows throttle input, and the bottom plot shows drone altitude.}\label{fig:rl_hover}
 \centering
 \includegraphics[width=0.8\linewidth]{img/result_hovering.png}
 \end{figure}
 
-\paragraph{Analysis}
-
-After parameter tuning, the PID controller demonstrated stable and reliable altitude control in the hovering task. This level of performance was considered sufficient to proceed to the subsequent path-following evaluation.
-
-One possible explanation for the superior performance of the PID controller in this context lies in the choice of evaluation metric. In the methodology chapter, accuracy was selected as the primary metric for assessing agent performance; however, this metric may not fully capture the requirements of human-AI collaborative control. In such contexts, consistency and predictability of control signals are often more critical than strict accuracy.
 
 Revisiting \cref{fig:rl_hover}, the PID-based controller responds less effectively to sudden changes, as evidenced by noticeable oscillations in the control signal (e.g., around the 10-second mark). In contrast, although the RL agent requires further training to improve accuracy, it exhibits more consistent control outputs over short time intervals when adjusting to changes in altitude. This suggests that, under a consistency-oriented evaluation criterion, a well-tuned RL-based agent may ultimately outperform a PID controller in human-AI collaboration scenarios.

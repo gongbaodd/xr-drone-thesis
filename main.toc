@@ -28,19 +28,19 @@
 \contentsline {section}{\numberline {3}Methodology}{28}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Design Methods and Development Strategy}{28}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Design-Based Research}{28}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Agile Development}{28}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2}Agile Development}{29}{subsubsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.3}Development Strategy}{29}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Development Environment and Materials}{31}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Comparison of Development Platforms}{31}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2}Development Environment and Materials}{30}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Comparison of Development Platforms}{30}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Materials and Equipment: Game Assets, AI, and Tools}{32}{subsubsection.3.2.2}%
 \contentsline {paragraph}{Game Assets}{32}{subsubsection.3.2.2}%
-\contentsline {paragraph}{Use of AI}{33}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Use of AI}{32}{subsubsection.3.2.2}%
 \contentsline {paragraph}{Additional Tools Used}{33}{subsubsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.3}Implement Quadcopter Simulation}{33}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Controller Mapping}{33}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Flight Modes and Orientation Logic}{35}{subsubsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.4}Design of the Human-AI Collaboration}{36}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Design of a PID-Based HAC}{36}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Flight Modes and Orientation Logic}{34}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Design of the Human-AI Collaboration}{35}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Design of a PID-Based HAC}{35}{subsubsection.3.4.1}%
 \contentsline {subsubsection}{\numberline {3.4.2}Design of a RL-Based HAC}{37}{subsubsection.3.4.2}%
 \contentsline {subsubsection}{\numberline {3.4.3}Evaluation For the HAC Agents}{39}{subsubsection.3.4.3}%
 \contentsline {paragraph}{Hovering Task}{39}{subsubsection.3.4.3}%
@@ -48,7 +48,8 @@
 \contentsline {paragraph}{Evaluation Environment}{41}{figure.caption.17}%
 \contentsline {subsection}{\numberline {3.5}Design of the XR elements}{41}{subsection.3.5}%
 \contentsline {subsubsection}{\numberline {3.5.1}Comparison of the XR Interaction Frameworks}{41}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Using Geographical Data to Build a Realistic Environment}{43}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.2}Using Geographical Data to Build a Realistic Environment}{42}{subsubsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.6}Participants and Testing Environment}{43}{subsection.3.6}%
 \contentsline {section}{\numberline {4}Results}{44}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Preliminary Iteration: WebXR Drone Physics Implementation}{44}{subsection.4.1}%
 \contentsline {paragraph}{Design}{44}{subsection.4.1}%
@@ -70,16 +71,16 @@
 \contentsline {subsubsection}{\numberline {4.2.4}Iteration 4: Downgraded White-Box Playground}{53}{subsubsection.4.2.4}%
 \contentsline {paragraph}{Redesign}{53}{subsubsection.4.2.4}%
 \contentsline {paragraph}{Enactment}{53}{subsubsection.4.2.4}%
-\contentsline {paragraph}{Analysis}{54}{figure.caption.26}%
-\contentsline {subsubsection}{\numberline {4.2.5}Iteration 5: Exploration in a Realistic Environment}{54}{subsubsection.4.2.5}%
-\contentsline {paragraph}{Redesign}{54}{subsubsection.4.2.5}%
+\contentsline {paragraph}{Analysis}{53}{figure.caption.26}%
+\contentsline {subsubsection}{\numberline {4.2.5}Iteration 5: Exploration in a Realistic Environment}{53}{subsubsection.4.2.5}%
+\contentsline {paragraph}{Redesign}{53}{subsubsection.4.2.5}%
 \contentsline {paragraph}{Enactment}{54}{subsubsection.4.2.5}%
 \contentsline {paragraph}{Analysis}{54}{subsubsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.3}Iterative Development of Human-AI Collaboration Agent}{55}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Iteration 1: PID-based Control for Path Following}{55}{subsubsection.4.3.1}%
-\contentsline {paragraph}{Design}{55}{subsubsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3}Iterative Development of Human-AI Collaboration Agent}{54}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Iteration 1: PID-based Control for Path Following}{54}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Design}{54}{subsubsection.4.3.1}%
 \contentsline {paragraph}{Enactment}{55}{subsubsection.4.3.1}%
-\contentsline {paragraph}{Analysis}{56}{figure.caption.27}%
+\contentsline {paragraph}{Analysis}{55}{figure.caption.27}%
 \contentsline {subsubsection}{\numberline {4.3.2}Iteration 2: Exploration of RL-Based Control (Preliminary)}{56}{subsubsection.4.3.2}%
 \contentsline {paragraph}{Design}{56}{subsubsection.4.3.2}%
 \contentsline {paragraph}{Enactment}{56}{subsubsection.4.3.2}%
@@ -87,31 +88,31 @@
 \contentsline {subsubsection}{\numberline {4.3.3}Iteration 3: Evaluation on Hovering Task}{58}{subsubsection.4.3.3}%
 \contentsline {paragraph}{Design}{58}{subsubsection.4.3.3}%
 \contentsline {paragraph}{Enactment}{58}{table.caption.30}%
-\contentsline {paragraph}{Analysis}{59}{figure.caption.31}%
-\contentsline {subsubsection}{\numberline {4.3.4}Iteration 4: Evaluation on Path Following}{60}{subsubsection.4.3.4}%
-\contentsline {paragraph}{Design}{60}{subsubsection.4.3.4}%
+\contentsline {paragraph}{Analysis}{58}{table.caption.30}%
+\contentsline {subsubsection}{\numberline {4.3.4}Iteration 4: Evaluation on Path Following}{59}{subsubsection.4.3.4}%
+\contentsline {paragraph}{Design}{59}{subsubsection.4.3.4}%
 \contentsline {paragraph}{Enactment}{60}{subsubsection.4.3.4}%
 \contentsline {paragraph}{Analysis}{60}{figure.caption.32}%
-\contentsline {subsection}{\numberline {4.4}Integration: Human-AI Collaboration in an XR Environment}{61}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.4}Integration: Human-AI Collaboration in an XR Environment}{60}{subsection.4.4}%
 \contentsline {paragraph}{Design}{61}{subsection.4.4}%
-\contentsline {paragraph}{Enactment}{63}{figure.caption.34}%
-\contentsline {paragraph}{Analysis}{63}{figure.caption.34}%
-\contentsline {section}{\numberline {5}Discussion}{64}{section.5}%
-\contentsline {subsection}{\numberline {5.1}RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{64}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}RQ2: How can a human-AI collaboration agent be designed to assist users?}{65}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}RQ3: What interaction Techniques enable high-fidelity XR prototyping?}{65}{subsection.5.3}%
-\contentsline {paragraph}{When XR helps}{66}{subsection.5.3}%
-\contentsline {paragraph}{When XR is not preferable}{66}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Limitations and Future Work}{66}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Limitations}{66}{subsubsection.5.4.1}%
-\contentsline {paragraph}{Self-Leveling Flight Mode Only}{66}{subsubsection.5.4.1}%
-\contentsline {paragraph}{Visual Feedback Only}{67}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Future Work}{67}{subsubsection.5.4.2}%
-\contentsline {paragraph}{Extending to Acrobatic Flight Mode}{67}{subsubsection.5.4.2}%
-\contentsline {paragraph}{Designing Multimodal Feedback Mechanisms}{67}{subsubsection.5.4.2}%
-\contentsline {paragraph}{Reinforcement Learning for Path-Following Control}{67}{subsubsection.5.4.2}%
-\contentsline {paragraph}{Imitation Learning for Human-Guided Control}{68}{subsubsection.5.4.2}%
-\contentsline {paragraph}{Extending to Concept Transfer}{68}{subsubsection.5.4.2}%
-\contentsline {section}{Summary}{69}{subsubsection.5.4.2}%
-\contentsline {section}{Appendices}{78}{subsubsection.5.4.2}%
-\contentsline {subsection}{Appendix 1. Source Code}{78}{section*.35}%
+\contentsline {paragraph}{Enactment}{62}{figure.caption.34}%
+\contentsline {paragraph}{Analysis}{62}{figure.caption.34}%
+\contentsline {section}{\numberline {5}Discussion}{63}{section.5}%
+\contentsline {subsection}{\numberline {5.1}RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{63}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}RQ2: How can a human-AI collaboration agent be designed to assist users?}{64}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}RQ3: What interaction Techniques enable high-fidelity XR prototyping?}{64}{subsection.5.3}%
+\contentsline {paragraph}{When XR helps}{65}{subsection.5.3}%
+\contentsline {paragraph}{When XR is not preferable}{65}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Limitations and Future Work}{65}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Limitations}{65}{subsubsection.5.4.1}%
+\contentsline {paragraph}{Self-Leveling Flight Mode Only}{65}{subsubsection.5.4.1}%
+\contentsline {paragraph}{Visual Feedback Only}{66}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Future Work}{66}{subsubsection.5.4.2}%
+\contentsline {paragraph}{Extending to Acrobatic Flight Mode}{66}{subsubsection.5.4.2}%
+\contentsline {paragraph}{Designing Multimodal Feedback Mechanisms}{66}{subsubsection.5.4.2}%
+\contentsline {paragraph}{Reinforcement Learning for Path-Following Control}{66}{subsubsection.5.4.2}%
+\contentsline {paragraph}{Imitation Learning for Human-Guided Control}{67}{subsubsection.5.4.2}%
+\contentsline {paragraph}{Extending to Concept Transfer}{67}{subsubsection.5.4.2}%
+\contentsline {section}{Summary}{68}{subsubsection.5.4.2}%
+\contentsline {section}{Appendices}{77}{subsubsection.5.4.2}%
+\contentsline {subsection}{Appendix 1. Source Code}{77}{section*.35}%

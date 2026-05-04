@@ -6,9 +6,9 @@ The findings from the previous iteration indicated that participants were initia
 
 The system was extended with three primary interaction components: (1) the Quad GameObject, representing the physical quadcopter model; (2) the DroneVision GameObject, which uses Unity's RenderTexture to provide a first-person view (FPV) through a virtual headset; and (3) the Instruct GameObject, which delivers step-by-step tutorial guidance. The structure of the scene is illustrated in \cref{fig:tutorial_scene}.
 
-\input{figure/interact.tex}
-
 The Quad GameObject functions as the physical simulation of the quadcopter, while DroneVision renders the onboard camera feed to simulate FPV piloting. The Instruct module presents content in a sequential manner, covering arming, throttle, yaw, pitch, and roll control. During tutorial execution, the quadcopter's Rigidbody is temporarily locked to support reflective observation, consistent with Kolb's experiential learning cycle \parencite{kolb1984}.
+
+\input{figure/interact.tex}
 
 To improve interaction awareness, a dual-layer HUD system was introduced. A cross-axis indicator was rendered in front of the player, while corresponding visual markers were placed within the scene to represent real-time joystick input positions.
 

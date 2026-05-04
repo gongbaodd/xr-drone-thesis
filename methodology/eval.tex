@@ -6,13 +6,14 @@ The evaluation strategy is designed to assess the performance of the Human-AI Co
 
 The hovering task evaluates the system's ability to maintain stable altitude control. The objective is to regulate the drone's vertical position ($y$) within a predefined tolerance band $[H - R, H + R]$, where $H$ represents the target altitude and $R$ defines the acceptable deviation range.
 
-Performance is monitored through both positional stability and qualitative visual feedback. A color-coded indicator system is used to provide real-time feedback on control states: yellow indicates the drone is below the target range, orange indicates it is above the range, and blue indicates stable hovering within the acceptable band (see \cref{fig:train}). This visualization supports rapid assessment of control stability during operation.
-
 \begin{figure}[H]
     \caption{Real-time feedback visualization during hovering evaluation.}\label{fig:train}
     \centering
     \includegraphics[width=0.8\linewidth]{img/train.png}
 \end{figure}
+
+
+Performance is monitored through both positional stability and qualitative visual feedback. A color-coded indicator system is used to provide real-time feedback on control states: yellow indicates the drone is below the target range, orange indicates it is above the range, and blue indicates stable hovering within the acceptable band (see \cref{fig:train}). This visualization supports rapid assessment of control stability during operation.
 
 The primary evaluation criterion for this task is the duration and consistency of maintaining the drone within the acceptable altitude band, which reflects the stability of the control system.
 
@@ -26,15 +27,15 @@ A smooth trajectory is generated using cubic Bézier curves defined by four cont
     B(t) = {(1-t)}^3 P_0 + 3{(1-t)}^2 t P_1 + 3(1-t) t^2 P_2 + t^3 P_3, \quad t \in [0,1]
 \end{equation}
 
-The resulting path provides a continuous reference trajectory for evaluating tracking behavior. The geometric structure of the generated path is shown in \cref{fig:path_design}, where asymmetric control point offsets are used to create directional variation between outbound and return segments.
-
 \begin{figure}[H]
     \caption{Synthetic path structure used for trajectory tracking evaluation.}\label{fig:path_design}
     \centering
-    \includegraphics[width=0.8\linewidth]{img/path.png}
+    \includegraphics[width=0.4\linewidth]{img/path_design.png}
 \end{figure}
 
-Evaluation in this task focuses on trajectory tracking performance, including deviation from the reference path and stability of directional control during transitions between waypoints. 
+The resulting path provides a continuous reference trajectory for evaluating tracking behavior. The geometric structure of the generated path is shown in \cref{fig:path_design}, where asymmetric control point offsets are used to create directional variation between outbound and return segments. 
+
+Evaluation in this task focuses on trajectory tracking performance, including deviation from the reference path and stability of directional control during transitions between waypoints.
 
 \paragraph{Evaluation Environment}
 
