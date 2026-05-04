@@ -42,3 +42,22 @@
 \usetikzlibrary{shapes.geometric, arrows.meta, arrows, positioning, backgrounds, fit}
 \usepackage{tabularx}
 \usepackage{pdflscape}
+
+% a little different to APA7
+\setcounter{secnumdepth}{3}
+\let\subparagraph\relax
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}
+  {\thesubsubsection}{1em}{}
+
+\titlespacing*{\section}{0pt}{24pt}{12pt}
+\titlespacing*{\subsection}{0pt}{18pt}{6pt}

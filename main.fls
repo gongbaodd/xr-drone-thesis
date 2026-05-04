@@ -382,6 +382,8 @@ INPUT /opt/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /opt/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /opt/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT ./ref.tex
 INPUT ./ref.tex
 INPUT ./ref.tex
@@ -461,6 +463,7 @@ INPUT ./main/_02_abstract_page.tex
 INPUT ./main/_02_abstract_page.tex
 INPUT ./main/_02_abstract_page.tex
 INPUT main/_02_abstract_page.tex
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
@@ -472,6 +475,7 @@ INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT ./main.toc
 INPUT ./main.toc
 INPUT main.toc
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
@@ -529,6 +533,8 @@ INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 OUTPUT main.toc
 INPUT ./main/_03_introduction.tex
 INPUT ./main/_03_introduction.tex
@@ -543,6 +549,7 @@ INPUT main/_04_theoretical_background.tex
 INPUT ./theoretical_background/quadrotor/01_intro.tex
 INPUT ./theoretical_background/quadrotor/01_intro.tex
 INPUT theoretical_background/quadrotor/01_intro.tex
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /opt/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
@@ -550,15 +557,14 @@ INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
 INPUT ./theoretical_background/quadrotor/02_physics.tex
 INPUT ./theoretical_background/quadrotor/02_physics.tex
 INPUT theoretical_background/quadrotor/02_physics.tex
-INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
 INPUT ./img/6DOF.png
 INPUT ./img/6DOF.png
 INPUT ./img/6DOF.png
 INPUT ./img/6DOF.png
 INPUT ./img/6DOF.png
+INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
-INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmbi8t.vf
-INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/zptmcm7t.vf
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
@@ -701,7 +707,6 @@ INPUT ./img/mapping.png
 INPUT ./img/mapping.png
 INPUT ./img/mapping.png
 INPUT ./img/mapping.png
-INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT ./methodology/trainer.tex
 INPUT ./methodology/trainer.tex
 INPUT methodology/trainer.tex
@@ -713,6 +718,7 @@ INPUT ./img/pid.png
 INPUT ./img/pid.png
 INPUT ./img/pid.png
 INPUT ./img/pid.png
+INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT ./methodology/rl.tex
 INPUT ./methodology/rl.tex
@@ -792,15 +798,15 @@ INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT ./img/stages/drone-control.png
+INPUT ./img/stages/drone-control.png
+INPUT ./img/stages/drone-control.png
+INPUT ./img/stages/drone-control.png
+INPUT ./img/stages/drone-control.png
 INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /opt/texlive/2026/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /opt/texlive/2026/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT ./img/stages/drone-control.png
-INPUT ./img/stages/drone-control.png
-INPUT ./img/stages/drone-control.png
-INPUT ./img/stages/drone-control.png
-INPUT ./img/stages/drone-control.png
 INPUT ./result/tutorial.tex
 INPUT ./result/tutorial.tex
 INPUT result/tutorial.tex
@@ -923,6 +929,5 @@ INPUT /opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pf
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
-INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
 INPUT /opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb

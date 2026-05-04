@@ -1,115 +1,115 @@
 \babel@toc {american}{}\relax 
 \contentsline {section}{Abstract}{2}{Doc-Start}%
-\contentsline {section}{Introduction}{6}{section*.3}%
-\contentsline {section}{Theoretical Background}{8}{section*.4}%
-\contentsline {subsection}{Introduction to Quadcopter Systems}{8}{section*.5}%
-\contentsline {subsubsection}{Flight Dynamics and Principles of Operation}{8}{section*.6}%
-\contentsline {subsubsection}{Pilot Interface and Control Systems}{10}{section*.8}%
-\contentsline {subsubsection}{Proportional Integral and Derivative (PID Control)}{13}{section*.13}%
-\contentsline {subsection}{Learning Theories in Simulation-Based XR}{13}{section*.14}%
-\contentsline {subsubsection}{Experiential Learning in an XR environment}{13}{section*.15}%
-\contentsline {subsubsection}{FPV Training Simulators}{15}{section*.17}%
-\contentsline {subsubsection}{Human-AI Collaboration (HAC)}{15}{section*.18}%
-\contentsline {subsubsection}{Reinforcement Learning (RL)}{17}{section*.19}%
-\contentsline {subsection}{Human Computer Interaction in XR}{18}{section*.21}%
-\contentsline {subsubsection}{Hardwares Introduction}{18}{section*.22}%
-\contentsline {paragraph}{PCVR (Tethered)}{18}{section*.23}%
-\contentsline {paragraph}{Standalone (All-in-One)}{19}{section*.24}%
-\contentsline {subsubsection}{Runtime and Standards}{19}{section*.25}%
-\contentsline {paragraph}{OpenXR}{19}{section*.26}%
-\contentsline {paragraph}{WebXR}{20}{section*.27}%
-\contentsline {subsubsection}{Spatial Coordinate System}{20}{section*.28}%
-\contentsline {subsubsection}{Environment blend modes}{21}{section*.29}%
-\contentsline {subsubsection}{Input Abstraction Layer}{23}{section*.31}%
-\contentsline {subsection}{Research Gap and Research Questions}{24}{section*.34}%
-\contentsline {subsubsection}{Related Study}{24}{section*.35}%
-\contentsline {subsubsection}{Open Questions}{25}{section*.36}%
-\contentsline {subsubsection}{Research Questions}{26}{section*.37}%
-\contentsline {section}{Methodology}{27}{section*.38}%
-\contentsline {subsection}{Design Methods and Development Strategy}{27}{section*.39}%
-\contentsline {subsubsection}{Design-Based Research}{27}{section*.40}%
-\contentsline {subsubsection}{Agile Development}{28}{section*.42}%
-\contentsline {subsubsection}{Development Strategy}{28}{section*.43}%
-\contentsline {subsection}{Development Environment and Materials}{29}{section*.44}%
-\contentsline {subsubsection}{Comparison of Development Platforms}{29}{section*.45}%
-\contentsline {subsubsection}{Materials and Equipment: Game Assets, AI, and Tools}{31}{section*.47}%
-\contentsline {paragraph}{Game Assets}{31}{section*.48}%
-\contentsline {paragraph}{Use of AI}{31}{section*.49}%
-\contentsline {paragraph}{Tools Used}{32}{section*.50}%
-\contentsline {subsection}{Implement Quadcopter Simulation}{32}{section*.51}%
-\contentsline {subsubsection}{Controller Mapping}{32}{section*.52}%
-\contentsline {subsubsection}{Flight Modes and Orientation Logic}{33}{section*.54}%
-\contentsline {subsection}{Design of the Human-AI Collaboration}{34}{section*.55}%
-\contentsline {subsubsection}{Design of a PID based HAC}{34}{section*.56}%
-\contentsline {subsubsection}{Design of a RL based HAC}{36}{section*.58}%
-\contentsline {subsubsection}{Evaluation Strategy}{38}{section*.60}%
-\contentsline {paragraph}{Hovering Task}{38}{section*.61}%
-\contentsline {paragraph}{Path Following Task}{39}{section*.63}%
-\contentsline {paragraph}{Evaluation Environment}{40}{section*.65}%
-\contentsline {subsection}{Design of the XR elements}{40}{section*.66}%
-\contentsline {subsubsection}{Comparison of the XR Interaction Frameworks}{40}{section*.67}%
-\contentsline {subsubsection}{Using Geographical Data to Build a Realistic Environment}{41}{section*.68}%
-\contentsline {section}{Results}{43}{section*.69}%
-\contentsline {subsection}{Iterative Development of XR interaction}{43}{section*.70}%
-\contentsline {subsubsection}{Iteration 1: Establishing Basic XR Control}{43}{section*.71}%
-\contentsline {paragraph}{Design}{43}{section*.72}%
-\contentsline {paragraph}{Enactment}{44}{section*.74}%
-\contentsline {paragraph}{Analysis}{44}{section*.76}%
-\contentsline {subsubsection}{Iteration 2: Supporting Learning through UI and Tutorial}{45}{section*.77}%
-\contentsline {paragraph}{Design}{45}{section*.78}%
-\contentsline {paragraph}{Enactment}{46}{section*.80}%
-\contentsline {paragraph}{Analysis}{47}{section*.82}%
-\contentsline {subsubsection}{Iteration 3: Test Flight in a Realistic Environment}{47}{section*.83}%
-\contentsline {paragraph}{Redesign}{47}{section*.84}%
-\contentsline {paragraph}{Enactment}{47}{section*.85}%
-\contentsline {paragraph}{Analysis}{49}{section*.88}%
-\contentsline {subsubsection}{Iteration 4: Downgraded White-Box Playground}{49}{section*.89}%
-\contentsline {paragraph}{Redesign}{49}{section*.90}%
-\contentsline {paragraph}{Enactment}{49}{section*.91}%
-\contentsline {paragraph}{Analysis}{50}{section*.93}%
-\contentsline {subsubsection}{Iteration 5: Exploration in a Realistic Environment}{50}{section*.94}%
-\contentsline {paragraph}{Redesign}{50}{section*.95}%
-\contentsline {paragraph}{Enactment}{50}{section*.96}%
-\contentsline {paragraph}{Analysis}{51}{section*.97}%
-\contentsline {subsection}{Iterative Development of Human-AI Collaboration Agent}{51}{section*.98}%
-\contentsline {subsubsection}{Iteration 1: PID-based Control for Path Following}{51}{section*.99}%
-\contentsline {paragraph}{Design}{51}{section*.100}%
-\contentsline {paragraph}{Enactment}{52}{section*.102}%
-\contentsline {paragraph}{Analysis}{52}{section*.103}%
-\contentsline {subsubsection}{Iteration 2: Exploration of RL-Based Control (Preliminary)}{52}{section*.104}%
-\contentsline {paragraph}{Design}{53}{section*.105}%
-\contentsline {paragraph}{Enactment}{53}{section*.106}%
-\contentsline {paragraph}{Analysis}{54}{section*.109}%
-\contentsline {subsubsection}{Iteration 3: Evaluation on Hovering Task}{54}{section*.110}%
-\contentsline {paragraph}{Design}{54}{section*.111}%
-\contentsline {paragraph}{Enactment}{55}{section*.113}%
-\contentsline {paragraph}{Analysis}{55}{section*.115}%
-\contentsline {subsubsection}{Iteration 4: Evaluation on Path Following}{56}{section*.116}%
-\contentsline {paragraph}{Design}{56}{section*.117}%
-\contentsline {paragraph}{Enactment}{56}{section*.118}%
-\contentsline {paragraph}{Analysis}{56}{section*.120}%
-\contentsline {subsection}{Integration: Human-AI Collaboration in an XR Environment}{57}{section*.121}%
-\contentsline {paragraph}{Design}{57}{section*.122}%
-\contentsline {paragraph}{Enactment}{58}{section*.125}%
-\contentsline {paragraph}{Analysis}{58}{section*.126}%
-\contentsline {section}{Discussion}{59}{section*.127}%
-\contentsline {subsection}{RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{59}{section*.128}%
-\contentsline {subsubsection}{Comparison With Existing Simulators}{59}{section*.129}%
-\contentsline {subsection}{RQ2: How can a human-AI collaboration agent be designed to assist users?}{60}{section*.130}%
-\contentsline {subsubsection}{Comparison of PID and RL}{60}{section*.131}%
-\contentsline {subsection}{RQ3: What interaction methods enable high-fidelity XR prototyping?}{60}{section*.132}%
-\contentsline {subsubsection}{When XR helps}{61}{section*.133}%
-\contentsline {subsubsection}{When XR is not preferable}{61}{section*.134}%
-\contentsline {subsection}{Limitations}{61}{section*.135}%
-\contentsline {subsubsection}{Self-Leveling Flight Mode Only}{61}{section*.136}%
-\contentsline {subsubsection}{Visual Feedback Only}{62}{section*.137}%
-\contentsline {subsection}{Future Work}{62}{section*.138}%
-\contentsline {subsubsection}{Evaluation Methodology for XR-Based Drone Prototyping}{62}{section*.139}%
-\contentsline {subsubsection}{Extending to Acrobatic Flight Mode}{62}{section*.140}%
-\contentsline {subsubsection}{Designing Multimodal Feedback Mechanisms}{63}{section*.141}%
-\contentsline {subsubsection}{Reinforcement Learning for Path-Following Control}{63}{section*.142}%
-\contentsline {subsubsection}{Imitation Learning for Human-Guided Control}{63}{section*.143}%
-\contentsline {subsubsection}{Extending to Concept Transfer}{64}{section*.144}%
-\contentsline {section}{Summary}{65}{section*.145}%
-\contentsline {section}{Appendices}{74}{section*.147}%
-\contentsline {subsection}{Appendix 1. Source Code}{74}{section*.148}%
+\contentsline {section}{\numberline {1}Introduction}{6}{section.1}%
+\contentsline {section}{\numberline {2}Theoretical Background}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Introduction to Quadcopter Systems}{8}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Flight Dynamics and Principles of Operation}{8}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Pilot Interface and Control Systems}{10}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Proportional Integral and Derivative (PID Control)}{13}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}Learning Theories in Simulation-Based XR}{13}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Experiential Learning in an XR environment}{13}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}FPV Training Simulators}{15}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Human-AI Collaboration (HAC)}{15}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Reinforcement Learning (RL)}{17}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.3}Human Computer Interaction in XR}{18}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Hardwares Introduction}{18}{subsubsection.2.3.1}%
+\contentsline {paragraph}{PCVR (Tethered)}{18}{subsubsection.2.3.1}%
+\contentsline {paragraph}{Standalone (All-in-One)}{19}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Runtime and Standards}{19}{subsubsection.2.3.2}%
+\contentsline {paragraph}{OpenXR}{19}{subsubsection.2.3.2}%
+\contentsline {paragraph}{WebXR}{20}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Spatial Coordinate System}{20}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Environment blend modes}{21}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Input Abstraction Layer}{23}{subsubsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.4}Research Gap and Research Questions}{24}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Related Study}{24}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Open Questions}{25}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Research Questions}{26}{subsubsection.2.4.3}%
+\contentsline {section}{\numberline {3}Methodology}{27}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Design Methods and Development Strategy}{27}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Design-Based Research}{27}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Agile Development}{27}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Development Strategy}{28}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Development Environment and Materials}{30}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Comparison of Development Platforms}{30}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Materials and Equipment: Game Assets, AI, and Tools}{31}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Game Assets}{31}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Use of AI}{32}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Tools Used}{32}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Implement Quadcopter Simulation}{32}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Controller Mapping}{32}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Flight Modes and Orientation Logic}{34}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Design of the Human-AI Collaboration}{35}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Design of a PID based HAC}{35}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Design of a RL based HAC}{37}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Evaluation Strategy}{38}{subsubsection.3.4.3}%
+\contentsline {paragraph}{Hovering Task}{39}{subsubsection.3.4.3}%
+\contentsline {paragraph}{Path Following Task}{39}{figure.caption.16}%
+\contentsline {paragraph}{Evaluation Environment}{40}{figure.caption.17}%
+\contentsline {subsection}{\numberline {3.5}Design of the XR elements}{41}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Comparison of the XR Interaction Frameworks}{41}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Using Geographical Data to Build a Realistic Environment}{42}{subsubsection.3.5.2}%
+\contentsline {section}{\numberline {4}Results}{44}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Iterative Development of XR interaction}{44}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Iteration 1: Establishing Basic XR Control}{44}{subsubsection.4.1.1}%
+\contentsline {paragraph}{Design}{44}{subsubsection.4.1.1}%
+\contentsline {paragraph}{Enactment}{45}{figure.caption.18}%
+\contentsline {paragraph}{Analysis}{46}{figure.caption.19}%
+\contentsline {subsubsection}{\numberline {4.1.2}Iteration 2: Supporting Learning through UI and Tutorial}{46}{subsubsection.4.1.2}%
+\contentsline {paragraph}{Design}{46}{subsubsection.4.1.2}%
+\contentsline {paragraph}{Enactment}{48}{figure.caption.20}%
+\contentsline {paragraph}{Analysis}{48}{figure.caption.21}%
+\contentsline {subsubsection}{\numberline {4.1.3}Iteration 3: Test Flight in a Realistic Environment}{49}{subsubsection.4.1.3}%
+\contentsline {paragraph}{Redesign}{49}{subsubsection.4.1.3}%
+\contentsline {paragraph}{Enactment}{49}{subsubsection.4.1.3}%
+\contentsline {paragraph}{Analysis}{51}{figure.caption.23}%
+\contentsline {subsubsection}{\numberline {4.1.4}Iteration 4: Downgraded White-Box Playground}{51}{subsubsection.4.1.4}%
+\contentsline {paragraph}{Redesign}{51}{subsubsection.4.1.4}%
+\contentsline {paragraph}{Enactment}{51}{subsubsection.4.1.4}%
+\contentsline {paragraph}{Analysis}{52}{figure.caption.24}%
+\contentsline {subsubsection}{\numberline {4.1.5}Iteration 5: Exploration in a Realistic Environment}{52}{subsubsection.4.1.5}%
+\contentsline {paragraph}{Redesign}{52}{subsubsection.4.1.5}%
+\contentsline {paragraph}{Enactment}{52}{subsubsection.4.1.5}%
+\contentsline {paragraph}{Analysis}{53}{subsubsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.2}Iterative Development of Human-AI Collaboration Agent}{53}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Iteration 1: PID-based Control for Path Following}{53}{subsubsection.4.2.1}%
+\contentsline {paragraph}{Design}{53}{subsubsection.4.2.1}%
+\contentsline {paragraph}{Enactment}{54}{figure.caption.25}%
+\contentsline {paragraph}{Analysis}{54}{figure.caption.25}%
+\contentsline {subsubsection}{\numberline {4.2.2}Iteration 2: Exploration of RL-Based Control (Preliminary)}{54}{subsubsection.4.2.2}%
+\contentsline {paragraph}{Design}{55}{subsubsection.4.2.2}%
+\contentsline {paragraph}{Enactment}{55}{subsubsection.4.2.2}%
+\contentsline {paragraph}{Analysis}{56}{figure.caption.27}%
+\contentsline {subsubsection}{\numberline {4.2.3}Iteration 3: Evaluation on Hovering Task}{56}{subsubsection.4.2.3}%
+\contentsline {paragraph}{Design}{56}{subsubsection.4.2.3}%
+\contentsline {paragraph}{Enactment}{57}{table.caption.28}%
+\contentsline {paragraph}{Analysis}{57}{figure.caption.29}%
+\contentsline {subsubsection}{\numberline {4.2.4}Iteration 4: Evaluation on Path Following}{58}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Design}{58}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Enactment}{58}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Analysis}{58}{figure.caption.30}%
+\contentsline {subsection}{\numberline {4.3}Integration: Human-AI Collaboration in an XR Environment}{59}{subsection.4.3}%
+\contentsline {paragraph}{Design}{59}{subsection.4.3}%
+\contentsline {paragraph}{Enactment}{60}{figure.caption.32}%
+\contentsline {paragraph}{Analysis}{61}{figure.caption.32}%
+\contentsline {section}{\numberline {5}Discussion}{62}{section.5}%
+\contentsline {subsection}{\numberline {5.1}RQ1: How Can FPV Quadcopter Flight Physics Be Simulated?}{62}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Comparison With Existing Simulators}{62}{subsubsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.2}RQ2: How can a human-AI collaboration agent be designed to assist users?}{63}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Comparison of PID and RL}{63}{subsubsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.3}RQ3: What interaction methods enable high-fidelity XR prototyping?}{64}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}When XR helps}{64}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}When XR is not preferable}{64}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}Limitations}{65}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Self-Leveling Flight Mode Only}{65}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Visual Feedback Only}{65}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.5}Future Work}{65}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Evaluation Methodology for XR-Based Drone Prototyping}{65}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}Extending to Acrobatic Flight Mode}{66}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {5.5.3}Designing Multimodal Feedback Mechanisms}{66}{subsubsection.5.5.3}%
+\contentsline {subsubsection}{\numberline {5.5.4}Reinforcement Learning for Path-Following Control}{66}{subsubsection.5.5.4}%
+\contentsline {subsubsection}{\numberline {5.5.5}Imitation Learning for Human-Guided Control}{67}{subsubsection.5.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.6}Extending to Concept Transfer}{67}{subsubsection.5.5.6}%
+\contentsline {section}{Summary}{68}{subsubsection.5.5.6}%
+\contentsline {section}{Appendices}{77}{subsubsection.5.5.6}%
+\contentsline {subsection}{Appendix 1. Source Code}{77}{section*.33}%
