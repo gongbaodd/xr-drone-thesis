@@ -121,6 +121,7 @@
       <file>ref/mcp.bib</file>
       <file>ref/assets.bib</file>
       <file>ref/ai.bib</file>
+      <file>ref/dronedef.bib</file>
     </requires>
   </external>
 </requests>
