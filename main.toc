@@ -112,6 +112,6 @@
 \contentsline {paragraph}{Imitation Learning for Human-Guided Control}{67}{subsection.5.4}%
 \contentsline {paragraph}{Extending to Concept Transfer}{67}{subsection.5.4}%
 \contentsline {section}{Summary}{69}{subsection.5.4}%
-\contentsline {section}{References}{70}{subsection.5.4}%
+\contentsline {section}{References}{71}{subsection.5.4}%
 \contentsline {section}{Appendices}{78}{subsection.5.4}%
 \contentsline {subsection}{Appendix 1. Source Code}{78}{section*.35}%
