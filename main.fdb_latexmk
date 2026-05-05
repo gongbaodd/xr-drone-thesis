@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777944185.59728 "main.bcf" "main.bbl" "main" 1777944396.97204 0
-  "main.bcf" 1777944396.77737 144589 53317b32bcbb8c9f2c91335351733a51 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1777968361.80606 -1
+  "main.bcf" 1777968361.60366 144589 53317b32bcbb8c9f2c91335351733a51 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -45,9 +45,9 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777944386.19159 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777944396.97303 0
+["pdflatex"] 1777968350.45261 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777968361.80733 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
-  "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
+  "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777967691.89244 697 6c874e0eb046cf0d98cfe6bd888417fc ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1777313236 2375 baa924870cfb487815765f9094cf3728 ""
   "/opt/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1777313236 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -322,8 +322,8 @@
   "/opt/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1777313236 3648862 7c58e41054a7d27329793c5f2e246c91 ""
   "/opt/texlive/2026/texmf.cnf" 1777313236 585 d90dcc7e4cbb41f80da762fdc25fd0ea ""
   "discussion/cotrainer.tex" 1777935244.2487 1202 c56a28a022b11cfa320f0f371b355330 ""
-  "discussion/future.tex" 1777935885.36542 3642 4672cdc9dda2a7a4ff9f5a73f9ba5d8a ""
-  "discussion/limitation.tex" 1777935631.82974 1239 7dbc6d239064ad067243faa27bfd9aa7 ""
+  "discussion/future.tex" 1777968337.32059 3640 b4c3c4b4ad6b9b1ed5359146e93c119b ""
+  "discussion/limitation.tex" 1777968283.62742 1362 7cc889ce1580162b0f85cce42fee9a55 ""
   "discussion/physics.tex" 1777934999.70282 2294 f11a12ab1cdb73618c4f57c1c6a1b3bb ""
   "discussion/xr.tex" 1777935265.97837 2152 2ae38b2189293ff78d2cc5335706853a ""
   "figure/agent.tex" 1777707412.69535 2709 3688db82f133a3d27dff8d0c6056e90c ""
@@ -356,12 +356,12 @@
   "img/webxr.png" 1777920504.05853 517948 1b0ff0728044abdc3d55a1ab7d4751ca ""
   "img/white-box.png" 1777931420.30135 1062834 34bf3838d4223d467057f15a2b68c7c8 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777944396.74537 52656 40ebc46e70a0c414f6121e8d73d7a6e6 "pdflatex"
+  "main.aux" 1777968361.57066 52451 0faead0c7261458eeb4e4262898a5883 "pdflatex"
   "main.bbl" 1777944189.16117 370834 5d76c046b2912b44adba67301cd700c4 "biber main"
-  "main.out" 1777944396.77237 15327 547710bf404aff4758295a6db622cdb0 "pdflatex"
-  "main.run.xml" 1777944396.77971 3796 9d40a5cc1565c477ac87dbcf31978962 "pdflatex"
-  "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777944396.77971 10192 7deb5828fd433d6b9b4e17d8ef2b3628 "pdflatex"
+  "main.out" 1777968361.59766 15162 f0279dc69d2bee1c864c9b68e976d4f7 "pdflatex"
+  "main.run.xml" 1777968361.60688 3796 9d40a5cc1565c477ac87dbcf31978962 "pdflatex"
+  "main.tex" 1777967691.89244 697 6c874e0eb046cf0d98cfe6bd888417fc ""
+  "main.toc" 1777968361.60688 10028 33584c73c2536d2d239036b75b86812a "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "main/_02_abstract_page.tex" 1777905409.47328 1821 3e55cf4469edbbce2802f9d26d26ee66 ""
   "main/_03_introduction.tex" 1777926892.55049 4084 ba52f03fab9371b9784255ecc128ca93 ""
@@ -398,7 +398,7 @@
   "result/rl.tex" 1777932900.94694 3256 cd8a30fbf2591f88c91564c11883911e ""
   "result/tutorial.tex" 1777938720.29582 4152 be02c5fcebe6e9fc8d92af5cdd2bf1cb ""
   "result/white-box.tex" 1777931721.5134 1424 bbeaba941292dcbb76df8b693ad63ac3 ""
-  "settings.tex" 1777904986.48582 1423 c1eb544616f42d401a4b47220580be6c ""
+  "settings.tex" 1777967649.07522 1423 c1eb544616f42d401a4b47220580be6c ""
   "theoretical_background/co-trainer/01_exp_learn.tex" 1777549749.79559 257 ad2c898b20a50d3c60df02b1d41fa82f ""
   "theoretical_background/co-trainer/exp.tex" 1777666820.51143 2561 8451c6be48756922465fe1faa9e3d812 ""
   "theoretical_background/co-trainer/fpv_sim.tex" 1777943127.31078 1678 06f4ffb25de511b7087f551567cdb622 ""
