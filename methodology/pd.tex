@@ -18,7 +18,7 @@ The world-space torque is transformed into the body frame ($R_{\text{wb}}$) for 
 
 The controller should be able to pilot the quadcopter in a closed-loop mission. The system employs a cascaded control scheme where the Outer Loop (Position) provides setpoints for the Inner Loop (Attitude/Velocity).
 
-The Inner Loop features controllers that yield the required rolling and pitching moments $\tau_x$ and $\tau_y$ to regulate horizontal movement. The Inner Loop block requires the current quadcopter attitude as well as reference signals for roll and pitch to obtain its output \parencite{paredes2021quadcopter}; The Outer Loop, which features controllers that yield the required thrust differential and yawing moments as well as the desired reference signals.
+The Inner Loop controls horizontal movement by calculating rolling and pitching moments ($\tau_x$ and $\tau_y$). It uses the quadcopter's current attitude and reference signals to generate these outputs \parencite{paredes2021quadcopter}. Meanwhile, the Outer Loop determines the necessary thrust, yawing moments, and reference signals.
 
 During takeoff, the controller focuses exclusively on vertical error ($e_y$). The vertical force $force_Y$ is mapped to a normalized throttle value ($T$) shown in \cref{eq:mappingt}.
 

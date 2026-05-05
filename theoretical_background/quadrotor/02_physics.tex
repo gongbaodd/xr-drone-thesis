@@ -10,7 +10,7 @@ A quadcopter is a common subcategory and represents an under-actuated system. As
 
 The fundamental principle of quadcopter stability relies on torque cancellation. To maintain a stable orientation, two motors rotate clockwise (CW) while the adjacent pair rotates counter-clockwise (CCW). This arrangement ensures that the net moment about the center of mass is zero; without this pair-wise opposition, the drone would rotate uncontrollably around its vertical axis. Quadcopters typically use either a plus (+) or cross (x) configuration, with the cross configuration being more common due to its superior stability \parencite{idrissi_review_2022}.
 
-The absolute linear position of the quadcopter is defined in the inertial frame axes (${[x,y,z]}^T$). The attitude, i.e. the angular position, is defined in the inertial frame with three Euler angles (${[\phi, \theta, \psi]}^T$), which represent pitch angle, roll angle and yaw angle as shown in \cref{fig:body}.
+The quadcopter's translational position is expressed in the inertial reference frame as ${[x, y, z]}^T$. Its orientation is described using three Euler angles, ${[\phi, \theta, \psi]}^T$, corresponding to roll, pitch, and yaw, respectively (see \cref{fig:body}).
 
 Every change in position or attitude is achieved by varying the individual angular velocities ($\omega_i$) of the four rotors:
 
