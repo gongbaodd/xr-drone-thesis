@@ -1,6 +1,6 @@
 # Fdb version 4
-["biber main"] 1777929356.5384 "main.bcf" "main.bbl" "main" 1777943482.12837 0
-  "main.bcf" 1777943481.81919 144426 852b9068472c653254d1c5d78cc1378b "pdflatex"
+["biber main"] 1777944185.59728 "main.bcf" "main.bbl" "main" 1777944396.97204 0
+  "main.bcf" 1777944396.77737 144589 53317b32bcbb8c9f2c91335351733a51 "pdflatex"
   "ref/MR-drone-sim.bib" 1777294270 8599 e04f04ef331ee182333d00e4467556de ""
   "ref/Waldow.bib" 1777395542.25648 2320 824e47281377d3e351f7b5c02aa0d15b ""
   "ref/agile-game.bib" 1777566617.69533 308 ef110e31af7c606fa7270d5a2eefbd61 ""
@@ -35,6 +35,7 @@
   "ref/simGame.bib" 1777537134.43691 7379 5b52004878fce8a337011ecf441de515 ""
   "ref/simlearn.bib" 1777543772.18956 1503 f9e2c83317273e5baa392b8f53142255 ""
   "ref/theory.bib" 1777294270 5944 78b5d12ba4a4a15cc1539c0943ca3357 ""
+  "ref/vst.bib" 1777944033.39613 318 76d0ea5c9689c728ef010c6a90e6d994 ""
   "ref/xp.bib" 1777388882.80648 315 693dac3448ee95477a61ebd80daba43e ""
   "ref/xr-training.bib" 1777379618.323 8007 09f4d93e70f11d8dc91e3641d4b666e6 ""
   "ref/xrblend.bib" 1777560915.19421 9780 29942c44259166d3e607f741dd7a254e ""
@@ -44,7 +45,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777943471.22052 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777943482.12978 0
+["pdflatex"] 1777944386.19159 "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" "main.pdf" "main" 1777944396.97303 0
   "/home/gongbaodd/.config/texlive/texmf/tex/latex/tikz-uml/tikz-uml.sty" 1777707202.31106 302703 ed2f9b5dd419a64f254ecbf6a6653c7f ""
   "/home/gongbaodd/Documents/Designing_an_XR_Drone_Training_Simulator/main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
   "/opt/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1777313236 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -355,12 +356,12 @@
   "img/webxr.png" 1777920504.05853 517948 1b0ff0728044abdc3d55a1ab7d4751ca ""
   "img/white-box.png" 1777931420.30135 1062834 34bf3838d4223d467057f15a2b68c7c8 ""
   "img/xr.png" 1777668610.52661 217129 e638259b4fcccde0c2448b403b7d775f ""
-  "main.aux" 1777943481.76919 52421 2eeba16d62fb57672964843e9d3147e9 "pdflatex"
-  "main.bbl" 1777929360.19246 368072 65971f4acaaa50d847efddf6b7d9b123 "biber main"
-  "main.out" 1777943481.80719 15327 547710bf404aff4758295a6db622cdb0 "pdflatex"
-  "main.run.xml" 1777943481.82267 3765 e0436e9338dbec215610fc0a994c0ec8 "pdflatex"
+  "main.aux" 1777944396.74537 52656 40ebc46e70a0c414f6121e8d73d7a6e6 "pdflatex"
+  "main.bbl" 1777944189.16117 370834 5d76c046b2912b44adba67301cd700c4 "biber main"
+  "main.out" 1777944396.77237 15327 547710bf404aff4758295a6db622cdb0 "pdflatex"
+  "main.run.xml" 1777944396.77971 3796 9d40a5cc1565c477ac87dbcf31978962 "pdflatex"
   "main.tex" 1777636590.25731 679 ffab2ad4347ba56784a75f514b020955 ""
-  "main.toc" 1777943481.82267 10192 7deb5828fd433d6b9b4e17d8ef2b3628 "pdflatex"
+  "main.toc" 1777944396.77971 10192 7deb5828fd433d6b9b4e17d8ef2b3628 "pdflatex"
   "main/_01_title_page.tex" 1777385737.70535 585 643f6521b35ee1b939fc312bed2f9f59 ""
   "main/_02_abstract_page.tex" 1777905409.47328 1821 3e55cf4469edbbce2802f9d26d26ee66 ""
   "main/_03_introduction.tex" 1777926892.55049 4084 ba52f03fab9371b9784255ecc128ca93 ""
@@ -385,7 +386,7 @@
   "methodology/tech.tex" 1777907631.73921 2148 4d48166441ffd1b2da02a57260c2fbae ""
   "methodology/trainer.tex" 1777407413.08183 105 5ed0d5fcdbfef00b69b1d8fd4e26e859 ""
   "methodology/xr.tex" 1777573096.00281 96 9bfd6f09b492ebcffae5fcab95ed0b2c ""
-  "ref.tex" 1777907147.38216 1294 3f5a314b5199a38a30cc49a68aae4f58 ""
+  "ref.tex" 1777944058.14949 1323 ba321ce40075c7ab4a5a6aae2db41b8e ""
   "result/drone_in_xr.tex" 1777930006.75966 2406 9702d436ab9fc9097c03b1dd72bd6fdd ""
   "result/eval_hover.tex" 1777938959.04924 3165 6cd2cae21772eae0664aa05773e985b3 ""
   "result/eval_path.tex" 1777934753.39777 2280 e53982752e2f63bd3ccb9919c4658217 ""
@@ -412,7 +413,7 @@
   "theoretical_background/xr/hardware.tex" 1777552667.13206 2053 73de6efb0fda8a4bb96699859bf75b44 ""
   "theoretical_background/xr/input.tex" 1777703319.19223 2643 a632ecb1a09cc4d61428ea0d3aa3164b ""
   "theoretical_background/xr/openxr.tex" 1777552858.64519 1011 96e401ab798957d642968b677067864b ""
-  "theoretical_background/xr/render.tex" 1777702701.70305 3413 e6891b73eb7af02d993e5a16aee82adf ""
+  "theoretical_background/xr/render.tex" 1777944385.80321 3539 28bbd59b4365acca68955887bbe3143a ""
   "theoretical_background/xr/runtime.tex" 1777553526.13738 283 351d96bbc3d21462d5d4bdb4d655f8ed ""
   "theoretical_background/xr/spatial_ref.tex" 1777559206.07539 1330 8f336bb77dbce278a5770ad9b768aa20 ""
   "theoretical_background/xr/webxr.tex" 1777553619.74927 1262 d753c5bd33dea1a7c978d1fe694562af ""

@@ -122,6 +122,7 @@
       <file>ref/assets.bib</file>
       <file>ref/ai.bib</file>
       <file>ref/dronedef.bib</file>
+      <file>ref/vst.bib</file>
     </requires>
   </external>
 </requests>

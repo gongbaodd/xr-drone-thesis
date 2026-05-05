@@ -786,6 +786,38 @@
       \verb https://dl.acm.org/doi/10.1145/3742413.3789129
       \endverb
     \endentry
+    \entry{dpvr2024vst_ost}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4641c9a0704898e2639041d78f7d83ac}{%
+           family={{DPVR}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{fullhash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{fullhashraw}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{bibnamehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authorbibnamehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authornamehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authorfullhash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authorfullhashraw}{4641c9a0704898e2639041d78f7d83ac}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{note}{LinkedIn article}
+      \field{title}{VST vs OST: Which Tech Will Prevail in XR?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/vst-vs-ost-which-tech-prevail-xr-dpvr-tkypc/
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/vst-vs-ost-which-tech-prevail-xr-dpvr-tkypc/
+      \endverb
+    \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7ae98809a68dd74b745f80b5229235a5}{%
@@ -4354,6 +4386,38 @@
       \endverb
       \verb{url}
       \verb https://dl.acm.org/doi/10.1145/3742413.3789129
+      \endverb
+    \endentry
+    \entry{dpvr2024vst_ost}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4641c9a0704898e2639041d78f7d83ac}{%
+           family={{DPVR}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{fullhash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{fullhashraw}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{bibnamehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authorbibnamehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authornamehash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authorfullhash}{4641c9a0704898e2639041d78f7d83ac}
+      \strng{authorfullhashraw}{4641c9a0704898e2639041d78f7d83ac}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{note}{LinkedIn article}
+      \field{title}{VST vs OST: Which Tech Will Prevail in XR?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/vst-vs-ost-which-tech-prevail-xr-dpvr-tkypc/
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/vst-vs-ost-which-tech-prevail-xr-dpvr-tkypc/
       \endverb
     \endentry
     \entry{dutescu_virtual_2025}{article}{}{}
