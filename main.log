@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  5 MAY 2026 02:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.27)  5 MAY 2026 04:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1651,7 +1651,7 @@ L3 programming layer <2026-03-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 89BE77A3A05B99BD004528C4DC9FD3C8;15327.
+(rerunfilecheck)             Checksum: 547710BF404AFF4758295A6DB622CDB0;15327.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -1659,13 +1659,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  44057 strings out of 467349
  894086 string characters out of 5389291
- 1866529 words of memory out of 5000000
+ 1866577 words of memory out of 5000000
  71997 multiletter control sequences out of 15000+600000
  715690 words of font info for 151 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,118p,2046b,5237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (77 pages, 9330711 bytes).
+Output written on main.pdf (77 pages, 9330736 bytes).
 PDF statistics:
  1183 PDF objects out of 1200 (max. 8388607)
  1016 compressed objects within 11 object streams
